@@ -1,0 +1,4 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+RTIInternational_gobbli,conftest,,69,9,5,5,10,10,0.4,0,0
+RTIInternational_gobbli,setup,,0,0,0,0,4,4,-1,0,0
+RTIInternational_gobbli.benchmark,benchmark_util,,102,21,10,10,7,7,1,2,1

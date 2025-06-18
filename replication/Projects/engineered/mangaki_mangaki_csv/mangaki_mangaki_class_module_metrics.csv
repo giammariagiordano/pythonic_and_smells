@@ -1,0 +1,11 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+mangaki_mangaki.data,animeka,,0,0,0,0,2,2,-1,0,0
+mangaki_mangaki.data,bunch,,22,4,2,2,8,8,1,0,0
+mangaki_mangaki.data,mal-api,,9,3,2,2,1,1,1,0,0
+mangaki_mangaki.data,mal-sheet,,0,0,0,0,1,1,-1,0,0
+mangaki_mangaki.data,mal,,0,0,0,0,2,2,-1,0,0
+mangaki_mangaki.data,search,,0,0,0,0,3,3,-1,0,0
+mangaki_mangaki.mangaki,manage,,0,0,0,0,0,0,-1,0,0
+mangaki_mangaki.mangaki,setup,,0,0,0,0,3,3,-1,0,0
+mangaki_mangaki.mangaki.irl,__init__,,0,0,0,0,0,0,-1,0,0
+mangaki_mangaki.mangaki.irl,admin,,2,0,0,0,0,0,-1,0,0

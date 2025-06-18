@@ -1,0 +1,8 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+frankkramer-lab_MIScnn,setup,,0,0,0,0,1,1,-1,0,0
+frankkramer-lab_MIScnn.miscnn,__init__,,0,0,0,0,0,0,-1,0,0
+frankkramer-lab_MIScnn.miscnn.cli,__init__,,0,0,0,0,0,0,-1,0,0
+frankkramer-lab_MIScnn.miscnn.cli,__main__,,6,4,1,1,9,9,0,0,1
+frankkramer-lab_MIScnn.miscnn.cli,data_exploration,,305,73,12,12,50,50,0.08,0,1
+frankkramer-lab_MIScnn.miscnn.data_loading,__init__,,0,0,0,0,0,0,-1,0,0
+frankkramer-lab_MIScnn.miscnn.data_loading,data_io,,161,37,3,3,5,5,1,14,0

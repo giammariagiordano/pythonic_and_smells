@@ -1,0 +1,5 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+google_nucleus.nucleus,__init__,,0,0,0,0,0,0,-1,0,0
+google_nucleus.nucleus.examples,__init__,,0,0,0,0,0,0,-1,0,0
+google_nucleus.nucleus.examples,add_ad_to_vcf,,25,5,2,2,1,1,0,0,0
+google_nucleus.nucleus.examples,add_ad_to_vcf_test,,24,1,0,0,0,0,-1,0,0

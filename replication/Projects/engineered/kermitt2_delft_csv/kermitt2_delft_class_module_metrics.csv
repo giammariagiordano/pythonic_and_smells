@@ -1,0 +1,7 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+kermitt2_delft.delft,__init__,,0,0,0,0,0,0,-1,0,0
+kermitt2_delft.delft.applications,__init__,,0,0,0,0,0,0,-1,0,0
+kermitt2_delft.delft.applications,citationClassifier,,48,8,4,4,16,16,0.25,0,1
+kermitt2_delft.delft.applications,dataseerClassifier,,343,50,11,11,44,44,0.18,0,1
+kermitt2_delft.delft.applications,datasetTagger,,171,30,5,5,46,46,0.4,0,1
+kermitt2_delft.delft.applications,grobidTagger,,287,82,5,5,37,37,0.4,0,1

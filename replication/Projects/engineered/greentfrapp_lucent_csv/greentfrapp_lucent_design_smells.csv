@@ -1,0 +1,5 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+greentfrapp_lucent.lucent.optvis,objectives_util,Multifaceted abstraction,objectives_util,1,/Volumes/BrokeExt/NICHE/greentfrapp_lucent/lucent/optvis/objectives_util.py,"Class 'objectives_util' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+greentfrapp_lucent.tests.misc,test_channel_reducer,Multifaceted abstraction,test_channel_reducer,1,/Volumes/BrokeExt/NICHE/greentfrapp_lucent/tests/misc/test_channel_reducer.py,"Class 'test_channel_reducer' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+greentfrapp_lucent.tests.misc.io,test_showing,Multifaceted abstraction,test_showing,1,/Volumes/BrokeExt/NICHE/greentfrapp_lucent/tests/misc/io/test_showing.py,"Class 'test_showing' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+greentfrapp_lucent.tests.optvis,test_transform,Multifaceted abstraction,test_transform,1,/Volumes/BrokeExt/NICHE/greentfrapp_lucent/tests/optvis/test_transform.py,"Class 'test_transform' has a high LCOM value of 1, indicating it may have multiple responsibilities."

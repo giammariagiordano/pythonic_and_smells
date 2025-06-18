@@ -1,0 +1,2 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+thunlp_OpenNRE.opennre.framework,data_loader,Multifaceted abstraction,data_loader,1,/Volumes/BrokeExt/NICHE/thunlp_OpenNRE/opennre/framework/data_loader.py,"Class 'data_loader' has a high LCOM value of 1, indicating it may have multiple responsibilities."

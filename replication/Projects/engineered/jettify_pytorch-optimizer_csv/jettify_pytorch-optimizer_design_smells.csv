@@ -1,0 +1,5 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+jettify_pytorch-optimizer.docs,conf,Broken modularization,conf,1,/Volumes/BrokeExt/NICHE/jettify_pytorch-optimizer/docs/conf.py,Module 'conf' contains only data members without any method implementations.
+jettify_pytorch-optimizer.examples,mnist,Broken modularization,Config,126,/Volumes/BrokeExt/NICHE/jettify_pytorch-optimizer/examples/mnist.py,Class 'Config' contains only data members without any method implementations.
+jettify_pytorch-optimizer.tests,test_basic,Multifaceted abstraction,test_basic,1,/Volumes/BrokeExt/NICHE/jettify_pytorch-optimizer/tests/test_basic.py,"Class 'test_basic' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+jettify_pytorch-optimizer.torch_optimizer,types,Broken modularization,types,1,/Volumes/BrokeExt/NICHE/jettify_pytorch-optimizer/torch_optimizer/types.py,Module 'types' contains only data members without any method implementations.

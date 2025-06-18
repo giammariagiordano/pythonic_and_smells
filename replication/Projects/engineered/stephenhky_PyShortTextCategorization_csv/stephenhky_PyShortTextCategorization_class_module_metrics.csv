@@ -1,0 +1,7 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+stephenhky_PyShortTextCategorization.docs,conf,,0,0,0,0,20,20,-1,0,0
+stephenhky_PyShortTextCategorization.shorttext,__init__,,0,0,0,0,0,0,-1,0,0
+stephenhky_PyShortTextCategorization.shorttext,smartload,,31,3,1,1,1,1,0,0,0
+stephenhky_PyShortTextCategorization.shorttext.classifiers,__init__,,0,0,0,0,0,0,-1,0,0
+stephenhky_PyShortTextCategorization.shorttext.classifiers.bow,__init__,,0,0,0,0,0,0,-1,0,0
+stephenhky_PyShortTextCategorization.shorttext.classifiers.bow.maxent,MaxEntClassification,,106,19,2,2,0,0,1,1,1

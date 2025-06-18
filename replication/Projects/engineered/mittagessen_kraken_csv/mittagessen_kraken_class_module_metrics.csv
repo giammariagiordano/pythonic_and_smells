@@ -1,0 +1,5 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+mittagessen_kraken,setup,,0,0,0,0,0,0,-1,0,0
+mittagessen_kraken.docs,conf,,0,0,0,0,27,27,-1,0,0
+mittagessen_kraken.kraken,__init__,,0,0,0,0,0,0,-1,0,0
+mittagessen_kraken.kraken,align,,97,16,4,4,15,15,0,0,0

@@ -1,0 +1,113 @@
+Package,Module,Class,Smell,Function/Method,Line no,File,Details
+allenai_scibert,setup,,Long statement,,3,/Volumes/BrokeExt/NICHE/allenai_scibert/setup.py,A line with 288 chars in setup exceeds the maximum length of 120 characters.
+allenai_scibert.scibert.dataset_readers,classification_dataset_reader,ClassificationDatasetReader,Long statement,_read,40,/Volumes/BrokeExt/NICHE/allenai_scibert/scibert/dataset_readers/classification_dataset_reader.py,A line with 129 chars in _read exceeds the maximum length of 120 characters.
+allenai_scibert.scibert.models,bert_crf_tagger,BertCrfTagger,Complex method,__init__,65 - 126,/Volumes/BrokeExt/NICHE/allenai_scibert/scibert/models/bert_crf_tagger.py,"Method '__init__' has a cyclomatic complexity of 8, exceeding the max of 6."
+allenai_scibert.scibert.models,bert_crf_tagger,BertCrfTagger,Complex method,forward,129 - 196,/Volumes/BrokeExt/NICHE/allenai_scibert/scibert/models/bert_crf_tagger.py,"Method 'forward' has a cyclomatic complexity of 7, exceeding the max of 6."
+allenai_scibert.scibert.models,bert_crf_tagger,BertCrfTagger,Long method,__init__,65 - 126,/Volumes/BrokeExt/NICHE/allenai_scibert/scibert/models/bert_crf_tagger.py,Method '__init__' is too long (43 lines).
+allenai_scibert.scibert.models,bert_crf_tagger,BertCrfTagger,Long parameter list,__init__,65 - 126,/Volumes/BrokeExt/NICHE/allenai_scibert/scibert/models/bert_crf_tagger.py,"__init__ has 11 parameters, exceeding the max of 5."
+allenai_scibert.scibert.models,bert_crf_tagger,BertCrfTagger,Long statement,__init__,106,/Volumes/BrokeExt/NICHE/allenai_scibert/scibert/models/bert_crf_tagger.py,A line with 122 chars in __init__ exceeds the maximum length of 120 characters.
+allenai_scibert.scibert.models,bert_crf_tagger,BertCrfTagger,Long statement,forward,136,/Volumes/BrokeExt/NICHE/allenai_scibert/scibert/models/bert_crf_tagger.py,A line with 1734 chars in forward exceeds the maximum length of 120 characters.
+allenai_scibert.scibert.models,bert_crf_tagger,BertCrfTagger,Long statement,decode,200,/Volumes/BrokeExt/NICHE/allenai_scibert/scibert/models/bert_crf_tagger.py,A line with 180 chars in decode exceeds the maximum length of 120 characters.
+allenai_scibert.scibert.models,bert_crf_tagger,BertCrfTagger,Long statement,decode,205,/Volumes/BrokeExt/NICHE/allenai_scibert/scibert/models/bert_crf_tagger.py,A line with 160 chars in decode exceeds the maximum length of 120 characters.
+allenai_scibert.scibert.models,bert_crf_tagger,BertCrfTagger,Magic number,__init__,72,/Volumes/BrokeExt/NICHE/allenai_scibert/scibert/models/bert_crf_tagger.py,Magic number 0.1 used in __init__.
+allenai_scibert.scibert.models,bert_text_classifier,BertTextClassifier,Long parameter list,__init__,25 - 48,/Volumes/BrokeExt/NICHE/allenai_scibert/scibert/models/bert_text_classifier.py,"__init__ has 6 parameters, exceeding the max of 5."
+allenai_scibert.scibert.models,bert_text_classifier,BertTextClassifier,Long statement,forward,55,/Volumes/BrokeExt/NICHE/allenai_scibert/scibert/models/bert_text_classifier.py,A line with 934 chars in forward exceeds the maximum length of 120 characters.
+allenai_scibert.scibert.models,bert_text_classifier,BertTextClassifier,Magic number,__init__,28,/Volumes/BrokeExt/NICHE/allenai_scibert/scibert/models/bert_text_classifier.py,Magic number 0.2 used in __init__.
+allenai_scibert.scibert.models,pico_crf_tagger,PicoCrfTagger,Complex method,forward,63 - 105,/Volumes/BrokeExt/NICHE/allenai_scibert/scibert/models/pico_crf_tagger.py,"Method 'forward' has a cyclomatic complexity of 8, exceeding the max of 6."
+allenai_scibert.scibert.models,pico_crf_tagger,PicoCrfTagger,Long parameter list,__init__,31 - 60,/Volumes/BrokeExt/NICHE/allenai_scibert/scibert/models/pico_crf_tagger.py,"__init__ has 7 parameters, exceeding the max of 5."
+allenai_scibert.scibert.models,pico_crf_tagger,PicoCrfTagger,Long statement,__init__,51,/Volumes/BrokeExt/NICHE/allenai_scibert/scibert/models/pico_crf_tagger.py,A line with 127 chars in __init__ exceeds the maximum length of 120 characters.
+allenai_scibert.scibert.models,pico_crf_tagger,PicoCrfTagger,Long statement,decode,109,/Volumes/BrokeExt/NICHE/allenai_scibert/scibert/models/pico_crf_tagger.py,A line with 180 chars in decode exceeds the maximum length of 120 characters.
+allenai_scibert.scibert.models,pico_crf_tagger,PicoCrfTagger,Long statement,decode,114,/Volumes/BrokeExt/NICHE/allenai_scibert/scibert/models/pico_crf_tagger.py,A line with 160 chars in decode exceeds the maximum length of 120 characters.
+allenai_scibert.scibert.models,text_classifier,TextClassifier,Long Lambda Function,__init__,50,/Volumes/BrokeExt/NICHE/allenai_scibert/scibert/models/text_classifier.py,A Lambda with 82 chars in __init__ exceeds the maximum length of 80 characters.
+allenai_scibert.scibert.models,text_classifier,TextClassifier,Long parameter list,__init__,25 - 52,/Volumes/BrokeExt/NICHE/allenai_scibert/scibert/models/text_classifier.py,"__init__ has 7 parameters, exceeding the max of 5."
+allenai_scibert.scibert.models,text_classifier,TextClassifier,Long statement,forward,59,/Volumes/BrokeExt/NICHE/allenai_scibert/scibert/models/text_classifier.py,A line with 934 chars in forward exceeds the maximum length of 120 characters.
+allenai_scibert.scibert.models,text_classifier,TextClassifier,Magic number,get_metrics,116,/Volumes/BrokeExt/NICHE/allenai_scibert/scibert/models/text_classifier.py,Magic number 2 used in get_metrics.
+allenai_scibert.scibert.models,text_classifier,TextClassifier,Magic number,get_metrics,115,/Volumes/BrokeExt/NICHE/allenai_scibert/scibert/models/text_classifier.py,Magic number 2 used in get_metrics.
+allenai_scibert.scripts,KYLE_analyze_beaker_experiments,,Long identifier,,51,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/KYLE_analyze_beaker_experiments.py,Identifier'DATASET_TO_MODEL_TO_HYPERPARAM_TO_DEV_METRICS' exceeds the maximum length of 30 characters.
+allenai_scibert.scripts,KYLE_analyze_beaker_experiments,,Long identifier,,52,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/KYLE_analyze_beaker_experiments.py,Identifier'DATASET_TO_MODEL_TO_HYPERPARAM_TO_TEST_METRICS' exceeds the maximum length of 30 characters.
+allenai_scibert.scripts,KYLE_analyze_beaker_experiments,,Long identifier,,122,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/KYLE_analyze_beaker_experiments.py,Identifier'DATASET_MODEL_TO_HYPERPARAM_METRICS' exceeds the maximum length of 30 characters.
+allenai_scibert.scripts,KYLE_analyze_beaker_experiments,,Long identifier,,131,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/KYLE_analyze_beaker_experiments.py,Identifier'DATASET_MODEL_TO_BEST_HYPERPARAM' exceeds the maximum length of 30 characters.
+allenai_scibert.scripts,KYLE_analyze_beaker_experiments,,Long statement,conservative_argmax,42,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/KYLE_analyze_beaker_experiments.py,A line with 138 chars in conservative_argmax exceeds the maximum length of 120 characters.
+allenai_scibert.scripts,KYLE_analyze_beaker_experiments,,Long statement,,90,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/KYLE_analyze_beaker_experiments.py,A line with 164 chars in KYLE_analyze_beaker_experiments exceeds the maximum length of 120 characters.
+allenai_scibert.scripts,KYLE_analyze_beaker_experiments,,Long statement,,95,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/KYLE_analyze_beaker_experiments.py,A line with 132 chars in KYLE_analyze_beaker_experiments exceeds the maximum length of 120 characters.
+allenai_scibert.scripts,KYLE_analyze_beaker_experiments,,Magic number,conservative_argmax,13,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/KYLE_analyze_beaker_experiments.py,Magic number 2 used in conservative_argmax.
+allenai_scibert.scripts,KYLE_analyze_beaker_experiments,,Magic number,conservative_argmax,14,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/KYLE_analyze_beaker_experiments.py,Magic number 3 used in conservative_argmax.
+allenai_scibert.scripts,KYLE_analyze_beaker_experiments,,Magic number,conservative_argmax,20,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/KYLE_analyze_beaker_experiments.py,Magic number 2 used in conservative_argmax.
+allenai_scibert.scripts,KYLE_analyze_beaker_experiments,,Magic number,conservative_argmax,21,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/KYLE_analyze_beaker_experiments.py,Magic number 3 used in conservative_argmax.
+allenai_scibert.scripts,build_pretrain_corpus,,Long parameter list,main,33 - 47,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/build_pretrain_corpus.py,"main has 8 parameters, exceeding the max of 5."
+allenai_scibert.scripts,build_pretrain_corpus,,Long statement,main,37,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/build_pretrain_corpus.py,A line with 170 chars in main exceeds the maximum length of 120 characters.
+allenai_scibert.scripts,build_pretrain_corpus,,Long statement,main,42,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/build_pretrain_corpus.py,A line with 138 chars in main exceeds the maximum length of 120 characters.
+allenai_scibert.scripts,build_pretrain_corpus,,Long statement,get_spacy_sentences,83,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/build_pretrain_corpus.py,A line with 130 chars in get_spacy_sentences exceeds the maximum length of 120 characters.
+allenai_scibert.scripts,build_pretrain_corpus,,Magic number,main,33,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/build_pretrain_corpus.py,Magic number 2 used in main.
+allenai_scibert.scripts,build_pretrain_corpus,,Magic number,main,33,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/build_pretrain_corpus.py,Magic number 6000 used in main.
+allenai_scibert.scripts,build_pretrain_corpus,,Magic number,main,33,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/build_pretrain_corpus.py,Magic number 10 used in main.
+allenai_scibert.scripts,build_pretrain_corpus,,Magic number,process_paper_file,68,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/build_pretrain_corpus.py,Magic number 5 used in process_paper_file.
+allenai_scibert.scripts,chemprot_to_relation,,Complex method,main,14 - 65,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/chemprot_to_relation.py,"Method 'main' has a cyclomatic complexity of 10, exceeding the max of 6."
+allenai_scibert.scripts,chemprot_to_relation,,Long method,main,14 - 65,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/chemprot_to_relation.py,Method 'main' is too long (48 lines).
+allenai_scibert.scripts,chemprot_to_relation,,Long statement,main,15,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/chemprot_to_relation.py,A line with 216 chars in main exceeds the maximum length of 120 characters.
+allenai_scibert.scripts,chemprot_to_relation,,Long statement,main,48,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/chemprot_to_relation.py,A line with 174 chars in main exceeds the maximum length of 120 characters.
+allenai_scibert.scripts,chemprot_to_relation,,Long statement,main,56,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/chemprot_to_relation.py,A line with 174 chars in main exceeds the maximum length of 120 characters.
+allenai_scibert.scripts,compute_confidence_intervals,,Complex conditional,compute_table_1,65,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/compute_confidence_intervals.py,"A conditional in compute_table_1 has 4 conditions, more than the recommended maximum 3 conditions."
+allenai_scibert.scripts,compute_confidence_intervals,,Complex method,compute_table_1,52 - 103,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/compute_confidence_intervals.py,"Method 'compute_table_1' has a cyclomatic complexity of 15, exceeding the max of 6."
+allenai_scibert.scripts,compute_confidence_intervals,,Complex method,compute_full_table,113 - 167,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/compute_confidence_intervals.py,"Method 'compute_full_table' has a cyclomatic complexity of 20, exceeding the max of 6."
+allenai_scibert.scripts,compute_confidence_intervals,,Long identifier,,133,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/compute_confidence_intervals.py,Identifier'scibert_basevocab_cased_results' exceeds the maximum length of 30 characters.
+allenai_scibert.scripts,compute_confidence_intervals,,Long identifier,,140,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/compute_confidence_intervals.py,Identifier'scibert_basevocab_uncased_results' exceeds the maximum length of 30 characters.
+allenai_scibert.scripts,compute_confidence_intervals,,Long method,compute_table_1,52 - 103,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/compute_confidence_intervals.py,Method 'compute_table_1' is too long (51 lines).
+allenai_scibert.scripts,compute_confidence_intervals,,Long method,compute_full_table,113 - 167,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/compute_confidence_intervals.py,Method 'compute_full_table' is too long (55 lines).
+allenai_scibert.scripts,compute_confidence_intervals,,Long statement,compute_full_table,163,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/compute_confidence_intervals.py,A line with 124 chars in compute_full_table exceeds the maximum length of 120 characters.
+allenai_scibert.scripts,compute_confidence_intervals,,Long statement,compute_full_table,165,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/compute_confidence_intervals.py,A line with 123 chars in compute_full_table exceeds the maximum length of 120 characters.
+allenai_scibert.scripts,compute_confidence_intervals,,Magic number,ci,35,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/compute_confidence_intervals.py,Magic number 100 used in ci.
+allenai_scibert.scripts,compute_confidence_intervals,,Magic number,diff_ci,42,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/compute_confidence_intervals.py,Magic number 100 used in diff_ci.
+allenai_scibert.scripts,compute_confidence_intervals,,Magic number,paired_ci,49,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/compute_confidence_intervals.py,Magic number 100 used in paired_ci.
+allenai_scibert.scripts,exp,,Complex method,main,16 - 158,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/exp.py,"Method 'main' has a cyclomatic complexity of 14, exceeding the max of 6."
+allenai_scibert.scripts,exp,,Long method,main,16 - 158,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/exp.py,Method 'main' is too long (141 lines).
+allenai_scibert.scripts,exp,,Long statement,main,133,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/exp.py,A line with 650 chars in main exceeds the maximum length of 120 characters.
+allenai_scibert.scripts,exp,,Magic number,main,19,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/exp.py,Magic number 5424 used in main.
+allenai_scibert.scripts,exp,,Magic number,main,20,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/exp.py,Magic number 4942 used in main.
+allenai_scibert.scripts,exp,,Magic number,main,21,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/exp.py,Magic number 18607 used in main.
+allenai_scibert.scripts,exp,,Magic number,main,22,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/exp.py,Magic number 2211 used in main.
+allenai_scibert.scripts,exp,,Magic number,main,23,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/exp.py,Magic number 4169 used in main.
+allenai_scibert.scripts,exp,,Magic number,main,24,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/exp.py,Magic number 1688 used in main.
+allenai_scibert.scripts,exp,,Magic number,main,25,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/exp.py,Magic number 84000 used in main.
+allenai_scibert.scripts,exp,,Magic number,main,26,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/exp.py,Magic number 180040 used in main.
+allenai_scibert.scripts,exp,,Magic number,main,27,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/exp.py,Magic number 3219 used in main.
+allenai_scibert.scripts,exp,,Magic number,main,28,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/exp.py,Magic number 7320 used in main.
+allenai_scibert.scripts,exp,,Magic number,main,29,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/exp.py,Magic number 38124 used in main.
+allenai_scibert.scripts,exp,,Magic number,main,30,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/exp.py,Magic number 14326 used in main.
+allenai_scibert.scripts,exp,,Magic number,main,48,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/exp.py,Magic number 15370 used in main.
+allenai_scibert.scripts,exp,,Magic number,main,49,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/exp.py,Magic number 15570 used in main.
+allenai_scibert.scripts,exp,,Magic number,main,50,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/exp.py,Magic number 15680 used in main.
+allenai_scibert.scripts,exp,,Magic number,main,51,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/exp.py,Magic number 15780 used in main.
+allenai_scibert.scripts,exp,,Magic number,main,52,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/exp.py,Magic number 15210 used in main.
+allenai_scibert.scripts,exp,,Magic number,main,53,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/exp.py,Magic number 16210 used in main.
+allenai_scibert.scripts,exp,,Magic number,main,54,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/exp.py,Magic number 16310 used in main.
+allenai_scibert.scripts,exp,,Magic number,main,55,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/exp.py,Magic number 16410 used in main.
+allenai_scibert.scripts,exp,,Magic number,main,56,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/exp.py,Magic number 18210 used in main.
+allenai_scibert.scripts,exp,,Magic number,main,57,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/exp.py,Magic number 18310 used in main.
+allenai_scibert.scripts,exp,,Magic number,main,63,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/exp.py,Magic number 10 used in main.
+allenai_scibert.scripts,exp,,Magic number,main,64,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/exp.py,Magic number 10 used in main.
+allenai_scibert.scripts,exp,,Magic number,main,84,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/exp.py,Magic number 32 used in main.
+allenai_scibert.scripts,exp,,Magic number,main,89,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/exp.py,Magic number 2 used in main.
+allenai_scibert.scripts,exp,,Magic number,main,90,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/exp.py,Magic number 3 used in main.
+allenai_scibert.scripts,exp,,Magic number,main,91,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/exp.py,Magic number 4 used in main.
+allenai_scibert.scripts,exp,,Magic number,main,92,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/exp.py,Magic number 5 used in main.
+allenai_scibert.scripts,exp,,Magic number,main,97,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/exp.py,Magic number 5e-06 used in main.
+allenai_scibert.scripts,exp,,Magic number,main,98,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/exp.py,Magic number 1e-05 used in main.
+allenai_scibert.scripts,exp,,Magic number,main,99,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/exp.py,Magic number 2e-05 used in main.
+allenai_scibert.scripts,exp,,Magic number,main,100,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/exp.py,Magic number 5e-05 used in main.
+allenai_scibert.scripts,fix_format_pico_conll2003,,Long statement,,1,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/fix_format_pico_conll2003.py,A line with 487 chars in fix_format_pico_conll2003 exceeds the maximum length of 120 characters.
+allenai_scibert.scripts,jurgens_to_text,,Long statement,,1,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/jurgens_to_text.py,A line with 230 chars in jurgens_to_text exceeds the maximum length of 120 characters.
+allenai_scibert.scripts,run_with_beaker,,Complex method,main,22 - 126,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/run_with_beaker.py,"Method 'main' has a cyclomatic complexity of 13, exceeding the max of 6."
+allenai_scibert.scripts,run_with_beaker,,Long method,main,22 - 126,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/run_with_beaker.py,Method 'main' is too long (88 lines).
+allenai_scibert.scripts,run_with_beaker,,Long statement,main,58,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/run_with_beaker.py,A line with 135 chars in main exceeds the maximum length of 120 characters.
+allenai_scibert.scripts,run_with_beaker,,Long statement,,138,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/run_with_beaker.py,A line with 124 chars in run_with_beaker exceeds the maximum length of 120 characters.
+allenai_scibert.scripts,sciie_to_conll2003,,Complex method,_convert,16 - 57,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/sciie_to_conll2003.py,"Method '_convert' has a cyclomatic complexity of 8, exceeding the max of 6."
+allenai_scibert.scripts,sciie_to_conll2003,,Long statement,_convert,17,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/sciie_to_conll2003.py,A line with 398 chars in _convert exceeds the maximum length of 120 characters.
+allenai_scibert.scripts,sciie_to_conll2003,,Long statement,,1,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/sciie_to_conll2003.py,A line with 310 chars in sciie_to_conll2003 exceeds the maximum length of 120 characters.
+allenai_scibert.scripts,sciie_to_conll2003,,Magic number,_convert,37,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/sciie_to_conll2003.py,Magic number 10 used in _convert.
+allenai_scibert.scripts,sciie_to_conll2003,,Magic number,_convert,42,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/sciie_to_conll2003.py,Magic number 2 used in _convert.
+allenai_scibert.scripts,sciie_to_conll2003,,Magic number,_convert,50,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/sciie_to_conll2003.py,Magic number 2 used in _convert.
+allenai_scibert.scripts,sciie_to_conll2003,,Magic number,_convert,43,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/sciie_to_conll2003.py,Magic number 2 used in _convert.
+allenai_scibert.scripts,sciie_to_conll2003,,Magic number,_convert,46,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/sciie_to_conll2003.py,Magic number 2 used in _convert.
+allenai_scibert.scripts,sciie_to_conll2003,,Magic number,_convert,49,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/sciie_to_conll2003.py,Magic number 2 used in _convert.
+allenai_scibert.scripts,sciie_to_relations,,Long statement,main,15,/Volumes/BrokeExt/NICHE/allenai_scibert/scripts/sciie_to_relations.py,A line with 199 chars in main exceeds the maximum length of 120 characters.

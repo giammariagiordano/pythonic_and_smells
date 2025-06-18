@@ -1,0 +1,3 @@
+Package,Module,Class,Smell,Function/Method,Line no,File,Details
+sisl_NeuralVerification.jl.test.networks,cartpole_out,,Long statement,train_cartpole_nnet,46,/Volumes/BrokeExt/NICHE/sisl_NeuralVerification.jl/test/networks/cartpole_out.py,A line with 127 chars in train_cartpole_nnet exceeds the maximum length of 120 characters.
+sisl_NeuralVerification.jl.test.networks,cartpole_out,,Magic number,cartpole_nnet_to_txt,88,/Volumes/BrokeExt/NICHE/sisl_NeuralVerification.jl/test/networks/cartpole_out.py,Magic number 2 used in cartpole_nnet_to_txt.

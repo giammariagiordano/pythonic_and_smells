@@ -1,0 +1,6 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+deezer_spleeter.spleeter.model,__init__,Multifaceted abstraction,InputProvider,51,/Volumes/BrokeExt/NICHE/deezer_spleeter/spleeter/model/__init__.py,"Class 'InputProvider' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+deezer_spleeter.spleeter.model,__init__,Multifaceted abstraction,WaveformInputProvider,66,/Volumes/BrokeExt/NICHE/deezer_spleeter/spleeter/model/__init__.py,"Class 'WaveformInputProvider' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+deezer_spleeter.spleeter.utils,tensor,Multifaceted abstraction,tensor,1,/Volumes/BrokeExt/NICHE/deezer_spleeter/spleeter/utils/tensor.py,"Class 'tensor' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+deezer_spleeter.tests,test_ffmpeg_adapter,Multifaceted abstraction,test_ffmpeg_adapter,1,/Volumes/BrokeExt/NICHE/deezer_spleeter/tests/test_ffmpeg_adapter.py,"Class 'test_ffmpeg_adapter' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+deezer_spleeter.tests,test_separator,Multifaceted abstraction,test_separator,1,/Volumes/BrokeExt/NICHE/deezer_spleeter/tests/test_separator.py,"Class 'test_separator' has a high LCOM value of 1, indicating it may have multiple responsibilities."

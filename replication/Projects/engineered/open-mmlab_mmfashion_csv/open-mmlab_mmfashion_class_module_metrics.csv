@@ -1,0 +1,15 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+open-mmlab_mmfashion,setup,,66,18,3,3,15,15,1,0,0
+open-mmlab_mmfashion.configs.attribute_predict_coarse,global_predictor_resnet_attr,,0,0,0,0,27,27,-1,0,0
+open-mmlab_mmfashion.configs.attribute_predict_coarse,global_predictor_vgg_attr,,0,0,0,0,27,27,-1,0,0
+open-mmlab_mmfashion.configs.attribute_predict_coarse,roi_predictor_resnet_attr,,0,0,0,0,27,27,-1,0,0
+open-mmlab_mmfashion.configs.attribute_predict_coarse,roi_predictor_resnet_inshop,,0,0,0,0,27,27,-1,0,0
+open-mmlab_mmfashion.configs.attribute_predict_coarse,roi_predictor_vgg_attr,,0,0,0,0,27,27,-1,0,0
+open-mmlab_mmfashion.configs.attribute_predict_coarse,roi_predictor_vgg_inshop,,0,0,0,0,28,28,-1,0,0
+open-mmlab_mmfashion.configs.category_attribute_predict,global_predictor_resnet,,0,0,0,0,27,27,-1,0,0
+open-mmlab_mmfashion.configs.category_attribute_predict,global_predictor_vgg,,0,0,0,0,27,27,-1,0,0
+open-mmlab_mmfashion.configs.category_attribute_predict,roi_predictor_resnet,,0,0,0,0,27,27,-1,0,0
+open-mmlab_mmfashion.configs.category_attribute_predict,roi_predictor_vgg,,0,0,0,0,27,27,-1,0,0
+open-mmlab_mmfashion.configs.fashion_parsing_segmentation,__init__,,0,0,0,0,1,0,-1,0,0
+open-mmlab_mmfashion.configs.fashion_parsing_segmentation,demo,,26,2,2,2,0,0,0,0,0
+open-mmlab_mmfashion.configs.fashion_parsing_segmentation,inference,,117,19,5,5,15,15,0.6,0,0

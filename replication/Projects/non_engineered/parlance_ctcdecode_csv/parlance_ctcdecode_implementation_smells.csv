@@ -1,0 +1,126 @@
+Package,Module,Class,Smell,Function/Method,Line no,File,Details
+parlance_ctcdecode,setup,,Empty catch block,parallelCCompile,119,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/setup.py,Empty catch block found in parallelCCompile.
+parlance_ctcdecode,setup,,Long parameter list,parallelCCompile,98 - 126,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/setup.py,"parallelCCompile has 8 parameters, exceeding the max of 5."
+parlance_ctcdecode,setup,,Long statement,compile_test,43,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/setup.py,A line with 193 chars in compile_test exceeds the maximum length of 120 characters.
+parlance_ctcdecode,setup,,Long statement,parallelCCompile,110,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/setup.py,A line with 139 chars in parallelCCompile exceeds the maximum length of 120 characters.
+parlance_ctcdecode,setup,,Long statement,,26,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/setup.py,A line with 137 chars in setup exceeds the maximum length of 120 characters.
+parlance_ctcdecode,setup,,Long statement,,30,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/setup.py,A line with 135 chars in setup exceeds the maximum length of 120 characters.
+parlance_ctcdecode,setup,,Long statement,,73,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/setup.py,A line with 216 chars in setup exceeds the maximum length of 120 characters.
+parlance_ctcdecode,setup,,Long statement,,84,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/setup.py,A line with 250 chars in setup exceeds the maximum length of 120 characters.
+parlance_ctcdecode,setup,,Long statement,,132,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/setup.py,A line with 329 chars in setup exceeds the maximum length of 120 characters.
+parlance_ctcdecode.ctcdecode,__init__,CTCBeamDecoder,Long method,decode,53 - 123,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/ctcdecode/__init__.py,Method 'decode' is too long (50 lines).
+parlance_ctcdecode.ctcdecode,__init__,CTCBeamDecoder,Long parameter list,__init__,26 - 51,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/ctcdecode/__init__.py,"__init__ has 10 parameters, exceeding the max of 5."
+parlance_ctcdecode.ctcdecode,__init__,OnlineCTCBeamDecoder,Long parameter list,__init__,162 - 187,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/ctcdecode/__init__.py,"__init__ has 10 parameters, exceeding the max of 5."
+parlance_ctcdecode.ctcdecode,__init__,CTCBeamDecoder,Long statement,decode,54,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/ctcdecode/__init__.py,A line with 1416 chars in decode exceeds the maximum length of 120 characters.
+parlance_ctcdecode.ctcdecode,__init__,CTCBeamDecoder,Long statement,decode,88,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/ctcdecode/__init__.py,A line with 245 chars in decode exceeds the maximum length of 120 characters.
+parlance_ctcdecode.ctcdecode,__init__,CTCBeamDecoder,Long statement,decode,106,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/ctcdecode/__init__.py,A line with 228 chars in decode exceeds the maximum length of 120 characters.
+parlance_ctcdecode.ctcdecode,__init__,OnlineCTCBeamDecoder,Long statement,decode,190,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/ctcdecode/__init__.py,A line with 1726 chars in decode exceeds the maximum length of 120 characters.
+parlance_ctcdecode.ctcdecode,__init__,OnlineCTCBeamDecoder,Long statement,decode,226,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/ctcdecode/__init__.py,A line with 149 chars in decode exceeds the maximum length of 120 characters.
+parlance_ctcdecode.ctcdecode,__init__,DecoderState,Long statement,__init__,261,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/ctcdecode/__init__.py,A line with 187 chars in __init__ exceeds the maximum length of 120 characters.
+parlance_ctcdecode.ctcdecode,__init__,CTCBeamDecoder,Magic number,__init__,32,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/ctcdecode/__init__.py,Magic number 40 used in __init__.
+parlance_ctcdecode.ctcdecode,__init__,CTCBeamDecoder,Magic number,__init__,34,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/ctcdecode/__init__.py,Magic number 100 used in __init__.
+parlance_ctcdecode.ctcdecode,__init__,CTCBeamDecoder,Magic number,__init__,35,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/ctcdecode/__init__.py,Magic number 4 used in __init__.
+parlance_ctcdecode.ctcdecode,__init__,OnlineCTCBeamDecoder,Magic number,__init__,168,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/ctcdecode/__init__.py,Magic number 40 used in __init__.
+parlance_ctcdecode.ctcdecode,__init__,OnlineCTCBeamDecoder,Magic number,__init__,170,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/ctcdecode/__init__.py,Magic number 100 used in __init__.
+parlance_ctcdecode.ctcdecode,__init__,OnlineCTCBeamDecoder,Magic number,__init__,171,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/ctcdecode/__init__.py,Magic number 4 used in __init__.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Long identifier,test_beam_search_decoder_batch_log,78,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Identifier'test_beam_search_decoder_batch_log' exceeds the maximum length of 30 characters.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Long identifier,test_online_decoder_decoding_no_lm,117,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Identifier'test_online_decoder_decoding_no_lm' exceeds the maximum length of 30 characters.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Long identifier,test_online_decoder_decoding_with_two_calls,141,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Identifier'test_online_decoder_decoding_with_two_calls' exceeds the maximum length of 30 characters.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Long identifier,test_online_decoder_decoding_with_two_calls_no_lm,161,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Identifier'test_online_decoder_decoding_with_two_calls_no_lm' exceeds the maximum length of 30 characters.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Long identifier,test_online_decoder_decoding_with_a_lot_calls_no_lm_check_size,189,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Identifier'test_online_decoder_decoding_with_a_lot_calls_no_lm_check_size' exceeds the maximum length of 30 characters.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Long statement,setUp,15,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,A line with 527 chars in setUp exceeds the maximum length of 120 characters.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Long statement,setUp,23,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,A line with 532 chars in setUp exceeds the maximum length of 120 characters.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Long statement,test_beam_search_decoder_3,59,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,A line with 135 chars in test_beam_search_decoder_3 exceeds the maximum length of 120 characters.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Long statement,test_beam_search_decoder_batch,68,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,A line with 133 chars in test_beam_search_decoder_batch exceeds the maximum length of 120 characters.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Long statement,test_beam_search_decoder_batch_log,80,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,A line with 155 chars in test_beam_search_decoder_batch_log exceeds the maximum length of 120 characters.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Long statement,test_online_decoder_decoding,95,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,A line with 181 chars in test_online_decoder_decoding exceeds the maximum length of 120 characters.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Long statement,test_online_decoder_decoding_no_lm,118,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,A line with 161 chars in test_online_decoder_decoding_no_lm exceeds the maximum length of 120 characters.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Long statement,test_online_decoder_decoding_with_two_calls,143,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,A line with 181 chars in test_online_decoder_decoding_with_two_calls exceeds the maximum length of 120 characters.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Long statement,test_online_decoder_decoding_with_two_calls_no_lm,162,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,A line with 161 chars in test_online_decoder_decoding_with_two_calls_no_lm exceeds the maximum length of 120 characters.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Long statement,test_online_decoder_decoding_with_two_calls_no_lm,174,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,A line with 122 chars in test_online_decoder_decoding_with_two_calls_no_lm exceeds the maximum length of 120 characters.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Long statement,test_online_decoder_decoding_with_a_lot_calls_no_lm_check_size,190,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,A line with 161 chars in test_online_decoder_decoding_with_a_lot_calls_no_lm_check_size exceeds the maximum length of 120 characters.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,14,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 20 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,16,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.06390443 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,16,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.21124858 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,16,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.27323887 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,16,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.06870235 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,16,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.0361254 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,16,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.18184413 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,16,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.16493624 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,17,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.03309247 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,17,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.22866108 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,17,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.24390638 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,17,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.09699597 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,17,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.31895462 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,17,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.0094893 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,17,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.06890021 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,18,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.218104 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,18,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.19992557 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,18,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.18245131 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,18,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.08503348 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,18,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.14903535 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,18,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.08424043 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,18,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.08120984 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,19,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.12094152 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,19,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.19162472 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,19,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.01473646 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,19,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.28045061 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,19,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.24246305 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,19,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.05206269 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,19,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.09772094 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,20,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.1333387 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,20,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.00550838 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,20,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.00301669 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,20,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.21745861 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,20,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.20803985 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,20,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.41317442 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,20,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.01946335 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,21,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.16468227 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,21,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.1980699 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,21,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.1906545 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,21,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.18963251 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,21,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.19860937 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,21,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.04377724 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,21,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.01457421 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,24,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.08034842 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,24,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.22671944 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,24,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.05799633 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,24,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.36814645 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,24,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.11307441 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,24,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.04468023 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,24,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.10903471 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,25,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.09742457 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,25,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.12959763 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,25,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.09435383 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,25,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.21889204 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,25,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.15113123 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,25,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.10219457 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,25,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.20640612 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,26,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.45033529 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,26,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.09091417 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,26,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.15333208 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,26,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.07939558 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,26,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.08649316 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,26,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.12298585 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,26,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.01654384 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,27,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.02512238 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,27,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.22079203 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,27,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.19664364 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,27,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.11906379 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,27,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.07816055 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,27,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.22538587 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,27,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.13483174 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,28,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.17928453 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,28,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.06065261 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,28,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.41153005 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,28,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.1172041 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,28,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.11880313 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,28,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.07113197 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,28,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.04139363 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,29,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.15882358 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,29,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.1235788 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,29,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.23376776 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,29,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.20510435 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,29,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.00279306 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,29,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.05294827 used in setUp.
+parlance_ctcdecode.tests,test_decode,TestDecoders,Magic number,setUp,29,/Volumes/BrokeExt/NICHE/parlance_ctcdecode/tests/test_decode.py,Magic number 0.22298418 used in setUp.

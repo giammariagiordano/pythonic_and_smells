@@ -1,0 +1,12 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+HumanCompatibleAI_adversarial-policies,setup,,0,0,0,0,0,0,-1,0,0
+HumanCompatibleAI_adversarial-policies.experiments,__init__,,0,0,0,0,0,0,-1,0,0
+HumanCompatibleAI_adversarial-policies.experiments.modelfree,highest_win_rate,,107,31,10,9,22,22,0.1,0,0
+HumanCompatibleAI_adversarial-policies.experiments.planning,__init__,,0,0,0,0,0,0,-1,0,0
+HumanCompatibleAI_adversarial-policies.experiments.planning,common,,72,17,7,7,9,9,0.71,0,0
+HumanCompatibleAI_adversarial-policies.scripts,grab_frame,,36,6,2,2,4,4,0,0,1
+HumanCompatibleAI_adversarial-policies.scripts,incomplete_experiments,,48,9,5,5,7,7,0.2,0,0
+HumanCompatibleAI_adversarial-policies.scripts.aws,termination,,17,5,1,1,4,4,0,0,0
+HumanCompatibleAI_adversarial-policies.src.aprl,__init__,,0,0,0,0,0,0,-1,0,0
+HumanCompatibleAI_adversarial-policies.src.aprl,score_agent,,198,45,7,5,18,18,0.43,0,1
+HumanCompatibleAI_adversarial-policies.src.aprl,train,,446,65,22,19,37,37,0.32,1,7

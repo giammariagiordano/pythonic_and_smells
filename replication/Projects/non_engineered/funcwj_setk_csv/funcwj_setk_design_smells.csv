@@ -1,0 +1,8 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+funcwj_setk.scripts.sptk.libs,cluster,Multifaceted abstraction,CgDistribution,184,/Volumes/BrokeExt/NICHE/funcwj_setk/scripts/sptk/libs/cluster.py,"Class 'CgDistribution' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+funcwj_setk.scripts.sptk.libs,cluster,Multifaceted abstraction,CacgDistribution,290,/Volumes/BrokeExt/NICHE/funcwj_setk/scripts/sptk/libs/cluster.py,"Class 'CacgDistribution' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+funcwj_setk.scripts.sptk.libs,data_handler,Insufficient modularization,data_handler,1,/Volumes/BrokeExt/NICHE/funcwj_setk/scripts/sptk/libs/data_handler.py,"Module 'data_handler' is insufficiently modularized with NOPM: 3, WMC: 104, NOM: 5."
+funcwj_setk.scripts.sptk.libs,data_handler,Wide hierarchy,ScpReader,0,/Volumes/BrokeExt/NICHE/funcwj_setk/scripts/sptk/libs/data_handler.py,Class 'ScpReader' has a wide hierarchy with 7 direct subclasses.
+funcwj_setk.scripts.sptk.libs,exraw,Multifaceted abstraction,exraw,1,/Volumes/BrokeExt/NICHE/funcwj_setk/scripts/sptk/libs/exraw.py,"Class 'exraw' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+funcwj_setk.scripts.sptk.libs,kaldi_io,Insufficient modularization,kaldi_io,1,/Volumes/BrokeExt/NICHE/funcwj_setk/scripts/sptk/libs/kaldi_io.py,"Module 'kaldi_io' is insufficiently modularized with NOPM: 28, WMC: 56, NOM: 30."
+funcwj_setk.scripts.sptk.libs,ssl,Multifaceted abstraction,ssl,1,/Volumes/BrokeExt/NICHE/funcwj_setk/scripts/sptk/libs/ssl.py,"Class 'ssl' has a high LCOM value of 1, indicating it may have multiple responsibilities."

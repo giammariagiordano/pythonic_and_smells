@@ -1,0 +1,6 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+CyberZHG_keras-bert.keras_bert.datasets,pretrained,Broken modularization,PretrainedList,12,/Volumes/BrokeExt/NICHE/CyberZHG_keras-bert/keras_bert/datasets/pretrained.py,Class 'PretrainedList' contains only data members without any method implementations.
+CyberZHG_keras-bert.keras_bert.layers,pooling,Multifaceted abstraction,MaskedGlobalMaxPool1D,5,/Volumes/BrokeExt/NICHE/CyberZHG_keras-bert/keras_bert/layers/pooling.py,"Class 'MaskedGlobalMaxPool1D' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+CyberZHG_keras-bert.tests,test_loader,Multifaceted abstraction,TestLoader,6,/Volumes/BrokeExt/NICHE/CyberZHG_keras-bert/tests/test_loader.py,"Class 'TestLoader' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+CyberZHG_keras-bert.tests,test_tokenizer,Multifaceted abstraction,TestTokenizer,5,/Volumes/BrokeExt/NICHE/CyberZHG_keras-bert/tests/test_tokenizer.py,"Class 'TestTokenizer' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+CyberZHG_keras-bert.tests.layers,test_masked,Multifaceted abstraction,TestMasked,11,/Volumes/BrokeExt/NICHE/CyberZHG_keras-bert/tests/layers/test_masked.py,"Class 'TestMasked' has a high LCOM value of 1, indicating it may have multiple responsibilities."

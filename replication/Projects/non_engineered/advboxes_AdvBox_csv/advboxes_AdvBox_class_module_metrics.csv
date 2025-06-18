@@ -1,0 +1,4 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+advboxes_AdvBox,advbox_tools,,70,4,2,2,5,5,0,0,3
+advboxes_AdvBox,setup,,0,0,0,0,4,4,-1,0,0
+advboxes_AdvBox,tools,,72,14,1,1,0,0,0,0,0

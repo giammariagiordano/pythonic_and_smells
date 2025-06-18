@@ -1,0 +1,6 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+chuyangliu_snake.snake,game,Broken modularization,GameConf,21,/Volumes/BrokeExt/NICHE/chuyangliu_snake/snake/game.py,Class 'GameConf' contains only data members without any method implementations.
+chuyangliu_snake.snake.base,point,Broken modularization,PointType,5,/Volumes/BrokeExt/NICHE/chuyangliu_snake/snake/base/point.py,Class 'PointType' contains only data members without any method implementations.
+chuyangliu_snake.tests.base,test_map,Multifaceted abstraction,test_map,1,/Volumes/BrokeExt/NICHE/chuyangliu_snake/tests/base/test_map.py,"Class 'test_map' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+chuyangliu_snake.tests.base,test_pos,Multifaceted abstraction,test_pos,1,/Volumes/BrokeExt/NICHE/chuyangliu_snake/tests/base/test_pos.py,"Class 'test_pos' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+chuyangliu_snake.tests.base,test_snake,Multifaceted abstraction,test_snake,1,/Volumes/BrokeExt/NICHE/chuyangliu_snake/tests/base/test_snake.py,"Class 'test_snake' has a high LCOM value of 1, indicating it may have multiple responsibilities."

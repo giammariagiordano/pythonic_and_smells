@@ -1,0 +1,16 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+mozilla_DeepSpeech,DeepSpeech,,0,0,0,0,0,0,-1,0,0
+mozilla_DeepSpeech,evaluate,,0,0,0,0,0,0,-1,0,0
+mozilla_DeepSpeech,evaluate_tflite,,78,11,3,3,9,9,1,0,1
+mozilla_DeepSpeech,lm_optimizer,,39,7,3,3,4,4,0.33,0,1
+mozilla_DeepSpeech,setup,,83,4,1,1,2,2,0,0,0
+mozilla_DeepSpeech,stats,,27,2,2,2,3,3,0,0,0
+mozilla_DeepSpeech,transcribe,,113,26,6,6,20,20,0,0,1
+mozilla_DeepSpeech.bin,compare_samples,,50,10,3,3,1,1,0.33,0,0
+mozilla_DeepSpeech.bin,data_set_tool,,82,10,2,2,6,6,1,0,1
+mozilla_DeepSpeech.bin,graphdef_binary_to_text,,7,1,1,1,1,1,0,0,0
+mozilla_DeepSpeech.bin,import_aidatatang,,54,9,3,3,12,12,0,0,0
+mozilla_DeepSpeech.bin,import_aishell,,53,9,3,3,12,12,0,0,0
+mozilla_DeepSpeech.bin,import_ccpmf,,327,68,11,6,71,71,0.45,0,0
+mozilla_DeepSpeech.bin,import_cv,,107,19,6,1,12,12,0.17,0,0
+mozilla_DeepSpeech.bin,import_cv2,,165,32,7,4,20,20,0.43,1,1

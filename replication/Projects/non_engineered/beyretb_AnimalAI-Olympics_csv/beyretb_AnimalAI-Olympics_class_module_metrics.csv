@@ -1,0 +1,10 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+beyretb_AnimalAI-Olympics.animalai,setup,,0,0,0,0,0,0,-1,0,0
+beyretb_AnimalAI-Olympics.animalai.animalai,__init__,,0,0,0,0,0,0,-1,0,0
+beyretb_AnimalAI-Olympics.animalai.animalai.communicator_objects,__init__,,0,0,0,0,0,0,-1,0,0
+beyretb_AnimalAI-Olympics.animalai.animalai.communicator_objects,arena_configuration_proto_pb2,,0,0,0,0,9,5,-1,0,0
+beyretb_AnimalAI-Olympics.animalai.animalai.communicator_objects,arenas_configurations_proto_pb2,,0,0,0,0,11,6,-1,0,0
+beyretb_AnimalAI-Olympics.animalai.animalai.communicator_objects,items_to_spawn_proto_pb2,,0,0,0,0,9,5,-1,0,0
+beyretb_AnimalAI-Olympics.animalai.animalai.communicator_objects,vector_proto_pb2,,0,0,0,0,8,4,-1,0,0
+beyretb_AnimalAI-Olympics.animalai.animalai.envs,__init__,,0,0,0,0,0,0,-1,0,0
+beyretb_AnimalAI-Olympics.animalai.animalai.envs,arena_config,,89,14,2,2,1,1,1,5,0

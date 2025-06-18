@@ -1,0 +1,8 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+totalgood_nlpia,setup,,6,1,1,1,2,2,0,0,0
+totalgood_nlpia.docs,conf,,0,0,0,0,22,21,-1,0,0
+totalgood_nlpia.src.nlpia,__init__,,0,0,0,0,1,0,-1,0,0
+totalgood_nlpia.src.nlpia,anki,,50,15,5,5,7,7,0,0,0
+totalgood_nlpia.src.nlpia,book_parser,,271,101,16,16,39,39,0.06,0,0
+totalgood_nlpia.src.nlpia,clean_alice,,52,19,3,3,7,7,0.33,0,0
+totalgood_nlpia.src.nlpia,constants,,26,7,3,3,35,35,1,1,1

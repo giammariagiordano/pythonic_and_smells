@@ -1,0 +1,3 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+ethen8181_machine-learning,convert_to_html,,12,5,1,1,3,3,0,0,0
+ethen8181_machine-learning,convert_to_knowledge_repo,,148,26,3,3,6,6,0,1,1

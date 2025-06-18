@@ -1,0 +1,5 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+hse-aml_natural-language-processing,setup_google_colab,,43,10,9,9,0,0,0,0,0
+hse-aml_natural-language-processing.common,__init__,,0,0,0,0,0,0,-1,0,0
+hse-aml_natural-language-processing.common,download_utils,,76,13,7,7,2,2,0,0,0
+hse-aml_natural-language-processing.common,tqdm_utils,,49,11,1,1,1,1,0,0,0

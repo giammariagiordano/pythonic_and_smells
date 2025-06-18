@@ -1,0 +1,5 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+tirthajyoti_Machine-Learning-with-Python.Deployment.Linear_regression,request_pred,,0,0,0,0,7,7,-1,0,0
+tirthajyoti_Machine-Learning-with-Python.Deployment.Linear_regression,server_lm,,38,3,2,2,8,8,0,0,0
+tirthajyoti_Machine-Learning-with-Python.Deployment.Linear_regression,training_housing,,0,0,0,0,13,13,-1,0,0
+tirthajyoti_Machine-Learning-with-Python.Deployment.rnn_app,form,,4,0,0,0,0,0,-1,0,0

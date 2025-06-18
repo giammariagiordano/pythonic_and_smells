@@ -1,0 +1,13 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+GRAAL-Research_poutyne,setup,,68,7,4,4,3,3,0,0,0
+GRAAL-Research_poutyne.docs.source,conf,,0,0,0,0,26,26,-1,0,0
+GRAAL-Research_poutyne.examples,basic_mnist_classification,,0,0,0,0,7,7,-1,0,1
+GRAAL-Research_poutyne.examples,basic_random_binary_classification,,0,0,0,0,15,15,-1,0,1
+GRAAL-Research_poutyne.examples,basic_random_classification,,0,0,0,0,16,16,-1,0,1
+GRAAL-Research_poutyne.examples,basic_random_classification_with_model_bundle,,0,0,0,0,16,16,-1,0,0
+GRAAL-Research_poutyne.examples,basic_random_regression,,0,0,0,0,15,15,-1,0,1
+GRAAL-Research_poutyne.examples,basic_random_regression_with_model_bundle,,0,0,0,0,15,15,-1,0,0
+GRAAL-Research_poutyne.examples.medium_post,poutyne_experiment,,0,0,0,0,8,8,-1,0,0
+GRAAL-Research_poutyne.examples.medium_post,poutyne_model,,0,0,0,0,8,8,-1,0,1
+GRAAL-Research_poutyne.examples.medium_post,pure_pytorch,,0,0,0,0,19,19,-1,0,0
+GRAAL-Research_poutyne.examples.medium_post,train_with_alert_callback,,15,5,0,0,12,12,-1,1,1

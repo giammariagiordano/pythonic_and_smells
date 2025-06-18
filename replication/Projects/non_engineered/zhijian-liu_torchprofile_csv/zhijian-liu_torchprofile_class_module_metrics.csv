@@ -1,0 +1,11 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+zhijian-liu_torchprofile,setup,,0,0,0,0,0,0,-1,0,0
+zhijian-liu_torchprofile.examples,profile_torchvision,,0,0,0,0,3,3,-1,0,0
+zhijian-liu_torchprofile.examples,profile_transformer,,0,0,0,0,5,5,-1,0,0
+zhijian-liu_torchprofile.examples,trace_linear,,0,0,0,0,5,5,-1,0,0
+zhijian-liu_torchprofile.torchprofile,__init__,,0,0,0,0,0,0,-1,0,0
+zhijian-liu_torchprofile.torchprofile,handlers,,93,22,12,12,15,14,1,0,0
+zhijian-liu_torchprofile.torchprofile,profile,,18,6,1,1,3,2,0,0,0
+zhijian-liu_torchprofile.torchprofile,version,,0,0,0,0,1,0,-1,0,0
+zhijian-liu_torchprofile.torchprofile.utils,__init__,,0,0,0,0,0,0,-1,0,0
+zhijian-liu_torchprofile.torchprofile.utils,flatten,,20,7,1,1,2,1,0,0,0

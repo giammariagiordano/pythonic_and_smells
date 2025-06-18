@@ -1,0 +1,7 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+knazeri_edge-connect,main,,75,16,2,2,9,9,0,0,2
+knazeri_edge-connect,test,,0,0,0,0,0,0,-1,0,0
+knazeri_edge-connect,train,,0,0,0,0,0,0,-1,0,0
+knazeri_edge-connect.scripts,fid_score,,102,19,5,4,20,20,0,0,1
+knazeri_edge-connect.scripts,flist,,0,0,0,0,4,4,-1,0,0
+knazeri_edge-connect.scripts,inception,,81,11,0,0,0,0,-1,1,0

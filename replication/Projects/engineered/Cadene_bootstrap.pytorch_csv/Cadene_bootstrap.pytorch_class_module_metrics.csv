@@ -1,0 +1,9 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+Cadene_bootstrap.pytorch,setup,,0,0,0,0,2,2,-1,0,0
+Cadene_bootstrap.pytorch.bootstrap,__init__,,0,0,0,0,0,0,-1,0,0
+Cadene_bootstrap.pytorch.bootstrap,__version__,,0,0,0,0,1,0,-1,0,0
+Cadene_bootstrap.pytorch.bootstrap,compare,,88,20,2,2,24,24,0,0,0
+Cadene_bootstrap.pytorch.bootstrap,new,,38,7,2,2,5,5,0,0,0
+Cadene_bootstrap.pytorch.bootstrap,run,,156,34,8,8,17,17,0,0,0
+Cadene_bootstrap.pytorch.bootstrap.datasets,__init__,,0,0,0,0,0,0,-1,0,0
+Cadene_bootstrap.pytorch.bootstrap.datasets,dataset,,95,12,0,0,0,0,-1,0,0

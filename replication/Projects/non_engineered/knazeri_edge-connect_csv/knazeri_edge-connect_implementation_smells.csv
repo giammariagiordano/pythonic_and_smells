@@ -1,0 +1,159 @@
+Package,Module,Class,Smell,Function/Method,Line no,File,Details
+knazeri_edge-connect,main,,Complex method,load_config,69 - 130,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/main.py,"Method 'load_config' has a cyclomatic complexity of 12, exceeding the max of 6."
+knazeri_edge-connect,main,,Long method,load_config,69 - 130,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/main.py,Method 'load_config' is too long (45 lines).
+knazeri_edge-connect,main,,Long statement,main,13,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/main.py,A line with 126 chars in main exceeds the maximum length of 120 characters.
+knazeri_edge-connect,main,,Long statement,load_config,70,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/main.py,A line with 128 chars in load_config exceeds the maximum length of 120 characters.
+knazeri_edge-connect,main,,Long statement,load_config,77,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/main.py,A line with 137 chars in load_config exceeds the maximum length of 120 characters.
+knazeri_edge-connect,main,,Long statement,load_config,78,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/main.py,A line with 141 chars in load_config exceeds the maximum length of 120 characters.
+knazeri_edge-connect,main,,Magic number,main,59,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/main.py,Magic number 2 used in main.
+knazeri_edge-connect,main,,Magic number,load_config,81,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/main.py,Magic number 2 used in load_config.
+knazeri_edge-connect,main,,Magic number,load_config,108,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/main.py,Magic number 2 used in load_config.
+knazeri_edge-connect,main,,Magic number,load_config,109,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/main.py,Magic number 2 used in load_config.
+knazeri_edge-connect,main,,Magic number,load_config,110,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/main.py,Magic number 3 used in load_config.
+knazeri_edge-connect,main,,Magic number,load_config,126,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/main.py,Magic number 3 used in load_config.
+knazeri_edge-connect,main,,Magic number,load_config,127,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/main.py,Magic number 3 used in load_config.
+knazeri_edge-connect,main,,Magic number,load_config,128,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/main.py,Magic number 3 used in load_config.
+knazeri_edge-connect.scripts,fid_score,,Complex method,get_activations,47 - 102,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/fid_score.py,"Method 'get_activations' has a cyclomatic complexity of 8, exceeding the max of 6."
+knazeri_edge-connect.scripts,fid_score,,Long identifier,calculate_activation_statistics,159,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/fid_score.py,Identifier'calculate_activation_statistics' exceeds the maximum length of 30 characters.
+knazeri_edge-connect.scripts,fid_score,,Long parameter list,get_activations,47 - 102,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/fid_score.py,"get_activations has 6 parameters, exceeding the max of 5."
+knazeri_edge-connect.scripts,fid_score,,Long parameter list,calculate_activation_statistics,159 - 182,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/fid_score.py,"calculate_activation_statistics has 6 parameters, exceeding the max of 5."
+knazeri_edge-connect.scripts,fid_score,,Long statement,get_activations,49,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/fid_score.py,A line with 885 chars in get_activations exceeds the maximum length of 120 characters.
+knazeri_edge-connect.scripts,fid_score,,Long statement,calculate_frechet_distance,106,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/fid_score.py,A line with 836 chars in calculate_frechet_distance exceeds the maximum length of 120 characters.
+knazeri_edge-connect.scripts,fid_score,,Long statement,calculate_activation_statistics,161,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/fid_score.py,A line with 937 chars in calculate_activation_statistics exceeds the maximum length of 120 characters.
+knazeri_edge-connect.scripts,fid_score,,Long statement,,2,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/fid_score.py,A line with 1372 chars in fid_score exceeds the maximum length of 120 characters.
+knazeri_edge-connect.scripts,fid_score,,Long statement,,43,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/fid_score.py,A line with 184 chars in fid_score exceeds the maximum length of 120 characters.
+knazeri_edge-connect.scripts,fid_score,,Magic number,get_activations,47,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/fid_score.py,Magic number 64 used in get_activations.
+knazeri_edge-connect.scripts,fid_score,,Magic number,get_activations,47,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/fid_score.py,Magic number 2048 used in get_activations.
+knazeri_edge-connect.scripts,fid_score,,Magic number,get_activations,94,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/fid_score.py,Magic number 2 used in get_activations.
+knazeri_edge-connect.scripts,fid_score,,Magic number,get_activations,94,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/fid_score.py,Magic number 3 used in get_activations.
+knazeri_edge-connect.scripts,fid_score,,Magic number,calculate_frechet_distance,105,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/fid_score.py,Magic number 1e-06 used in calculate_frechet_distance.
+knazeri_edge-connect.scripts,fid_score,,Magic number,calculate_frechet_distance,156,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/fid_score.py,Magic number 2 used in calculate_frechet_distance.
+knazeri_edge-connect.scripts,fid_score,,Magic number,calculate_activation_statistics,159,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/fid_score.py,Magic number 64 used in calculate_activation_statistics.
+knazeri_edge-connect.scripts,fid_score,,Magic number,calculate_activation_statistics,160,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/fid_score.py,Magic number 2048 used in calculate_activation_statistics.
+knazeri_edge-connect.scripts,fid_score,,Magic number,_compute_statistics_of_path,201,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/fid_score.py,Magic number 255 used in _compute_statistics_of_path.
+knazeri_edge-connect.scripts,inception,InceptionV3,Long method,__init__,21 - 104,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/inception.py,Method '__init__' is too long (47 lines).
+knazeri_edge-connect.scripts,inception,InceptionV3,Long statement,__init__,26,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/inception.py,A line with 1099 chars in __init__ exceeds the maximum length of 120 characters.
+knazeri_edge-connect.scripts,inception,InceptionV3,Long statement,__init__,62,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/inception.py,A line with 123 chars in __init__ exceeds the maximum length of 120 characters.
+knazeri_edge-connect.scripts,inception,InceptionV3,Long statement,__init__,81,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/inception.py,A line with 169 chars in __init__ exceeds the maximum length of 120 characters.
+knazeri_edge-connect.scripts,inception,InceptionV3,Long statement,forward,107,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/inception.py,A line with 371 chars in forward exceeds the maximum length of 120 characters.
+knazeri_edge-connect.scripts,inception,InceptionV3,Magic number,__init__,54,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/inception.py,Magic number 3 used in __init__.
+knazeri_edge-connect.scripts,inception,InceptionV3,Magic number,__init__,80,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/inception.py,Magic number 2 used in __init__.
+knazeri_edge-connect.scripts,inception,InceptionV3,Magic number,__init__,94,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/inception.py,Magic number 3 used in __init__.
+knazeri_edge-connect.scripts,inception,InceptionV3,Magic number,forward,126,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/inception.py,Magic number 0.5 used in forward.
+knazeri_edge-connect.scripts,inception,InceptionV3,Magic number,forward,127,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/inception.py,Magic number 0.5 used in forward.
+knazeri_edge-connect.scripts,inception,InceptionV3,Magic number,forward,128,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/inception.py,Magic number 2 used in forward.
+knazeri_edge-connect.scripts,inception,InceptionV3,Magic number,forward,128,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/inception.py,Magic number 0.5 used in forward.
+knazeri_edge-connect.scripts,inception,InceptionV3,Magic number,forward,126,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/inception.py,Magic number 0.229 used in forward.
+knazeri_edge-connect.scripts,inception,InceptionV3,Magic number,forward,126,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/inception.py,Magic number 0.5 used in forward.
+knazeri_edge-connect.scripts,inception,InceptionV3,Magic number,forward,126,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/inception.py,Magic number 0.485 used in forward.
+knazeri_edge-connect.scripts,inception,InceptionV3,Magic number,forward,126,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/inception.py,Magic number 0.5 used in forward.
+knazeri_edge-connect.scripts,inception,InceptionV3,Magic number,forward,127,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/inception.py,Magic number 0.224 used in forward.
+knazeri_edge-connect.scripts,inception,InceptionV3,Magic number,forward,127,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/inception.py,Magic number 0.5 used in forward.
+knazeri_edge-connect.scripts,inception,InceptionV3,Magic number,forward,127,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/inception.py,Magic number 0.456 used in forward.
+knazeri_edge-connect.scripts,inception,InceptionV3,Magic number,forward,127,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/inception.py,Magic number 0.5 used in forward.
+knazeri_edge-connect.scripts,inception,InceptionV3,Magic number,forward,128,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/inception.py,Magic number 0.225 used in forward.
+knazeri_edge-connect.scripts,inception,InceptionV3,Magic number,forward,128,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/inception.py,Magic number 0.5 used in forward.
+knazeri_edge-connect.scripts,inception,InceptionV3,Magic number,forward,128,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/inception.py,Magic number 0.406 used in forward.
+knazeri_edge-connect.scripts,inception,InceptionV3,Magic number,forward,128,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/inception.py,Magic number 0.5 used in forward.
+knazeri_edge-connect.scripts,inception,InceptionV3,Magic number,forward,128,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/inception.py,Magic number 2 used in forward.
+knazeri_edge-connect.scripts,metrics,,Long statement,,65,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/metrics.py,A line with 165 chars in metrics exceeds the maximum length of 120 characters.
+knazeri_edge-connect.scripts,metrics,,Long statement,,74,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/scripts/metrics.py,A line with 277 chars in metrics exceeds the maximum length of 120 characters.
+knazeri_edge-connect.src,dataset,Dataset,Empty catch block,load_flist,186,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/dataset.py,Empty catch block found in load_flist.
+knazeri_edge-connect.src,dataset,Dataset,Long parameter list,__init__,17 - 34,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/dataset.py,"__init__ has 6 parameters, exceeding the max of 5."
+knazeri_edge-connect.src,dataset,Dataset,Magic number,__init__,33,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/dataset.py,Magic number 2 used in __init__.
+knazeri_edge-connect.src,dataset,Dataset,Magic number,__init__,34,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/dataset.py,Magic number 6 used in __init__.
+knazeri_edge-connect.src,dataset,Dataset,Magic number,load_item,60,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/dataset.py,Magic number 3 used in load_item.
+knazeri_edge-connect.src,dataset,Dataset,Magic number,load_edge,106,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/dataset.py,Magic number 2 used in load_edge.
+knazeri_edge-connect.src,dataset,Dataset,Magic number,load_mask,121,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/dataset.py,Magic number 4 used in load_mask.
+knazeri_edge-connect.src,dataset,Dataset,Magic number,load_mask,133,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/dataset.py,Magic number 2 used in load_mask.
+knazeri_edge-connect.src,dataset,Dataset,Magic number,load_mask,138,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/dataset.py,Magic number 3 used in load_mask.
+knazeri_edge-connect.src,dataset,Dataset,Magic number,load_mask,146,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/dataset.py,Magic number 6 used in load_mask.
+knazeri_edge-connect.src,dataset,Dataset,Magic number,load_mask,117,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/dataset.py,Magic number 2 used in load_mask.
+knazeri_edge-connect.src,dataset,Dataset,Magic number,load_mask,122,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/dataset.py,Magic number 3 used in load_mask.
+knazeri_edge-connect.src,dataset,Dataset,Magic number,load_mask,125,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/dataset.py,Magic number 5 used in load_mask.
+knazeri_edge-connect.src,dataset,Dataset,Magic number,load_mask,142,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/dataset.py,Magic number 255 used in load_mask.
+knazeri_edge-connect.src,dataset,Dataset,Magic number,load_mask,150,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/dataset.py,Magic number 255 used in load_mask.
+knazeri_edge-connect.src,dataset,Dataset,Magic number,resize,159,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/dataset.py,Magic number 2 used in resize.
+knazeri_edge-connect.src,dataset,Dataset,Magic number,resize,164,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/dataset.py,Magic number 2 used in resize.
+knazeri_edge-connect.src,dataset,Dataset,Magic number,resize,165,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/dataset.py,Magic number 2 used in resize.
+knazeri_edge-connect.src,edge_connect,EdgeConnect,Complex method,__init__,12 - 49,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/edge_connect.py,"Method '__init__' has a cyclomatic complexity of 9, exceeding the max of 6."
+knazeri_edge-connect.src,edge_connect,EdgeConnect,Complex method,train,73 - 211,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/edge_connect.py,"Method 'train' has a cyclomatic complexity of 18, exceeding the max of 6."
+knazeri_edge-connect.src,edge_connect,EdgeConnect,Long method,train,73 - 211,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/edge_connect.py,Method 'train' is too long (135 lines).
+knazeri_edge-connect.src,edge_connect,EdgeConnect,Long method,eval,213 - 294,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/edge_connect.py,Method 'eval' is too long (78 lines).
+knazeri_edge-connect.src,edge_connect,EdgeConnect,Long method,test,296 - 344,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/edge_connect.py,Method 'test' is too long (45 lines).
+knazeri_edge-connect.src,edge_connect,EdgeConnect,Long method,sample,346 - 402,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/edge_connect.py,Method 'sample' is too long (47 lines).
+knazeri_edge-connect.src,edge_connect,EdgeConnect,Long statement,__init__,34,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/edge_connect.py,A line with 133 chars in __init__ exceeds the maximum length of 120 characters.
+knazeri_edge-connect.src,edge_connect,EdgeConnect,Long statement,__init__,36,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/edge_connect.py,A line with 135 chars in __init__ exceeds the maximum length of 120 characters.
+knazeri_edge-connect.src,edge_connect,EdgeConnect,Long statement,__init__,37,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/edge_connect.py,A line with 128 chars in __init__ exceeds the maximum length of 120 characters.
+knazeri_edge-connect.src,edge_connect,EdgeConnect,Long statement,train,74,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/edge_connect.py,A line with 133 chars in train exceeds the maximum length of 120 characters.
+knazeri_edge-connect.src,edge_connect,EdgeConnect,Long statement,sample,388,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/edge_connect.py,A line with 187 chars in sample exceeds the maximum length of 120 characters.
+knazeri_edge-connect.src,edge_connect,EdgeConnect,Magic number,__init__,33,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/edge_connect.py,Magic number 2 used in __init__.
+knazeri_edge-connect.src,edge_connect,EdgeConnect,Magic number,__init__,17,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/edge_connect.py,Magic number 2 used in __init__.
+knazeri_edge-connect.src,edge_connect,EdgeConnect,Magic number,__init__,19,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/edge_connect.py,Magic number 3 used in __init__.
+knazeri_edge-connect.src,edge_connect,EdgeConnect,Magic number,__init__,21,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/edge_connect.py,Magic number 4 used in __init__.
+knazeri_edge-connect.src,edge_connect,EdgeConnect,Magic number,load,55,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/edge_connect.py,Magic number 2 used in load.
+knazeri_edge-connect.src,edge_connect,EdgeConnect,Magic number,save,66,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/edge_connect.py,Magic number 2 used in save.
+knazeri_edge-connect.src,edge_connect,EdgeConnect,Magic number,save,66,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/edge_connect.py,Magic number 3 used in save.
+knazeri_edge-connect.src,edge_connect,EdgeConnect,Magic number,train,120,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/edge_connect.py,Magic number 2 used in train.
+knazeri_edge-connect.src,edge_connect,EdgeConnect,Magic number,train,137,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/edge_connect.py,Magic number 3 used in train.
+knazeri_edge-connect.src,edge_connect,EdgeConnect,Magic number,eval,246,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/edge_connect.py,Magic number 2 used in eval.
+knazeri_edge-connect.src,edge_connect,EdgeConnect,Magic number,eval,259,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/edge_connect.py,Magic number 3 used in eval.
+knazeri_edge-connect.src,edge_connect,EdgeConnect,Magic number,test,320,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/edge_connect.py,Magic number 2 used in test.
+knazeri_edge-connect.src,edge_connect,EdgeConnect,Magic number,sample,384,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/edge_connect.py,Magic number 2 used in sample.
+knazeri_edge-connect.src,edge_connect,EdgeConnect,Magic number,sample,385,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/edge_connect.py,Magic number 6 used in sample.
+knazeri_edge-connect.src,edge_connect,EdgeConnect,Magic number,sample,366,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/edge_connect.py,Magic number 2 used in sample.
+knazeri_edge-connect.src,edge_connect,EdgeConnect,Magic number,postprocess,413,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/edge_connect.py,Magic number 255.0 used in postprocess.
+knazeri_edge-connect.src,loss,VGG19,Complex method,__init__,111 - 185,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/loss.py,"Method '__init__' has a cyclomatic complexity of 18, exceeding the max of 6."
+knazeri_edge-connect.src,loss,VGG19,Long method,__init__,111 - 185,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/loss.py,Method '__init__' is too long (53 lines).
+knazeri_edge-connect.src,loss,PerceptualLoss,Magic number,__call__,101,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/loss.py,Magic number 2 used in __call__.
+knazeri_edge-connect.src,loss,PerceptualLoss,Magic number,__call__,102,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/loss.py,Magic number 3 used in __call__.
+knazeri_edge-connect.src,loss,PerceptualLoss,Magic number,__call__,103,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/loss.py,Magic number 4 used in __call__.
+knazeri_edge-connect.src,metrics,EdgeAccuracy,Magic number,__init__,9,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/metrics.py,Magic number 0.5 used in __init__.
+knazeri_edge-connect.src,metrics,EdgeAccuracy,Magic number,__call__,24,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/metrics.py,Magic number 1e-08 used in __call__.
+knazeri_edge-connect.src,metrics,EdgeAccuracy,Magic number,__call__,25,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/metrics.py,Magic number 1e-08 used in __call__.
+knazeri_edge-connect.src,metrics,PSNR,Magic number,__call__,46,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/metrics.py,Magic number 10 used in __call__.
+knazeri_edge-connect.src,models,EdgeModel,Long statement,__init__,81,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/models.py,A line with 148 chars in __init__ exceeds the maximum length of 120 characters.
+knazeri_edge-connect.src,models,InpaintingModel,Long statement,__init__,184,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/models.py,A line with 148 chars in __init__ exceeds the maximum length of 120 characters.
+knazeri_edge-connect.src,models,InpaintingModel,Long statement,process,239,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/models.py,A line with 165 chars in process exceeds the maximum length of 120 characters.
+knazeri_edge-connect.src,models,EdgeModel,Magic number,process,109,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/models.py,Magic number 2 used in process.
+knazeri_edge-connect.src,models,InpaintingModel,Magic number,process,211,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/models.py,Magic number 2 used in process.
+knazeri_edge-connect.src,networks,BaseNetwork,Complex method,init_weights,9 - 35,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/networks.py,"Method 'init_weights' has a cyclomatic complexity of 11, exceeding the max of 6."
+knazeri_edge-connect.src,networks,BaseNetwork,Long statement,init_weights,10,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/networks.py,A line with 243 chars in init_weights exceeds the maximum length of 120 characters.
+knazeri_edge-connect.src,networks,InpaintGenerator,Long statement,__init__,42,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/networks.py,A line with 480 chars in __init__ exceeds the maximum length of 120 characters.
+knazeri_edge-connect.src,networks,InpaintGenerator,Long statement,__init__,64,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/networks.py,A line with 432 chars in __init__ exceeds the maximum length of 120 characters.
+knazeri_edge-connect.src,networks,EdgeGenerator,Long statement,__init__,93,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/networks.py,A line with 582 chars in __init__ exceeds the maximum length of 120 characters.
+knazeri_edge-connect.src,networks,EdgeGenerator,Long statement,__init__,115,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/networks.py,A line with 500 chars in __init__ exceeds the maximum length of 120 characters.
+knazeri_edge-connect.src,networks,Discriminator,Long statement,__init__,144,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/networks.py,A line with 228 chars in __init__ exceeds the maximum length of 120 characters.
+knazeri_edge-connect.src,networks,Discriminator,Long statement,__init__,149,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/networks.py,A line with 204 chars in __init__ exceeds the maximum length of 120 characters.
+knazeri_edge-connect.src,networks,Discriminator,Long statement,__init__,154,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/networks.py,A line with 205 chars in __init__ exceeds the maximum length of 120 characters.
+knazeri_edge-connect.src,networks,Discriminator,Long statement,__init__,159,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/networks.py,A line with 205 chars in __init__ exceeds the maximum length of 120 characters.
+knazeri_edge-connect.src,networks,Discriminator,Long statement,__init__,164,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/networks.py,A line with 170 chars in __init__ exceeds the maximum length of 120 characters.
+knazeri_edge-connect.src,networks,ResnetBlock,Long statement,__init__,188,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/networks.py,A line with 504 chars in __init__ exceeds the maximum length of 120 characters.
+knazeri_edge-connect.src,networks,BaseNetwork,Magic number,init_weights,9,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/networks.py,Magic number 0.02 used in init_weights.
+knazeri_edge-connect.src,networks,InpaintGenerator,Magic number,__init__,39,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/networks.py,Magic number 8 used in __init__.
+knazeri_edge-connect.src,networks,InpaintGenerator,Magic number,forward,84,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/networks.py,Magic number 2 used in forward.
+knazeri_edge-connect.src,networks,EdgeGenerator,Magic number,__init__,90,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/networks.py,Magic number 8 used in __init__.
+knazeri_edge-connect.src,utils,Progbar,Complex method,update,94 - 213,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/utils.py,"Method 'update' has a cyclomatic complexity of 31, exceeding the max of 6."
+knazeri_edge-connect.src,utils,Progbar,Long method,update,94 - 213,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/utils.py,Method 'update' is too long (109 lines).
+knazeri_edge-connect.src,utils,,Long parameter list,create_mask,15 - 20,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/utils.py,"create_mask has 6 parameters, exceeding the max of 5."
+knazeri_edge-connect.src,utils,,Long statement,stitch_images,28,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/utils.py,A line with 134 chars in stitch_images exceeds the maximum length of 120 characters.
+knazeri_edge-connect.src,utils,Progbar,Long statement,__init__,81,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/utils.py,A line with 141 chars in __init__ exceeds the maximum length of 120 characters.
+knazeri_edge-connect.src,utils,Progbar,Long statement,update,95,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/utils.py,A line with 383 chars in update exceeds the maximum length of 120 characters.
+knazeri_edge-connect.src,utils,,Magic number,stitch_images,23,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/utils.py,Magic number 2 used in stitch_images.
+knazeri_edge-connect.src,utils,,Magic number,stitch_images,24,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/utils.py,Magic number 5 used in stitch_images.
+knazeri_edge-connect.src,utils,Progbar,Magic number,__init__,70,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/utils.py,Magic number 25 used in __init__.
+knazeri_edge-connect.src,utils,Progbar,Magic number,__init__,70,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/utils.py,Magic number 0.05 used in __init__.
+knazeri_edge-connect.src,utils,Progbar,Magic number,update,199,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/utils.py,Magic number 2 used in update.
+knazeri_edge-connect.src,utils,Progbar,Magic number,update,160,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/utils.py,Magic number 3600 used in update.
+knazeri_edge-connect.src,utils,Progbar,Magic number,update,164,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/utils.py,Magic number 60 used in update.
+knazeri_edge-connect.src,utils,Progbar,Magic number,update,173,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/utils.py,Magic number 0.001 used in update.
+knazeri_edge-connect.src,utils,Progbar,Magic number,update,182,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/utils.py,Magic number 0.001 used in update.
+knazeri_edge-connect.src,utils,Progbar,Magic number,update,204,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/utils.py,Magic number 0.001 used in update.
+knazeri_edge-connect.src,utils,Progbar,Magic number,update,161,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/utils.py,Magic number 3600 used in update.
+knazeri_edge-connect.src,utils,Progbar,Magic number,update,162,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/utils.py,Magic number 60 used in update.
+knazeri_edge-connect.src,utils,Progbar,Magic number,update,163,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/utils.py,Magic number 60 used in update.
+knazeri_edge-connect.src,utils,Progbar,Magic number,update,174,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/utils.py,Magic number 1000.0 used in update.
+knazeri_edge-connect.src,utils,Progbar,Magic number,update,176,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/utils.py,Magic number 1000000.0 used in update.
+knazeri_edge-connect.src,utils,Progbar,Magic number,update,162,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/utils.py,Magic number 3600 used in update.
+knazeri_edge-connect.src,utils,Progbar,Magic number,update,165,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/utils.py,Magic number 60 used in update.
+knazeri_edge-connect.src,utils,Progbar,Magic number,update,165,/Volumes/BrokeExt/NICHE/knazeri_edge-connect/src/utils.py,Magic number 60 used in update.

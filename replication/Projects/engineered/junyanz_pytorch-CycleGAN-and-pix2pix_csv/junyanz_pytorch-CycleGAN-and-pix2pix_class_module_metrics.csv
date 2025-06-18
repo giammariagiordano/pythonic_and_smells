@@ -1,0 +1,4 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+junyanz_pytorch-CycleGAN-and-pix2pix,test,,0,0,0,0,13,13,-1,0,0
+junyanz_pytorch-CycleGAN-and-pix2pix,train,,0,0,0,0,15,15,-1,0,1
+junyanz_pytorch-CycleGAN-and-pix2pix.data,__init__,,44,13,3,3,1,1,0.33,1,1

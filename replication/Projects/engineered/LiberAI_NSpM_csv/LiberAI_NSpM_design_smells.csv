@@ -1,0 +1,7 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+LiberAI_NSpM.gsoc.zheyuan.pipeline,paraphrase_questions,Multifaceted abstraction,paraphrase_questions,1,/Volumes/BrokeExt/NICHE/LiberAI_NSpM/gsoc/zheyuan/pipeline/paraphrase_questions.py,"Class 'paraphrase_questions' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+LiberAI_NSpM.gsoc.zheyuan.utility,vocab_creator,Multifaceted abstraction,vocab_creator,1,/Volumes/BrokeExt/NICHE/LiberAI_NSpM/gsoc/zheyuan/utility/vocab_creator.py,"Class 'vocab_creator' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+LiberAI_NSpM.nspm,generator_test,Multifaceted abstraction,generator_test,1,/Volumes/BrokeExt/NICHE/LiberAI_NSpM/nspm/generator_test.py,"Class 'generator_test' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+LiberAI_NSpM.nspm,generator_utils,Broken modularization,Annotation,189,/Volumes/BrokeExt/NICHE/LiberAI_NSpM/nspm/generator_utils.py,Class 'Annotation' contains only data members without any method implementations.
+LiberAI_NSpM.nspm,nmt,Broken modularization,NeuralMTConfig,104,/Volumes/BrokeExt/NICHE/LiberAI_NSpM/nspm/nmt.py,Class 'NeuralMTConfig' contains only data members without any method implementations.
+LiberAI_NSpM.test,interpreter_airml_test,Multifaceted abstraction,TestAirML,5,/Volumes/BrokeExt/NICHE/LiberAI_NSpM/test/interpreter_airml_test.py,"Class 'TestAirML' has a high LCOM value of 1, indicating it may have multiple responsibilities."

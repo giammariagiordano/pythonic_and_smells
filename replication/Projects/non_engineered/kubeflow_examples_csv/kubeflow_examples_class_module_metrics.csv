@@ -1,0 +1,11 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+kubeflow_examples.Facial-Keypoint-Detection.eval,eval,,0,0,0,0,6,6,-1,0,0
+kubeflow_examples.Facial-Keypoint-Detection.generate-pipeline,my_pipeline,,29,3,3,3,0,0,0,0,0
+kubeflow_examples.Facial-Keypoint-Detection.train,train,,0,0,0,0,22,22,-1,0,0
+kubeflow_examples.bluebook-for-bulldozers-kaggle-competition,blue-book-for-bulldozers-kaggle-competition-kfp,,45,5,5,5,0,0,0,0,1
+kubeflow_examples.bluebook-for-bulldozers-kaggle-competition.pipeline-components.load-data,load,,20,1,1,1,5,5,0,0,0
+kubeflow_examples.bluebook-for-bulldozers-kaggle-competition.pipeline-components.preprocess,preprocess,,29,9,3,3,6,6,0.33,0,0
+kubeflow_examples.bluebook-for-bulldozers-kaggle-competition.pipeline-components.test,test,,29,9,3,3,11,11,0.33,0,0
+kubeflow_examples.bluebook-for-bulldozers-kaggle-competition.pipeline-components.train,train,,12,2,2,2,10,10,0,0,0
+kubeflow_examples.cnn template,cnn temp,,91,3,4,4,0,0,0.25,0,0
+kubeflow_examples.code_search.demo,count_lines_of_code,,75,18,2,2,9,9,0,1,1

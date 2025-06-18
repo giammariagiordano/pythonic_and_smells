@@ -1,0 +1,7 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+koaning_scikit-lego,features,,16,12,3,3,0,0,0.33,0,0
+koaning_scikit-lego,setup,,0,0,0,0,0,0,-1,0,0
+koaning_scikit-lego.docs,generate_this_content,,0,0,0,0,2,2,-1,0,0
+koaning_scikit-lego.docs._scripts,cross-validation,,18,4,2,2,18,16,1,0,1
+koaning_scikit-lego.docs._scripts,datasets,,0,0,0,0,18,16,-1,0,0
+koaning_scikit-lego.docs._scripts,debug-pipeline,,16,5,1,1,13,10,0,0,1

@@ -1,0 +1,2 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+MaybeShewill-CV_lanenet-lane-detection.tools,evaluate_model_utils,Multifaceted abstraction,evaluate_model_utils,1,/Volumes/BrokeExt/NICHE/MaybeShewill-CV_lanenet-lane-detection/tools/evaluate_model_utils.py,"Class 'evaluate_model_utils' has a high LCOM value of 1, indicating it may have multiple responsibilities."

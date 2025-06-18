@@ -1,0 +1,3 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+Ha0Tang_AttentionGAN.AttentionGAN-v1,utils,Multifaceted abstraction,utils,1,/Volumes/BrokeExt/NICHE/Ha0Tang_AttentionGAN/AttentionGAN-v1/utils.py,"Class 'utils' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+Ha0Tang_AttentionGAN.scripts.GAN_Metrics-Tensorflow,main,Multifaceted abstraction,main,1,/Volumes/BrokeExt/NICHE/Ha0Tang_AttentionGAN/scripts/GAN_Metrics-Tensorflow/main.py,"Class 'main' has a high LCOM value of 1, indicating it may have multiple responsibilities."

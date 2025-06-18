@@ -1,0 +1,4 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+adobe_antialiased-cnns,example_usage,,0,0,0,0,1,1,-1,0,0
+adobe_antialiased-cnns,example_usage2,,0,0,0,0,1,1,-1,0,0
+adobe_antialiased-cnns,main,,488,81,11,11,54,54,0,1,1

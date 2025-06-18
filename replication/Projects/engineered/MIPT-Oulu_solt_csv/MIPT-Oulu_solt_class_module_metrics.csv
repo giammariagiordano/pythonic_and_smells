@@ -1,0 +1,7 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+MIPT-Oulu_solt,setup,,0,0,0,0,4,4,-1,0,0
+MIPT-Oulu_solt.benchmark,setup,,0,0,0,0,2,2,-1,0,0
+MIPT-Oulu_solt.benchmark.augbench,__init__,,0,0,0,0,0,0,-1,0,0
+MIPT-Oulu_solt.benchmark.augbench,benchmark,,0,0,0,0,23,23,-1,0,0
+MIPT-Oulu_solt.benchmark.augbench,constants,,0,0,0,0,1,1,-1,0,0
+MIPT-Oulu_solt.benchmark.augbench,transforms,,257,22,0,0,0,0,-1,0,0

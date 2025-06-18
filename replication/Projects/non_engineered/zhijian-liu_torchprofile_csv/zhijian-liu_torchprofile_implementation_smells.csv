@@ -1,0 +1,20 @@
+Package,Module,Class,Smell,Function/Method,Line no,File,Details
+zhijian-liu_torchprofile,setup,,Long statement,,5,/Volumes/BrokeExt/NICHE/zhijian-liu_torchprofile/setup.py,A line with 228 chars in setup exceeds the maximum length of 120 characters.
+zhijian-liu_torchprofile.torchprofile,handlers,,Long statement,,129,/Volumes/BrokeExt/NICHE/zhijian-liu_torchprofile/torchprofile/handlers.py,A line with 2038 chars in handlers exceeds the maximum length of 120 characters.
+zhijian-liu_torchprofile.torchprofile,handlers,,Magic number,addmm,9,/Volumes/BrokeExt/NICHE/zhijian-liu_torchprofile/torchprofile/handlers.py,Magic number 2 used in addmm.
+zhijian-liu_torchprofile.torchprofile,handlers,,Magic number,baddbmm,30,/Volumes/BrokeExt/NICHE/zhijian-liu_torchprofile/torchprofile/handlers.py,Magic number 2 used in baddbmm.
+zhijian-liu_torchprofile.torchprofile,handlers,,Magic number,matmul,40,/Volumes/BrokeExt/NICHE/zhijian-liu_torchprofile/torchprofile/handlers.py,Magic number 2 used in matmul.
+zhijian-liu_torchprofile.torchprofile,handlers,,Magic number,matmul,44,/Volumes/BrokeExt/NICHE/zhijian-liu_torchprofile/torchprofile/handlers.py,Magic number 2 used in matmul.
+zhijian-liu_torchprofile.torchprofile,handlers,,Magic number,matmul,48,/Volumes/BrokeExt/NICHE/zhijian-liu_torchprofile/torchprofile/handlers.py,Magic number 2 used in matmul.
+zhijian-liu_torchprofile.torchprofile,handlers,,Magic number,matmul,48,/Volumes/BrokeExt/NICHE/zhijian-liu_torchprofile/torchprofile/handlers.py,Magic number 2 used in matmul.
+zhijian-liu_torchprofile.torchprofile,handlers,,Magic number,norm,87,/Volumes/BrokeExt/NICHE/zhijian-liu_torchprofile/torchprofile/handlers.py,Magic number 2 used in norm.
+zhijian-liu_torchprofile.torchprofile,handlers,,Magic number,upsample_bilinear2d,107,/Volumes/BrokeExt/NICHE/zhijian-liu_torchprofile/torchprofile/handlers.py,Magic number 4 used in upsample_bilinear2d.
+zhijian-liu_torchprofile.torchprofile,handlers,,Magic number,scaled_dot_product_attention,112,/Volumes/BrokeExt/NICHE/zhijian-liu_torchprofile/torchprofile/handlers.py,Magic number 2 used in scaled_dot_product_attention.
+zhijian-liu_torchprofile.torchprofile,handlers,,Magic number,scaled_dot_product_attention,117,/Volumes/BrokeExt/NICHE/zhijian-liu_torchprofile/torchprofile/handlers.py,Magic number 2 used in scaled_dot_product_attention.
+zhijian-liu_torchprofile.torchprofile,handlers,,Magic number,scaled_dot_product_attention,122,/Volumes/BrokeExt/NICHE/zhijian-liu_torchprofile/torchprofile/handlers.py,Magic number 2 used in scaled_dot_product_attention.
+zhijian-liu_torchprofile.torchprofile,handlers,,Magic number,scaled_dot_product_attention,120,/Volumes/BrokeExt/NICHE/zhijian-liu_torchprofile/torchprofile/handlers.py,Magic number 2 used in scaled_dot_product_attention.
+zhijian-liu_torchprofile.torchprofile,handlers,,Magic number,scaled_dot_product_attention,122,/Volumes/BrokeExt/NICHE/zhijian-liu_torchprofile/torchprofile/handlers.py,Magic number 2 used in scaled_dot_product_attention.
+zhijian-liu_torchprofile.torchprofile,handlers,,Magic number,scaled_dot_product_attention,123,/Volumes/BrokeExt/NICHE/zhijian-liu_torchprofile/torchprofile/handlers.py,Magic number 2 used in scaled_dot_product_attention.
+zhijian-liu_torchprofile.torchprofile.utils,trace,,Long method,trace,12 - 57,/Volumes/BrokeExt/NICHE/zhijian-liu_torchprofile/torchprofile/utils/trace.py,Method 'trace' is too long (42 lines).
+zhijian-liu_torchprofile.torchprofile.utils,trace,,Long statement,trace,36,/Volumes/BrokeExt/NICHE/zhijian-liu_torchprofile/torchprofile/utils/trace.py,A line with 304 chars in trace exceeds the maximum length of 120 characters.
+zhijian-liu_torchprofile.torchprofile.utils,trace,,Long statement,trace,50,/Volumes/BrokeExt/NICHE/zhijian-liu_torchprofile/torchprofile/utils/trace.py,A line with 275 chars in trace exceeds the maximum length of 120 characters.

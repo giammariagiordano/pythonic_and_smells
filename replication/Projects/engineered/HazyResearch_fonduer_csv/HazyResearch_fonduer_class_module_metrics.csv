@@ -1,0 +1,6 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+HazyResearch_fonduer,setup,,0,0,0,0,0,0,-1,0,0
+HazyResearch_fonduer.docs,conf,,0,0,0,0,23,23,-1,0,0
+HazyResearch_fonduer.src.fonduer,__init__,,0,0,0,0,1,0,-1,0,0
+HazyResearch_fonduer.src.fonduer,_version,,0,0,0,0,1,0,-1,0,0
+HazyResearch_fonduer.src.fonduer,meta,,90,11,3,2,4,4,1,0,0

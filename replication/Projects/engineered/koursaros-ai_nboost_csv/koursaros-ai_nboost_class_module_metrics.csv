@@ -1,0 +1,10 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+koursaros-ai_nboost,changelog,,27,11,3,3,7,7,1,0,0
+koursaros-ai_nboost,docker,,10,4,3,3,6,6,0,0,0
+koursaros-ai_nboost,setup,,0,0,0,0,0,0,-1,0,0
+koursaros-ai_nboost.docs,conf,,0,0,0,0,33,33,-1,0,0
+koursaros-ai_nboost.nboost,__init__,,0,0,0,0,1,1,-1,0,0
+koursaros-ai_nboost.nboost,__main__,,5,1,1,1,0,0,0,0,1
+koursaros-ai_nboost.nboost,__version__,,0,0,0,0,0,0,-1,0,0
+koursaros-ai_nboost.nboost,cli,,33,1,1,1,34,34,0,0,0
+koursaros-ai_nboost.nboost,compat,,14,1,0,0,0,0,-1,0,0

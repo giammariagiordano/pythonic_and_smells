@@ -1,0 +1,3 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+dsgiitr_d2l-pytorch.d2l,__init__,,0,0,0,0,1,0,-1,0,0
+dsgiitr_d2l-pytorch.d2l,base,,48,18,2,2,3,2,1,1,0

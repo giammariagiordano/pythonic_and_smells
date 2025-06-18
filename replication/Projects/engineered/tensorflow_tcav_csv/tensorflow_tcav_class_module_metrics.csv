@@ -1,0 +1,4 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+tensorflow_tcav,setup,,0,0,0,0,2,2,-1,0,0
+tensorflow_tcav.tcav,__init__,,0,0,0,0,0,0,-1,0,0
+tensorflow_tcav.tcav,activation_generator,,139,32,0,0,0,0,-1,0,0

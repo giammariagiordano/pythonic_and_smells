@@ -1,0 +1,5 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+NVIDIA_tacotron2,audio_processing,Multifaceted abstraction,audio_processing,1,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/audio_processing.py,"Class 'audio_processing' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+NVIDIA_tacotron2,logger,Multifaceted abstraction,Tacotron2Logger,8,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/logger.py,"Class 'Tacotron2Logger' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+NVIDIA_tacotron2,utils,Multifaceted abstraction,utils,1,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/utils.py,"Class 'utils' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+NVIDIA_tacotron2.text,numbers,Multifaceted abstraction,numbers,1,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/text/numbers.py,"Class 'numbers' has a high LCOM value of 1, indicating it may have multiple responsibilities."

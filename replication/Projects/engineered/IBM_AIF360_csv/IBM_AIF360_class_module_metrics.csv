@@ -1,0 +1,6 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+IBM_AIF360,setup,,0,0,0,0,6,6,-1,0,0
+IBM_AIF360.aif360,__init__,,0,0,0,0,0,0,-1,0,0
+IBM_AIF360.aif360,decorating_metaclass,,23,6,4,4,0,0,0.25,0,0
+IBM_AIF360.aif360.algorithms,__init__,,0,0,0,0,0,0,-1,0,0
+IBM_AIF360.aif360.algorithms,transformer,,35,7,1,1,3,3,0,0,0

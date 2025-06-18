@@ -1,0 +1,7 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+persephone-tools_persephone,conftest,,21,8,2,2,0,0,1,0,0
+persephone-tools_persephone,setup,,0,0,0,0,0,0,-1,0,0
+persephone-tools_persephone.docs,conf,,0,0,0,0,21,21,-1,0,0
+persephone-tools_persephone.persephone,__init__,,7,2,1,1,2,1,0,0,0
+persephone-tools_persephone.persephone,config,,0,0,0,0,16,16,-1,0,0
+persephone-tools_persephone.persephone,context_manager,,9,3,0,0,0,0,-1,0,0

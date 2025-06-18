@@ -1,0 +1,5 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+allenai_scibert,setup,,0,0,0,0,0,0,-1,0,0
+allenai_scibert.scibert,__init__,,0,0,0,0,0,0,-1,0,0
+allenai_scibert.scibert.dataset_readers,__init__,,0,0,0,0,0,0,-1,0,0
+allenai_scibert.scibert.dataset_readers,classification_dataset_reader,,28,8,0,0,1,1,-1,0,0

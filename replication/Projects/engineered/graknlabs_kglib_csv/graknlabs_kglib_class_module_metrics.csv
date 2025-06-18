@@ -1,0 +1,5 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+graknlabs_kglib,setup,,0,0,0,0,0,0,-1,0,0
+graknlabs_kglib.examples.diagnosis,diagnosis,,269,9,4,4,31,31,0.25,0,1
+graknlabs_kglib.examples.diagnosis.dataset,generate,,93,12,3,3,1,1,0,0,1
+graknlabs_kglib.examples.diagnosis.dataset,pmf,,36,6,0,0,0,0,-1,2,0

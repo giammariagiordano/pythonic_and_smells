@@ -1,0 +1,4 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+huggingface_neuralcoref,setup,Broken hierarchy,build_ext_subclass,123,/Volumes/BrokeExt/NICHE/huggingface_neuralcoref/setup.py,Class 'build_ext_subclass' and its superclass 'build_ext_options' may not share a proper 'IS-A' relationship.
+huggingface_neuralcoref.neuralcoref.train,conllparser,Insufficient modularization,conllparser,1,/Volumes/BrokeExt/NICHE/huggingface_neuralcoref/neuralcoref/train/conllparser.py,"Module 'conllparser' is insufficiently modularized with NOPM: 8, WMC: 161, NOM: 8."
+huggingface_neuralcoref.neuralcoref.train,document,Insufficient modularization,document,1,/Volumes/BrokeExt/NICHE/huggingface_neuralcoref/neuralcoref/train/document.py,"Module 'document' is insufficiently modularized with NOPM: 2, WMC: 174, NOM: 3."

@@ -1,0 +1,4 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+jettify_pytorch-optimizer,setup,,16,4,2,0,5,5,1,0,0
+jettify_pytorch-optimizer.docs,conf,,0,0,0,0,11,11,-1,0,0
+jettify_pytorch-optimizer.examples,mnist,,155,13,4,4,14,14,0,1,1

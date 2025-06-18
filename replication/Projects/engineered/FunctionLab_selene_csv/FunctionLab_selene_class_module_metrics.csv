@@ -1,0 +1,4 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+FunctionLab_selene,setup,,0,0,0,0,5,5,-1,0,0
+FunctionLab_selene.docs.source,conf,,36,6,1,1,38,38,0,0,0
+FunctionLab_selene.manuscript.case1,deepsea,,53,4,2,2,0,0,1,0,0

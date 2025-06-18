@@ -1,0 +1,4 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+microsoft_Windows-Machine-Learning.Samples.CustomOperator.customize_model.scripts,debug_all_outputs,,15,5,1,1,4,4,0,0,0
+microsoft_Windows-Machine-Learning.Samples.CustomOperator.customize_model.scripts,debug_single_output,,8,1,1,1,2,2,0,0,0
+microsoft_Windows-Machine-Learning.Samples.Tutorial Samples.PyTorch Data Analysis.PyTorch Training - Data Analysis,DataClassifier,,121,15,5,5,45,45,0.6,1,1

@@ -1,0 +1,6 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+zeusees_HyperLPR.Prj-Python,demo,,9,1,1,1,5,5,0,0,0
+zeusees_HyperLPR.Prj-Python,fast_test,,0,0,0,0,2,2,-1,0,0
+zeusees_HyperLPR.Prj-Python,setup,,0,0,0,0,1,0,-1,0,0
+zeusees_HyperLPR.Prj-Python.hyperlpr3,__init__,,0,0,0,0,1,0,-1,0,0
+zeusees_HyperLPR.Prj-Python.hyperlpr3,hyperlpr3,,27,5,0,0,0,0,-1,0,4

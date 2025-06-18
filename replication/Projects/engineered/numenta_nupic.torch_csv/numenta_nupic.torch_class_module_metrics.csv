@@ -1,0 +1,5 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+numenta_nupic.torch,hubconf,,0,0,0,0,1,1,-1,0,0
+numenta_nupic.torch,setup,,0,0,0,0,1,1,-1,0,0
+numenta_nupic.torch.docs.source,conf,,17,2,2,2,21,21,1,0,0
+numenta_nupic.torch.examples.gsc,audio_transforms,,229,43,1,1,0,0,0,0,0

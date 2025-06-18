@@ -1,0 +1,2 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+GoogleCloudPlatform_ml-on-gcp.dlvm.gcp-gpu-utilization-metrics,create_gpu_metrics,,28,4,2,2,0,0,0,0,0

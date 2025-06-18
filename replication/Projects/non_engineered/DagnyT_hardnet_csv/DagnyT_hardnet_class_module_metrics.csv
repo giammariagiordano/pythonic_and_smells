@@ -1,0 +1,2 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+DagnyT_hardnet.benchmarks,hpatches_extract_HardNet,,69,9,0,0,29,29,-1,1,1

@@ -1,0 +1,4 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+kwotsin_mimicry.tests.nets.basemodel,test_basemodel,Rebellious hierarchy,ExampleModel,12,/Volumes/BrokeExt/NICHE/kwotsin_mimicry/tests/nets/basemodel/test_basemodel.py,Class 'ExampleModel' potentially exhibits a rebellious hierarchy; following method(s) rejects the superclass methods: forward.
+kwotsin_mimicry.torch_mimicry.modules,layers,Multifaceted abstraction,layers,1,/Volumes/BrokeExt/NICHE/kwotsin_mimicry/torch_mimicry/modules/layers.py,"Class 'layers' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+kwotsin_mimicry.torch_mimicry.utils,common,Multifaceted abstraction,common,1,/Volumes/BrokeExt/NICHE/kwotsin_mimicry/torch_mimicry/utils/common.py,"Class 'common' has a high LCOM value of 1, indicating it may have multiple responsibilities."

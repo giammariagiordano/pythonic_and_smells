@@ -1,0 +1,5 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+keiohta_tf2rl,setup,,0,0,0,0,7,7,-1,0,0
+keiohta_tf2rl.doc,conf,,2,1,1,1,8,8,0,0,0
+keiohta_tf2rl.examples,__init__,,0,0,0,0,0,0,-1,0,0
+keiohta_tf2rl.examples,run_apex_ddpg,,34,5,3,3,2,2,1,2,0

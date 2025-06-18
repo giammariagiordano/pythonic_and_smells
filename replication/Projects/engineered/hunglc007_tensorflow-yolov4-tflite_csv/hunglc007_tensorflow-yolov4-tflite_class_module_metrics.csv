@@ -1,0 +1,11 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+hunglc007_tensorflow-yolov4-tflite,benchmarks,,100,20,1,1,18,18,0,0,0
+hunglc007_tensorflow-yolov4-tflite,convert_tflite,,45,8,4,4,8,8,0.25,0,0
+hunglc007_tensorflow-yolov4-tflite,convert_trt,,67,9,3,3,7,7,0.33,0,0
+hunglc007_tensorflow-yolov4-tflite,detect,,52,6,1,1,13,13,0,0,0
+hunglc007_tensorflow-yolov4-tflite,detectvideo,,88,13,1,1,29,29,0,0,0
+hunglc007_tensorflow-yolov4-tflite,evaluate,,106,15,1,1,39,39,0,0,0
+hunglc007_tensorflow-yolov4-tflite,save_model,,37,9,2,2,3,3,0,0,0
+hunglc007_tensorflow-yolov4-tflite,train,,127,23,1,1,14,14,0,0,1
+hunglc007_tensorflow-yolov4-tflite.core,backbone,,130,14,4,4,1,1,1,0,0
+hunglc007_tensorflow-yolov4-tflite.core,common,,40,12,5,5,4,4,0.4,0,0

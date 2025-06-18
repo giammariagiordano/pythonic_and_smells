@@ -1,0 +1,9 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+lufficc_SSD,demo,,87,5,2,2,17,17,0,0,1
+lufficc_SSD,setup,,0,0,0,0,1,1,-1,0,0
+lufficc_SSD,test,,54,4,2,2,2,2,0,0,1
+lufficc_SSD,train,,76,7,2,2,3,3,0,0,1
+lufficc_SSD.ssd,__init__,,0,0,0,0,0,0,-1,0,0
+lufficc_SSD.ssd.config,__init__,,0,0,0,0,0,0,-1,0,0
+lufficc_SSD.ssd.config,defaults,,0,0,0,0,47,46,-1,0,0
+lufficc_SSD.ssd.config,path_catlog,,31,4,0,0,0,0,-1,0,0

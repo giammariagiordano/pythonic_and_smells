@@ -1,0 +1,4 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+Open-Debin_Emotion-FAN.basic_code,data_generator,Multifaceted abstraction,data_generator,1,/Volumes/BrokeExt/NICHE/Open-Debin_Emotion-FAN/basic_code/data_generator.py,"Class 'data_generator' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+Open-Debin_Emotion-FAN.basic_code,load,Multifaceted abstraction,load,1,/Volumes/BrokeExt/NICHE/Open-Debin_Emotion-FAN/basic_code/load.py,"Class 'load' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+Open-Debin_Emotion-FAN.basic_code,util,Multifaceted abstraction,util,1,/Volumes/BrokeExt/NICHE/Open-Debin_Emotion-FAN/basic_code/util.py,"Class 'util' has a high LCOM value of 1, indicating it may have multiple responsibilities."

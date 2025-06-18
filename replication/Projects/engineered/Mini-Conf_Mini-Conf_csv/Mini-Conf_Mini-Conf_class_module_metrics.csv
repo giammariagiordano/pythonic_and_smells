@@ -1,0 +1,8 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+Mini-Conf_Mini-Conf,main,,151,35,22,21,17,17,0.32,0,0
+Mini-Conf_Mini-Conf.chat,make_poster_rooms,,17,5,2,2,9,9,1,0,0
+Mini-Conf_Mini-Conf.gather,posterList,,67,9,3,3,42,42,1,0,0
+Mini-Conf_Mini-Conf.scripts,embeddings,,4,1,1,1,4,4,0,0,0
+Mini-Conf_Mini-Conf.scripts,format,,0,0,0,0,3,3,-1,0,0
+Mini-Conf_Mini-Conf.scripts,parse_calendar,,55,5,2,2,6,6,1,0,0
+Mini-Conf_Mini-Conf.scripts,reduce,,5,1,1,1,5,5,0,0,0

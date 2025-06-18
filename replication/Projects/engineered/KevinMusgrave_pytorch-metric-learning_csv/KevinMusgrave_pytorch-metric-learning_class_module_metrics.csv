@@ -1,0 +1,5 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+KevinMusgrave_pytorch-metric-learning,setup,,0,0,0,0,5,5,-1,0,0
+KevinMusgrave_pytorch-metric-learning.src.pytorch_metric_learning,__init__,,0,0,0,0,1,0,-1,0,0
+KevinMusgrave_pytorch-metric-learning.src.pytorch_metric_learning.datasets,__init__,,0,0,0,0,0,0,-1,0,0
+KevinMusgrave_pytorch-metric-learning.src.pytorch_metric_learning.datasets,base_dataset,,47,13,0,0,0,0,-1,0,0

@@ -1,0 +1,6 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+deepmedic_deepmedic,plotTrainingProgress,,434,91,25,25,73,73,0.32,0,0
+deepmedic_deepmedic,setup,,2,1,1,1,0,0,0,0,0
+deepmedic_deepmedic.deepmedic,__init__,,0,0,0,0,0,0,-1,0,0
+deepmedic_deepmedic.deepmedic.dataManagement,__init__,,0,0,0,0,0,0,-1,0,0
+deepmedic_deepmedic.deepmedic.dataManagement,augmentImage,,149,27,3,3,2,2,0.33,2,1

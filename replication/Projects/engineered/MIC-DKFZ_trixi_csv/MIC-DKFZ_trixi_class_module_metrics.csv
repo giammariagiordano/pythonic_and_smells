@@ -1,0 +1,5 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+MIC-DKFZ_trixi,setup,,20,6,3,3,5,5,0.33,0,0
+MIC-DKFZ_trixi.doc,conf,,11,2,2,2,25,25,1,0,0
+MIC-DKFZ_trixi.examples,train_net,,0,0,0,0,19,19,-1,0,0
+MIC-DKFZ_trixi.examples,train_net_pytorchexperiment,,90,9,0,0,4,4,-1,2,3

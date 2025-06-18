@@ -1,0 +1,6 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+google-research_text-to-text-transfer-transformer,setup,,0,0,0,0,2,1,-1,0,0
+google-research_text-to-text-transfer-transformer.t5,__init__,,0,0,0,0,0,0,-1,0,0
+google-research_text-to-text-transfer-transformer.t5,version,,0,0,0,0,1,0,-1,0,0
+google-research_text-to-text-transfer-transformer.t5.data,__init__,,0,0,0,0,0,0,-1,0,0
+google-research_text-to-text-transfer-transformer.t5.data,dataset_providers,,108,27,0,0,4,1,-1,0,0

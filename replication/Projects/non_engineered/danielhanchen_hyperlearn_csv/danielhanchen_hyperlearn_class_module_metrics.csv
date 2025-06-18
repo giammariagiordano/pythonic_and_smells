@@ -1,0 +1,5 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+danielhanchen_hyperlearn,setup,,0,0,0,0,7,7,-1,0,0
+danielhanchen_hyperlearn.__hyperlearn_archive.docs,conf,,0,0,0,0,24,24,-1,0,0
+danielhanchen_hyperlearn.__hyperlearn_archive.hyperlearn,base,,132,38,23,23,13,13,0.17,0,0
+danielhanchen_hyperlearn.__hyperlearn_archive.hyperlearn,exceptions,,12,4,0,0,0,0,-1,0,0

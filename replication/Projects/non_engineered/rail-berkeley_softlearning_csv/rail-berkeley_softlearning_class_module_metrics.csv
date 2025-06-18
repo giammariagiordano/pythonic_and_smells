@@ -1,0 +1,7 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+rail-berkeley_softlearning,setup,,0,0,0,0,3,3,-1,0,0
+rail-berkeley_softlearning.examples,__init__,,0,0,0,0,0,0,-1,0,0
+rail-berkeley_softlearning.examples,instrument,,269,35,13,12,14,14,0,0,0
+rail-berkeley_softlearning.examples,utils,,205,3,4,4,5,5,0.25,0,0
+rail-berkeley_softlearning.examples.development,__init__,,11,3,3,3,0,0,1,0,0
+rail-berkeley_softlearning.examples.development,main,,184,29,1,1,0,0,0,1,0

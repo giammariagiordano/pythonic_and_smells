@@ -1,0 +1,5 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+AICoE_prometheus-anomaly-detector,app,Multifaceted abstraction,app,1,/Volumes/BrokeExt/NICHE/AICoE_prometheus-anomaly-detector/app.py,"Class 'app' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+AICoE_prometheus-anomaly-detector,configuration,Broken modularization,Configuration,18,/Volumes/BrokeExt/NICHE/AICoE_prometheus-anomaly-detector/configuration.py,Class 'Configuration' contains only data members without any method implementations.
+AICoE_prometheus-anomaly-detector,test_configuration,Broken modularization,Configuration,16,/Volumes/BrokeExt/NICHE/AICoE_prometheus-anomaly-detector/test_configuration.py,Class 'Configuration' contains only data members without any method implementations.
+AICoE_prometheus-anomaly-detector,test_model,Multifaceted abstraction,test_model,1,/Volumes/BrokeExt/NICHE/AICoE_prometheus-anomaly-detector/test_model.py,"Class 'test_model' has a high LCOM value of 1, indicating it may have multiple responsibilities."

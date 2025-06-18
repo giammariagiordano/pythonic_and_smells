@@ -1,0 +1,5 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+norse_norse.norse,__init__,,0,0,0,0,2,0,-1,0,0
+norse_norse.norse,__main__,,0,0,0,0,0,0,-1,0,0
+norse_norse.norse.benchmark,__init__,,0,0,0,0,0,0,-1,0,0
+norse_norse.norse.benchmark,benchmark,,6,0,0,0,0,0,-1,2,0

@@ -1,0 +1,7 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+robertness_causalML.book,pgmpy_do,,29,1,1,1,11,11,0,0,0
+robertness_causalML.book.chapter 10,id_utilities,,129,24,3,3,26,26,0.33,0,0
+robertness_causalML.book.chapter 9,hyp_function,,34,7,1,1,7,7,0,0,0
+robertness_causalML.projects.airbnb santa clara,data_cleaning,,20,4,3,3,26,26,0,0,0
+robertness_causalML.projects.airbnb santa clara,pull_addresses,,65,6,5,5,4,4,0,0,0
+robertness_causalML.projects.causal moneyball.Causal-analysis-on-football-transfer-prices.Causal Model notebooks,RWinOut,,37,8,1,1,0,0,0,1,1

@@ -1,0 +1,43 @@
+Package,Module,Class,Smell,Function/Method,Line no,File,Details
+rusty1s_pytorch_scatter,setup,,Complex method,get_extensions,32 - 107,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/setup.py,"Method 'get_extensions' has a cyclomatic complexity of 14, exceeding the max of 6."
+rusty1s_pytorch_scatter,setup,,Long method,get_extensions,32 - 107,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/setup.py,Method 'get_extensions' is too long (72 lines).
+rusty1s_pytorch_scatter,setup,,Long statement,get_extensions,96,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/setup.py,A line with 224 chars in get_extensions exceeds the maximum length of 120 characters.
+rusty1s_pytorch_scatter,setup,,Long statement,,122,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/setup.py,A line with 629 chars in setup exceeds the maximum length of 120 characters.
+rusty1s_pytorch_scatter,setup,,Magic number,get_extensions,84,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/setup.py,Magic number 4 used in get_extensions.
+rusty1s_pytorch_scatter.benchmark,gather,,Complex method,time_func,38 - 61,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/benchmark/gather.py,"Method 'time_func' has a cyclomatic complexity of 7, exceeding the max of 6."
+rusty1s_pytorch_scatter.benchmark,gather,,Long method,timing,64 - 119,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/benchmark/gather.py,Method 'timing' is too long (49 lines).
+rusty1s_pytorch_scatter.benchmark,scatter_segment,,Complex method,time_func,82 - 106,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/benchmark/scatter_segment.py,"Method 'time_func' has a cyclomatic complexity of 7, exceeding the max of 6."
+rusty1s_pytorch_scatter.benchmark,scatter_segment,,Long method,correctness,36 - 79,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/benchmark/scatter_segment.py,Method 'correctness' is too long (43 lines).
+rusty1s_pytorch_scatter.benchmark,scatter_segment,,Long method,timing,109 - 210,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/benchmark/scatter_segment.py,Method 'timing' is too long (90 lines).
+rusty1s_pytorch_scatter.docs.source,conf,,Long statement,,7,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/docs/source/conf.py,A line with 129 chars in conf exceeds the maximum length of 120 characters.
+rusty1s_pytorch_scatter.test,test_broadcasting,,Magic number,test_broadcasting,11,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/test/test_broadcasting.py,Magic number 4 used in test_broadcasting.
+rusty1s_pytorch_scatter.test,test_broadcasting,,Magic number,test_broadcasting,11,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/test/test_broadcasting.py,Magic number 3 used in test_broadcasting.
+rusty1s_pytorch_scatter.test,test_broadcasting,,Magic number,test_broadcasting,11,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/test/test_broadcasting.py,Magic number 8 used in test_broadcasting.
+rusty1s_pytorch_scatter.test,test_broadcasting,,Magic number,test_broadcasting,11,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/test/test_broadcasting.py,Magic number 8 used in test_broadcasting.
+rusty1s_pytorch_scatter.test,test_gather,,Long statement,,9,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/test/test_gather.py,A line with 922 chars in test_gather exceeds the maximum length of 120 characters.
+rusty1s_pytorch_scatter.test,test_multi_gpu,,Long statement,,8,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/test/test_multi_gpu.py,A line with 213 chars in test_multi_gpu exceeds the maximum length of 120 characters.
+rusty1s_pytorch_scatter.test,test_scatter,,Complex method,test_out,129 - 152,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/test/test_scatter.py,"Method 'test_out' has a cyclomatic complexity of 7, exceeding the max of 6."
+rusty1s_pytorch_scatter.test,test_scatter,,Long statement,,11,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/test/test_scatter.py,A line with 2407 chars in test_scatter exceeds the maximum length of 120 characters.
+rusty1s_pytorch_scatter.test,test_scatter,,Magic number,test_out,140,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/test/test_scatter.py,Magic number 2 used in test_out.
+rusty1s_pytorch_scatter.test,test_scatter,,Magic number,test_out,148,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/test/test_scatter.py,Magic number 2 used in test_out.
+rusty1s_pytorch_scatter.test,test_segment,,Long statement,,9,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/test/test_segment.py,A line with 2242 chars in test_segment exceeds the maximum length of 120 characters.
+rusty1s_pytorch_scatter.test,test_segment,,Magic number,test_out,151,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/test/test_segment.py,Magic number 2 used in test_out.
+rusty1s_pytorch_scatter.test,test_segment,,Magic number,test_out,157,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/test/test_segment.py,Magic number 2 used in test_out.
+rusty1s_pytorch_scatter.test,test_zero_tensors,,Magic number,test_zero_elements,20,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/test/test_zero_tensors.py,Magic number 16 used in test_zero_elements.
+rusty1s_pytorch_scatter.test,test_zero_tensors,,Magic number,test_zero_elements,24,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/test/test_zero_tensors.py,Magic number 16 used in test_zero_elements.
+rusty1s_pytorch_scatter.test,test_zero_tensors,,Magic number,test_zero_elements,28,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/test/test_zero_tensors.py,Magic number 16 used in test_zero_elements.
+rusty1s_pytorch_scatter.test,test_zero_tensors,,Magic number,test_zero_elements,32,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/test/test_zero_tensors.py,Magic number 16 used in test_zero_elements.
+rusty1s_pytorch_scatter.test,test_zero_tensors,,Magic number,test_zero_elements,36,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/test/test_zero_tensors.py,Magic number 16 used in test_zero_elements.
+rusty1s_pytorch_scatter.test.composite,test_logsumexp,,Magic number,test_logsumexp,18,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/test/composite/test_logsumexp.py,Magic number 2 used in test_logsumexp.
+rusty1s_pytorch_scatter.test.composite,test_logsumexp,,Magic number,test_logsumexp,18,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/test/composite/test_logsumexp.py,Magic number 3 used in test_logsumexp.
+rusty1s_pytorch_scatter.test.composite,test_logsumexp,,Magic number,test_logsumexp,18,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/test/composite/test_logsumexp.py,Magic number 2 used in test_logsumexp.
+rusty1s_pytorch_scatter.torch_scatter,__init__,,Long statement,,60,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/torch_scatter/__init__.py,A line with 273 chars in __init__ exceeds the maximum length of 120 characters.
+rusty1s_pytorch_scatter.torch_scatter,__init__,,Long statement,,78,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/torch_scatter/__init__.py,A line with 472 chars in __init__ exceeds the maximum length of 120 characters.
+rusty1s_pytorch_scatter.torch_scatter,scatter,,Long parameter list,scatter,87 - 177,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/torch_scatter/scatter.py,"scatter has 6 parameters, exceeding the max of 5."
+rusty1s_pytorch_scatter.torch_scatter,scatter,,Long statement,scatter,93,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/torch_scatter/scatter.py,A line with 2839 chars in scatter exceeds the maximum length of 120 characters.
+rusty1s_pytorch_scatter.torch_scatter,segment_coo,,Long statement,segment_coo,42,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/torch_scatter/segment_coo.py,A line with 3256 chars in segment_coo exceeds the maximum length of 120 characters.
+rusty1s_pytorch_scatter.torch_scatter,segment_csr,,Long statement,segment_csr,38,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/torch_scatter/segment_csr.py,A line with 2394 chars in segment_csr exceeds the maximum length of 120 characters.
+rusty1s_pytorch_scatter.torch_scatter.composite,logsumexp,,Long parameter list,scatter_logsumexp,8 - 56,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/torch_scatter/composite/logsumexp.py,"scatter_logsumexp has 6 parameters, exceeding the max of 5."
+rusty1s_pytorch_scatter.torch_scatter.composite,logsumexp,,Magic number,scatter_logsumexp,14,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/torch_scatter/composite/logsumexp.py,Magic number 1e-12 used in scatter_logsumexp.
+rusty1s_pytorch_scatter.torch_scatter.composite,softmax,,Magic number,scatter_log_softmax,33,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/torch_scatter/composite/softmax.py,Magic number 1e-12 used in scatter_log_softmax.
+rusty1s_pytorch_scatter.torch_scatter.composite,std,,Long parameter list,scatter_std,8 - 39,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/torch_scatter/composite/std.py,"scatter_std has 6 parameters, exceeding the max of 5."

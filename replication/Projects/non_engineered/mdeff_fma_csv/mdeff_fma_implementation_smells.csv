@@ -1,0 +1,39 @@
+Package,Module,Class,Smell,Function/Method,Line no,File,Details
+mdeff_fma,creation,,Complex method,trim_audio,107 - 144,/Volumes/BrokeExt/NICHE/mdeff_fma/creation.py,"Method 'trim_audio' has a cyclomatic complexity of 8, exceeding the max of 6."
+mdeff_fma,creation,,Empty catch block,convert_duration,102,/Volumes/BrokeExt/NICHE/mdeff_fma/creation.py,Empty catch block found in convert_duration.
+mdeff_fma,creation,,Empty catch block,trim_audio,141,/Volumes/BrokeExt/NICHE/mdeff_fma/creation.py,Empty catch block found in trim_audio.
+mdeff_fma,creation,,Long method,create_zips,160 - 226,/Volumes/BrokeExt/NICHE/mdeff_fma/creation.py,Method 'create_zips' is too long (62 lines).
+mdeff_fma,creation,,Long statement,create_zips,213,/Volumes/BrokeExt/NICHE/mdeff_fma/creation.py,A line with 184 chars in create_zips exceeds the maximum length of 120 characters.
+mdeff_fma,creation,,Long statement,,20,/Volumes/BrokeExt/NICHE/mdeff_fma/creation.py,A line with 274 chars in creation exceeds the maximum length of 120 characters.
+mdeff_fma,creation,,Magic number,_create_subdirs,66,/Volumes/BrokeExt/NICHE/mdeff_fma/creation.py,Magic number 1000 used in _create_subdirs.
+mdeff_fma,creation,,Magic number,convert_duration,101,/Volumes/BrokeExt/NICHE/mdeff_fma/creation.py,Magic number 60 used in convert_duration.
+mdeff_fma,creation,,Magic number,convert_duration,104,/Volumes/BrokeExt/NICHE/mdeff_fma/creation.py,Magic number 60 used in convert_duration.
+mdeff_fma,creation,,Magic number,trim_audio,126,/Volumes/BrokeExt/NICHE/mdeff_fma/creation.py,Magic number 30 used in trim_audio.
+mdeff_fma,creation,,Magic number,trim_audio,129,/Volumes/BrokeExt/NICHE/mdeff_fma/creation.py,Magic number 15 used in trim_audio.
+mdeff_fma,creation,,Magic number,trim_audio,129,/Volumes/BrokeExt/NICHE/mdeff_fma/creation.py,Magic number 2 used in trim_audio.
+mdeff_fma,creation,,Magic number,create_zips,197,/Volumes/BrokeExt/NICHE/mdeff_fma/creation.py,Magic number 292 used in create_zips.
+mdeff_fma,creation,,Magic number,create_zips,197,/Volumes/BrokeExt/NICHE/mdeff_fma/creation.py,Magic number 16 used in create_zips.
+mdeff_fma,creation,,Magic number,create_zips,197,/Volumes/BrokeExt/NICHE/mdeff_fma/creation.py,Magic number 2 used in create_zips.
+mdeff_fma,creation,,Magic number,create_zips,197,/Volumes/BrokeExt/NICHE/mdeff_fma/creation.py,Magic number 30 used in create_zips.
+mdeff_fma,creation,,Magic number,create_zips,176,/Volumes/BrokeExt/NICHE/mdeff_fma/creation.py,Magic number 42 used in create_zips.
+mdeff_fma,features,,Long method,compute_features,45 - 109,/Volumes/BrokeExt/NICHE/mdeff_fma/features.py,Method 'compute_features' is too long (59 lines).
+mdeff_fma,features,,Long statement,columns,26,/Volumes/BrokeExt/NICHE/mdeff_fma/features.py,A line with 186 chars in columns exceeds the maximum length of 120 characters.
+mdeff_fma,features,,Magic number,compute_features,70,/Volumes/BrokeExt/NICHE/mdeff_fma/features.py,Magic number 7 used in compute_features.
+mdeff_fma,features,,Magic number,compute_features,70,/Volumes/BrokeExt/NICHE/mdeff_fma/features.py,Magic number 12 used in compute_features.
+mdeff_fma,features,,Magic number,compute_features,82,/Volumes/BrokeExt/NICHE/mdeff_fma/features.py,Magic number 2048 used in compute_features.
+mdeff_fma,features,,Magic number,compute_features,82,/Volumes/BrokeExt/NICHE/mdeff_fma/features.py,Magic number 2 used in compute_features.
+mdeff_fma,features,,Magic number,main,121,/Volumes/BrokeExt/NICHE/mdeff_fma/features.py,Magic number 5000 used in main.
+mdeff_fma,features,,Magic number,main,121,/Volumes/BrokeExt/NICHE/mdeff_fma/features.py,Magic number 3000 used in main.
+mdeff_fma,features,,Magic number,main,121,/Volumes/BrokeExt/NICHE/mdeff_fma/features.py,Magic number 3 used in main.
+mdeff_fma,features,,Magic number,main,121,/Volumes/BrokeExt/NICHE/mdeff_fma/features.py,Magic number 2000 used in main.
+mdeff_fma,features,,Magic number,main,121,/Volumes/BrokeExt/NICHE/mdeff_fma/features.py,Magic number 5 used in main.
+mdeff_fma,features,,Magic number,main,121,/Volumes/BrokeExt/NICHE/mdeff_fma/features.py,Magic number 1000 used in main.
+mdeff_fma,features,,Magic number,main,121,/Volumes/BrokeExt/NICHE/mdeff_fma/features.py,Magic number 10 used in main.
+mdeff_fma,features,,Magic number,main,134,/Volumes/BrokeExt/NICHE/mdeff_fma/features.py,Magic number 1000 used in main.
+mdeff_fma,setup,,Long statement,,3,/Volumes/BrokeExt/NICHE/mdeff_fma/setup.py,A line with 204 chars in setup exceeds the maximum length of 120 characters.
+mdeff_fma,utils,,Long method,build_sample_loader,305 - 365,/Volumes/BrokeExt/NICHE/mdeff_fma/utils.py,Method 'build_sample_loader' is too long (59 lines).
+mdeff_fma,utils,,Long statement,load,204,/Volumes/BrokeExt/NICHE/mdeff_fma/utils.py,A line with 212 chars in load exceeds the maximum length of 120 characters.
+mdeff_fma,utils,,Long statement,get_audio_path,230,/Volumes/BrokeExt/NICHE/mdeff_fma/utils.py,A line with 296 chars in get_audio_path exceeds the maximum length of 120 characters.
+mdeff_fma,utils,,Long statement,build_sample_loader,307,/Volumes/BrokeExt/NICHE/mdeff_fma/utils.py,A line with 2037 chars in build_sample_loader exceeds the maximum length of 120 characters.
+mdeff_fma,utils,,Magic number,build_sample_loader,309,/Volumes/BrokeExt/NICHE/mdeff_fma/utils.py,Magic number 4 used in build_sample_loader.
+mdeff_fma,utils,FreeMusicArchive,Magic number,get_all,78,/Volumes/BrokeExt/NICHE/mdeff_fma/utils.py,Magic number 2 used in get_all.

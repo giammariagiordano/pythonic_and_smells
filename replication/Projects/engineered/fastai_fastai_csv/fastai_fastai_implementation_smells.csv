@@ -1,0 +1,1075 @@
+Package,Module,Class,Smell,Function/Method,Line no,File,Details
+fastai_fastai,download_checks,,Long statement,,1,/Volumes/BrokeExt/NICHE/fastai_fastai/download_checks.py,A line with 989 chars in download_checks exceeds the maximum length of 120 characters.
+fastai_fastai,setup,,Long statement,,23,/Volumes/BrokeExt/NICHE/fastai_fastai/setup.py,A line with 124 chars in setup exceeds the maximum length of 120 characters.
+fastai_fastai,setup,,Long statement,,37,/Volumes/BrokeExt/NICHE/fastai_fastai/setup.py,A line with 223 chars in setup exceeds the maximum length of 120 characters.
+fastai_fastai,setup,,Long statement,,38,/Volumes/BrokeExt/NICHE/fastai_fastai/setup.py,A line with 216 chars in setup exceeds the maximum length of 120 characters.
+fastai_fastai,setup,,Long statement,,40,/Volumes/BrokeExt/NICHE/fastai_fastai/setup.py,A line with 808 chars in setup exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,_nbdev,,Long statement,,839,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/_nbdev.py,A line with 1030 chars in _nbdev exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,_pytorch_doc,,Empty catch block,pytorch_doc_link,38,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/_pytorch_doc.py,Empty catch block found in pytorch_doc_link.
+fastai_fastai.fastai,_pytorch_doc,,Empty catch block,pytorch_doc_link,46,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/_pytorch_doc.py,Empty catch block found in pytorch_doc_link.
+fastai_fastai.fastai,collab,,Long parameter list,collab_learner,95 - 104,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/collab.py,"collab_learner has 8 parameters, exceeding the max of 5."
+fastai_fastai.fastai,collab,CollabDataLoaders,Long parameter list,from_df,22 - 30,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/collab.py,"from_df has 8 parameters, exceeding the max of 5."
+fastai_fastai.fastai,collab,EmbeddingDotBias,Long parameter list,from_classes,56 - 62,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/collab.py,"from_classes has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai,collab,EmbeddingDotBias,Long statement,__init__,44,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/collab.py,A line with 156 chars in __init__ exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,collab,,Magic number,collab_learner,95,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/collab.py,Magic number 50 used in collab_learner.
+fastai_fastai.fastai,collab,CollabDataLoaders,Magic number,from_df,22,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/collab.py,Magic number 0.2 used in from_df.
+fastai_fastai.fastai,distributed,,Complex method,distrib_ctx,191 - 214,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/distributed.py,"Method 'distrib_ctx' has a cyclomatic complexity of 7, exceeding the max of 6."
+fastai_fastai.fastai,distributed,,Long statement,distrib_ctx,197,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/distributed.py,A line with 140 chars in distrib_ctx exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,distributed,DistributedDL,Long statement,__init__,88,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/distributed.py,A line with 215 chars in __init__ exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,distributed,DistributedDL,Long statement,__init__,90,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/distributed.py,A line with 190 chars in __init__ exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,distributed,DistributedDL,Long statement,__init__,93,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/distributed.py,A line with 166 chars in __init__ exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,distributed,DistributedDL,Long statement,to_detach,131,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/distributed.py,A line with 151 chars in to_detach exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,distributed,DistributedTrainer,Long statement,before_fit,152,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/distributed.py,A line with 130 chars in before_fit exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,fp16_utils,,Complex method,convert_module,45 - 58,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/fp16_utils.py,"Method 'convert_module' has a cyclomatic complexity of 9, exceeding the max of 6."
+fastai_fastai.fastai,fp16_utils,,Long statement,network_to_half,37,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/fp16_utils.py,A line with 143 chars in network_to_half exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,fp16_utils,,Long statement,prep_param_lists,92,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/fp16_utils.py,A line with 1157 chars in prep_param_lists exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,fp16_utils,,Long statement,model_grads_to_master_grads,138,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/fp16_utils.py,A line with 395 chars in model_grads_to_master_grads exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,fp16_utils,,Long statement,master_params_to_model_params,160,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/fp16_utils.py,A line with 397 chars in master_params_to_model_params exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,imports,,Long statement,equals,82,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/imports.py,A line with 182 chars in equals exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,imports,,Long statement,,34,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/imports.py,A line with 248 chars in imports exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,interpret,Interpretation,Long statement,__getitem__,41,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/interpret.py,A line with 145 chars in __getitem__ exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,interpret,Interpretation,Long statement,from_learner,54,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/interpret.py,A line with 138 chars in from_learner exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,interpret,ClassificationInterpretation,Long statement,confusion_matrix,116,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/interpret.py,A line with 121 chars in confusion_matrix exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,interpret,ClassificationInterpretation,Long statement,plot_confusion_matrix,145,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/interpret.py,A line with 134 chars in plot_confusion_matrix exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,interpret,ClassificationInterpretation,Long statement,print_classification_report,165,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/interpret.py,A line with 121 chars in print_classification_report exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,interpret,ClassificationInterpretation,Magic number,plot_confusion_matrix,126,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/interpret.py,Magic number 2 used in plot_confusion_matrix.
+fastai_fastai.fastai,interpret,ClassificationInterpretation,Magic number,plot_confusion_matrix,142,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/interpret.py,Magic number 2.0 used in plot_confusion_matrix.
+fastai_fastai.fastai,layers,,Complex method,init_linear,221 - 229,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,"Method 'init_linear' has a cyclomatic complexity of 8, exceeding the max of 6."
+fastai_fastai.fastai,layers,ConvLayer,Complex method,__init__,244 - 264,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,"Method '__init__' has a cyclomatic complexity of 11, exceeding the max of 6."
+fastai_fastai.fastai,layers,ResBlock,Complex method,__init__,468 - 491,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,"Method '__init__' has a cyclomatic complexity of 7, exceeding the max of 6."
+fastai_fastai.fastai,layers,,Empty catch block,has_children,633,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Empty catch block found in has_children.
+fastai_fastai.fastai,layers,,Long parameter list,_conv1d_spect,338 - 343,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,"_conv1d_spect has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai,layers,,Long parameter list,SEBlock,496 - 497,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,"SEBlock has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai,layers,,Long parameter list,SEResNeXtBlock,500 - 502,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,"SEResNeXtBlock has 7 parameters, exceeding the max of 5."
+fastai_fastai.fastai,layers,,Long parameter list,SeparableBlock,505 - 506,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,"SeparableBlock has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai,layers,LinBnDrop,Long parameter list,__init__,179 - 185,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,"__init__ has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai,layers,ConvLayer,Long parameter list,__init__,244 - 264,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,"__init__ has 14 parameters, exceeding the max of 5."
+fastai_fastai.fastai,layers,PixelShuffle_ICNR,Long parameter list,__init__,380 - 391,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,"__init__ has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai,layers,ResBlock,Long parameter list,__init__,468 - 491,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,"__init__ has 18 parameters, exceeding the max of 5."
+fastai_fastai.fastai,layers,,Long statement,adaptive_pool,135,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,A line with 131 chars in adaptive_pool exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,layers,,Long statement,SEModule,459,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,A line with 176 chars in SEModule exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,layers,,Long statement,SEBlock,497,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,A line with 131 chars in SEBlock exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,layers,SelfAttention,Long statement,__init__,301,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,A line with 124 chars in __init__ exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,layers,PooledSelfAttention2d,Long statement,__init__,321,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,A line with 131 chars in __init__ exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,layers,PixelShuffle_ICNR,Long statement,__init__,383,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,A line with 125 chars in __init__ exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,layers,SimpleCNN,Long statement,__init__,443,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,A line with 168 chars in __init__ exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,layers,ResBlock,Long statement,__init__,471,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,A line with 141 chars in __init__ exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,layers,ResBlock,Long statement,__init__,478,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,A line with 303 chars in __init__ exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,layers,,Long statement,,13,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,A line with 936 chars in layers exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,layers,,Magic number,_get_norm,146,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 2 used in _get_norm.
+fastai_fastai.fastai,layers,,Magic number,_get_norm,148,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 3 used in _get_norm.
+fastai_fastai.fastai,layers,,Magic number,BatchNorm,157,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 2 used in BatchNorm.
+fastai_fastai.fastai,layers,,Magic number,InstanceNorm,163,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 2 used in InstanceNorm.
+fastai_fastai.fastai,layers,,Magic number,sigmoid,188,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 1e-07 used in sigmoid.
+fastai_fastai.fastai,layers,,Magic number,sigmoid_,193,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 1e-07 used in sigmoid_.
+fastai_fastai.fastai,layers,,Magic number,init_linear,221,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 0.01 used in init_linear.
+fastai_fastai.fastai,layers,,Magic number,_conv_func,232,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 2 used in _conv_func.
+fastai_fastai.fastai,layers,,Magic number,_conv_func,234,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 3 used in _conv_func.
+fastai_fastai.fastai,layers,,Magic number,AdaptiveAvgPool,267,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 2 used in AdaptiveAvgPool.
+fastai_fastai.fastai,layers,,Magic number,AdaptiveAvgPool,269,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 3 used in AdaptiveAvgPool.
+fastai_fastai.fastai,layers,,Magic number,MaxPool,273,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 2 used in MaxPool.
+fastai_fastai.fastai,layers,,Magic number,MaxPool,273,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 2 used in MaxPool.
+fastai_fastai.fastai,layers,,Magic number,MaxPool,275,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 3 used in MaxPool.
+fastai_fastai.fastai,layers,,Magic number,AvgPool,279,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 2 used in AvgPool.
+fastai_fastai.fastai,layers,,Magic number,AvgPool,279,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 2 used in AvgPool.
+fastai_fastai.fastai,layers,,Magic number,AvgPool,281,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 3 used in AvgPool.
+fastai_fastai.fastai,layers,,Magic number,icnr_init,368,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 2 used in icnr_init.
+fastai_fastai.fastai,layers,,Magic number,SEModule,458,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 8 used in SEModule.
+fastai_fastai.fastai,layers,,Magic number,SEBlock,496,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 16 used in SEBlock.
+fastai_fastai.fastai,layers,,Magic number,SEResNeXtBlock,500,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 32 used in SEResNeXtBlock.
+fastai_fastai.fastai,layers,,Magic number,SEResNeXtBlock,500,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 16 used in SEResNeXtBlock.
+fastai_fastai.fastai,layers,,Magic number,SEResNeXtBlock,500,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 4 used in SEResNeXtBlock.
+fastai_fastai.fastai,layers,,Magic number,SeparableBlock,505,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 16 used in SeparableBlock.
+fastai_fastai.fastai,layers,,Magic number,SeparableBlock,505,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 4 used in SeparableBlock.
+fastai_fastai.fastai,layers,BatchNorm1dFlat,Magic number,forward,171,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 2 used in forward.
+fastai_fastai.fastai,layers,ConvLayer,Magic number,__init__,244,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 3 used in __init__.
+fastai_fastai.fastai,layers,ConvLayer,Magic number,__init__,244,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 2 used in __init__.
+fastai_fastai.fastai,layers,ConvLayer,Magic number,__init__,245,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 0.01 used in __init__.
+fastai_fastai.fastai,layers,ConvLayer,Magic number,__init__,246,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 2 used in __init__.
+fastai_fastai.fastai,layers,Embedding,Magic number,__init__,293,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 0.01 used in __init__.
+fastai_fastai.fastai,layers,SelfAttention,Magic number,__init__,301,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 8 used in __init__.
+fastai_fastai.fastai,layers,SelfAttention,Magic number,__init__,301,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 8 used in __init__.
+fastai_fastai.fastai,layers,PooledSelfAttention2d,Magic number,__init__,321,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 8 used in __init__.
+fastai_fastai.fastai,layers,PooledSelfAttention2d,Magic number,__init__,321,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 8 used in __init__.
+fastai_fastai.fastai,layers,PooledSelfAttention2d,Magic number,__init__,321,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 2 used in __init__.
+fastai_fastai.fastai,layers,PooledSelfAttention2d,Magic number,forward,329,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 2 used in forward.
+fastai_fastai.fastai,layers,PooledSelfAttention2d,Magic number,forward,329,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 3 used in forward.
+fastai_fastai.fastai,layers,SimpleSelfAttention,Magic number,forward,355,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 2 used in forward.
+fastai_fastai.fastai,layers,PixelShuffle_ICNR,Magic number,__init__,380,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 2 used in __init__.
+fastai_fastai.fastai,layers,ResBlock,Magic number,__init__,469,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 2 used in __init__.
+fastai_fastai.fastai,layers,ResBlock,Magic number,__init__,469,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/layers.py,Magic number 3 used in __init__.
+fastai_fastai.fastai,learner,,Complex method,load_model,49 - 61,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/learner.py,"Method 'load_model' has a cyclomatic complexity of 8, exceeding the max of 6."
+fastai_fastai.fastai,learner,Learner,Complex method,create_opt,182 - 194,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/learner.py,"Method 'create_opt' has a cyclomatic complexity of 8, exceeding the max of 6."
+fastai_fastai.fastai,learner,Learner,Complex method,get_preds,284 - 319,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/learner.py,"Method 'get_preds' has a cyclomatic complexity of 13, exceeding the max of 6."
+fastai_fastai.fastai,learner,,Empty catch block,_try_concat,66,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/learner.py,Empty catch block found in _try_concat.
+fastai_fastai.fastai,learner,,Empty catch block,_maybe_item,533,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/learner.py,Empty catch block found in _maybe_item.
+fastai_fastai.fastai,learner,,Long parameter list,load_model,49 - 61,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/learner.py,"load_model has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai,learner,,Long parameter list,tta,667 - 687,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/learner.py,"tta has 7 parameters, exceeding the max of 5."
+fastai_fastai.fastai,learner,Learner,Long parameter list,__init__,102 - 129,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/learner.py,"__init__ has 15 parameters, exceeding the max of 5."
+fastai_fastai.fastai,learner,Learner,Long parameter list,fit,257 - 266,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/learner.py,"fit has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai,learner,Learner,Long parameter list,get_preds,284 - 319,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/learner.py,"get_preds has 9 parameters, exceeding the max of 5."
+fastai_fastai.fastai,learner,Learner,Long statement,to_detach,356,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/learner.py,A line with 124 chars in to_detach exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,learner,,Long statement,,14,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/learner.py,A line with 393 chars in learner exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,learner,,Long statement,,20,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/learner.py,A line with 176 chars in learner exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,learner,,Long statement,,91,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/learner.py,A line with 577 chars in learner exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,learner,,Long statement,,366,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/learner.py,A line with 1822 chars in learner exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,learner,,Long statement,,620,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/learner.py,A line with 582 chars in learner exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,learner,,Long statement,,660,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/learner.py,A line with 146 chars in learner exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,learner,,Magic number,save_model,40,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/learner.py,Magic number 2 used in save_model.
+fastai_fastai.fastai,learner,,Magic number,export,427,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/learner.py,Magic number 2 used in export.
+fastai_fastai.fastai,learner,,Magic number,tta,667,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/learner.py,Magic number 4 used in tta.
+fastai_fastai.fastai,learner,,Magic number,tta,667,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/learner.py,Magic number 0.25 used in tta.
+fastai_fastai.fastai,learner,Learner,Magic number,__init__,116,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/learner.py,Magic number 0.95 used in __init__.
+fastai_fastai.fastai,learner,Learner,Magic number,__init__,116,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/learner.py,Magic number 0.85 used in __init__.
+fastai_fastai.fastai,learner,Learner,Magic number,__init__,116,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/learner.py,Magic number 0.95 used in __init__.
+fastai_fastai.fastai,learner,Learner,Magic number,show_results,332,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/learner.py,Magic number 9 used in show_results.
+fastai_fastai.fastai,learner,Learner,Magic number,show_training_loop,341,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/learner.py,Magic number 2 used in show_training_loop.
+fastai_fastai.fastai,learner,Learner,Magic number,show_training_loop,342,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/learner.py,Magic number 2 used in show_training_loop.
+fastai_fastai.fastai,learner,AvgSmoothLoss,Magic number,__init__,507,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/learner.py,Magic number 0.98 used in __init__.
+fastai_fastai.fastai,learner,Recorder,Magic number,__init__,541,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/learner.py,Magic number 0.98 used in __init__.
+fastai_fastai.fastai,learner,Recorder,Magic number,plot_loss,599,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/learner.py,Magic number 5 used in plot_loss.
+fastai_fastai.fastai,losses,LabelSmoothingCrossEntropy,Long statement,forward,208,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/losses.py,A line with 136 chars in forward exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,losses,DiceLoss,Long statement,__call__,257,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/losses.py,A line with 123 chars in __call__ exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,losses,,Long statement,,13,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/losses.py,A line with 221 chars in losses exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,losses,FocalLoss,Magic number,__init__,88,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/losses.py,Magic number 2.0 used in __init__.
+fastai_fastai.fastai,losses,FocalLossFlat,Magic number,__init__,117,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/losses.py,Magic number 2.0 used in __init__.
+fastai_fastai.fastai,losses,BCEWithLogitsLossFlat,Magic number,__init__,140,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/losses.py,Magic number 0.5 used in __init__.
+fastai_fastai.fastai,losses,LabelSmoothingCrossEntropy,Magic number,__init__,194,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/losses.py,Magic number 0.1 used in __init__.
+fastai_fastai.fastai,losses,DiceLoss,Magic number,__init__,243,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/losses.py,Magic number 1e-06 used in __init__.
+fastai_fastai.fastai,losses,DiceLoss,Magic number,__call__,259,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/losses.py,Magic number 2.0 used in __call__.
+fastai_fastai.fastai,metrics,,Long parameter list,optim_metric,91 - 103,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,"optim_metric has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai,metrics,,Long parameter list,FBeta,154 - 157,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,"FBeta has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai,metrics,,Long parameter list,F1ScoreMulti,223 - 227,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,"F1ScoreMulti has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai,metrics,,Long parameter list,FBetaMulti,230 - 234,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,"FBetaMulti has 7 parameters, exceeding the max of 5."
+fastai_fastai.fastai,metrics,,Long parameter list,JaccardMulti,244 - 248,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,"JaccardMulti has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai,metrics,,Long parameter list,PrecisionMulti,257 - 261,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,"PrecisionMulti has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai,metrics,,Long parameter list,RecallMulti,264 - 268,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,"RecallMulti has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai,metrics,AccumMetric,Long parameter list,__init__,32 - 36,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,"__init__ has 8 parameters, exceeding the max of 5."
+fastai_fastai.fastai,metrics,,Long statement,skm_to_fastai,87,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,A line with 124 chars in skm_to_fastai exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,metrics,,Long statement,APScoreBinary,126,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,A line with 168 chars in APScoreBinary exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,metrics,,Long statement,F1Score,150,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,A line with 127 chars in F1Score exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,metrics,,Long statement,FBeta,156,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,A line with 141 chars in FBeta exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,metrics,,Long statement,Jaccard,168,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,A line with 132 chars in Jaccard exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,metrics,,Long statement,Precision,174,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,A line with 134 chars in Precision exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,metrics,,Long statement,Recall,180,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,A line with 131 chars in Recall exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,metrics,,Long statement,RocAuc,187,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,A line with 188 chars in RocAuc exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,metrics,,Long statement,RocAucBinary,193,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,A line with 179 chars in RocAucBinary exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,metrics,,Long statement,APScoreMulti,212,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,A line with 154 chars in APScoreMulti exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,metrics,,Long statement,BrierScoreMulti,219,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,A line with 145 chars in BrierScoreMulti exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,metrics,,Long statement,F1ScoreMulti,226,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,A line with 169 chars in F1ScoreMulti exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,metrics,,Long statement,FBetaMulti,233,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,A line with 183 chars in FBetaMulti exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,metrics,,Long statement,JaccardMulti,247,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,A line with 174 chars in JaccardMulti exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,metrics,,Long statement,MatthewsCorrCoefMulti,254,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,A line with 125 chars in MatthewsCorrCoefMulti exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,metrics,,Long statement,PrecisionMulti,260,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,A line with 176 chars in PrecisionMulti exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,metrics,,Long statement,RecallMulti,267,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,A line with 173 chars in RecallMulti exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,metrics,,Long statement,RocAucMulti,274,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,A line with 140 chars in RocAucMulti exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,metrics,,Long statement,SpearmanCorrCoef,328,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,A line with 123 chars in SpearmanCorrCoef exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,metrics,DiceMulti,Long statement,value,374,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,A line with 128 chars in value exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,metrics,JaccardCoeffMulti,Long statement,value,391,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,A line with 144 chars in value exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,metrics,,Long statement,,12,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,A line with 741 chars in metrics exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,metrics,,Long statement,,26,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,A line with 155 chars in metrics exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,metrics,,Magic number,optim_metric,91,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,Magic number 0.01 used in optim_metric.
+fastai_fastai.fastai,metrics,,Magic number,top_k_accuracy,117,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,Magic number 5 used in top_k_accuracy.
+fastai_fastai.fastai,metrics,,Magic number,accuracy_multi,202,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,Magic number 0.5 used in accuracy_multi.
+fastai_fastai.fastai,metrics,,Magic number,BrierScoreMulti,216,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,Magic number 0.5 used in BrierScoreMulti.
+fastai_fastai.fastai,metrics,,Magic number,F1ScoreMulti,223,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,Magic number 0.5 used in F1ScoreMulti.
+fastai_fastai.fastai,metrics,,Magic number,FBetaMulti,230,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,Magic number 0.5 used in FBetaMulti.
+fastai_fastai.fastai,metrics,,Magic number,HammingLossMulti,237,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,Magic number 0.5 used in HammingLossMulti.
+fastai_fastai.fastai,metrics,,Magic number,JaccardMulti,244,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,Magic number 0.5 used in JaccardMulti.
+fastai_fastai.fastai,metrics,,Magic number,MatthewsCorrCoefMulti,251,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,Magic number 0.5 used in MatthewsCorrCoefMulti.
+fastai_fastai.fastai,metrics,,Magic number,PrecisionMulti,257,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,Magic number 0.5 used in PrecisionMulti.
+fastai_fastai.fastai,metrics,,Magic number,RecallMulti,264,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,Magic number 0.5 used in RecallMulti.
+fastai_fastai.fastai,metrics,Dice,Magic number,value,349,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,Magic number 2.0 used in value.
+fastai_fastai.fastai,metrics,CorpusBLEUMetric,Magic number,__init__,396,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,Magic number 5000 used in __init__.
+fastai_fastai.fastai,metrics,CorpusBLEUMetric,Magic number,__init__,400,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,Magic number 4 used in __init__.
+fastai_fastai.fastai,metrics,CorpusBLEUMetric,Magic number,__init__,400,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,Magic number 4 used in __init__.
+fastai_fastai.fastai,metrics,CorpusBLEUMetric,Magic number,reset,403,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,Magic number 4 used in reset.
+fastai_fastai.fastai,metrics,CorpusBLEUMetric,Magic number,reset,403,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,Magic number 4 used in reset.
+fastai_fastai.fastai,metrics,CorpusBLEUMetric,Magic number,get_grams,412,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,Magic number 5000 used in get_grams.
+fastai_fastai.fastai,metrics,CorpusBLEUMetric,Magic number,get_correct_ngrams,415,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,Magic number 5000 used in get_correct_ngrams.
+fastai_fastai.fastai,metrics,CorpusBLEUMetric,Magic number,accumulate,432,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,Magic number 2 used in accumulate.
+fastai_fastai.fastai,metrics,CorpusBLEUMetric,Magic number,value,444,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,Magic number 0.25 used in value.
+fastai_fastai.fastai,metrics,CorpusBLEUMetric,Magic number,value,444,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,Magic number 3 used in value.
+fastai_fastai.fastai,metrics,CorpusBLEUMetric,Magic number,value,444,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/metrics.py,Magic number 2 used in value.
+fastai_fastai.fastai,optimizer,OptimWrapper,Complex method,__init__,462 - 482,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,"Method '__init__' has a cyclomatic complexity of 7, exceeding the max of 6."
+fastai_fastai.fastai,optimizer,,Long parameter list,RMSProp,197 - 210,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,"RMSProp has 7 parameters, exceeding the max of 5."
+fastai_fastai.fastai,optimizer,,Long parameter list,adam_step,222 - 227,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,"adam_step has 8 parameters, exceeding the max of 5."
+fastai_fastai.fastai,optimizer,,Long parameter list,Adam,232 - 244,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,"Adam has 7 parameters, exceeding the max of 5."
+fastai_fastai.fastai,optimizer,,Long parameter list,radam_step,247 - 260,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,"radam_step has 9 parameters, exceeding the max of 5."
+fastai_fastai.fastai,optimizer,,Long parameter list,RAdam,265 - 278,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,"RAdam has 8 parameters, exceeding the max of 5."
+fastai_fastai.fastai,optimizer,,Long parameter list,qhadam_step,281 - 287,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,"qhadam_step has 10 parameters, exceeding the max of 5."
+fastai_fastai.fastai,optimizer,,Long parameter list,QHAdam,292 - 307,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,"QHAdam has 9 parameters, exceeding the max of 5."
+fastai_fastai.fastai,optimizer,,Long parameter list,larc_layer_lr,310 - 314,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,"larc_layer_lr has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai,optimizer,,Long parameter list,Larc,324 - 338,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,"Larc has 8 parameters, exceeding the max of 5."
+fastai_fastai.fastai,optimizer,,Long parameter list,lamb_step,341 - 349,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,"lamb_step has 8 parameters, exceeding the max of 5."
+fastai_fastai.fastai,optimizer,,Long parameter list,Lamb,354 - 366,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,"Lamb has 7 parameters, exceeding the max of 5."
+fastai_fastai.fastai,optimizer,,Long parameter list,ranger,415 - 426,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,"ranger has 7 parameters, exceeding the max of 5."
+fastai_fastai.fastai,optimizer,,Long statement,qhadam_step,284,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,A line with 174 chars in qhadam_step exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,optimizer,_BaseOptimizer,Long statement,set_hyper,61,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,A line with 133 chars in set_hyper exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,optimizer,OptimWrapper,Long statement,hypers,486,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,A line with 126 chars in hypers exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,optimizer,,Long statement,,10,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,A line with 388 chars in optimizer exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,optimizer,,Magic number,RMSProp,201,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,Magic number 0.99 used in RMSProp.
+fastai_fastai.fastai,optimizer,,Magic number,RMSProp,202,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,Magic number 1e-08 used in RMSProp.
+fastai_fastai.fastai,optimizer,,Magic number,Adam,235,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,Magic number 0.9 used in Adam.
+fastai_fastai.fastai,optimizer,,Magic number,Adam,236,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,Magic number 0.99 used in Adam.
+fastai_fastai.fastai,optimizer,,Magic number,Adam,237,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,Magic number 1e-05 used in Adam.
+fastai_fastai.fastai,optimizer,,Magic number,Adam,238,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,Magic number 0.01 used in Adam.
+fastai_fastai.fastai,optimizer,,Magic number,radam_step,253,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,Magic number 5 used in radam_step.
+fastai_fastai.fastai,optimizer,,Magic number,radam_step,251,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,Magic number 2 used in radam_step.
+fastai_fastai.fastai,optimizer,,Magic number,radam_step,252,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,Magic number 2 used in radam_step.
+fastai_fastai.fastai,optimizer,,Magic number,RAdam,268,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,Magic number 0.9 used in RAdam.
+fastai_fastai.fastai,optimizer,,Magic number,RAdam,269,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,Magic number 0.99 used in RAdam.
+fastai_fastai.fastai,optimizer,,Magic number,RAdam,270,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,Magic number 1e-05 used in RAdam.
+fastai_fastai.fastai,optimizer,,Magic number,QHAdam,295,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,Magic number 0.999 used in QHAdam.
+fastai_fastai.fastai,optimizer,,Magic number,QHAdam,296,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,Magic number 0.999 used in QHAdam.
+fastai_fastai.fastai,optimizer,,Magic number,QHAdam,297,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,Magic number 0.7 used in QHAdam.
+fastai_fastai.fastai,optimizer,,Magic number,QHAdam,299,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,Magic number 1e-08 used in QHAdam.
+fastai_fastai.fastai,optimizer,,Magic number,Larc,327,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,Magic number 0.9 used in Larc.
+fastai_fastai.fastai,optimizer,,Magic number,Larc,329,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,Magic number 0.02 used in Larc.
+fastai_fastai.fastai,optimizer,,Magic number,Larc,330,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,Magic number 1e-08 used in Larc.
+fastai_fastai.fastai,optimizer,,Magic number,Lamb,357,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,Magic number 0.9 used in Lamb.
+fastai_fastai.fastai,optimizer,,Magic number,Lamb,358,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,Magic number 0.99 used in Lamb.
+fastai_fastai.fastai,optimizer,,Magic number,Lamb,359,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,Magic number 1e-05 used in Lamb.
+fastai_fastai.fastai,optimizer,,Magic number,ranger,418,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,Magic number 0.95 used in ranger.
+fastai_fastai.fastai,optimizer,,Magic number,ranger,419,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,Magic number 0.01 used in ranger.
+fastai_fastai.fastai,optimizer,,Magic number,ranger,420,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,Magic number 1e-06 used in ranger.
+fastai_fastai.fastai,optimizer,,Magic number,ranger,421,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,Magic number 6 used in ranger.
+fastai_fastai.fastai,optimizer,,Magic number,ranger,422,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,Magic number 0.5 used in ranger.
+fastai_fastai.fastai,optimizer,_BaseOptimizer,Magic number,set_hyper,58,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,Magic number 10 used in set_hyper.
+fastai_fastai.fastai,optimizer,Lookahead,Magic number,__init__,374,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,Magic number 6 used in __init__.
+fastai_fastai.fastai,optimizer,Lookahead,Magic number,__init__,375,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/optimizer.py,Magic number 0.5 used in __init__.
+fastai_fastai.fastai,test_utils,,Complex method,show_install,78 - 168,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/test_utils.py,"Method 'show_install' has a cyclomatic complexity of 16, exceeding the max of 6."
+fastai_fastai.fastai,test_utils,,Empty catch block,try_import,63,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/test_utils.py,Empty catch block found in try_import.
+fastai_fastai.fastai,test_utils,,Empty catch block,nvidia_smi,68,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/test_utils.py,Empty catch block found in nvidia_smi.
+fastai_fastai.fastai,test_utils,,Empty catch block,nvidia_mem,74,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/test_utils.py,Empty catch block found in nvidia_mem.
+fastai_fastai.fastai,test_utils,,Long method,show_install,78 - 168,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/test_utils.py,Method 'show_install' is too long (66 lines).
+fastai_fastai.fastai,test_utils,,Long parameter list,synth_dbunch,22 - 31,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/test_utils.py,"synth_dbunch has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai,test_utils,,Long parameter list,synth_learner,40 - 44,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/test_utils.py,"synth_learner has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai,test_utils,,Long statement,show_install,163,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/test_utils.py,A line with 147 chars in show_install exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,test_utils,,Long statement,,15,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/test_utils.py,A line with 143 chars in test_utils exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,test_utils,,Magic number,synth_dbunch,22,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/test_utils.py,Magic number 2 used in synth_dbunch.
+fastai_fastai.fastai,test_utils,,Magic number,synth_dbunch,22,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/test_utils.py,Magic number 3 used in synth_dbunch.
+fastai_fastai.fastai,test_utils,,Magic number,synth_dbunch,22,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/test_utils.py,Magic number 16 used in synth_dbunch.
+fastai_fastai.fastai,test_utils,,Magic number,synth_dbunch,22,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/test_utils.py,Magic number 10 used in synth_dbunch.
+fastai_fastai.fastai,test_utils,,Magic number,synth_dbunch,22,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/test_utils.py,Magic number 2 used in synth_dbunch.
+fastai_fastai.fastai,test_utils,,Magic number,synth_learner,40,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/test_utils.py,Magic number 10 used in synth_learner.
+fastai_fastai.fastai,test_utils,,Magic number,synth_learner,40,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/test_utils.py,Magic number 2 used in synth_learner.
+fastai_fastai.fastai,test_utils,,Magic number,synth_learner,40,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/test_utils.py,Magic number 0.001 used in synth_learner.
+fastai_fastai.fastai,torch_core,,Complex method,show_image,67 - 83,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/torch_core.py,"Method 'show_image' has a cyclomatic complexity of 8, exceeding the max of 6."
+fastai_fastai.fastai,torch_core,TensorBase,Complex method,__torch_function__,381 - 388,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/torch_core.py,"Method '__torch_function__' has a cyclomatic complexity of 8, exceeding the max of 6."
+fastai_fastai.fastai,torch_core,,Empty catch block,set_seed,164,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/torch_core.py,Empty catch block found in set_seed.
+fastai_fastai.fastai,torch_core,,Empty catch block,set_seed,166,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/torch_core.py,Empty catch block found in set_seed.
+fastai_fastai.fastai,torch_core,,Empty catch block,set_seed,168,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/torch_core.py,Empty catch block found in set_seed.
+fastai_fastai.fastai,torch_core,,Empty catch block,to_concat,308,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/torch_core.py,Empty catch block found in to_concat.
+fastai_fastai.fastai,torch_core,,Empty catch block,display_df,604,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/torch_core.py,Empty catch block found in display_df.
+fastai_fastai.fastai,torch_core,,Long parameter list,set_random_states,185 - 192,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/torch_core.py,"set_random_states has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai,torch_core,,Long statement,tensor,151,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/torch_core.py,A line with 295 chars in tensor exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,torch_core,,Long statement,get_random_states,177,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/torch_core.py,A line with 280 chars in get_random_states exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,torch_core,TensorBase,Long statement,new_tensor,392,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/torch_core.py,A line with 122 chars in new_tensor exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,torch_core,TensorBase,Long statement,new_empty,417,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/torch_core.py,A line with 125 chars in new_empty exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,torch_core,TensorBase,Long statement,new_empty,418,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/torch_core.py,A line with 159 chars in new_empty exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,torch_core,TensorBase,Long statement,new_empty,425,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/torch_core.py,A line with 126 chars in new_empty exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,torch_core,TensorBase,Long statement,new_empty,426,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/torch_core.py,A line with 160 chars in new_empty exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,torch_core,,Long statement,,12,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/torch_core.py,A line with 1262 chars in torch_core exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,torch_core,,Long statement,,684,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/torch_core.py,A line with 132 chars in torch_core exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,torch_core,,Long statement,,897,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/torch_core.py,A line with 517 chars in torch_core exceeds the maximum length of 120 characters.
+fastai_fastai.fastai,torch_core,,Magic number,subplots,47,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/torch_core.py,Magic number 3 used in subplots.
+fastai_fastai.fastai,torch_core,,Magic number,subplots,53,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/torch_core.py,Magic number 0.6 used in subplots.
+fastai_fastai.fastai,torch_core,,Magic number,subplots,53,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/torch_core.py,Magic number 2 used in subplots.
+fastai_fastai.fastai,torch_core,,Magic number,_fig_bounds,62,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/torch_core.py,Magic number 32 used in _fig_bounds.
+fastai_fastai.fastai,torch_core,,Magic number,show_image,72,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/torch_core.py,Magic number 5 used in show_image.
+fastai_fastai.fastai,torch_core,,Magic number,no_random,196,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/torch_core.py,Magic number 42 used in no_random.
+fastai_fastai.fastai,torch_core,,Magic number,batch_to_samples,695,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/torch_core.py,Magic number 10 used in batch_to_samples.
+fastai_fastai.fastai,torch_core,,Magic number,pca,714,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/torch_core.py,Magic number 2 used in pca.
+fastai_fastai.fastai,torch_core,,Magic number,_comp_filter,747,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/torch_core.py,Magic number 3 used in _comp_filter.
+fastai_fastai.fastai,torch_core,,Magic number,save_array,751,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/torch_core.py,Magic number 3 used in save_array.
+fastai_fastai.fastai,torch_core,,Magic number,make_cross_image,797,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/torch_core.py,Magic number 2 used in make_cross_image.
+fastai_fastai.fastai,torch_core,,Magic number,make_cross_image,798,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/torch_core.py,Magic number 2 used in make_cross_image.
+fastai_fastai.fastai,torch_core,,Magic number,make_cross_image,801,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/torch_core.py,Magic number 2 used in make_cross_image.
+fastai_fastai.fastai,torch_core,,Magic number,make_cross_image,802,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/torch_core.py,Magic number 2 used in make_cross_image.
+fastai_fastai.fastai,torch_core,,Magic number,show_image_batch,806,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/torch_core.py,Magic number 9 used in show_image_batch.
+fastai_fastai.fastai,torch_core,,Magic number,show_image_batch,806,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/torch_core.py,Magic number 3 used in show_image_batch.
+fastai_fastai.fastai,torch_core,,Magic number,show_image_batch,810,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/torch_core.py,Magic number 3 used in show_image_batch.
+fastai_fastai.fastai,torch_core,,Magic number,show_image_batch,810,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/torch_core.py,Magic number 3 used in show_image_batch.
+fastai_fastai.fastai.callback,azureml,AzureMLCallback,Magic number,after_epoch,65,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/azureml.py,Magic number 60 used in after_epoch.
+fastai_fastai.fastai.callback,captum,CaptumInterpretation,Long parameter list,__init__,35 - 40,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/captum.py,"__init__ has 7 parameters, exceeding the max of 5."
+fastai_fastai.fastai.callback,captum,CaptumInterpretation,Long parameter list,visualize,50 - 57,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/captum.py,"visualize has 7 parameters, exceeding the max of 5."
+fastai_fastai.fastai.callback,captum,CaptumInterpretation,Long parameter list,_get_attributions,76 - 93,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/captum.py,"_get_attributions has 7 parameters, exceeding the max of 5."
+fastai_fastai.fastai.callback,captum,,Long statement,insights,107,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/captum.py,A line with 299 chars in insights exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.callback,captum,CaptumInterpretation,Long statement,_viz,61,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/captum.py,A line with 320 chars in _viz exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.callback,captum,CaptumInterpretation,Long statement,_get_attributions,89,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/captum.py,A line with 167 chars in _get_attributions exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.callback,captum,,Magic number,insights,104,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/captum.py,Magic number 4 used in insights.
+fastai_fastai.fastai.callback,captum,,Magic number,insights,105,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/captum.py,Magic number 4 used in insights.
+fastai_fastai.fastai.callback,captum,CaptumInterpretation,Magic number,__init__,35,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/captum.py,Magic number 256 used in __init__.
+fastai_fastai.fastai.callback,captum,CaptumInterpretation,Magic number,__init__,37,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/captum.py,Magic number 0.25 used in __init__.
+fastai_fastai.fastai.callback,captum,CaptumInterpretation,Magic number,get_baseline_img,47,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/captum.py,Magic number 2 used in get_baseline_img.
+fastai_fastai.fastai.callback,captum,CaptumInterpretation,Magic number,visualize,50,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/captum.py,Magic number 1000 used in visualize.
+fastai_fastai.fastai.callback,captum,CaptumInterpretation,Magic number,visualize,50,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/captum.py,Magic number 3 used in visualize.
+fastai_fastai.fastai.callback,captum,CaptumInterpretation,Magic number,visualize,50,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/captum.py,Magic number 4 used in visualize.
+fastai_fastai.fastai.callback,captum,CaptumInterpretation,Magic number,visualize,50,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/captum.py,Magic number 4 used in visualize.
+fastai_fastai.fastai.callback,captum,CaptumInterpretation,Magic number,visualize,50,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/captum.py,Magic number 3 used in visualize.
+fastai_fastai.fastai.callback,captum,CaptumInterpretation,Magic number,visualize,50,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/captum.py,Magic number 15 used in visualize.
+fastai_fastai.fastai.callback,captum,CaptumInterpretation,Magic number,visualize,50,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/captum.py,Magic number 15 used in visualize.
+fastai_fastai.fastai.callback,comet,CometCallback,Complex method,after_epoch,65 - 87,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/comet.py,"Method 'after_epoch' has a cyclomatic complexity of 7, exceeding the max of 6."
+fastai_fastai.fastai.callback,comet,CometCallback,Long statement,after_epoch,76,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/comet.py,A line with 140 chars in after_epoch exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.callback,core,Callback,Complex method,__call__,56 - 66,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/core.py,"Method '__call__' has a cyclomatic complexity of 9, exceeding the max of 6."
+fastai_fastai.fastai.callback,core,GatherPredsCallback,Complex method,after_batch,139 - 152,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/core.py,"Method 'after_batch' has a cyclomatic complexity of 7, exceeding the max of 6."
+fastai_fastai.fastai.callback,core,GatherPredsCallback,Long parameter list,__init__,117 - 127,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/core.py,"__init__ has 8 parameters, exceeding the max of 5."
+fastai_fastai.fastai.callback,core,FetchPredsCallback,Long parameter list,__init__,173 - 182,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/core.py,"__init__ has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai.callback,core,Callback,Long statement,__call__,58,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/core.py,A line with 159 chars in __call__ exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.callback,core,FetchPredsCallback,Long statement,after_validate,188,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/core.py,A line with 154 chars in after_validate exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.callback,core,,Long statement,,12,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/core.py,A line with 265 chars in core exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.callback,core,,Long statement,,17,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/core.py,A line with 176 chars in core exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.callback,core,,Long statement,,20,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/core.py,A line with 384 chars in core exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.callback,core,,Long statement,,32,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/core.py,A line with 165 chars in core exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.callback,core,,Long statement,,35,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/core.py,A line with 556 chars in core exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.callback,core,GatherPredsCallback,Magic number,__init__,125,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/core.py,Magic number 2 used in __init__.
+fastai_fastai.fastai.callback,data,,Magic number,weighted_dataloaders,36,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/data.py,Magic number 64 used in weighted_dataloaders.
+fastai_fastai.fastai.callback,data,,Magic number,weighted_dataloaders,44,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/data.py,Magic number 64 used in weighted_dataloaders.
+fastai_fastai.fastai.callback,data,,Magic number,partial_dataloaders,70,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/data.py,Magic number 64 used in partial_dataloaders.
+fastai_fastai.fastai.callback,fp16,NonNativeMixedPrecision,Complex method,before_step,197 - 215,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/fp16.py,"Method 'before_step' has a cyclomatic complexity of 10, exceeding the max of 6."
+fastai_fastai.fastai.callback,fp16,NonNativeMixedPrecision,Long parameter list,__init__,170 - 182,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/fp16.py,"__init__ has 7 parameters, exceeding the max of 5."
+fastai_fastai.fastai.callback,fp16,,Long statement,get_master,102,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/fp16.py,A line with 137 chars in get_master exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.callback,fp16,,Long statement,get_master,111,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/fp16.py,A line with 128 chars in get_master exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.callback,fp16,,Long statement,,14,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/fp16.py,A line with 181 chars in fp16 exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.callback,fp16,NonNativeMixedPrecision,Magic number,__init__,171,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/fp16.py,Magic number 512 used in __init__.
+fastai_fastai.fastai.callback,fp16,NonNativeMixedPrecision,Magic number,__init__,175,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/fp16.py,Magic number 2.0 used in __init__.
+fastai_fastai.fastai.callback,fp16,NonNativeMixedPrecision,Magic number,__init__,176,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/fp16.py,Magic number 500 used in __init__.
+fastai_fastai.fastai.callback,fp16,NonNativeMixedPrecision,Magic number,__init__,174,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/fp16.py,Magic number 2.0 used in __init__.
+fastai_fastai.fastai.callback,fp16,NonNativeMixedPrecision,Magic number,__init__,174,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/fp16.py,Magic number 24 used in __init__.
+fastai_fastai.fastai.callback,hook,,Complex method,module_summary,177 - 207,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/hook.py,"Method 'module_summary' has a cyclomatic complexity of 8, exceeding the max of 6."
+fastai_fastai.fastai.callback,hook,Hook,Long parameter list,__init__,17 - 21,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/hook.py,"__init__ has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai.callback,hook,HookCallback,Long parameter list,__init__,114 - 116,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/hook.py,"__init__ has 7 parameters, exceeding the max of 5."
+fastai_fastai.fastai.callback,hook,,Long statement,summary,217,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/hook.py,A line with 133 chars in summary exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.callback,hook,Hook,Long statement,hook_fn,26,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/hook.py,A line with 123 chars in hook_fn exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.callback,hook,,Long statement,,10,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/hook.py,A line with 206 chars in hook exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.callback,hook,,Magic number,dummy_eval,78,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/hook.py,Magic number 64 used in dummy_eval.
+fastai_fastai.fastai.callback,hook,,Magic number,dummy_eval,78,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/hook.py,Magic number 64 used in dummy_eval.
+fastai_fastai.fastai.callback,hook,,Magic number,model_sizes,85,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/hook.py,Magic number 64 used in model_sizes.
+fastai_fastai.fastai.callback,hook,,Magic number,model_sizes,85,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/hook.py,Magic number 64 used in model_sizes.
+fastai_fastai.fastai.callback,hook,,Magic number,num_features_model,94,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/hook.py,Magic number 32 used in num_features_model.
+fastai_fastai.fastai.callback,hook,,Magic number,num_features_model,100,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/hook.py,Magic number 2 used in num_features_model.
+fastai_fastai.fastai.callback,hook,,Magic number,num_features_model,101,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/hook.py,Magic number 2048 used in num_features_model.
+fastai_fastai.fastai.callback,hook,,Magic number,module_summary,183,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/hook.py,Magic number 76 used in module_summary.
+fastai_fastai.fastai.callback,hook,,Magic number,module_summary,195,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/hook.py,Magic number 19 used in module_summary.
+fastai_fastai.fastai.callback,hook,,Magic number,module_summary,196,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/hook.py,Magic number 19 used in module_summary.
+fastai_fastai.fastai.callback,hook,ActivationStats,Magic number,color_dim,272,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/hook.py,Magic number 10 used in color_dim.
+fastai_fastai.fastai.callback,hook,ActivationStats,Magic number,color_dim,272,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/hook.py,Magic number 5 used in color_dim.
+fastai_fastai.fastai.callback,mixup,MixHandler,Magic number,__init__,26,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/mixup.py,Magic number 0.5 used in __init__.
+fastai_fastai.fastai.callback,mixup,MixUp,Magic number,__init__,58,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/mixup.py,Magic number 0.4 used in __init__.
+fastai_fastai.fastai.callback,schedule,,Complex method,lr_find,291 - 316,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/schedule.py,"Method 'lr_find' has a cyclomatic complexity of 7, exceeding the max of 6."
+fastai_fastai.fastai.callback,schedule,,Long parameter list,fit_one_cycle,113 - 121,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/schedule.py,"fit_one_cycle has 10 parameters, exceeding the max of 5."
+fastai_fastai.fastai.callback,schedule,,Long parameter list,fit_flat_cos,137 - 144,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/schedule.py,"fit_flat_cos has 8 parameters, exceeding the max of 5."
+fastai_fastai.fastai.callback,schedule,,Long parameter list,fit_sgdr,148 - 158,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/schedule.py,"fit_sgdr has 8 parameters, exceeding the max of 5."
+fastai_fastai.fastai.callback,schedule,,Long parameter list,fine_tune,163 - 170,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/schedule.py,"fine_tune has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai.callback,schedule,,Long parameter list,slide,236 - 251,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/schedule.py,"slide has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai.callback,schedule,,Long parameter list,lr_find,291 - 316,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/schedule.py,"lr_find has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai.callback,schedule,,Long statement,fine_tune,165,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/schedule.py,A line with 122 chars in fine_tune exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.callback,schedule,,Long statement,,11,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/schedule.py,A line with 256 chars in schedule exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.callback,schedule,,Long statement,,286,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/schedule.py,A line with 204 chars in schedule exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.callback,schedule,,Magic number,sched_cos,48,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/schedule.py,Magic number 2 used in sched_cos.
+fastai_fastai.fastai.callback,schedule,,Magic number,combine_scheds,75,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/schedule.py,Magic number 2 used in combine_scheds.
+fastai_fastai.fastai.callback,schedule,,Magic number,fit_one_cycle,113,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/schedule.py,Magic number 25.0 used in fit_one_cycle.
+fastai_fastai.fastai.callback,schedule,,Magic number,fit_one_cycle,113,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/schedule.py,Magic number 100000.0 used in fit_one_cycle.
+fastai_fastai.fastai.callback,schedule,,Magic number,fit_one_cycle,113,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/schedule.py,Magic number 0.25 used in fit_one_cycle.
+fastai_fastai.fastai.callback,schedule,,Magic number,plot_sched,127,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/schedule.py,Magic number 2 used in plot_sched.
+fastai_fastai.fastai.callback,schedule,,Magic number,plot_sched,128,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/schedule.py,Magic number 6 used in plot_sched.
+fastai_fastai.fastai.callback,schedule,,Magic number,plot_sched,128,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/schedule.py,Magic number 4 used in plot_sched.
+fastai_fastai.fastai.callback,schedule,,Magic number,fit_flat_cos,137,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/schedule.py,Magic number 100000.0 used in fit_flat_cos.
+fastai_fastai.fastai.callback,schedule,,Magic number,fit_flat_cos,137,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/schedule.py,Magic number 0.75 used in fit_flat_cos.
+fastai_fastai.fastai.callback,schedule,,Magic number,fit_sgdr,148,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/schedule.py,Magic number 2 used in fit_sgdr.
+fastai_fastai.fastai.callback,schedule,,Magic number,fine_tune,163,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/schedule.py,Magic number 0.002 used in fine_tune.
+fastai_fastai.fastai.callback,schedule,,Magic number,fine_tune,163,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/schedule.py,Magic number 100 used in fine_tune.
+fastai_fastai.fastai.callback,schedule,,Magic number,fine_tune,164,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/schedule.py,Magic number 0.3 used in fine_tune.
+fastai_fastai.fastai.callback,schedule,,Magic number,fine_tune,164,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/schedule.py,Magic number 5.0 used in fine_tune.
+fastai_fastai.fastai.callback,schedule,,Magic number,fine_tune,168,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/schedule.py,Magic number 2 used in fine_tune.
+fastai_fastai.fastai.callback,schedule,,Magic number,valley,230,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/schedule.py,Magic number 3 used in valley.
+fastai_fastai.fastai.callback,schedule,,Magic number,slide,236,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/schedule.py,Magic number 15 used in slide.
+fastai_fastai.fastai.callback,schedule,,Magic number,slide,236,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/schedule.py,Magic number 0.005 used in slide.
+fastai_fastai.fastai.callback,schedule,,Magic number,minimum,258,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/schedule.py,Magic number 10 used in minimum.
+fastai_fastai.fastai.callback,schedule,,Magic number,plot_lr_find,270,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/schedule.py,Magic number 5 used in plot_lr_find.
+fastai_fastai.fastai.callback,schedule,,Magic number,lr_find,291,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/schedule.py,Magic number 1e-07 used in lr_find.
+fastai_fastai.fastai.callback,schedule,,Magic number,lr_find,291,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/schedule.py,Magic number 10 used in lr_find.
+fastai_fastai.fastai.callback,schedule,,Magic number,lr_find,291,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/schedule.py,Magic number 100 used in lr_find.
+fastai_fastai.fastai.callback,schedule,LRFinder,Magic number,__init__,176,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/schedule.py,Magic number 1e-07 used in __init__.
+fastai_fastai.fastai.callback,schedule,LRFinder,Magic number,__init__,176,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/schedule.py,Magic number 10 used in __init__.
+fastai_fastai.fastai.callback,schedule,LRFinder,Magic number,__init__,176,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/schedule.py,Magic number 100 used in __init__.
+fastai_fastai.fastai.callback,schedule,LRFinder,Magic number,__init__,177,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/schedule.py,Magic number 6 used in __init__.
+fastai_fastai.fastai.callback,schedule,LRFinder,Magic number,__init__,177,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/schedule.py,Magic number 6 used in __init__.
+fastai_fastai.fastai.callback,schedule,LRFinder,Magic number,after_batch,196,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/schedule.py,Magic number 4 used in after_batch.
+fastai_fastai.fastai.callback,tensorboard,,Long parameter list,projector_word_embeddings,136 - 148,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/tensorboard.py,"projector_word_embeddings has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai.callback,tensorboard,,Long parameter list,tensorboard_log,155 - 161,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/tensorboard.py,"tensorboard_log has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai.callback,tensorboard,,Long parameter list,tensorboard_log,168 - 174,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/tensorboard.py,"tensorboard_log has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai.callback,tensorboard,TensorBoardCallback,Long parameter list,__init__,50 - 52,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/tensorboard.py,"__init__ has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai.callback,tensorboard,,Long statement,tensorboard_log,159,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/tensorboard.py,A line with 124 chars in tensorboard_log exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.callback,tensorboard,,Long statement,,10,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/tensorboard.py,A line with 140 chars in tensorboard exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.callback,tensorboard,,Magic number,tensorboard_log,171,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/tensorboard.py,Magic number 2 used in tensorboard_log.
+fastai_fastai.fastai.callback,tensorboard,,Magic number,tensorboard_log,173,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/tensorboard.py,Magic number 2 used in tensorboard_log.
+fastai_fastai.fastai.callback,tensorboard,TensorBoardCallback,Magic number,__init__,50,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/tensorboard.py,Magic number 9 used in __init__.
+fastai_fastai.fastai.callback,tracker,SaveModelCallback,Long parameter list,__init__,80 - 94,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/tracker.py,"__init__ has 8 parameters, exceeding the max of 5."
+fastai_fastai.fastai.callback,tracker,ReduceLROnPlateau,Long parameter list,__init__,117 - 127,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/tracker.py,"__init__ has 7 parameters, exceeding the max of 5."
+fastai_fastai.fastai.callback,tracker,,Long statement,,12,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/tracker.py,A line with 122 chars in tracker exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.callback,tracker,ReduceLROnPlateau,Magic number,__init__,122,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/tracker.py,Magic number 10.0 used in __init__.
+fastai_fastai.fastai.callback,training,ShortEpochCallback,Magic number,__init__,17,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/training.py,Magic number 0.01 used in __init__.
+fastai_fastai.fastai.callback,training,GradientAccumulation,Magic number,__init__,27,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/training.py,Magic number 32 used in __init__.
+fastai_fastai.fastai.callback,training,GradientClip,Magic number,__init__,41,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/training.py,Magic number 2.0 used in __init__.
+fastai_fastai.fastai.callback,wandb,WandbCallback,Complex method,before_fit,52 - 108,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/wandb.py,"Method 'before_fit' has a cyclomatic complexity of 14, exceeding the max of 6."
+fastai_fastai.fastai.callback,wandb,WandbCallback,Long method,before_fit,52 - 108,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/wandb.py,Method 'before_fit' is too long (47 lines).
+fastai_fastai.fastai.callback,wandb,WandbCallback,Long parameter list,__init__,27 - 39,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/wandb.py,"__init__ has 11 parameters, exceeding the max of 5."
+fastai_fastai.fastai.callback,wandb,,Long statement,gather_args,174,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/wandb.py,A line with 126 chars in gather_args exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.callback,wandb,,Long statement,wandb_process,304,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/wandb.py,A line with 260 chars in wandb_process exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.callback,wandb,WandbCallback,Long statement,after_batch,120,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/wandb.py,A line with 127 chars in after_batch exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.callback,wandb,WandbCallback,Long statement,after_epoch,142,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/wandb.py,A line with 151 chars in after_epoch exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.callback,wandb,WandbCallback,Long statement,after_fit,153,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/wandb.py,A line with 128 chars in after_fit exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.callback,wandb,,Magic number,_make_plt,194,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/wandb.py,Magic number 100 used in _make_plt.
+fastai_fastai.fastai.callback,wandb,,Magic number,_make_plt,196,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/wandb.py,Magic number 2 used in _make_plt.
+fastai_fastai.fastai.callback,wandb,WandbCallback,Magic number,__init__,36,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/wandb.py,Magic number 36 used in __init__.
+fastai_fastai.fastai.callback,wandb,WandbCallback,Magic number,__init__,37,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/callback/wandb.py,Magic number 12345 used in __init__.
+fastai_fastai.fastai.data,block,,Complex method,summary,201 - 247,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/block.py,"Method 'summary' has a cyclomatic complexity of 7, exceeding the max of 6."
+fastai_fastai.fastai.data,block,DataBlock,Complex method,__init__,84 - 117,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/block.py,"Method '__init__' has a cyclomatic complexity of 9, exceeding the max of 6."
+fastai_fastai.fastai.data,block,DataBlock,Long parameter list,__init__,84 - 117,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/block.py,"__init__ has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai.data,block,,Long statement,summary,207,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/block.py,A line with 129 chars in summary exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.data,block,DataBlock,Long statement,__init__,108,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/block.py,A line with 134 chars in __init__ exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.data,block,DataBlock,Long statement,__init__,113,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/block.py,A line with 132 chars in __init__ exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.data,block,DataBlock,Long statement,datasets,149,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/block.py,A line with 126 chars in datasets exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.data,block,,Magic number,_short_repr,170,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/block.py,Magic number 20 used in _short_repr.
+fastai_fastai.fastai.data,block,,Magic number,summary,203,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/block.py,Magic number 4 used in summary.
+fastai_fastai.fastai.data,core,,Long parameter list,show_results,35 - 50,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/core.py,"show_results has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai.data,core,TfmdDL,Long parameter list,__init__,62 - 77,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/core.py,"__init__ has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai.data,core,DataLoaders,Long parameter list,from_dblock,265 - 275,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/core.py,"from_dblock has 8 parameters, exceeding the max of 5."
+fastai_fastai.fastai.data,core,FilteredBase,Long parameter list,dataloaders,303 - 330,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/core.py,"dataloaders has 11 parameters, exceeding the max of 5."
+fastai_fastai.fastai.data,core,TfmdLists,Long parameter list,__init__,338 - 359,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/core.py,"__init__ has 10 parameters, exceeding the max of 5."
+fastai_fastai.fastai.data,core,,Long statement,test_set,514,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/core.py,A line with 162 chars in test_set exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.data,core,,Long statement,test_dl,526,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/core.py,A line with 162 chars in test_dl exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.data,core,FilteredBase,Long statement,dataloaders,328,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/core.py,A line with 128 chars in dataloaders exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.data,core,,Long statement,,11,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/core.py,A line with 142 chars in core exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.data,core,,Long statement,,180,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/core.py,A line with 394 chars in core exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.data,core,,Long statement,,411,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/core.py,A line with 493 chars in core exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.data,core,,Magic number,show_batch,21,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/core.py,Magic number 9 used in show_batch.
+fastai_fastai.fastai.data,core,,Magic number,show_results,41,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/core.py,Magic number 9 used in show_results.
+fastai_fastai.fastai.data,core,TfmdDL,Magic number,__init__,64,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/core.py,Magic number 64 used in __init__.
+fastai_fastai.fastai.data,core,TfmdDL,Magic number,decode_batch,120,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/core.py,Magic number 9 used in decode_batch.
+fastai_fastai.fastai.data,core,TfmdDL,Magic number,_decode_batch,125,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/core.py,Magic number 9 used in _decode_batch.
+fastai_fastai.fastai.data,core,TfmdDL,Magic number,_pre_show_batch,131,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/core.py,Magic number 9 used in _pre_show_batch.
+fastai_fastai.fastai.data,core,TfmdDL,Magic number,show_batch,141,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/core.py,Magic number 9 used in show_batch.
+fastai_fastai.fastai.data,core,TfmdDL,Magic number,show_results,159,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/core.py,Magic number 9 used in show_results.
+fastai_fastai.fastai.data,core,DataLoaders,Magic number,from_dsets,252,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/core.py,Magic number 64 used in from_dsets.
+fastai_fastai.fastai.data,core,DataLoaders,Magic number,from_dblock,269,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/core.py,Magic number 64 used in from_dblock.
+fastai_fastai.fastai.data,core,FilteredBase,Magic number,dataloaders,304,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/core.py,Magic number 64 used in dataloaders.
+fastai_fastai.fastai.data,core,FilteredBase,Magic number,dataloaders,324,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/core.py,Magic number 4 used in dataloaders.
+fastai_fastai.fastai.data,download_checks,,Long statement,,1,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/download_checks.py,A line with 5944 chars in download_checks exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.data,external,,Long parameter list,untar_data,128 - 138,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/external.py,"untar_data has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai.data,external,,Long statement,fastai_cfg,19,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/external.py,A line with 148 chars in fastai_cfg exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.data,load,DataLoader,Complex method,__init__,93 - 109,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/load.py,"Method '__init__' has a cyclomatic complexity of 13, exceeding the max of 6."
+fastai_fastai.fastai.data,load,DataLoader,Complex method,device,157 - 165,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/load.py,"Method 'device' has a cyclomatic complexity of 8, exceeding the max of 6."
+fastai_fastai.fastai.data,load,DataLoader,Empty catch block,__init__,103,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/load.py,Empty catch block found in __init__.
+fastai_fastai.fastai.data,load,DataLoader,Empty catch block,do_item,171,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/load.py,Empty catch block found in do_item.
+fastai_fastai.fastai.data,load,_FakeLoader,Long parameter list,__init__,30 - 32,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/load.py,"__init__ has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai.data,load,DataLoader,Long parameter list,__init__,93 - 109,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/load.py,"__init__ has 13 parameters, exceeding the max of 5."
+fastai_fastai.fastai.data,load,,Long statement,fa_collate,53,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/load.py,A line with 163 chars in fa_collate exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.data,load,,Long statement,fa_convert,60,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/load.py,A line with 154 chars in fa_convert exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.data,load,,Long statement,collate_error,72,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/load.py,A line with 139 chars in collate_error exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.data,load,,Long statement,collate_error,81,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/load.py,A line with 260 chars in collate_error exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.data,load,DataLoader,Long statement,__init__,108,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/load.py,A line with 141 chars in __init__ exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.data,load,DataLoader,Long statement,new,145,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/load.py,A line with 223 chars in new exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.data,load,,Long statement,,194,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/load.py,A line with 1826 chars in load exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.data,transforms,,Complex method,get_files,32 - 48,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/transforms.py,"Method 'get_files' has a cyclomatic complexity of 7, exceeding the max of 6."
+fastai_fastai.fastai.data,transforms,Normalize,Long parameter list,from_stats,372 - 372,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/transforms.py,"from_stats has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai.data,transforms,,Long statement,_get_files,27,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/transforms.py,A line with 132 chars in _get_files exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.data,transforms,,Long statement,FileGetter,52,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/transforms.py,A line with 125 chars in FileGetter exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.data,transforms,,Long statement,TrainTestSplitter,104,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/transforms.py,A line with 153 chars in TrainTestSplitter exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.data,transforms,,Long statement,EndSplitter,119,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/transforms.py,A line with 143 chars in EndSplitter exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.data,transforms,,Long statement,,17,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/transforms.py,A line with 573 chars in transforms exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.data,transforms,,Magic number,RandomSplitter,91,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/transforms.py,Magic number 0.2 used in RandomSplitter.
+fastai_fastai.fastai.data,transforms,,Magic number,TrainTestSplitter,101,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/transforms.py,Magic number 0.2 used in TrainTestSplitter.
+fastai_fastai.fastai.data,transforms,,Magic number,EndSplitter,118,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/transforms.py,Magic number 0.2 used in EndSplitter.
+fastai_fastai.fastai.data,transforms,IntToFloatTensor,Magic number,__init__,351,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/transforms.py,Magic number 255.0 used in __init__.
+fastai_fastai.fastai.data,transforms,Normalize,Magic number,__init__,369,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/transforms.py,Magic number 2 used in __init__.
+fastai_fastai.fastai.data,transforms,Normalize,Magic number,__init__,369,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/transforms.py,Magic number 3 used in __init__.
+fastai_fastai.fastai.data,transforms,Normalize,Magic number,from_stats,372,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/transforms.py,Magic number 4 used in from_stats.
+fastai_fastai.fastai.data,transforms,Normalize,Magic number,setups,377,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/data/transforms.py,Magic number 1e-07 used in setups.
+fastai_fastai.fastai.medical,imaging,DicomSegmentationDataLoaders,Long parameter list,from_label_func,404 - 412,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/medical/imaging.py,"from_label_func has 9 parameters, exceeding the max of 5."
+fastai_fastai.fastai.medical,imaging,,Long statement,array_freqhist_bins,81,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/medical/imaging.py,A line with 130 chars in array_freqhist_bins exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.medical,imaging,,Long statement,show,174,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/medical/imaging.py,A line with 245 chars in show exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.medical,imaging,,Long statement,show,184,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/medical/imaging.py,A line with 245 chars in show exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.medical,imaging,DicomSegmentationDataLoaders,Long statement,from_label_func,406,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/medical/imaging.py,A line with 186 chars in from_label_func exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.medical,imaging,,Long statement,,23,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/medical/imaging.py,A line with 271 chars in imaging exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.medical,imaging,,Long statement,,147,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/medical/imaging.py,A line with 269 chars in imaging exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.medical,imaging,,Magic number,array_freqhist_bins,80,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/medical/imaging.py,Magic number 100 used in array_freqhist_bins.
+fastai_fastai.fastai.medical,imaging,,Magic number,freqhist_bins,91,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/medical/imaging.py,Magic number 100 used in freqhist_bins.
+fastai_fastai.fastai.medical,imaging,,Magic number,windowed,134,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/medical/imaging.py,Magic number 2 used in windowed.
+fastai_fastai.fastai.medical,imaging,,Magic number,windowed,135,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/medical/imaging.py,Magic number 2 used in windowed.
+fastai_fastai.fastai.medical,imaging,,Magic number,show,172,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/medical/imaging.py,Magic number 1100 used in show.
+fastai_fastai.fastai.medical,imaging,,Magic number,show,182,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/medical/imaging.py,Magic number 1100 used in show.
+fastai_fastai.fastai.medical,imaging,,Magic number,show,188,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/medical/imaging.py,Magic number 2 used in show.
+fastai_fastai.fastai.medical,imaging,,Magic number,gauss_blur2d,215,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/medical/imaging.py,Magic number 2 used in gauss_blur2d.
+fastai_fastai.fastai.medical,imaging,,Magic number,mask_from_blur,222,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/medical/imaging.py,Magic number 0.3 used in mask_from_blur.
+fastai_fastai.fastai.medical,imaging,,Magic number,mask_from_blur,222,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/medical/imaging.py,Magic number 0.05 used in mask_from_blur.
+fastai_fastai.fastai.medical,imaging,,Magic number,mask_from_blur,230,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/medical/imaging.py,Magic number 0.3 used in mask_from_blur.
+fastai_fastai.fastai.medical,imaging,,Magic number,mask_from_blur,230,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/medical/imaging.py,Magic number 0.05 used in mask_from_blur.
+fastai_fastai.fastai.medical,imaging,,Magic number,mask2bbox,247,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/medical/imaging.py,Magic number 2 used in mask2bbox.
+fastai_fastai.fastai.medical,imaging,,Magic number,to_nchan,282,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/medical/imaging.py,Magic number 3 used in to_nchan.
+fastai_fastai.fastai.medical,imaging,,Magic number,save_jpg,302,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/medical/imaging.py,Magic number 90 used in save_jpg.
+fastai_fastai.fastai.medical,imaging,,Magic number,to_uint16,313,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/medical/imaging.py,Magic number 2 used in to_uint16.
+fastai_fastai.fastai.medical,imaging,,Magic number,to_uint16,313,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/medical/imaging.py,Magic number 16 used in to_uint16.
+fastai_fastai.fastai.medical,imaging,,Magic number,as_dict,374,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/medical/imaging.py,Magic number 32736 used in as_dict.
+fastai_fastai.fastai.medical,imaging,,Magic number,as_dict,374,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/medical/imaging.py,Magic number 16 used in as_dict.
+fastai_fastai.fastai.medical,imaging,DicomSegmentationDataLoaders,Magic number,from_label_func,404,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/medical/imaging.py,Magic number 0.2 used in from_label_func.
+fastai_fastai.fastai.tabular,core,,Complex method,df_shrink_dtypes,99 - 125,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/tabular/core.py,"Method 'df_shrink_dtypes' has a cyclomatic complexity of 11, exceeding the max of 6."
+fastai_fastai.fastai.tabular,core,Tabular,Complex method,__init__,149 - 170,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/tabular/core.py,"Method '__init__' has a cyclomatic complexity of 13, exceeding the max of 6."
+fastai_fastai.fastai.tabular,core,Tabular,Long parameter list,__init__,149 - 170,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/tabular/core.py,"__init__ has 11 parameters, exceeding the max of 5."
+fastai_fastai.fastai.tabular,core,TabWeightedDL,Long parameter list,__init__,366 - 370,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/tabular/core.py,"__init__ has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai.tabular,core,,Long statement,add_datepart,33,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/tabular/core.py,A line with 169 chars in add_datepart exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.tabular,core,,Long statement,df_shrink_dtypes,100,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/tabular/core.py,A line with 122 chars in df_shrink_dtypes exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.tabular,core,,Long statement,setups,275,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/tabular/core.py,A line with 136 chars in setups exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.tabular,core,Tabular,Long statement,__init__,152,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/tabular/core.py,A line with 121 chars in __init__ exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.tabular,core,Tabular,Long statement,new,173,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/tabular/core.py,A line with 176 chars in new exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.tabular,core,,Long statement,,11,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/tabular/core.py,A line with 263 chars in core exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.tabular,core,,Magic number,cont_cat_split,86,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/tabular/core.py,Magic number 20 used in cont_cat_split.
+fastai_fastai.fastai.tabular,core,,Magic number,show_batch,345,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/tabular/core.py,Magic number 10 used in show_batch.
+fastai_fastai.fastai.tabular,core,Tabular,Magic number,show,180,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/tabular/core.py,Magic number 10 used in show.
+fastai_fastai.fastai.tabular,core,Tabular,Magic number,n_subsets,187,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/tabular/core.py,Magic number 2 used in n_subsets.
+fastai_fastai.fastai.tabular,core,TabDataLoader,Magic number,__init__,352,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/tabular/core.py,Magic number 16 used in __init__.
+fastai_fastai.fastai.tabular,core,TabWeightedDL,Magic number,__init__,366,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/tabular/core.py,Magic number 16 used in __init__.
+fastai_fastai.fastai.tabular,data,TabularDataLoaders,Long parameter list,from_df,19 - 35,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/tabular/data.py,"from_df has 9 parameters, exceeding the max of 5."
+fastai_fastai.fastai.tabular,learner,,Long parameter list,tabular_learner,31 - 49,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/tabular/learner.py,"tabular_learner has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai.tabular,learner,,Long parameter list,show_results,53 - 56,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/tabular/learner.py,"show_results has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai.tabular,learner,,Magic number,tabular_learner,42,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/tabular/learner.py,Magic number 200 used in tabular_learner.
+fastai_fastai.fastai.tabular,learner,,Magic number,tabular_learner,42,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/tabular/learner.py,Magic number 100 used in tabular_learner.
+fastai_fastai.fastai.tabular,learner,,Magic number,show_results,53,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/tabular/learner.py,Magic number 10 used in show_results.
+fastai_fastai.fastai.tabular,model,TabularModel,Long parameter list,__init__,39 - 65,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/tabular/model.py,"__init__ has 12 parameters, exceeding the max of 5."
+fastai_fastai.fastai.tabular,model,,Long statement,get_emb_sz,33,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/tabular/model.py,A line with 121 chars in get_emb_sz exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.tabular,model,TabularModel,Long statement,__init__,62,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/tabular/model.py,A line with 190 chars in __init__ exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.text,core,Tokenizer,Empty catch block,get_lengths,314,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/core.py,Empty catch block found in get_lengths.
+fastai_fastai.fastai.text,core,,Long parameter list,_tokenize_files,160 - 179,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/core.py,"_tokenize_files has 10 parameters, exceeding the max of 5."
+fastai_fastai.fastai.text,core,,Long parameter list,tokenize_df,215 - 230,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/core.py,"tokenize_df has 7 parameters, exceeding the max of 5."
+fastai_fastai.fastai.text,core,,Long parameter list,tokenize_csv,233 - 247,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/core.py,"tokenize_csv has 9 parameters, exceeding the max of 5."
+fastai_fastai.fastai.text,core,Tokenizer,Long parameter list,__init__,262 - 265,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/core.py,"__init__ has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai.text,core,SentencePieceTokenizer,Long parameter list,__init__,325 - 338,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/core.py,"__init__ has 8 parameters, exceeding the max of 5."
+fastai_fastai.fastai.text,core,,Long statement,fix_html,65,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/core.py,A line with 286 chars in fix_html exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.text,core,Tokenizer,Long statement,from_folder,284,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/core.py,A line with 146 chars in from_folder exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.text,core,SentencePieceTokenizer,Long statement,__init__,327,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/core.py,A line with 204 chars in __init__ exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.text,core,SentencePieceTokenizer,Long statement,train,355,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/core.py,A line with 369 chars in train exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.text,core,,Long statement,,11,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/core.py,A line with 555 chars in core exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.text,core,,Long statement,,22,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/core.py,A line with 123 chars in core exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.text,core,,Long statement,,104,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/core.py,A line with 142 chars in core exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.text,core,,Long statement,,319,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/core.py,A line with 155 chars in core exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.text,core,,Magic number,replace_wrep,59,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/core.py,Magic number 2 used in replace_wrep.
+fastai_fastai.fastai.text,core,,Magic number,tokenize_csv,233,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/core.py,Magic number 4 used in tokenize_csv.
+fastai_fastai.fastai.text,core,,Magic number,tokenize_csv,234,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/core.py,Magic number 50000 used in tokenize_csv.
+fastai_fastai.fastai.text,core,SpacyTokenizer,Magic number,__init__,117,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/core.py,Magic number 5000 used in __init__.
+fastai_fastai.fastai.text,core,SentencePieceTokenizer,Magic number,__init__,325,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/core.py,Magic number 30000 used in __init__.
+fastai_fastai.fastai.text,core,SentencePieceTokenizer,Magic number,_get_vocab_sz,346,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/core.py,Magic number 4 used in _get_vocab_sz.
+fastai_fastai.fastai.text,core,SentencePieceTokenizer,Magic number,_get_vocab_sz,347,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/core.py,Magic number 8 used in _get_vocab_sz.
+fastai_fastai.fastai.text,core,SentencePieceTokenizer,Magic number,_get_vocab_sz,345,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/core.py,Magic number 4 used in _get_vocab_sz.
+fastai_fastai.fastai.text,data,,Long parameter list,show_batch,114 - 119,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/data.py,"show_batch has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai.text,data,,Long parameter list,show_batch,123 - 125,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/data.py,"show_batch has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai.text,data,LMDataLoader,Long parameter list,__init__,77 - 90,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/data.py,"__init__ has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai.text,data,TextBlock,Long parameter list,from_df,235 - 238,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/data.py,"from_df has 8 parameters, exceeding the max of 5."
+fastai_fastai.fastai.text,data,TextBlock,Long parameter list,from_folder,242 - 245,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/data.py,"from_folder has 8 parameters, exceeding the max of 5."
+fastai_fastai.fastai.text,data,TextDataLoaders,Long parameter list,from_folder,252 - 264,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/data.py,"from_folder has 13 parameters, exceeding the max of 5."
+fastai_fastai.fastai.text,data,TextDataLoaders,Long parameter list,from_df,268 - 280,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/data.py,"from_df has 16 parameters, exceeding the max of 5."
+fastai_fastai.fastai.text,data,TextDataLoaders,Long parameter list,from_csv,283 - 286,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/data.py,"from_csv has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai.text,data,TextBlock,Long statement,__init__,229,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/data.py,A line with 185 chars in __init__ exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.text,data,TextBlock,Long statement,from_df,237,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/data.py,A line with 154 chars in from_df exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.text,data,TextBlock,Long statement,from_folder,244,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/data.py,A line with 153 chars in from_folder exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.text,data,TextDataLoaders,Long statement,from_folder,256,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/data.py,A line with 133 chars in from_folder exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.text,data,TextDataLoaders,Long statement,from_df,276,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/data.py,A line with 157 chars in from_df exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.text,data,,Long statement,,12,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/data.py,A line with 231 chars in data exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.text,data,,Magic number,make_vocab,19,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/data.py,Magic number 3 used in make_vocab.
+fastai_fastai.fastai.text,data,,Magic number,make_vocab,19,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/data.py,Magic number 60000 used in make_vocab.
+fastai_fastai.fastai.text,data,,Magic number,show_batch,114,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/data.py,Magic number 10 used in show_batch.
+fastai_fastai.fastai.text,data,,Magic number,show_batch,114,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/data.py,Magic number 150 used in show_batch.
+fastai_fastai.fastai.text,data,,Magic number,show_batch,123,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/data.py,Magic number 10 used in show_batch.
+fastai_fastai.fastai.text,data,,Magic number,show_batch,123,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/data.py,Magic number 150 used in show_batch.
+fastai_fastai.fastai.text,data,,Magic number,pad_chunk,150,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/data.py,Magic number 72 used in pad_chunk.
+fastai_fastai.fastai.text,data,,Magic number,pad_chunk,150,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/data.py,Magic number 10 used in pad_chunk.
+fastai_fastai.fastai.text,data,Numericalize,Magic number,__init__,39,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/data.py,Magic number 3 used in __init__.
+fastai_fastai.fastai.text,data,Numericalize,Magic number,__init__,39,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/data.py,Magic number 60000 used in __init__.
+fastai_fastai.fastai.text,data,LMDataLoader,Magic number,__init__,77,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/data.py,Magic number 2 used in __init__.
+fastai_fastai.fastai.text,data,LMDataLoader,Magic number,__init__,77,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/data.py,Magic number 64 used in __init__.
+fastai_fastai.fastai.text,data,LMDataLoader,Magic number,__init__,77,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/data.py,Magic number 72 used in __init__.
+fastai_fastai.fastai.text,data,Pad_Chunk,Magic number,__init__,169,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/data.py,Magic number 72 used in __init__.
+fastai_fastai.fastai.text,data,SortedDL,Magic number,shuffle_fn,205,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/data.py,Magic number 50 used in shuffle_fn.
+fastai_fastai.fastai.text,data,SortedDL,Magic number,shuffle_fn,212,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/data.py,Magic number 2 used in shuffle_fn.
+fastai_fastai.fastai.text,data,TextBlock,Magic number,__init__,226,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/data.py,Magic number 72 used in __init__.
+fastai_fastai.fastai.text,data,TextBlock,Magic number,from_df,235,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/data.py,Magic number 72 used in from_df.
+fastai_fastai.fastai.text,data,TextBlock,Magic number,from_df,235,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/data.py,Magic number 3 used in from_df.
+fastai_fastai.fastai.text,data,TextBlock,Magic number,from_df,235,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/data.py,Magic number 60000 used in from_df.
+fastai_fastai.fastai.text,data,TextBlock,Magic number,from_folder,242,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/data.py,Magic number 72 used in from_folder.
+fastai_fastai.fastai.text,data,TextBlock,Magic number,from_folder,242,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/data.py,Magic number 3 used in from_folder.
+fastai_fastai.fastai.text,data,TextBlock,Magic number,from_folder,242,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/data.py,Magic number 60000 used in from_folder.
+fastai_fastai.fastai.text,data,TextDataLoaders,Magic number,from_folder,253,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/data.py,Magic number 72 used in from_folder.
+fastai_fastai.fastai.text,data,TextDataLoaders,Magic number,from_df,268,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/data.py,Magic number 0.2 used in from_df.
+fastai_fastai.fastai.text,data,TextDataLoaders,Magic number,from_df,269,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/data.py,Magic number 72 used in from_df.
+fastai_fastai.fastai.text,learner,,Complex method,load_model_text,80 - 100,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/learner.py,"Method 'load_model_text' has a cyclomatic complexity of 8, exceeding the max of 6."
+fastai_fastai.fastai.text,learner,,Complex method,decode_spec_tokens,171 - 189,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/learner.py,"Method 'decode_spec_tokens' has a cyclomatic complexity of 9, exceeding the max of 6."
+fastai_fastai.fastai.text,learner,LMLearner,Complex method,predict,194 - 216,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/learner.py,"Method 'predict' has a cyclomatic complexity of 8, exceeding the max of 6."
+fastai_fastai.fastai.text,learner,LMLearner,Long message chain,predict,215,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/learner.py,"A long message chain has 5 attributes/calls chained together, more than the recommended 3 in the following statement: sep = self.dls.train_ds.tokenizer.sep."
+fastai_fastai.fastai.text,learner,,Long parameter list,load_model_text,80 - 100,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/learner.py,"load_model_text has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai.text,learner,,Long parameter list,language_model_learner,232 - 250,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/learner.py,"language_model_learner has 7 parameters, exceeding the max of 5."
+fastai_fastai.fastai.text,learner,,Long parameter list,text_classifier_learner,254 - 274,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/learner.py,"text_classifier_learner has 12 parameters, exceeding the max of 5."
+fastai_fastai.fastai.text,learner,,Long parameter list,show_results,278 - 284,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/learner.py,"show_results has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai.text,learner,,Long parameter list,show_results,288 - 293,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/learner.py,"show_results has 7 parameters, exceeding the max of 5."
+fastai_fastai.fastai.text,learner,,Long parameter list,plot_top_losses,297 - 305,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/learner.py,"plot_top_losses has 7 parameters, exceeding the max of 5."
+fastai_fastai.fastai.text,learner,LMLearner,Long parameter list,predict,194 - 216,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/learner.py,"predict has 8 parameters, exceeding the max of 5."
+fastai_fastai.fastai.text,learner,,Long statement,text_classifier_learner,260,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/learner.py,A line with 165 chars in text_classifier_learner exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.text,learner,,Long statement,,16,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/learner.py,A line with 221 chars in learner exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.text,learner,,Magic number,text_classifier_learner,254,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/learner.py,Magic number 72 used in text_classifier_learner.
+fastai_fastai.fastai.text,learner,,Magic number,text_classifier_learner,254,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/learner.py,Magic number 0.5 used in text_classifier_learner.
+fastai_fastai.fastai.text,learner,,Magic number,text_classifier_learner,255,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/learner.py,Magic number 72 used in text_classifier_learner.
+fastai_fastai.fastai.text,learner,,Magic number,text_classifier_learner,255,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/learner.py,Magic number 20 used in text_classifier_learner.
+fastai_fastai.fastai.text,learner,,Magic number,show_results,278,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/learner.py,Magic number 10 used in show_results.
+fastai_fastai.fastai.text,learner,,Magic number,show_results,288,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/learner.py,Magic number 10 used in show_results.
+fastai_fastai.fastai.text,learner,,Magic number,show_results,288,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/learner.py,Magic number 150 used in show_results.
+fastai_fastai.fastai.text,learner,,Magic number,plot_top_losses,297,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/learner.py,Magic number 150 used in plot_top_losses.
+fastai_fastai.fastai.text,learner,TextLearner,Magic number,__init__,109,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/learner.py,Magic number 2.0 used in __init__.
+fastai_fastai.fastai.text,learner,TextLearner,Magic number,__init__,111,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/learner.py,Magic number 0.8 used in __init__.
+fastai_fastai.fastai.text,learner,TextLearner,Magic number,__init__,111,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/learner.py,Magic number 0.7 used in __init__.
+fastai_fastai.fastai.text,learner,TextLearner,Magic number,__init__,111,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/learner.py,Magic number 0.8 used in __init__.
+fastai_fastai.fastai.text.models,awdlstm,AWD_LSTM,Long parameter list,__init__,99 - 121,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/models/awdlstm.py,"__init__ has 10 parameters, exceeding the max of 5."
+fastai_fastai.fastai.text.models,awdlstm,EmbeddingDropout,Long statement,forward,91,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/models/awdlstm.py,A line with 161 chars in forward exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.text.models,awdlstm,AWD_LSTM,Long statement,__init__,116,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/models/awdlstm.py,A line with 182 chars in __init__ exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.text.models,awdlstm,,Long statement,,11,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/models/awdlstm.py,A line with 179 chars in awdlstm exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.text.models,awdlstm,,Long statement,,170,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/models/awdlstm.py,A line with 191 chars in awdlstm exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.text.models,awdlstm,,Long statement,,182,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/models/awdlstm.py,A line with 158 chars in awdlstm exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.text.models,awdlstm,RNNDropout,Magic number,__init__,26,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/models/awdlstm.py,Magic number 0.5 used in __init__.
+fastai_fastai.fastai.text.models,awdlstm,AWD_LSTM,Magic number,__init__,105,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/models/awdlstm.py,Magic number 0.2 used in __init__.
+fastai_fastai.fastai.text.models,awdlstm,AWD_LSTM,Magic number,__init__,106,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/models/awdlstm.py,Magic number 0.6 used in __init__.
+fastai_fastai.fastai.text.models,awdlstm,AWD_LSTM,Magic number,__init__,107,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/models/awdlstm.py,Magic number 0.1 used in __init__.
+fastai_fastai.fastai.text.models,awdlstm,AWD_LSTM,Magic number,__init__,108,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/models/awdlstm.py,Magic number 0.5 used in __init__.
+fastai_fastai.fastai.text.models,awdlstm,AWD_LSTM,Magic number,__init__,113,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/models/awdlstm.py,Magic number 2 used in __init__.
+fastai_fastai.fastai.text.models,awdlstm,AWD_LSTM,Magic number,forward,124,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/models/awdlstm.py,Magic number 2 used in forward.
+fastai_fastai.fastai.text.models,core,,Long parameter list,get_text_classifier,146 - 173,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/models/core.py,"get_text_classifier has 11 parameters, exceeding the max of 5."
+fastai_fastai.fastai.text.models,core,,Long statement,,12,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/models/core.py,A line with 157 chars in core exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.text.models,core,,Magic number,get_text_classifier,150,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/models/core.py,Magic number 72 used in get_text_classifier.
+fastai_fastai.fastai.text.models,core,,Magic number,get_text_classifier,156,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/models/core.py,Magic number 72 used in get_text_classifier.
+fastai_fastai.fastai.text.models,core,,Magic number,get_text_classifier,156,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/models/core.py,Magic number 20 used in get_text_classifier.
+fastai_fastai.fastai.text.models,core,,Magic number,get_text_classifier,166,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/models/core.py,Magic number 50 used in get_text_classifier.
+fastai_fastai.fastai.text.models,core,,Magic number,get_text_classifier,167,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/models/core.py,Magic number 0.1 used in get_text_classifier.
+fastai_fastai.fastai.text.models,core,,Magic number,get_text_classifier,168,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/models/core.py,Magic number 3 used in get_text_classifier.
+fastai_fastai.fastai.text.models,core,LinearDecoder,Magic number,__init__,34,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/models/core.py,Magic number 0.1 used in __init__.
+fastai_fastai.fastai.text.models,core,PoolingLinearClassifier,Magic number,__init__,133,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/text/models/core.py,Magic number 2 used in __init__.
+fastai_fastai.fastai.vision,augment,,Complex method,aug_transforms,1237 - 1267,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,"Method 'aug_transforms' has a cyclomatic complexity of 8, exceeding the max of 6."
+fastai_fastai.fastai.vision,augment,RandomResizedCropGPU,Complex method,before_call,525 - 542,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,"Method 'before_call' has a cyclomatic complexity of 8, exceeding the max of 6."
+fastai_fastai.fastai.vision,augment,,Long parameter list,_do_crop_pad,129 - 141,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,"_do_crop_pad has 7 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,augment,,Long parameter list,_do_crop_pad,144 - 147,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,"_do_crop_pad has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,augment,,Long parameter list,_do_crop_pad,150 - 152,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,"_do_crop_pad has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,augment,,Long parameter list,crop_pad,155 - 166,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,"crop_pad has 7 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,augment,,Long parameter list,affine_coord,379 - 393,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,"affine_coord has 7 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,augment,,Long parameter list,affine_coord,396 - 409,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,"affine_coord has 7 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,augment,,Long parameter list,affine_coord,412 - 427,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,"affine_coord has 7 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,augment,,Long parameter list,affine_coord,430 - 447,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,"affine_coord has 7 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,augment,,Long parameter list,_draw_mask,568 - 576,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,"_draw_mask has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,augment,,Long parameter list,flip_batch,607 - 618,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,"flip_batch has 8 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,augment,,Long parameter list,dihedral_batch,675 - 686,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,"dihedral_batch has 8 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,augment,,Long parameter list,zoom_mat,760 - 783,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,"zoom_mat has 8 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,augment,,Long parameter list,aug_transforms,1237 - 1267,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,"aug_transforms has 17 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,augment,RandomResizedCrop,Long parameter list,__init__,285 - 297,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,"__init__ has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,augment,AffineCoordTfm,Long parameter list,__init__,460 - 473,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,"__init__ has 7 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,augment,RandomResizedCropGPU,Long parameter list,__init__,511 - 523,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,"__init__ has 7 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,augment,Flip,Long parameter list,__init__,623 - 633,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,"__init__ has 7 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,augment,Dihedral,Long parameter list,__init__,691 - 701,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,"__init__ has 7 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,augment,Rotate,Long parameter list,__init__,746 - 757,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,"__init__ has 8 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,augment,Zoom,Long parameter list,__init__,801 - 815,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,"__init__ has 11 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,augment,Warp,Long parameter list,__init__,893 - 906,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,"__init__ has 9 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,augment,,Long statement,affine_coord,442,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,A line with 133 chars in affine_coord exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,augment,,Long statement,affine_mat,581,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,A line with 144 chars in affine_mat exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,augment,,Long statement,zoom,796,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,A line with 126 chars in zoom exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,augment,,Long statement,find_coeffs,831,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,A line with 149 chars in find_coeffs exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,augment,,Long statement,find_coeffs,832,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,A line with 149 chars in find_coeffs exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,augment,,Long statement,aug_transforms,1257,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,A line with 140 chars in aug_transforms exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,augment,Resize,Long statement,encodes,269,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,A line with 175 chars in encodes exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,augment,Resize,Long statement,encodes,277,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,A line with 161 chars in encodes exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,augment,RandomResizedCrop,Long statement,encodes,325,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,A line with 159 chars in encodes exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,augment,AffineCoordTfm,Long statement,_encode,500,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,A line with 132 chars in _encode exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,augment,AffineCoordTfm,Long statement,_encode,501,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,A line with 126 chars in _encode exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,augment,DeterministicFlip,Long statement,__init__,653,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,A line with 124 chars in __init__ exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,augment,Zoom,Long statement,__init__,814,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,A line with 123 chars in __init__ exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,augment,_WarpCoord,Long statement,before_call,867,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,A line with 158 chars in before_call exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,augment,_ContrastLogit,Long statement,_def_draw,990,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,A line with 121 chars in _def_draw exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,augment,_SaturationLogit,Long statement,_def_draw,1029,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,A line with 121 chars in _def_draw exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,augment,,Long statement,,12,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,A line with 686 chars in augment exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,augment,,Long statement,,119,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,A line with 167 chars in augment exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,augment,,Long statement,,236,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,A line with 165 chars in augment exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,augment,,Magic number,dihedral,86,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 3 used in dihedral.
+fastai_fastai.fastai.vision,augment,,Magic number,dihedral,86,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 4 used in dihedral.
+fastai_fastai.fastai.vision,augment,,Magic number,dihedral,86,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 7 used in dihedral.
+fastai_fastai.fastai.vision,augment,,Magic number,dihedral,87,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 2 used in dihedral.
+fastai_fastai.fastai.vision,augment,,Magic number,dihedral,87,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 4 used in dihedral.
+fastai_fastai.fastai.vision,augment,,Magic number,dihedral,87,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 5 used in dihedral.
+fastai_fastai.fastai.vision,augment,,Magic number,dihedral,87,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 7 used in dihedral.
+fastai_fastai.fastai.vision,augment,,Magic number,dihedral,88,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 3 used in dihedral.
+fastai_fastai.fastai.vision,augment,,Magic number,dihedral,88,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 5 used in dihedral.
+fastai_fastai.fastai.vision,augment,,Magic number,dihedral,88,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 6 used in dihedral.
+fastai_fastai.fastai.vision,augment,,Magic number,dihedral,88,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 7 used in dihedral.
+fastai_fastai.fastai.vision,augment,,Magic number,dihedral,94,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 3 used in dihedral.
+fastai_fastai.fastai.vision,augment,,Magic number,dihedral,94,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 4 used in dihedral.
+fastai_fastai.fastai.vision,augment,,Magic number,dihedral,94,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 7 used in dihedral.
+fastai_fastai.fastai.vision,augment,,Magic number,dihedral,95,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 2 used in dihedral.
+fastai_fastai.fastai.vision,augment,,Magic number,dihedral,95,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 4 used in dihedral.
+fastai_fastai.fastai.vision,augment,,Magic number,dihedral,95,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 5 used in dihedral.
+fastai_fastai.fastai.vision,augment,,Magic number,dihedral,95,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 7 used in dihedral.
+fastai_fastai.fastai.vision,augment,,Magic number,dihedral,96,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 3 used in dihedral.
+fastai_fastai.fastai.vision,augment,,Magic number,dihedral,96,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 5 used in dihedral.
+fastai_fastai.fastai.vision,augment,,Magic number,dihedral,96,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 6 used in dihedral.
+fastai_fastai.fastai.vision,augment,,Magic number,dihedral,96,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 7 used in dihedral.
+fastai_fastai.fastai.vision,augment,,Magic number,_grid_sample,360,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 2 used in _grid_sample.
+fastai_fastai.fastai.vision,augment,,Magic number,_grid_sample,362,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 2 used in _grid_sample.
+fastai_fastai.fastai.vision,augment,,Magic number,affine_coord,390,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 2 used in affine_coord.
+fastai_fastai.fastai.vision,augment,,Magic number,affine_coord,405,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 3 used in affine_coord.
+fastai_fastai.fastai.vision,augment,,Magic number,affine_coord,441,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 2 used in affine_coord.
+fastai_fastai.fastai.vision,augment,,Magic number,_prepare_mat,454,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 2 used in _prepare_mat.
+fastai_fastai.fastai.vision,augment,,Magic number,mask_tensor,554,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.5 used in mask_tensor.
+fastai_fastai.fastai.vision,augment,,Magic number,_draw_mask,568,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.5 used in _draw_mask.
+fastai_fastai.fastai.vision,augment,,Magic number,flip_mat,588,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.5 used in flip_mat.
+fastai_fastai.fastai.vision,augment,,Magic number,flip_mat,594,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 2 used in flip_mat.
+fastai_fastai.fastai.vision,augment,,Magic number,flip_batch,608,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.5 used in flip_batch.
+fastai_fastai.fastai.vision,augment,,Magic number,dihedral_mat,658,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.5 used in dihedral_mat.
+fastai_fastai.fastai.vision,augment,,Magic number,dihedral_batch,676,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.5 used in dihedral_batch.
+fastai_fastai.fastai.vision,augment,,Magic number,rotate_mat,717,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 10 used in rotate_mat.
+fastai_fastai.fastai.vision,augment,,Magic number,rotate_mat,718,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.5 used in rotate_mat.
+fastai_fastai.fastai.vision,augment,,Magic number,rotate_mat,725,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 180 used in rotate_mat.
+fastai_fastai.fastai.vision,augment,,Magic number,zoom_mat,763,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 1.1 used in zoom_mat.
+fastai_fastai.fastai.vision,augment,,Magic number,zoom_mat,764,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.5 used in zoom_mat.
+fastai_fastai.fastai.vision,augment,,Magic number,zoom_mat,780,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 2 used in zoom_mat.
+fastai_fastai.fastai.vision,augment,,Magic number,zoom_mat,781,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 2 used in zoom_mat.
+fastai_fastai.fastai.vision,augment,,Magic number,rgb2hsv,1084,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 2.0 used in rgb2hsv.
+fastai_fastai.fastai.vision,augment,,Magic number,rgb2hsv,1085,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 4.0 used in rgb2hsv.
+fastai_fastai.fastai.vision,augment,,Magic number,hsv2rgb,1104,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 6 used in hsv2rgb.
+fastai_fastai.fastai.vision,augment,,Magic number,hsv2rgb,1098,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 6.0 used in hsv2rgb.
+fastai_fastai.fastai.vision,augment,,Magic number,cutout_gaussian,1169,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 3 used in cutout_gaussian.
+fastai_fastai.fastai.vision,augment,,Magic number,aug_transforms,1241,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 10.0 used in aug_transforms.
+fastai_fastai.fastai.vision,augment,,Magic number,aug_transforms,1243,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 1.1 used in aug_transforms.
+fastai_fastai.fastai.vision,augment,,Magic number,aug_transforms,1244,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.2 used in aug_transforms.
+fastai_fastai.fastai.vision,augment,,Magic number,aug_transforms,1245,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.2 used in aug_transforms.
+fastai_fastai.fastai.vision,augment,,Magic number,aug_transforms,1246,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.75 used in aug_transforms.
+fastai_fastai.fastai.vision,augment,,Magic number,aug_transforms,1247,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.75 used in aug_transforms.
+fastai_fastai.fastai.vision,augment,FlipItem,Magic number,__init__,73,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.5 used in __init__.
+fastai_fastai.fastai.vision,augment,CropPad,Magic number,encodes,194,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 2 used in encodes.
+fastai_fastai.fastai.vision,augment,RandomCrop,Magic number,before_call,216,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 2 used in before_call.
+fastai_fastai.fastai.vision,augment,Resize,Magic number,before_call,264,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.5 used in before_call.
+fastai_fastai.fastai.vision,augment,Resize,Magic number,before_call,264,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.5 used in before_call.
+fastai_fastai.fastai.vision,augment,RandomResizedCrop,Magic number,__init__,287,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.08 used in __init__.
+fastai_fastai.fastai.vision,augment,RandomResizedCrop,Magic number,__init__,290,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.14 used in __init__.
+fastai_fastai.fastai.vision,augment,RandomResizedCrop,Magic number,__init__,288,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 3 used in __init__.
+fastai_fastai.fastai.vision,augment,RandomResizedCrop,Magic number,__init__,288,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 4 used in __init__.
+fastai_fastai.fastai.vision,augment,RandomResizedCrop,Magic number,__init__,288,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 4 used in __init__.
+fastai_fastai.fastai.vision,augment,RandomResizedCrop,Magic number,__init__,288,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 3 used in __init__.
+fastai_fastai.fastai.vision,augment,RandomResizedCrop,Magic number,before_call,305,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 8 used in before_call.
+fastai_fastai.fastai.vision,augment,RandomResizedCrop,Magic number,before_call,322,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 2 used in before_call.
+fastai_fastai.fastai.vision,augment,RandomResizedCrop,Magic number,before_call,322,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 2 used in before_call.
+fastai_fastai.fastai.vision,augment,RandomResizedCropGPU,Magic number,__init__,513,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.08 used in __init__.
+fastai_fastai.fastai.vision,augment,RandomResizedCropGPU,Magic number,__init__,514,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 3 used in __init__.
+fastai_fastai.fastai.vision,augment,RandomResizedCropGPU,Magic number,__init__,514,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 4 used in __init__.
+fastai_fastai.fastai.vision,augment,RandomResizedCropGPU,Magic number,__init__,514,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 4 used in __init__.
+fastai_fastai.fastai.vision,augment,RandomResizedCropGPU,Magic number,__init__,514,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 3 used in __init__.
+fastai_fastai.fastai.vision,augment,RandomResizedCropGPU,Magic number,before_call,542,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 2 used in before_call.
+fastai_fastai.fastai.vision,augment,RandomResizedCropGPU,Magic number,before_call,542,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 2 used in before_call.
+fastai_fastai.fastai.vision,augment,Flip,Magic number,__init__,624,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.5 used in __init__.
+fastai_fastai.fastai.vision,augment,Dihedral,Magic number,__init__,692,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.5 used in __init__.
+fastai_fastai.fastai.vision,augment,Rotate,Magic number,__init__,747,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 10 used in __init__.
+fastai_fastai.fastai.vision,augment,Rotate,Magic number,__init__,748,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.5 used in __init__.
+fastai_fastai.fastai.vision,augment,Zoom,Magic number,__init__,803,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 1.1 used in __init__.
+fastai_fastai.fastai.vision,augment,Zoom,Magic number,__init__,804,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.5 used in __init__.
+fastai_fastai.fastai.vision,augment,_WarpCoord,Magic number,__init__,854,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.2 used in __init__.
+fastai_fastai.fastai.vision,augment,_WarpCoord,Magic number,__init__,854,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.5 used in __init__.
+fastai_fastai.fastai.vision,augment,Warp,Magic number,__init__,894,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.2 used in __init__.
+fastai_fastai.fastai.vision,augment,Warp,Magic number,__init__,895,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.5 used in __init__.
+fastai_fastai.fastai.vision,augment,_BrightnessLogit,Magic number,__init__,953,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.2 used in __init__.
+fastai_fastai.fastai.vision,augment,_BrightnessLogit,Magic number,__init__,953,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.75 used in __init__.
+fastai_fastai.fastai.vision,augment,Brightness,Magic number,__init__,975,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.2 used in __init__.
+fastai_fastai.fastai.vision,augment,Brightness,Magic number,__init__,976,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.75 used in __init__.
+fastai_fastai.fastai.vision,augment,_ContrastLogit,Magic number,__init__,986,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.2 used in __init__.
+fastai_fastai.fastai.vision,augment,_ContrastLogit,Magic number,__init__,986,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.75 used in __init__.
+fastai_fastai.fastai.vision,augment,Contrast,Magic number,__init__,1010,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.2 used in __init__.
+fastai_fastai.fastai.vision,augment,Contrast,Magic number,__init__,1011,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.75 used in __init__.
+fastai_fastai.fastai.vision,augment,_SaturationLogit,Magic number,__init__,1025,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.2 used in __init__.
+fastai_fastai.fastai.vision,augment,_SaturationLogit,Magic number,__init__,1025,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.75 used in __init__.
+fastai_fastai.fastai.vision,augment,Saturation,Magic number,__init__,1055,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.2 used in __init__.
+fastai_fastai.fastai.vision,augment,Saturation,Magic number,__init__,1056,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.75 used in __init__.
+fastai_fastai.fastai.vision,augment,_Hue,Magic number,__init__,1127,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.1 used in __init__.
+fastai_fastai.fastai.vision,augment,_Hue,Magic number,__init__,1127,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.75 used in __init__.
+fastai_fastai.fastai.vision,augment,Hue,Magic number,__init__,1156,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.1 used in __init__.
+fastai_fastai.fastai.vision,augment,Hue,Magic number,__init__,1157,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.75 used in __init__.
+fastai_fastai.fastai.vision,augment,RandomErasing,Magic number,__init__,1194,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.5 used in __init__.
+fastai_fastai.fastai.vision,augment,RandomErasing,Magic number,__init__,1196,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.3 used in __init__.
+fastai_fastai.fastai.vision,augment,RandomErasing,Magic number,__init__,1197,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 0.3 used in __init__.
+fastai_fastai.fastai.vision,augment,RandomErasing,Magic number,encodes,1211,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/augment.py,Magic number 3 used in encodes.
+fastai_fastai.fastai.vision,core,,Complex method,resize_max,81 - 87,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/core.py,"Method 'resize_max' has a cyclomatic complexity of 7, exceeding the max of 6."
+fastai_fastai.fastai.vision,core,,Long parameter list,_draw_rect,208 - 216,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/core.py,"_draw_rect has 7 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,core,,Long statement,__repr__,30,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/core.py,A line with 122 chars in __repr__ exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,core,,Long statement,,16,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/core.py,A line with 356 chars in core exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,core,,Magic number,image2tensor,109,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/core.py,Magic number 2 used in image2tensor.
+fastai_fastai.fastai.vision,core,,Magic number,_draw_rect,208,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/core.py,Magic number 14 used in _draw_rect.
+fastai_fastai.fastai.vision,core,,Magic number,_scale_pnts,253,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/core.py,Magic number 2 used in _scale_pnts.
+fastai_fastai.fastai.vision,core,PointScaler,Magic number,_grab_sz,264,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/core.py,Magic number 2 used in _grab_sz.
+fastai_fastai.fastai.vision,data,,Complex method,get_grid,18 - 41,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/data.py,"Method 'get_grid' has a cyclomatic complexity of 8, exceeding the max of 6."
+fastai_fastai.fastai.vision,data,,Long parameter list,get_grid,18 - 41,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/data.py,"get_grid has 8 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,data,,Long parameter list,show_batch,69 - 72,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/data.py,"show_batch has 8 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,data,,Long parameter list,show_batch,76 - 80,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/data.py,"show_batch has 8 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,data,ImageDataLoaders,Long parameter list,from_folder,114 - 125,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/data.py,"from_folder has 10 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,data,ImageDataLoaders,Long parameter list,from_path_func,129 - 137,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/data.py,"from_path_func has 9 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,data,ImageDataLoaders,Long parameter list,from_df,166 - 180,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/data.py,"from_df has 15 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,data,ImageDataLoaders,Long parameter list,from_csv,183 - 186,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/data.py,"from_csv has 6 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,data,ImageDataLoaders,Long parameter list,from_lists,190 - 200,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/data.py,"from_lists has 10 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,data,SegmentationDataLoaders,Long parameter list,from_label_func,212 - 221,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/data.py,"from_label_func has 10 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,data,ImageDataLoaders,Long statement,from_folder,117,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/data.py,A line with 133 chars in from_folder exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,data,ImageDataLoaders,Long statement,from_folder,119,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/data.py,A line with 180 chars in from_folder exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,data,ImageDataLoaders,Long statement,from_path_func,132,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/data.py,A line with 172 chars in from_path_func exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,data,ImageDataLoaders,Long statement,from_df,174,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/data.py,A line with 220 chars in from_df exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,data,ImageDataLoaders,Long statement,from_lists,194,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/data.py,A line with 154 chars in from_lists exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,data,ImageDataLoaders,Long statement,from_lists,196,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/data.py,A line with 161 chars in from_lists exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,data,SegmentationDataLoaders,Long statement,from_label_func,215,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/data.py,A line with 181 chars in from_label_func exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,data,,Long statement,,13,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/data.py,A line with 184 chars in data exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,data,,Magic number,get_grid,37,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/data.py,Magic number 2 used in get_grid.
+fastai_fastai.fastai.vision,data,,Magic number,get_grid,37,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/data.py,Magic number 2 used in get_grid.
+fastai_fastai.fastai.vision,data,,Magic number,clip_remove_empty,50,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/data.py,Magic number 2 used in clip_remove_empty.
+fastai_fastai.fastai.vision,data,,Magic number,clip_remove_empty,50,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/data.py,Magic number 3 used in clip_remove_empty.
+fastai_fastai.fastai.vision,data,,Magic number,show_batch,69,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/data.py,Magic number 10 used in show_batch.
+fastai_fastai.fastai.vision,data,,Magic number,show_batch,76,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/data.py,Magic number 10 used in show_batch.
+fastai_fastai.fastai.vision,data,,Magic number,show_batch,79,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/data.py,Magic number 2 used in show_batch.
+fastai_fastai.fastai.vision,data,ImageDataLoaders,Magic number,from_path_func,129,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/data.py,Magic number 0.2 used in from_path_func.
+fastai_fastai.fastai.vision,data,ImageDataLoaders,Magic number,from_df,166,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/data.py,Magic number 0.2 used in from_df.
+fastai_fastai.fastai.vision,data,ImageDataLoaders,Magic number,from_lists,190,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/data.py,Magic number 0.2 used in from_lists.
+fastai_fastai.fastai.vision,data,SegmentationDataLoaders,Magic number,from_label_func,212,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/data.py,Magic number 0.2 used in from_label_func.
+fastai_fastai.fastai.vision,gan,AdaptiveGANSwitcher,Complex method,after_batch,295 - 301,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/gan.py,"Method 'after_batch' has a cyclomatic complexity of 7, exceeding the max of 6."
+fastai_fastai.fastai.vision,gan,,Long parameter list,show_batch,333 - 336,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/gan.py,"show_batch has 8 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,gan,,Long parameter list,show_results,340 - 343,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/gan.py,"show_results has 9 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,gan,GANLearner,Long parameter list,__init__,372 - 393,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/gan.py,"__init__ has 12 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,gan,GANLearner,Long parameter list,wgan,408 - 419,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/gan.py,"wgan has 7 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,gan,,Long statement,DenseResBlock,101,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/gan.py,A line with 143 chars in DenseResBlock exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,gan,GANLoss,Long statement,generator,143,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/gan.py,A line with 125 chars in generator exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,gan,,Long statement,,11,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/gan.py,A line with 360 chars in gan exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,gan,,Magic number,basic_critic,42,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/gan.py,Magic number 64 used in basic_critic.
+fastai_fastai.fastai.vision,gan,,Magic number,basic_critic,51,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/gan.py,Magic number 4 used in basic_critic.
+fastai_fastai.fastai.vision,gan,,Magic number,basic_critic,53,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/gan.py,Magic number 2 used in basic_critic.
+fastai_fastai.fastai.vision,gan,,Magic number,basic_critic,53,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/gan.py,Magic number 2 used in basic_critic.
+fastai_fastai.fastai.vision,gan,,Magic number,basic_critic,49,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/gan.py,Magic number 2 used in basic_critic.
+fastai_fastai.fastai.vision,gan,,Magic number,basic_generator,69,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/gan.py,Magic number 100 used in basic_generator.
+fastai_fastai.fastai.vision,gan,,Magic number,basic_generator,70,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/gan.py,Magic number 64 used in basic_generator.
+fastai_fastai.fastai.vision,gan,,Magic number,basic_generator,78,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/gan.py,Magic number 4 used in basic_generator.
+fastai_fastai.fastai.vision,gan,,Magic number,basic_generator,75,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/gan.py,Magic number 4 used in basic_generator.
+fastai_fastai.fastai.vision,gan,,Magic number,basic_generator,76,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/gan.py,Magic number 2 used in basic_generator.
+fastai_fastai.fastai.vision,gan,,Magic number,basic_generator,76,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/gan.py,Magic number 2 used in basic_generator.
+fastai_fastai.fastai.vision,gan,,Magic number,basic_generator,81,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/gan.py,Magic number 2 used in basic_generator.
+fastai_fastai.fastai.vision,gan,,Magic number,basic_generator,81,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/gan.py,Magic number 2 used in basic_generator.
+fastai_fastai.fastai.vision,gan,,Magic number,basic_generator,75,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/gan.py,Magic number 2 used in basic_generator.
+fastai_fastai.fastai.vision,gan,,Magic number,basic_generator,79,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/gan.py,Magic number 2 used in basic_generator.
+fastai_fastai.fastai.vision,gan,,Magic number,_conv,89,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/gan.py,Magic number 3 used in _conv.
+fastai_fastai.fastai.vision,gan,,Magic number,gan_critic,107,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/gan.py,Magic number 3 used in gan_critic.
+fastai_fastai.fastai.vision,gan,,Magic number,gan_critic,108,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/gan.py,Magic number 128 used in gan_critic.
+fastai_fastai.fastai.vision,gan,,Magic number,gan_critic,109,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/gan.py,Magic number 3 used in gan_critic.
+fastai_fastai.fastai.vision,gan,,Magic number,gan_critic,110,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/gan.py,Magic number 0.15 used in gan_critic.
+fastai_fastai.fastai.vision,gan,,Magic number,gan_critic,117,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/gan.py,Magic number 2 used in gan_critic.
+fastai_fastai.fastai.vision,gan,,Magic number,gan_critic,122,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/gan.py,Magic number 2 used in gan_critic.
+fastai_fastai.fastai.vision,gan,,Magic number,accuracy_thresh_expand,166,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/gan.py,Magic number 0.5 used in accuracy_thresh_expand.
+fastai_fastai.fastai.vision,gan,,Magic number,generate_noise,326,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/gan.py,Magic number 100 used in generate_noise.
+fastai_fastai.fastai.vision,gan,,Magic number,show_batch,333,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/gan.py,Magic number 10 used in show_batch.
+fastai_fastai.fastai.vision,gan,,Magic number,show_results,340,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/gan.py,Magic number 10 used in show_results.
+fastai_fastai.fastai.vision,gan,,Magic number,gan_loss_from_func,360,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/gan.py,Magic number 2 used in gan_loss_from_func.
+fastai_fastai.fastai.vision,gan,GANTrainer,Magic number,__init__,185,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/gan.py,Magic number 0.98 used in __init__.
+fastai_fastai.fastai.vision,gan,GANDiscriminativeLR,Magic number,__init__,307,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/gan.py,Magic number 5.0 used in __init__.
+fastai_fastai.fastai.vision,gan,GANLearner,Magic number,wgan,413,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/gan.py,Magic number 0.01 used in wgan.
+fastai_fastai.fastai.vision,learner,,Complex method,create_head,90 - 109,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,"Method 'create_head' has a cyclomatic complexity of 10, exceeding the max of 6."
+fastai_fastai.fastai.vision,learner,,Long parameter list,create_head,90 - 109,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,"create_head has 10 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,learner,,Long parameter list,add_head,154 - 162,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,"add_head has 13 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,learner,,Long parameter list,create_vision_model,165 - 178,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,"create_vision_model has 16 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,learner,,Long parameter list,create_timm_model,190 - 198,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,"create_timm_model has 15 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,learner,,Long parameter list,vision_learner,219 - 246,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,"vision_learner has 29 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,learner,,Long parameter list,create_unet_model,250 - 261,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,"create_unet_model has 7 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,learner,,Long parameter list,unet_learner,265 - 292,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,"unet_learner has 19 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,learner,,Long parameter list,show_results,308 - 311,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,"show_results has 9 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,learner,,Long parameter list,show_results,315 - 321,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,"show_results has 9 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,learner,,Long parameter list,show_results,325 - 333,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,"show_results has 9 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,learner,,Long parameter list,show_results,337 - 342,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,"show_results has 7 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,learner,,Long parameter list,plot_top_losses,346 - 350,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,"plot_top_losses has 9 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,learner,,Long parameter list,plot_top_losses,354 - 361,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,"plot_top_losses has 9 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,learner,,Long parameter list,plot_top_losses,365 - 374,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,"plot_top_losses has 9 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,learner,,Long statement,_update_first_layer,63,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,A line with 137 chars in _update_first_layer exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,learner,,Long statement,_update_first_layer,64,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,A line with 152 chars in _update_first_layer exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,learner,,Long statement,_update_first_layer,65,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,A line with 134 chars in _update_first_layer exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,learner,,Long statement,add_head,158,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,A line with 167 chars in add_head exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,learner,,Long statement,create_vision_model,171,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,A line with 140 chars in create_vision_model exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,learner,,Long statement,create_vision_model,177,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,A line with 199 chars in create_vision_model exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,learner,,Long statement,create_timm_model,196,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,A line with 209 chars in create_timm_model exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,learner,,Long statement,vision_learner,230,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,A line with 201 chars in vision_learner exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,learner,,Long statement,vision_learner,241,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,A line with 221 chars in vision_learner exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,learner,,Long statement,create_unet_model,255,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,A line with 140 chars in create_unet_model exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,learner,,Long statement,unet_learner,286,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,A line with 221 chars in unet_learner exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,learner,,Long statement,show_results,319,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,A line with 153 chars in show_results exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,learner,,Long statement,show_results,327,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,A line with 124 chars in show_results exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,learner,,Long statement,plot_top_losses,366,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,A line with 133 chars in plot_top_losses exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,learner,,Long statement,,20,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,A line with 294 chars in learner exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,learner,,Magic number,_load_pretrained_weights,50,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 2 used in _load_pretrained_weights.
+fastai_fastai.fastai.vision,learner,,Magic number,_load_pretrained_weights,52,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 1.5 used in _load_pretrained_weights.
+fastai_fastai.fastai.vision,learner,,Magic number,_load_pretrained_weights,55,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 3 used in _load_pretrained_weights.
+fastai_fastai.fastai.vision,learner,,Magic number,_load_pretrained_weights,52,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 2 used in _load_pretrained_weights.
+fastai_fastai.fastai.vision,learner,,Magic number,_update_first_layer,61,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 3 used in _update_first_layer.
+fastai_fastai.fastai.vision,learner,,Magic number,_update_first_layer,64,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 3 used in _update_first_layer.
+fastai_fastai.fastai.vision,learner,,Magic number,create_body,81,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 3 used in create_body.
+fastai_fastai.fastai.vision,learner,,Magic number,create_head,90,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 0.5 used in create_head.
+fastai_fastai.fastai.vision,learner,,Magic number,create_head,93,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 2 used in create_head.
+fastai_fastai.fastai.vision,learner,,Magic number,create_head,94,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 512 used in create_head.
+fastai_fastai.fastai.vision,learner,,Magic number,create_head,98,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 2 used in create_head.
+fastai_fastai.fastai.vision,learner,,Magic number,create_head,97,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 2 used in create_head.
+fastai_fastai.fastai.vision,learner,,Magic number,create_head,97,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 2 used in create_head.
+fastai_fastai.fastai.vision,learner,,Magic number,add_head,155,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 0.5 used in add_head.
+fastai_fastai.fastai.vision,learner,,Magic number,create_vision_model,165,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 3 used in create_vision_model.
+fastai_fastai.fastai.vision,learner,,Magic number,create_vision_model,166,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 0.5 used in create_vision_model.
+fastai_fastai.fastai.vision,learner,,Magic number,create_timm_model,190,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 3 used in create_timm_model.
+fastai_fastai.fastai.vision,learner,,Magic number,create_timm_model,191,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 0.5 used in create_timm_model.
+fastai_fastai.fastai.vision,learner,,Magic number,_add_norm,201,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 3 used in _add_norm.
+fastai_fastai.fastai.vision,learner,,Magic number,_timm_norm,210,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 3 used in _timm_norm.
+fastai_fastai.fastai.vision,learner,,Magic number,vision_learner,225,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 0.5 used in vision_learner.
+fastai_fastai.fastai.vision,learner,,Magic number,vision_learner,222,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 0.95 used in vision_learner.
+fastai_fastai.fastai.vision,learner,,Magic number,vision_learner,222,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 0.85 used in vision_learner.
+fastai_fastai.fastai.vision,learner,,Magic number,vision_learner,222,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 0.95 used in vision_learner.
+fastai_fastai.fastai.vision,learner,,Magic number,vision_learner,232,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 3 used in vision_learner.
+fastai_fastai.fastai.vision,learner,,Magic number,create_unet_model,250,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 3 used in create_unet_model.
+fastai_fastai.fastai.vision,learner,,Magic number,unet_learner,268,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 0.95 used in unet_learner.
+fastai_fastai.fastai.vision,learner,,Magic number,unet_learner,268,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 0.85 used in unet_learner.
+fastai_fastai.fastai.vision,learner,,Magic number,unet_learner,268,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 0.95 used in unet_learner.
+fastai_fastai.fastai.vision,learner,,Magic number,unet_learner,276,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 3 used in unet_learner.
+fastai_fastai.fastai.vision,learner,,Magic number,unet_learner,281,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 2 used in unet_learner.
+fastai_fastai.fastai.vision,learner,,Magic number,show_results,308,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 10 used in show_results.
+fastai_fastai.fastai.vision,learner,,Magic number,show_results,315,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 10 used in show_results.
+fastai_fastai.fastai.vision,learner,,Magic number,show_results,325,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 6 used in show_results.
+fastai_fastai.fastai.vision,learner,,Magic number,show_results,330,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 2 used in show_results.
+fastai_fastai.fastai.vision,learner,,Magic number,show_results,332,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 2 used in show_results.
+fastai_fastai.fastai.vision,learner,,Magic number,show_results,337,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 10 used in show_results.
+fastai_fastai.fastai.vision,learner,,Magic number,show_results,341,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 2 used in show_results.
+fastai_fastai.fastai.vision,learner,,Magic number,show_results,341,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 3 used in show_results.
+fastai_fastai.fastai.vision,learner,,Magic number,show_results,340,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 3 used in show_results.
+fastai_fastai.fastai.vision,learner,TimmBody,Magic number,__init__,182,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/learner.py,Magic number 3 used in __init__.
+fastai_fastai.fastai.vision,utils,,Complex conditional,resize_image,86,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/utils.py,"A conditional in resize_image has 4 conditions, more than the recommended maximum 3 conditions."
+fastai_fastai.fastai.vision,utils,,Complex method,resize_image,71 - 92,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/utils.py,"Method 'resize_image' has a cyclomatic complexity of 11, exceeding the max of 6."
+fastai_fastai.fastai.vision,utils,,Empty catch block,verify_image,63,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/utils.py,Empty catch block found in verify_image.
+fastai_fastai.fastai.vision,utils,,Long parameter list,download_images,39 - 45,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/utils.py,"download_images has 7 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,utils,,Long parameter list,resize_image,71 - 92,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/utils.py,"resize_image has 9 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,utils,,Long parameter list,resize_images,95 - 105,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/utils.py,"resize_images has 10 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision,utils,,Long statement,download_images,44,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/utils.py,A line with 161 chars in download_images exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,utils,,Long statement,resize_images,104,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/utils.py,A line with 191 chars in resize_images exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,utils,,Magic number,_download_image_inner,29,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/utils.py,Magic number 4 used in _download_image_inner.
+fastai_fastai.fastai.vision,utils,,Magic number,download_images,39,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/utils.py,Magic number 1000 used in download_images.
+fastai_fastai.fastai.vision,utils,,Magic number,download_images,39,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/utils.py,Magic number 8 used in download_images.
+fastai_fastai.fastai.vision,utils,,Magic number,download_images,39,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/utils.py,Magic number 4 used in download_images.
+fastai_fastai.fastai.vision,utils,,Magic number,resize_image,71,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/utils.py,Magic number 3 used in resize_image.
+fastai_fastai.fastai.vision,utils,,Magic number,resize_image,84,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/utils.py,Magic number 2 used in resize_image.
+fastai_fastai.fastai.vision,utils,,Magic number,resize_image,84,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/utils.py,Magic number 2 used in resize_image.
+fastai_fastai.fastai.vision,utils,,Magic number,resize_image,90,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/utils.py,Magic number 3 used in resize_image.
+fastai_fastai.fastai.vision,utils,,Magic number,resize_images,96,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/utils.py,Magic number 3 used in resize_images.
+fastai_fastai.fastai.vision,widgets,ImagesCleaner,Long statement,set_fns,78,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/widgets.py,A line with 135 chars in set_fns exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,widgets,ImagesCleaner,Long statement,set_fns,80,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/widgets.py,A line with 146 chars in set_fns exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,widgets,,Long statement,,14,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/widgets.py,A line with 186 chars in widgets exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision,widgets,ImagesCleaner,Magic number,__init__,65,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/widgets.py,Magic number 128 used in __init__.
+fastai_fastai.fastai.vision,widgets,ImagesCleaner,Magic number,__init__,66,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/widgets.py,Magic number 256 used in __init__.
+fastai_fastai.fastai.vision,widgets,ImagesCleaner,Magic number,__init__,67,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/widgets.py,Magic number 30 used in __init__.
+fastai_fastai.fastai.vision.models,unet,DynamicUnet,Complex method,__init__,58 - 95,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/unet.py,"Method '__init__' has a cyclomatic complexity of 8, exceeding the max of 6."
+fastai_fastai.fastai.vision.models,unet,UnetBlock,Long parameter list,__init__,24 - 35,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/unet.py,"__init__ has 9 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision.models,unet,DynamicUnet,Long parameter list,__init__,58 - 95,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/unet.py,"__init__ has 12 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision.models,unet,UnetBlock,Long statement,__init__,32,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/unet.py,A line with 132 chars in __init__ exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision.models,unet,DynamicUnet,Long statement,__init__,68,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/unet.py,A line with 180 chars in __init__ exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision.models,unet,DynamicUnet,Long statement,__init__,78,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/unet.py,A line with 172 chars in __init__ exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision.models,unet,UnetBlock,Magic number,__init__,29,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/unet.py,Magic number 2 used in __init__.
+fastai_fastai.fastai.vision.models,unet,UnetBlock,Magic number,__init__,30,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/unet.py,Magic number 2 used in __init__.
+fastai_fastai.fastai.vision.models,unet,UnetBlock,Magic number,forward,40,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/unet.py,Magic number 2 used in forward.
+fastai_fastai.fastai.vision.models,unet,UnetBlock,Magic number,forward,41,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/unet.py,Magic number 2 used in forward.
+fastai_fastai.fastai.vision.models,unet,ResizeToOrig,Magic number,forward,51,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/unet.py,Magic number 2 used in forward.
+fastai_fastai.fastai.vision.models,unet,ResizeToOrig,Magic number,forward,51,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/unet.py,Magic number 2 used in forward.
+fastai_fastai.fastai.vision.models,unet,DynamicUnet,Magic number,__init__,77,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/unet.py,Magic number 3 used in __init__.
+fastai_fastai.fastai.vision.models,unet,DynamicUnet,Magic number,__init__,84,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/unet.py,Magic number 2 used in __init__.
+fastai_fastai.fastai.vision.models,xresnet,XResNet,Long parameter list,__init__,29 - 48,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,"__init__ has 13 parameters, exceeding the max of 5."
+fastai_fastai.fastai.vision.models,xresnet,XResNet,Long statement,__init__,34,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,A line with 139 chars in __init__ exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision.models,xresnet,XResNet,Long statement,__init__,42,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,A line with 203 chars in __init__ exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision.models,xresnet,XResNet,Long statement,_make_blocks,51,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,A line with 191 chars in _make_blocks exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision.models,xresnet,XResNet,Long statement,_make_layer,56,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,A line with 233 chars in _make_layer exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision.models,xresnet,,Long statement,,8,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,A line with 149 chars in xresnet exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision.models,xresnet,,Long statement,,12,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,A line with 639 chars in xresnet exceeds the maximum length of 120 characters.
+fastai_fastai.fastai.vision.models,xresnet,,Magic number,xse_resnet18,91,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,Magic number 1000 used in xse_resnet18.
+fastai_fastai.fastai.vision.models,xresnet,,Magic number,xse_resnext18,92,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,Magic number 1000 used in xse_resnext18.
+fastai_fastai.fastai.vision.models,xresnet,,Magic number,xresnext18,93,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,Magic number 1000 used in xresnext18.
+fastai_fastai.fastai.vision.models,xresnet,,Magic number,xse_resnet34,94,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,Magic number 1000 used in xse_resnet34.
+fastai_fastai.fastai.vision.models,xresnet,,Magic number,xse_resnext34,95,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,Magic number 1000 used in xse_resnext34.
+fastai_fastai.fastai.vision.models,xresnet,,Magic number,xresnext34,96,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,Magic number 1000 used in xresnext34.
+fastai_fastai.fastai.vision.models,xresnet,,Magic number,xse_resnet50,97,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,Magic number 1000 used in xse_resnet50.
+fastai_fastai.fastai.vision.models,xresnet,,Magic number,xse_resnext50,98,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,Magic number 1000 used in xse_resnext50.
+fastai_fastai.fastai.vision.models,xresnet,,Magic number,xresnext50,99,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,Magic number 1000 used in xresnext50.
+fastai_fastai.fastai.vision.models,xresnet,,Magic number,xse_resnet101,100,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,Magic number 1000 used in xse_resnet101.
+fastai_fastai.fastai.vision.models,xresnet,,Magic number,xse_resnext101,101,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,Magic number 1000 used in xse_resnext101.
+fastai_fastai.fastai.vision.models,xresnet,,Magic number,xresnext101,102,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,Magic number 1000 used in xresnext101.
+fastai_fastai.fastai.vision.models,xresnet,,Magic number,xse_resnet152,103,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,Magic number 1000 used in xse_resnet152.
+fastai_fastai.fastai.vision.models,xresnet,,Magic number,xsenet154,104,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,Magic number 1000 used in xsenet154.
+fastai_fastai.fastai.vision.models,xresnet,,Magic number,xse_resnext18_deep,106,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,Magic number 1000 used in xse_resnext18_deep.
+fastai_fastai.fastai.vision.models,xresnet,,Magic number,xse_resnext34_deep,107,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,Magic number 1000 used in xse_resnext34_deep.
+fastai_fastai.fastai.vision.models,xresnet,,Magic number,xse_resnext50_deep,108,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,Magic number 1000 used in xse_resnext50_deep.
+fastai_fastai.fastai.vision.models,xresnet,,Magic number,xse_resnext18_deeper,109,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,Magic number 1000 used in xse_resnext18_deeper.
+fastai_fastai.fastai.vision.models,xresnet,,Magic number,xse_resnext34_deeper,110,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,Magic number 1000 used in xse_resnext34_deeper.
+fastai_fastai.fastai.vision.models,xresnet,,Magic number,xse_resnext50_deeper,111,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,Magic number 1000 used in xse_resnext50_deeper.
+fastai_fastai.fastai.vision.models,xresnet,XResNet,Magic number,__init__,29,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,Magic number 3 used in __init__.
+fastai_fastai.fastai.vision.models,xresnet,XResNet,Magic number,__init__,29,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,Magic number 1000 used in __init__.
+fastai_fastai.fastai.vision.models,xresnet,XResNet,Magic number,__init__,30,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,Magic number 2 used in __init__.
+fastai_fastai.fastai.vision.models,xresnet,XResNet,Magic number,__init__,30,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,Magic number 3 used in __init__.
+fastai_fastai.fastai.vision.models,xresnet,XResNet,Magic number,__init__,30,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,Magic number 2 used in __init__.
+fastai_fastai.fastai.vision.models,xresnet,XResNet,Magic number,__init__,29,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,Magic number 32 used in __init__.
+fastai_fastai.fastai.vision.models,xresnet,XResNet,Magic number,__init__,29,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,Magic number 32 used in __init__.
+fastai_fastai.fastai.vision.models,xresnet,XResNet,Magic number,__init__,29,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,Magic number 64 used in __init__.
+fastai_fastai.fastai.vision.models,xresnet,XResNet,Magic number,__init__,32,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,Magic number 2 used in __init__.
+fastai_fastai.fastai.vision.models,xresnet,XResNet,Magic number,__init__,39,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,Magic number 64 used in __init__.
+fastai_fastai.fastai.vision.models,xresnet,XResNet,Magic number,__init__,38,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,Magic number 64 used in __init__.
+fastai_fastai.fastai.vision.models,xresnet,XResNet,Magic number,__init__,38,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,Magic number 128 used in __init__.
+fastai_fastai.fastai.vision.models,xresnet,XResNet,Magic number,__init__,38,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,Magic number 256 used in __init__.
+fastai_fastai.fastai.vision.models,xresnet,XResNet,Magic number,__init__,38,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,Magic number 512 used in __init__.
+fastai_fastai.fastai.vision.models,xresnet,XResNet,Magic number,__init__,38,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,Magic number 256 used in __init__.
+fastai_fastai.fastai.vision.models,xresnet,XResNet,Magic number,__init__,38,/Volumes/BrokeExt/NICHE/fastai_fastai/fastai/vision/models/xresnet.py,Magic number 4 used in __init__.
+fastai_fastai.nbs,dltest,RandDL,Magic number,create_item,7,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/dltest.py,Magic number 0.95 used in create_item.
+fastai_fastai.nbs.examples,dataloader_spawn,,Long statement,get_data,9,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/dataloader_spawn.py,A line with 255 chars in get_data exceeds the maximum length of 120 characters.
+fastai_fastai.nbs.examples,dataloader_spawn,,Long statement,get_model,18,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/dataloader_spawn.py,A line with 156 chars in get_model exceeds the maximum length of 120 characters.
+fastai_fastai.nbs.examples,distrib,,Long statement,,6,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/distrib.py,A line with 283 chars in distrib exceeds the maximum length of 120 characters.
+fastai_fastai.nbs.examples,distrib_pytorch,Net,Long statement,__init__,8,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/distrib_pytorch.py,A line with 218 chars in __init__ exceeds the maximum length of 120 characters.
+fastai_fastai.nbs.examples,distrib_pytorch,,Long statement,,20,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/distrib_pytorch.py,A line with 147 chars in distrib_pytorch exceeds the maximum length of 120 characters.
+fastai_fastai.nbs.examples,distrib_pytorch,,Long statement,,23,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/distrib_pytorch.py,A line with 137 chars in distrib_pytorch exceeds the maximum length of 120 characters.
+fastai_fastai.nbs.examples,migrating_fastai,Net,Long statement,__init__,6,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/migrating_fastai.py,A line with 218 chars in __init__ exceeds the maximum length of 120 characters.
+fastai_fastai.nbs.examples,migrating_fastai,,Long statement,,18,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/migrating_fastai.py,A line with 147 chars in migrating_fastai exceeds the maximum length of 120 characters.
+fastai_fastai.nbs.examples,migrating_fastai,,Long statement,,21,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/migrating_fastai.py,A line with 137 chars in migrating_fastai exceeds the maximum length of 120 characters.
+fastai_fastai.nbs.examples,migrating_ignite,,Long parameter list,run,41 - 92,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/migrating_ignite.py,"run has 6 parameters, exceeding the max of 5."
+fastai_fastai.nbs.examples,migrating_ignite,,Long statement,get_data_loaders,35,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/migrating_ignite.py,A line with 138 chars in get_data_loaders exceeds the maximum length of 120 characters.
+fastai_fastai.nbs.examples,migrating_ignite,,Long statement,get_data_loaders,37,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/migrating_ignite.py,A line with 137 chars in get_data_loaders exceeds the maximum length of 120 characters.
+fastai_fastai.nbs.examples,migrating_ignite,,Long statement,run,72,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/migrating_ignite.py,A line with 131 chars in run exceeds the maximum length of 120 characters.
+fastai_fastai.nbs.examples,migrating_ignite,,Long statement,run,82,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/migrating_ignite.py,A line with 133 chars in run exceeds the maximum length of 120 characters.
+fastai_fastai.nbs.examples,migrating_pytorch,,Long statement,train,28,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/migrating_pytorch.py,A line with 178 chars in train exceeds the maximum length of 120 characters.
+fastai_fastai.nbs.examples,migrating_pytorch,,Long statement,test,42,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/migrating_pytorch.py,A line with 200 chars in test exceeds the maximum length of 120 characters.
+fastai_fastai.nbs.examples,migrating_pytorch,Net,Long statement,__init__,12,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/migrating_pytorch.py,A line with 218 chars in __init__ exceeds the maximum length of 120 characters.
+fastai_fastai.nbs.examples,migrating_pytorch,,Long statement,,54,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/migrating_pytorch.py,A line with 147 chars in migrating_pytorch exceeds the maximum length of 120 characters.
+fastai_fastai.nbs.examples,migrating_pytorch,,Long statement,,57,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/migrating_pytorch.py,A line with 137 chars in migrating_pytorch exceeds the maximum length of 120 characters.
+fastai_fastai.nbs.examples,migrating_pytorch,,Magic number,train,27,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/migrating_pytorch.py,Magic number 100 used in train.
+fastai_fastai.nbs.examples,mnist_blocks,,Long statement,,4,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/mnist_blocks.py,A line with 131 chars in mnist_blocks exceeds the maximum length of 120 characters.
+fastai_fastai.nbs.examples,train_imagenette,,Complex method,main,39 - 87,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/train_imagenette.py,"Method 'main' has a cyclomatic complexity of 9, exceeding the max of 6."
+fastai_fastai.nbs.examples,train_imagenette,,Long parameter list,get_dls,16 - 36,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/train_imagenette.py,"get_dls has 6 parameters, exceeding the max of 5."
+fastai_fastai.nbs.examples,train_imagenette,,Long parameter list,main,39 - 87,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/train_imagenette.py,"main has 24 parameters, exceeding the max of 5."
+fastai_fastai.nbs.examples,train_imagenette,,Long statement,get_dls,29,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/train_imagenette.py,A line with 180 chars in get_dls exceeds the maximum length of 120 characters.
+fastai_fastai.nbs.examples,train_imagenette,,Long statement,main,65,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/train_imagenette.py,A line with 238 chars in main exceeds the maximum length of 120 characters.
+fastai_fastai.nbs.examples,train_imagenette,,Long statement,main,79,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/train_imagenette.py,A line with 171 chars in main exceeds the maximum length of 120 characters.
+fastai_fastai.nbs.examples,train_imagenette,,Magic number,get_dls,18,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/train_imagenette.py,Magic number 224 used in get_dls.
+fastai_fastai.nbs.examples,train_imagenette,,Magic number,get_dls,17,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/train_imagenette.py,Magic number 5 used in get_dls.
+fastai_fastai.nbs.examples,train_imagenette,,Magic number,get_dls,17,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/train_imagenette.py,Magic number 50 used in get_dls.
+fastai_fastai.nbs.examples,train_imagenette,,Magic number,main,42,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/train_imagenette.py,Magic number 0.01 used in main.
+fastai_fastai.nbs.examples,train_imagenette,,Magic number,main,43,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/train_imagenette.py,Magic number 128 used in main.
+fastai_fastai.nbs.examples,train_imagenette,,Magic number,main,44,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/train_imagenette.py,Magic number 0.99 used in main.
+fastai_fastai.nbs.examples,train_imagenette,,Magic number,main,45,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/train_imagenette.py,Magic number 0.9 used in main.
+fastai_fastai.nbs.examples,train_imagenette,,Magic number,main,46,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/train_imagenette.py,Magic number 1e-06 used in main.
+fastai_fastai.nbs.examples,train_imagenette,,Magic number,main,47,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/train_imagenette.py,Magic number 0.01 used in main.
+fastai_fastai.nbs.examples,train_imagenette,,Magic number,main,48,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/train_imagenette.py,Magic number 5 used in main.
+fastai_fastai.nbs.examples,train_imagenette,,Magic number,main,49,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/train_imagenette.py,Magic number 64 used in main.
+fastai_fastai.nbs.examples,train_imdbclassifier,,Long parameter list,main,15 - 38,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/train_imdbclassifier.py,"main has 6 parameters, exceeding the max of 5."
+fastai_fastai.nbs.examples,train_imdbclassifier,,Magic number,main,16,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/train_imdbclassifier.py,Magic number 0.01 used in main.
+fastai_fastai.nbs.examples,train_imdbclassifier,,Magic number,main,17,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/train_imdbclassifier.py,Magic number 64 used in main.
+fastai_fastai.nbs.examples,train_imdbclassifier,,Magic number,main,18,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/train_imdbclassifier.py,Magic number 5 used in main.
+fastai_fastai.nbs.examples,train_tabular,,Long statement,get_dls,16,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/train_tabular.py,A line with 269 chars in get_dls exceeds the maximum length of 120 characters.
+fastai_fastai.nbs.examples,train_tabular,,Magic number,main,25,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/train_tabular.py,Magic number 5 used in main.
+fastai_fastai.nbs.examples,train_wt2,,Long statement,main,44,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/train_wt2.py,A line with 123 chars in main exceeds the maximum length of 120 characters.
+fastai_fastai.nbs.examples,train_wt2,,Magic number,read_file,16,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/train_wt2.py,Magic number 2 used in read_file.
+fastai_fastai.nbs.examples,train_wt2,,Magic number,main,35,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/train_wt2.py,Magic number 104 used in main.
+fastai_fastai.nbs.examples,train_wt2,,Magic number,main,36,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/train_wt2.py,Magic number 72 used in main.
+fastai_fastai.nbs.examples,train_wt2,,Magic number,main,42,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/train_wt2.py,Magic number 3 used in main.
+fastai_fastai.nbs.examples,train_wt2,,Magic number,main,42,/Volumes/BrokeExt/NICHE/fastai_fastai/nbs/examples/train_wt2.py,Magic number 2 used in main.

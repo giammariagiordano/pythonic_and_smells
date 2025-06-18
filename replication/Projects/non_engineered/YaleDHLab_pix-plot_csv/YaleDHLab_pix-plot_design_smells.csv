@@ -1,0 +1,3 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+YaleDHLab_pix-plot.pixplot,pixplot,Broken modularization,Box,1094,/Volumes/BrokeExt/NICHE/YaleDHLab_pix-plot/pixplot/pixplot.py,Class 'Box' contains only data members without any method implementations.
+YaleDHLab_pix-plot.pixplot,pixplot,Insufficient modularization,pixplot,1,/Volumes/BrokeExt/NICHE/YaleDHLab_pix-plot/pixplot/pixplot.py,"Module 'pixplot' is insufficiently modularized with NOPM: 48, WMC: 205, NOM: 48."

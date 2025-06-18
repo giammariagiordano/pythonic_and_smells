@@ -1,0 +1,14 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+henrysky_astroNN.docs.source,conf,,0,0,0,0,30,30,-1,0,0
+henrysky_astroNN.src.astroNN,__init__,,0,0,0,0,4,1,-1,0,0
+henrysky_astroNN.src.astroNN,config,,162,23,6,6,22,20,0,0,0
+henrysky_astroNN.src.astroNN.apogee,__init__,,0,0,0,0,0,0,-1,0,0
+henrysky_astroNN.src.astroNN.apogee,apogee_shared,,53,17,3,3,4,4,1,0,0
+henrysky_astroNN.src.astroNN.apogee,chips,,231,28,9,9,24,24,0.22,0,0
+henrysky_astroNN.src.astroNN.apogee,downloader,,805,161,9,8,23,20,0.33,0,0
+henrysky_astroNN.src.astroNN.data,__init__,,16,3,2,2,0,0,1,0,0
+henrysky_astroNN.src.astroNN.datasets,__init__,,0,0,0,0,0,0,-1,0,0
+henrysky_astroNN.src.astroNN.datasets,apogee,,87,12,2,2,18,18,1,0,0
+henrysky_astroNN.src.astroNN.datasets,galaxy10,,77,18,3,3,8,6,1,0,0
+henrysky_astroNN.src.astroNN.datasets,galaxy10sdss,,77,18,3,3,8,6,1,0,0
+henrysky_astroNN.src.astroNN.datasets,h5,,102,19,1,1,0,0,0,0,0

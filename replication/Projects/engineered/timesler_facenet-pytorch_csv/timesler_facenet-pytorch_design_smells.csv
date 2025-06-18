@@ -1,0 +1,2 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+timesler_facenet-pytorch.models.utils,training,Multifaceted abstraction,training,1,/Volumes/BrokeExt/NICHE/timesler_facenet-pytorch/models/utils/training.py,"Class 'training' has a high LCOM value of 1, indicating it may have multiple responsibilities."

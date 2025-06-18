@@ -1,0 +1,425 @@
+Package,Module,Class,Smell,Function/Method,Line no,File,Details
+kakao_buffalo,setup,,Long statement,,78,/Volumes/BrokeExt/NICHE/kakao_buffalo/setup.py,A line with 3078 chars in setup exceeds the maximum length of 120 characters.
+kakao_buffalo,setup,,Long statement,,150,/Volumes/BrokeExt/NICHE/kakao_buffalo/setup.py,A line with 448 chars in setup exceeds the maximum length of 120 characters.
+kakao_buffalo,setup,,Long statement,,169,/Volumes/BrokeExt/NICHE/kakao_buffalo/setup.py,A line with 448 chars in setup exceeds the maximum length of 120 characters.
+kakao_buffalo.benchmark,evaluate,,Complex method,evaluate_ranking_metrics,4 - 71,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/evaluate.py,"Method 'evaluate_ranking_metrics' has a cyclomatic complexity of 7, exceeding the max of 6."
+kakao_buffalo.benchmark,evaluate,,Long method,evaluate_ranking_metrics,4 - 71,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/evaluate.py,Method 'evaluate_ranking_metrics' is too long (64 lines).
+kakao_buffalo.benchmark,evaluate,,Magic number,evaluate_ranking_metrics,57,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/evaluate.py,Magic number 2.0 used in evaluate_ranking_metrics.
+kakao_buffalo.benchmark,models,QmfLib,Complex method,get_database,370 - 403,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/models.py,"Method 'get_database' has a cyclomatic complexity of 11, exceeding the max of 6."
+kakao_buffalo.benchmark,models,Benchmark,Long method,get_option,70 - 140,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/models.py,Method 'get_option' is too long (71 lines).
+kakao_buffalo.benchmark,models,Benchmark,Long statement,get_option,75,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/models.py,A line with 387 chars in get_option exceeds the maximum length of 120 characters.
+kakao_buffalo.benchmark,models,Benchmark,Long statement,get_option,87,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/models.py,A line with 272 chars in get_option exceeds the maximum length of 120 characters.
+kakao_buffalo.benchmark,models,Benchmark,Long statement,get_option,97,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/models.py,A line with 291 chars in get_option exceeds the maximum length of 120 characters.
+kakao_buffalo.benchmark,models,Benchmark,Long statement,get_option,107,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/models.py,A line with 318 chars in get_option exceeds the maximum length of 120 characters.
+kakao_buffalo.benchmark,models,Benchmark,Long statement,get_option,116,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/models.py,A line with 183 chars in get_option exceeds the maximum length of 120 characters.
+kakao_buffalo.benchmark,models,Benchmark,Long statement,get_option,132,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/models.py,A line with 248 chars in get_option exceeds the maximum length of 120 characters.
+kakao_buffalo.benchmark,models,Benchmark,Long statement,run,160,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/models.py,A line with 178 chars in run exceeds the maximum length of 120 characters.
+kakao_buffalo.benchmark,models,QmfLib,Long statement,als,411,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/models.py,A line with 177 chars in als exceeds the maximum length of 120 characters.
+kakao_buffalo.benchmark,models,QmfLib,Long statement,als,436,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/models.py,A line with 178 chars in als exceeds the maximum length of 120 characters.
+kakao_buffalo.benchmark,models,QmfLib,Long statement,bpr,446,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/models.py,A line with 224 chars in bpr exceeds the maximum length of 120 characters.
+kakao_buffalo.benchmark,models,QmfLib,Long statement,bpr,473,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/models.py,A line with 178 chars in bpr exceeds the maximum length of 120 characters.
+kakao_buffalo.benchmark,models,PysparkLib,Long statement,als,494,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/models.py,A line with 204 chars in als exceeds the maximum length of 120 characters.
+kakao_buffalo.benchmark,models,Benchmark,Magic number,get_option,134,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/models.py,Magic number 8 used in get_option.
+kakao_buffalo.benchmark,models,Benchmark,Magic number,run,160,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/models.py,Magic number 1024.0 used in run.
+kakao_buffalo.benchmark,models,Benchmark,Magic number,run,161,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/models.py,Magic number 1024.0 used in run.
+kakao_buffalo.benchmark,models,Benchmark,Magic number,run,162,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/models.py,Magic number 1024.0 used in run.
+kakao_buffalo.benchmark,models,Benchmark,Magic number,run,160,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/models.py,Magic number 1024 used in run.
+kakao_buffalo.benchmark,models,Benchmark,Magic number,run,161,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/models.py,Magic number 1024 used in run.
+kakao_buffalo.benchmark,models,Benchmark,Magic number,run,162,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/models.py,Magic number 1024 used in run.
+kakao_buffalo.benchmark,models,QmfLib,Magic number,get_database,373,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/models.py,Magic number 4 used in get_database.
+kakao_buffalo.benchmark,models,QmfLib,Magic number,get_database,384,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/models.py,Magic number 4 used in get_database.
+kakao_buffalo.benchmark,models,QmfLib,Magic number,get_database,395,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/models.py,Magic number 4 used in get_database.
+kakao_buffalo.benchmark,models,QmfLib,Magic number,als,435,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/models.py,Magic number 1000 used in als.
+kakao_buffalo.benchmark,models,QmfLib,Magic number,als,435,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/models.py,Magic number 1000 used in als.
+kakao_buffalo.benchmark,models,QmfLib,Magic number,als,436,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/models.py,Magic number 1024.0 used in als.
+kakao_buffalo.benchmark,models,QmfLib,Magic number,als,437,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/models.py,Magic number 1024.0 used in als.
+kakao_buffalo.benchmark,models,QmfLib,Magic number,als,438,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/models.py,Magic number 1024.0 used in als.
+kakao_buffalo.benchmark,models,QmfLib,Magic number,als,436,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/models.py,Magic number 1024 used in als.
+kakao_buffalo.benchmark,models,QmfLib,Magic number,als,437,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/models.py,Magic number 1024 used in als.
+kakao_buffalo.benchmark,models,QmfLib,Magic number,als,438,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/models.py,Magic number 1024 used in als.
+kakao_buffalo.benchmark,models,QmfLib,Magic number,bpr,472,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/models.py,Magic number 1000 used in bpr.
+kakao_buffalo.benchmark,models,QmfLib,Magic number,bpr,472,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/models.py,Magic number 1000 used in bpr.
+kakao_buffalo.benchmark,models,QmfLib,Magic number,bpr,473,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/models.py,Magic number 1024.0 used in bpr.
+kakao_buffalo.benchmark,models,QmfLib,Magic number,bpr,474,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/models.py,Magic number 1024.0 used in bpr.
+kakao_buffalo.benchmark,models,QmfLib,Magic number,bpr,475,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/models.py,Magic number 1024.0 used in bpr.
+kakao_buffalo.benchmark,models,QmfLib,Magic number,bpr,473,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/models.py,Magic number 1024 used in bpr.
+kakao_buffalo.benchmark,models,QmfLib,Magic number,bpr,474,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/models.py,Magic number 1024 used in bpr.
+kakao_buffalo.benchmark,models,QmfLib,Magic number,bpr,475,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/models.py,Magic number 1024 used in bpr.
+kakao_buffalo.benchmark,test_accuracy,,Magic number,_buffalo_validation,13,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_accuracy.py,Magic number 8 used in _buffalo_validation.
+kakao_buffalo.benchmark,test_accuracy,,Magic number,_buffalo_validation,15,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_accuracy.py,Magic number 4098 used in _buffalo_validation.
+kakao_buffalo.benchmark,test_accuracy,,Magic number,_buffalo_validation,16,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_accuracy.py,Magic number 40 used in _buffalo_validation.
+kakao_buffalo.benchmark,test_accuracy,,Magic number,_buffalo_validation,17,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_accuracy.py,Magic number 8 used in _buffalo_validation.
+kakao_buffalo.benchmark,test_accuracy,,Magic number,_buffalo_validation,18,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_accuracy.py,Magic number 4098 used in _buffalo_validation.
+kakao_buffalo.benchmark,test_accuracy,,Magic number,_buffalo_validation,20,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_accuracy.py,Magic number 40 used in _buffalo_validation.
+kakao_buffalo.benchmark,test_accuracy,,Magic number,_buffalo_validation,21,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_accuracy.py,Magic number 8 used in _buffalo_validation.
+kakao_buffalo.benchmark,test_accuracy,,Magic number,_buffalo_validation,22,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_accuracy.py,Magic number 4098 used in _buffalo_validation.
+kakao_buffalo.benchmark,test_accuracy,,Magic number,_buffalo_validation,24,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_accuracy.py,Magic number 40 used in _buffalo_validation.
+kakao_buffalo.benchmark,test_accuracy,,Magic number,_get_validation_score,46,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_accuracy.py,Magic number 8 used in _get_validation_score.
+kakao_buffalo.benchmark,test_accuracy,,Magic number,_get_validation_score,48,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_accuracy.py,Magic number 4098 used in _get_validation_score.
+kakao_buffalo.benchmark,test_accuracy,,Magic number,_get_validation_score,51,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_accuracy.py,Magic number 40 used in _get_validation_score.
+kakao_buffalo.benchmark,test_accuracy,,Magic number,_get_validation_score,52,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_accuracy.py,Magic number 8 used in _get_validation_score.
+kakao_buffalo.benchmark,test_accuracy,,Magic number,_get_validation_score,53,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_accuracy.py,Magic number 4098 used in _get_validation_score.
+kakao_buffalo.benchmark,test_accuracy,,Magic number,_get_validation_score,55,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_accuracy.py,Magic number 100 used in _get_validation_score.
+kakao_buffalo.benchmark,test_accuracy,,Magic number,_get_validation_score,57,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_accuracy.py,Magic number 40 used in _get_validation_score.
+kakao_buffalo.benchmark,test_accuracy,,Magic number,_get_validation_score,58,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_accuracy.py,Magic number 8 used in _get_validation_score.
+kakao_buffalo.benchmark,test_accuracy,,Magic number,_get_validation_score,59,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_accuracy.py,Magic number 0.2 used in _get_validation_score.
+kakao_buffalo.benchmark,test_accuracy,,Magic number,_get_validation_score,60,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_accuracy.py,Magic number 4098 used in _get_validation_score.
+kakao_buffalo.benchmark,test_accuracy,,Magic number,_get_validation_score,62,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_accuracy.py,Magic number 100 used in _get_validation_score.
+kakao_buffalo.benchmark,test_accuracy,,Magic number,_get_validation_score,64,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_accuracy.py,Magic number 40 used in _get_validation_score.
+kakao_buffalo.benchmark,test_accuracy,,Magic number,_get_validation_score,50,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_accuracy.py,Magic number 10 used in _get_validation_score.
+kakao_buffalo.benchmark,test_accuracy,,Magic number,_get_validation_score,56,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_accuracy.py,Magic number 10 used in _get_validation_score.
+kakao_buffalo.benchmark,test_accuracy,,Magic number,_get_validation_score,63,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_accuracy.py,Magic number 10 used in _get_validation_score.
+kakao_buffalo.benchmark,test_parallel,,Complex method,_buffalo,15 - 77,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_parallel.py,"Method '_buffalo' has a cyclomatic complexity of 8, exceeding the max of 6."
+kakao_buffalo.benchmark,test_parallel,,Long method,_buffalo,15 - 77,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_parallel.py,Method '_buffalo' is too long (55 lines).
+kakao_buffalo.benchmark,test_parallel,,Magic number,_buffalo,16,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_parallel.py,Magic number 3 used in _buffalo.
+kakao_buffalo.benchmark,test_parallel,,Magic number,_buffalo,51,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_parallel.py,Magic number 10000 used in _buffalo.
+kakao_buffalo.benchmark,test_parallel,,Magic number,_buffalo,55,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_parallel.py,Magic number 10 used in _buffalo.
+kakao_buffalo.benchmark,test_parallel,,Magic number,_buffalo,17,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_parallel.py,Magic number 4 used in _buffalo.
+kakao_buffalo.benchmark,test_parallel,,Magic number,_buffalo,19,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_parallel.py,Magic number 32 used in _buffalo.
+kakao_buffalo.benchmark,test_parallel,,Magic number,_buffalo,20,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_parallel.py,Magic number 10 used in _buffalo.
+kakao_buffalo.benchmark,test_parallel,,Magic number,_buffalo,21,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_parallel.py,Magic number 4 used in _buffalo.
+kakao_buffalo.benchmark,test_parallel,,Magic number,_buffalo,23,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_parallel.py,Magic number 32 used in _buffalo.
+kakao_buffalo.benchmark,test_parallel,,Magic number,_buffalo,24,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_parallel.py,Magic number 100 used in _buffalo.
+kakao_buffalo.benchmark,test_parallel,,Magic number,_buffalo,61,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_parallel.py,Magic number 2 used in _buffalo.
+kakao_buffalo.benchmark,test_parallel,,Magic number,_buffalo,61,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_parallel.py,Magic number 4 used in _buffalo.
+kakao_buffalo.benchmark,test_parallel,,Magic number,_implicit,88,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_parallel.py,Magic number 3 used in _implicit.
+kakao_buffalo.benchmark,test_parallel,,Magic number,_implicit,106,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_parallel.py,Magic number 10000 used in _implicit.
+kakao_buffalo.benchmark,test_parallel,,Magic number,_implicit,110,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_parallel.py,Magic number 10 used in _implicit.
+kakao_buffalo.benchmark,test_parallel,,Magic number,_implicit,89,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_parallel.py,Magic number 4 used in _implicit.
+kakao_buffalo.benchmark,test_parallel,,Magic number,_implicit,91,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_parallel.py,Magic number 32 used in _implicit.
+kakao_buffalo.benchmark,test_parallel,,Magic number,_implicit,92,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_parallel.py,Magic number 10 used in _implicit.
+kakao_buffalo.benchmark,test_parallel,,Magic number,_implicit,93,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_parallel.py,Magic number 4 used in _implicit.
+kakao_buffalo.benchmark,test_parallel,,Magic number,_implicit,95,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_parallel.py,Magic number 32 used in _implicit.
+kakao_buffalo.benchmark,test_parallel,,Magic number,_implicit,96,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_parallel.py,Magic number 100 used in _implicit.
+kakao_buffalo.benchmark,test_performance,,Long method,_performance,15 - 61,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_performance.py,Method '_performance' is too long (45 lines).
+kakao_buffalo.benchmark,test_performance,,Magic number,_performance,17,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_performance.py,Magic number 3 used in _performance.
+kakao_buffalo.benchmark,test_performance,,Magic number,_performance,49,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_performance.py,Magic number 32 used in _performance.
+kakao_buffalo.benchmark,test_performance,,Magic number,_performance,18,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_performance.py,Magic number 8 used in _performance.
+kakao_buffalo.benchmark,test_performance,,Magic number,_performance,21,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_performance.py,Magic number 4098 used in _performance.
+kakao_buffalo.benchmark,test_performance,,Magic number,_performance,22,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_performance.py,Magic number 40 used in _performance.
+kakao_buffalo.benchmark,test_performance,,Magic number,_performance,23,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_performance.py,Magic number 8 used in _performance.
+kakao_buffalo.benchmark,test_performance,,Magic number,_performance,24,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_performance.py,Magic number 4098 used in _performance.
+kakao_buffalo.benchmark,test_performance,,Magic number,_performance,27,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_performance.py,Magic number 40 used in _performance.
+kakao_buffalo.benchmark,test_performance,,Magic number,_performance,28,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_performance.py,Magic number 8 used in _performance.
+kakao_buffalo.benchmark,test_performance,,Magic number,_performance,29,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_performance.py,Magic number 4098 used in _performance.
+kakao_buffalo.benchmark,test_performance,,Magic number,_performance,32,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_performance.py,Magic number 40 used in _performance.
+kakao_buffalo.benchmark,test_performance,,Magic number,_memory,66,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_performance.py,Magic number 3 used in _memory.
+kakao_buffalo.benchmark,test_performance,,Magic number,_memory,67,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_performance.py,Magic number 16 used in _memory.
+kakao_buffalo.benchmark,test_performance,,Magic number,_memory,69,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_performance.py,Magic number 32 used in _memory.
+kakao_buffalo.benchmark,test_performance,,Magic number,_memory,70,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_performance.py,Magic number 2 used in _memory.
+kakao_buffalo.benchmark,test_performance,,Magic number,_memory,71,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_performance.py,Magic number 16 used in _memory.
+kakao_buffalo.benchmark,test_performance,,Magic number,_memory,73,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_performance.py,Magic number 32 used in _memory.
+kakao_buffalo.benchmark,test_performance,,Magic number,_memory,74,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_performance.py,Magic number 2 used in _memory.
+kakao_buffalo.benchmark,test_performance,,Magic number,_memory,75,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_performance.py,Magic number 16 used in _memory.
+kakao_buffalo.benchmark,test_performance,,Magic number,_memory,77,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_performance.py,Magic number 32 used in _memory.
+kakao_buffalo.benchmark,test_performance,,Magic number,_memory,78,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_performance.py,Magic number 2 used in _memory.
+kakao_buffalo.benchmark,test_performance,,Magic number,quick_performance,123,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_performance.py,Magic number 4 used in quick_performance.
+kakao_buffalo.benchmark,test_performance,,Magic number,quick_performance,123,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_performance.py,Magic number 8 used in quick_performance.
+kakao_buffalo.benchmark,test_performance,,Magic number,quick_performance,124,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_performance.py,Magic number 20 used in quick_performance.
+kakao_buffalo.benchmark,test_performance,,Magic number,quick_performance,124,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_performance.py,Magic number 40 used in quick_performance.
+kakao_buffalo.benchmark,test_performance,,Magic number,quick_performance,124,/Volumes/BrokeExt/NICHE/kakao_buffalo/benchmark/test_performance.py,Magic number 80 used in quick_performance.
+kakao_buffalo.buffalo.algo,als,ALS,Complex method,__init__,29 - 57,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/als.py,"Method '__init__' has a cyclomatic complexity of 7, exceeding the max of 6."
+kakao_buffalo.buffalo.algo,als,ALS,Complex method,train,144 - 197,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/als.py,"Method 'train' has a cyclomatic complexity of 13, exceeding the max of 6."
+kakao_buffalo.buffalo.algo,als,ALS,Long method,train,144 - 197,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/als.py,Method 'train' is too long (52 lines).
+kakao_buffalo.buffalo.algo,als,ALS,Long statement,_get_topk_recommendation,93,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/als.py,A line with 125 chars in _get_topk_recommendation exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.algo,als,ALS,Magic number,train,171,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/als.py,Magic number 0.5 used in train.
+kakao_buffalo.buffalo.algo,base,Serializable,Complex method,save,275 - 294,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/base.py,"Method 'save' has a cyclomatic complexity of 8, exceeding the max of 6."
+kakao_buffalo.buffalo.algo,base,Algo,Long parameter list,_get_topk_recommendation,40 - 55,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/base.py,"_get_topk_recommendation has 7 parameters, exceeding the max of 5."
+kakao_buffalo.buffalo.algo,base,Algo,Long statement,__init__,14,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/base.py,A line with 142 chars in __init__ exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.algo,base,Algo,Long statement,topk_recommendation,58,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/base.py,A line with 273 chars in topk_recommendation exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.algo,base,Algo,Long statement,most_similar,90,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/base.py,A line with 534 chars in most_similar exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.algo,base,Algo,Long statement,get_index,227,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/base.py,A line with 270 chars in get_index exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.algo,base,Algo,Long statement,get_index_pool,253,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/base.py,A line with 288 chars in get_index_pool exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.algo,base,Algo,Magic number,initialize,32,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/base.py,Magic number 987654321 used in initialize.
+kakao_buffalo.buffalo.algo,base,Algo,Magic number,topk_recommendation,57,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/base.py,Magic number 10 used in topk_recommendation.
+kakao_buffalo.buffalo.algo,base,Algo,Magic number,most_similar,89,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/base.py,Magic number 10 used in most_similar.
+kakao_buffalo.buffalo.algo,base,Algo,Magic number,_most_similar_item,134,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/base.py,Magic number 10 used in _most_similar_item.
+kakao_buffalo.buffalo.algo,bpr,BPRMF,Complex method,__init__,27 - 58,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/bpr.py,"Method '__init__' has a cyclomatic complexity of 7, exceeding the max of 6."
+kakao_buffalo.buffalo.algo,bpr,BPRMF,Complex method,train,219 - 252,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/bpr.py,"Method 'train' has a cyclomatic complexity of 7, exceeding the max of 6."
+kakao_buffalo.buffalo.algo,bpr,BPRMF,Long statement,init_factors,89,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/bpr.py,A line with 135 chars in init_factors exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.algo,bpr,BPRMF,Long statement,init_factors,91,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/bpr.py,A line with 135 chars in init_factors exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.algo,bpr,BPRMF,Long statement,init_factors,93,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/bpr.py,A line with 127 chars in init_factors exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.algo,bpr,BPRMF,Long statement,_get_topk_recommendation,117,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/bpr.py,A line with 123 chars in _get_topk_recommendation exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.algo,bpr,BPRMF,Long statement,sampling_loss_samples,157,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/bpr.py,A line with 160 chars in sampling_loss_samples exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.algo,cfr,CFR,Complex method,normalize,72 - 83,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/cfr.py,"Method 'normalize' has a cyclomatic complexity of 7, exceeding the max of 6."
+kakao_buffalo.buffalo.algo,cfr,CFR,Complex method,train,189 - 221,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/cfr.py,"Method 'train' has a cyclomatic complexity of 7, exceeding the max of 6."
+kakao_buffalo.buffalo.algo,cfr,CFR,Long statement,__init__,52,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/cfr.py,A line with 126 chars in __init__ exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.algo,cfr,CFR,Long statement,_get_topk_recommendation,106,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/cfr.py,A line with 125 chars in _get_topk_recommendation exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.algo,eals,EALS,Complex method,train,139 - 175,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/eals.py,"Method 'train' has a cyclomatic complexity of 7, exceeding the max of 6."
+kakao_buffalo.buffalo.algo,eals,EALS,Long statement,_get_topk_recommendation,87,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/eals.py,A line with 125 chars in _get_topk_recommendation exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.algo,eals,EALS,Long statement,train,165,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/eals.py,A line with 131 chars in train exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.algo,options,AlgoOption,Long statement,get_default_option,9,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/options.py,A line with 782 chars in get_default_option exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.algo,options,ALSOption,Long statement,get_default_option,45,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/options.py,A line with 1679 chars in get_default_option exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.algo,options,ALSOption,Long statement,get_default_option,67,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/options.py,A line with 326 chars in get_default_option exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.algo,options,ALSOption,Long statement,is_valid_option,90,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/options.py,A line with 133 chars in is_valid_option exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.algo,options,EALSOption,Long statement,get_default_option,103,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/options.py,A line with 955 chars in get_default_option exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.algo,options,EALSOption,Long statement,get_default_option,119,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/options.py,A line with 185 chars in get_default_option exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.algo,options,CFROption,Long statement,get_default_option,140,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/options.py,A line with 1453 chars in get_default_option exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.algo,options,CFROption,Long statement,get_default_option,158,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/options.py,A line with 265 chars in get_default_option exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.algo,options,CFROption,Long statement,is_valid_option,181,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/options.py,A line with 123 chars in is_valid_option exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.algo,options,BPRMFOption,Long statement,get_default_option,194,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/options.py,A line with 2639 chars in get_default_option exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.algo,options,BPRMFOption,Long statement,get_default_option,222,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/options.py,A line with 505 chars in get_default_option exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.algo,options,WARPOption,Long statement,get_default_option,261,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/options.py,A line with 2300 chars in get_default_option exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.algo,options,WARPOption,Long statement,get_default_option,287,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/options.py,A line with 427 chars in get_default_option exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.algo,options,W2VOption,Long statement,get_default_option,320,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/options.py,A line with 909 chars in get_default_option exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.algo,options,W2VOption,Long statement,get_default_option,335,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/options.py,A line with 226 chars in get_default_option exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.algo,options,PLSIOption,Long statement,get_default_option,360,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/options.py,A line with 805 chars in get_default_option exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.algo,options,PLSIOption,Long statement,get_default_option,373,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/options.py,A line with 176 chars in get_default_option exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.algo,options,AlgoOption,Magic number,get_default_option,26,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/options.py,Magic number 10 used in get_default_option.
+kakao_buffalo.buffalo.algo,plsi,PLSI,Complex method,inherit,62 - 89,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/plsi.py,"Method 'inherit' has a cyclomatic complexity of 7, exceeding the max of 6."
+kakao_buffalo.buffalo.algo,plsi,PLSI,Complex method,train,162 - 192,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/plsi.py,"Method 'train' has a cyclomatic complexity of 7, exceeding the max of 6."
+kakao_buffalo.buffalo.algo,plsi,PLSI,Long statement,_get_topk_recommendation,115,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/plsi.py,A line with 125 chars in _get_topk_recommendation exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.algo,plsi,PLSI,Long statement,train,164,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/plsi.py,A line with 139 chars in train exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.algo,plsi,PLSI,Magic number,train,163,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/plsi.py,Magic number 10000000000.0 used in train.
+kakao_buffalo.buffalo.algo,w2v,W2V,Complex method,build_vocab,91 - 133,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/w2v.py,"Method 'build_vocab' has a cyclomatic complexity of 9, exceeding the max of 6."
+kakao_buffalo.buffalo.algo,w2v,W2V,Long method,build_vocab,91 - 133,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/w2v.py,Method 'build_vocab' is too long (42 lines).
+kakao_buffalo.buffalo.algo,w2v,W2V,Long statement,__init__,46,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/w2v.py,A line with 123 chars in __init__ exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.algo,w2v,W2V,Magic number,build_vocab,123,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/w2v.py,Magic number 4294967295 used in build_vocab.
+kakao_buffalo.buffalo.algo,w2v,W2V,Magic number,build_vocab,118,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/w2v.py,Magic number 0.5 used in build_vocab.
+kakao_buffalo.buffalo.algo,w2v,W2V,Magic number,get_sampling_distribution,152,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/w2v.py,Magic number 2147483647 used in get_sampling_distribution.
+kakao_buffalo.buffalo.algo,w2v,W2V,Magic number,get_sampling_distribution,146,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/w2v.py,Magic number 0.75 used in get_sampling_distribution.
+kakao_buffalo.buffalo.algo,w2v,W2V,Magic number,get_sampling_distribution,156,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/w2v.py,Magic number 3 used in get_sampling_distribution.
+kakao_buffalo.buffalo.algo,warp,WARP,Complex method,__init__,20 - 52,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/warp.py,"Method '__init__' has a cyclomatic complexity of 7, exceeding the max of 6."
+kakao_buffalo.buffalo.algo,warp,WARP,Complex method,train,236 - 267,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/warp.py,"Method 'train' has a cyclomatic complexity of 7, exceeding the max of 6."
+kakao_buffalo.buffalo.algo,warp,WARP,Long statement,_get_topk_recommendation,104,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/warp.py,A line with 125 chars in _get_topk_recommendation exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.algo,warp,WARP,Long statement,sampling_loss_samples,174,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/algo/warp.py,A line with 160 chars in sampling_loss_samples exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.data,base,Data,Complex method,_build_compressed_triplets,355 - 397,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/base.py,"Method '_build_compressed_triplets' has a cyclomatic complexity of 7, exceeding the max of 6."
+kakao_buffalo.buffalo.data,base,Data,Complex method,_build_data,399 - 451,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/base.py,"Method '_build_data' has a cyclomatic complexity of 7, exceeding the max of 6."
+kakao_buffalo.buffalo.data,base,Data,Long message chain,_create_validation,214,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/base.py,"A long message chain has 5 attributes/calls chained together, more than the recommended 3 in the following statement: method = self.opt.data.validation.name."
+kakao_buffalo.buffalo.data,base,Data,Long identifier,_sort_and_compressed_binarization,292,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/base.py,Identifier'_sort_and_compressed_binarization' exceeds the maximum length of 30 characters.
+kakao_buffalo.buffalo.data,base,Data,Long method,_build_compressed_triplets,355 - 397,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/base.py,Method '_build_compressed_triplets' is too long (43 lines).
+kakao_buffalo.buffalo.data,base,Data,Long method,_build_data,399 - 451,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/base.py,Method '_build_data' is too long (47 lines).
+kakao_buffalo.buffalo.data,base,Data,Long statement,show_info,42,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/base.py,A line with 127 chars in show_info exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.data,base,Data,Long statement,iterate,122,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/base.py,A line with 154 chars in iterate exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.data,base,Data,Long statement,_load_compressed_triplet_bin,311,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/base.py,A line with 138 chars in _load_compressed_triplet_bin exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.data,base,Data,Long statement,_load_compressed_triplet_bin,336,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/base.py,A line with 138 chars in _load_compressed_triplet_bin exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.data,base,Data,Long statement,_chunking_into_bins,347,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/base.py,A line with 142 chars in _chunking_into_bins exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.data,base,Data,Long statement,_build_compressed_triplets,380,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/base.py,A line with 142 chars in _build_compressed_triplets exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.data,base,Data,Long statement,_build_data,422,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/base.py,A line with 144 chars in _build_data exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.data,base,Data,Long statement,_build_data,427,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/base.py,A line with 123 chars in _build_data exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.data,base,Data,Long statement,_build_data,443,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/base.py,A line with 121 chars in _build_data exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.data,base,Data,Magic number,get_scale_info,68,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/base.py,Magic number 100000 used in get_scale_info.
+kakao_buffalo.buffalo.data,base,Data,Magic number,_load_compressed_triplet_bin,302,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/base.py,Magic number 8 used in _load_compressed_triplet_bin.
+kakao_buffalo.buffalo.data,base,Data,Magic number,_load_compressed_triplet_bin,303,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/base.py,Magic number 8 used in _load_compressed_triplet_bin.
+kakao_buffalo.buffalo.data,base,Data,Magic number,_chunking_into_bins,343,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/base.py,Magic number 20 used in _chunking_into_bins.
+kakao_buffalo.buffalo.data,base,Data,Magic number,_chunking_into_bins,345,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/base.py,Magic number 2 used in _chunking_into_bins.
+kakao_buffalo.buffalo.data,base,Data,Magic number,_build_compressed_triplets,360,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/base.py,Magic number 12 used in _build_compressed_triplets.
+kakao_buffalo.buffalo.data,base,Data,Magic number,_build_data,405,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/base.py,Magic number 1024 used in _build_data.
+kakao_buffalo.buffalo.data,base,Data,Magic number,_build_data,405,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/base.py,Magic number 1024 used in _build_data.
+kakao_buffalo.buffalo.data,base,Data,Magic number,_build_data,409,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/base.py,Magic number 1024 used in _build_data.
+kakao_buffalo.buffalo.data,base,Data,Magic number,_build_data,409,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/base.py,Magic number 1024 used in _build_data.
+kakao_buffalo.buffalo.data,base,Data,Magic number,_build_data,409,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/base.py,Magic number 4 used in _build_data.
+kakao_buffalo.buffalo.data,base,Data,Magic number,_build_data,420,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/base.py,Magic number 1.2 used in _build_data.
+kakao_buffalo.buffalo.data,base,Data,Magic number,_build_data,409,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/base.py,Magic number 3 used in _build_data.
+kakao_buffalo.buffalo.data,buffered_data,BufferedDataMatrix,Complex method,fetch_batch,85 - 118,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/buffered_data.py,"Method 'fetch_batch' has a cyclomatic complexity of 7, exceeding the max of 6."
+kakao_buffalo.buffalo.data,buffered_data,BufferedDataMatrix,Complex method,fetch_batch_range,130 - 160,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/buffered_data.py,"Method 'fetch_batch_range' has a cyclomatic complexity of 8, exceeding the max of 6."
+kakao_buffalo.buffalo.data,buffered_data,BufferedDataStream,Complex method,fetch_batch,221 - 251,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/buffered_data.py,"Method 'fetch_batch' has a cyclomatic complexity of 7, exceeding the max of 6."
+kakao_buffalo.buffalo.data,buffered_data,BufferedDataMatrix,Long statement,initialize,74,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/buffered_data.py,A line with 211 chars in initialize exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.data,buffered_data,BufferedDataMatrix,Long statement,fetch_batch,107,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/buffered_data.py,A line with 206 chars in fetch_batch exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.data,buffered_data,BufferedDataMatrix,Long statement,fetch_batch_range,154,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/buffered_data.py,A line with 206 chars in fetch_batch_range exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.data,buffered_data,BufferedDataStream,Long statement,initialize,212,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/buffered_data.py,A line with 214 chars in initialize exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.data,buffered_data,BufferedDataStream,Long statement,fetch_batch,242,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/buffered_data.py,A line with 206 chars in fetch_batch exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.data,mm,MatrixMarket,Complex method,_create,110 - 165,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/mm.py,"Method '_create' has a cyclomatic complexity of 8, exceeding the max of 6."
+kakao_buffalo.buffalo.data,mm,MatrixMarket,Complex method,_create_working_data,167 - 234,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/mm.py,"Method '_create_working_data' has a cyclomatic complexity of 13, exceeding the max of 6."
+kakao_buffalo.buffalo.data,mm,MatrixMarket,Complex method,create,236 - 279,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/mm.py,"Method 'create' has a cyclomatic complexity of 7, exceeding the max of 6."
+kakao_buffalo.buffalo.data,mm,MatrixMarket,Long method,_create,110 - 165,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/mm.py,Method '_create' is too long (54 lines).
+kakao_buffalo.buffalo.data,mm,MatrixMarket,Long method,_create_working_data,167 - 234,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/mm.py,Method '_create_working_data' is too long (65 lines).
+kakao_buffalo.buffalo.data,mm,MatrixMarket,Long method,create,236 - 279,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/mm.py,Method 'create' is too long (42 lines).
+kakao_buffalo.buffalo.data,mm,MatrixMarket,Long statement,_create,131,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/mm.py,A line with 146 chars in _create exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.data,mm,MatrixMarket,Long statement,_create,143,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/mm.py,A line with 126 chars in _create exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.data,mm,MatrixMarket,Long statement,_create,150,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/mm.py,A line with 126 chars in _create exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.data,mm,MatrixMarket,Long statement,_create_working_data,168,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/mm.py,A line with 142 chars in _create_working_data exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.data,mm,MatrixMarket,Long statement,create,253,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/mm.py,A line with 135 chars in create exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.data,mm,MatrixMarketOptions,Magic number,get_default_option,30,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/mm.py,Magic number 1024 used in get_default_option.
+kakao_buffalo.buffalo.data,mm,MatrixMarketOptions,Magic number,get_default_option,27,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/mm.py,Magic number 0.01 used in get_default_option.
+kakao_buffalo.buffalo.data,mm,MatrixMarketOptions,Magic number,get_default_option,28,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/mm.py,Magic number 500 used in get_default_option.
+kakao_buffalo.buffalo.data,mm,MatrixMarketOptions,Magic number,is_valid_option,52,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/mm.py,Magic number 2 used in is_valid_option.
+kakao_buffalo.buffalo.data,mm,MatrixMarketDataReader,Magic number,get_main_path,74,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/mm.py,Magic number 2 used in get_main_path.
+kakao_buffalo.buffalo.data,mm,MatrixMarket,Magic number,_create_working_data,185,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/mm.py,Magic number 4096 used in _create_working_data.
+kakao_buffalo.buffalo.data,mm,MatrixMarket,Magic number,_create_working_data,185,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/mm.py,Magic number 1000 used in _create_working_data.
+kakao_buffalo.buffalo.data,prepro,MinMaxScalar,Magic number,post,48,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/prepro.py,Magic number 1e-08 used in post.
+kakao_buffalo.buffalo.data,stream,Stream,Complex method,_create,81 - 158,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/stream.py,"Method '_create' has a cyclomatic complexity of 13, exceeding the max of 6."
+kakao_buffalo.buffalo.data,stream,Stream,Complex method,_create_working_data,197 - 271,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/stream.py,"Method '_create_working_data' has a cyclomatic complexity of 22, exceeding the max of 6."
+kakao_buffalo.buffalo.data,stream,Stream,Complex method,create,273 - 317,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/stream.py,"Method 'create' has a cyclomatic complexity of 8, exceeding the max of 6."
+kakao_buffalo.buffalo.data,stream,Stream,Long method,_create,81 - 158,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/stream.py,Method '_create' is too long (74 lines).
+kakao_buffalo.buffalo.data,stream,Stream,Long method,_create_working_data,197 - 271,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/stream.py,Method '_create_working_data' is too long (72 lines).
+kakao_buffalo.buffalo.data,stream,Stream,Long method,create,273 - 317,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/stream.py,Method 'create' is too long (42 lines).
+kakao_buffalo.buffalo.data,stream,Stream,Long statement,_create,131,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/stream.py,A line with 181 chars in _create exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.data,stream,Stream,Long statement,create,287,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/stream.py,A line with 130 chars in create exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.data,stream,Stream,Long statement,create,295,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/stream.py,A line with 141 chars in create exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.data,stream,Stream,Long statement,create,298,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/stream.py,A line with 123 chars in create exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.data,stream,StreamOptions,Magic number,get_default_option,57,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/stream.py,Magic number 1024 used in get_default_option.
+kakao_buffalo.buffalo.data,stream,StreamOptions,Magic number,get_default_option,49,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/stream.py,Magic number 0.01 used in get_default_option.
+kakao_buffalo.buffalo.data,stream,StreamOptions,Magic number,get_default_option,51,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/stream.py,Magic number 500 used in get_default_option.
+kakao_buffalo.buffalo.data,stream,Stream,Magic number,_create_working_data,198,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/stream.py,Magic number 5 used in _create_working_data.
+kakao_buffalo.buffalo.data,stream,Stream,Magic number,_create_working_data,267,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/data/stream.py,Magic number 2 used in _create_working_data.
+kakao_buffalo.buffalo.evaluate,base,Evaluable,Complex method,_evaluate_ranking_metrics,44 - 128,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/evaluate/base.py,"Method '_evaluate_ranking_metrics' has a cyclomatic complexity of 10, exceeding the max of 6."
+kakao_buffalo.buffalo.evaluate,base,Evaluable,Long method,_evaluate_ranking_metrics,44 - 128,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/evaluate/base.py,Method '_evaluate_ranking_metrics' is too long (77 lines).
+kakao_buffalo.buffalo.evaluate,base,Evaluable,Magic number,get_topk,31,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/evaluate/base.py,Magic number 4 used in get_topk.
+kakao_buffalo.buffalo.evaluate,base,Evaluable,Magic number,_evaluate_ranking_metrics,114,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/evaluate/base.py,Magic number 2.0 used in _evaluate_ranking_metrics.
+kakao_buffalo.buffalo.evaluate,base,Evaluable,Magic number,_evaluate_score_metrics,146,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/evaluate/base.py,Magic number 0.5 used in _evaluate_score_metrics.
+kakao_buffalo.buffalo.misc,_aux,Option,Complex method,__init__,17 - 37,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/misc/_aux.py,"Method '__init__' has a cyclomatic complexity of 8, exceeding the max of 6."
+kakao_buffalo.buffalo.misc,_aux,InputOptions,Long identifier,create_temporary_option_from_dict,82,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/misc/_aux.py,Identifier'create_temporary_option_from_dict' exceeds the maximum length of 30 characters.
+kakao_buffalo.buffalo.misc,_aux,,Long parameter list,psort,111 - 131,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/misc/_aux.py,"psort has 7 parameters, exceeding the max of 5."
+kakao_buffalo.buffalo.misc,_aux,,Magic number,copy_to_temporary_file,92,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/misc/_aux.py,Magic number 8192 used in copy_to_temporary_file.
+kakao_buffalo.buffalo.misc,_aux,,Magic number,psort,111,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/misc/_aux.py,Magic number 1024 used in psort.
+kakao_buffalo.buffalo.misc,log,,Complex method,get_logger,36 - 66,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/misc/log.py,"Method 'get_logger' has a cyclomatic complexity of 7, exceeding the max of 6."
+kakao_buffalo.buffalo.misc,log,ProgressBar,Empty catch block,initialize,93,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/misc/log.py,Empty catch block found in initialize.
+kakao_buffalo.buffalo.misc,log,,Long statement,get_logger,61,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/misc/log.py,A line with 121 chars in get_logger exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.misc,log,ProgressBar,Long statement,get_msg,117,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/misc/log.py,A line with 141 chars in get_msg exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.misc,log,ProgressBar,Magic number,get_msg,116,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/misc/log.py,Magic number 100 used in get_msg.
+kakao_buffalo.buffalo.misc,util,Option,Complex method,__init__,17 - 37,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/misc/util.py,"Method '__init__' has a cyclomatic complexity of 8, exceeding the max of 6."
+kakao_buffalo.buffalo.misc,util,InputOptions,Long identifier,create_temporary_option_from_dict,82,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/misc/util.py,Identifier'create_temporary_option_from_dict' exceeds the maximum length of 30 characters.
+kakao_buffalo.buffalo.misc,util,,Long parameter list,psort,111 - 131,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/misc/util.py,"psort has 7 parameters, exceeding the max of 5."
+kakao_buffalo.buffalo.misc,util,,Magic number,copy_to_temporary_file,92,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/misc/util.py,Magic number 8192 used in copy_to_temporary_file.
+kakao_buffalo.buffalo.misc,util,,Magic number,psort,111,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/misc/util.py,Magic number 1024 used in psort.
+kakao_buffalo.buffalo.parallel,base,Parallel,Long parameter list,_most_similar,21 - 27,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/parallel/base.py,"_most_similar has 7 parameters, exceeding the max of 5."
+kakao_buffalo.buffalo.parallel,base,Parallel,Long parameter list,most_similar,30 - 44,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/parallel/base.py,"most_similar has 7 parameters, exceeding the max of 5."
+kakao_buffalo.buffalo.parallel,base,Parallel,Long parameter list,_topk_recommendation_bias,53 - 57,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/parallel/base.py,"_topk_recommendation_bias has 6 parameters, exceeding the max of 5."
+kakao_buffalo.buffalo.parallel,base,ParALS,Long parameter list,most_similar,76 - 99,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/parallel/base.py,"most_similar has 7 parameters, exceeding the max of 5."
+kakao_buffalo.buffalo.parallel,base,ParW2V,Long parameter list,most_similar,151 - 169,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/parallel/base.py,"most_similar has 6 parameters, exceeding the max of 5."
+kakao_buffalo.buffalo.parallel,base,Parallel,Long statement,most_similar,31,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/parallel/base.py,A line with 841 chars in most_similar exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.parallel,base,Parallel,Long statement,topk_recommendation,61,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/parallel/base.py,A line with 279 chars in topk_recommendation exceeds the maximum length of 120 characters.
+kakao_buffalo.buffalo.parallel,base,Parallel,Magic number,most_similar,30,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/parallel/base.py,Magic number 10 used in most_similar.
+kakao_buffalo.buffalo.parallel,base,Parallel,Magic number,topk_recommendation,60,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/parallel/base.py,Magic number 10 used in topk_recommendation.
+kakao_buffalo.buffalo.parallel,base,ParALS,Magic number,most_similar,76,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/parallel/base.py,Magic number 10 used in most_similar.
+kakao_buffalo.buffalo.parallel,base,ParALS,Magic number,topk_recommendation,101,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/parallel/base.py,Magic number 10 used in topk_recommendation.
+kakao_buffalo.buffalo.parallel,base,ParBPRMF,Magic number,topk_recommendation,125,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/parallel/base.py,Magic number 10 used in topk_recommendation.
+kakao_buffalo.buffalo.parallel,base,ParW2V,Magic number,most_similar,151,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/parallel/base.py,Magic number 10 used in most_similar.
+kakao_buffalo.buffalo.parallel,base,ParW2V,Magic number,topk_recommendation,171,/Volumes/BrokeExt/NICHE/kakao_buffalo/buffalo/parallel/base.py,Magic number 10 used in topk_recommendation.
+kakao_buffalo.docs,conf,,Long statement,,19,/Volumes/BrokeExt/NICHE/kakao_buffalo/docs/conf.py,A line with 197 chars in conf exceeds the maximum length of 120 characters.
+kakao_buffalo.examples,example_als,,Complex method,example2,28 - 75,/Volumes/BrokeExt/NICHE/kakao_buffalo/examples/example_als.py,"Method 'example2' has a cyclomatic complexity of 7, exceeding the max of 6."
+kakao_buffalo.examples,example_als,,Long method,example2,28 - 75,/Volumes/BrokeExt/NICHE/kakao_buffalo/examples/example_als.py,Method 'example2' is too long (44 lines).
+kakao_buffalo.examples,example_als,,Magic number,example2,45,/Volumes/BrokeExt/NICHE/kakao_buffalo/examples/example_als.py,Magic number 4 used in example2.
+kakao_buffalo.examples,example_als,,Magic number,example2,66,/Volumes/BrokeExt/NICHE/kakao_buffalo/examples/example_als.py,Magic number 4 used in example2.
+kakao_buffalo.install,cuda_setup,_UnixCCompiler,Long parameter list,_compile,82 - 99,/Volumes/BrokeExt/NICHE/kakao_buffalo/install/cuda_setup.py,"_compile has 6 parameters, exceeding the max of 5."
+kakao_buffalo.install,cuda_setup,_MSVCCompiler,Long parameter list,_compile_cu,108 - 130,/Volumes/BrokeExt/NICHE/kakao_buffalo/install/cuda_setup.py,"_compile_cu has 8 parameters, exceeding the max of 5."
+kakao_buffalo.install,cuda_setup,,Long statement,locate_cuda,25,/Volumes/BrokeExt/NICHE/kakao_buffalo/install/cuda_setup.py,A line with 392 chars in locate_cuda exceeds the maximum length of 120 characters.
+kakao_buffalo.install,cuda_setup,,Long statement,locate_cuda,47,/Volumes/BrokeExt/NICHE/kakao_buffalo/install/cuda_setup.py,A line with 142 chars in locate_cuda exceeds the maximum length of 120 characters.
+kakao_buffalo.install,cuda_setup,,Long statement,locate_cuda,56,/Volumes/BrokeExt/NICHE/kakao_buffalo/install/cuda_setup.py,A line with 146 chars in locate_cuda exceeds the maximum length of 120 characters.
+kakao_buffalo.install,cuda_setup,_MSVCCompiler,Long statement,_compile_cu,112,/Volumes/BrokeExt/NICHE/kakao_buffalo/install/cuda_setup.py,A line with 140 chars in _compile_cu exceeds the maximum length of 120 characters.
+kakao_buffalo.tests.algo,base,TestBase,Long identifier,_test5_1_validation_with_callback,99,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/base.py,Identifier'_test5_1_validation_with_callback' exceeds the maximum length of 30 characters.
+kakao_buffalo.tests.algo,base,TestBase,Magic number,_test5_validation,83,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/base.py,Magic number 0.06 used in _test5_validation.
+kakao_buffalo.tests.algo,base,TestBase,Magic number,_test5_validation,83,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/base.py,Magic number 0.04 used in _test5_validation.
+kakao_buffalo.tests.algo,base,TestBase,Magic number,_test5_1_validation_with_callback,99,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/base.py,Magic number 0.06 used in _test5_1_validation_with_callback.
+kakao_buffalo.tests.algo,base,TestBase,Magic number,_test5_1_validation_with_callback,99,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/base.py,Magic number 0.04 used in _test5_1_validation_with_callback.
+kakao_buffalo.tests.algo,base,TestBase,Magic number,_test_most_similar,242,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/base.py,Magic number 10 used in _test_most_similar.
+kakao_buffalo.tests.algo,test_als,TestALS,Long identifier,test05_1_validation_with_callback,43,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_als.py,Identifier'test05_1_validation_with_callback' exceeds the maximum length of 30 characters.
+kakao_buffalo.tests.algo,test_als,TestALS,Long identifier,test13_train_using_ialspp_dim_256,103,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_als.py,Identifier'test13_train_using_ialspp_dim_256' exceeds the maximum length of 30 characters.
+kakao_buffalo.tests.algo,test_als,TestALS,Magic number,test04_train,33,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_als.py,Magic number 20 used in test04_train.
+kakao_buffalo.tests.algo,test_als,TestALS,Magic number,test05_validation,38,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_als.py,Magic number 5 used in test05_validation.
+kakao_buffalo.tests.algo,test_als,TestALS,Magic number,test05_validation,39,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_als.py,Magic number 20 used in test05_validation.
+kakao_buffalo.tests.algo,test_als,TestALS,Magic number,test05_1_validation_with_callback,45,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_als.py,Magic number 5 used in test05_1_validation_with_callback.
+kakao_buffalo.tests.algo,test_als,TestALS,Magic number,test05_1_validation_with_callback,46,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_als.py,Magic number 20 used in test05_1_validation_with_callback.
+kakao_buffalo.tests.algo,test_als,TestALS,Magic number,test06_topk,52,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_als.py,Magic number 5 used in test06_topk.
+kakao_buffalo.tests.algo,test_als,TestALS,Magic number,test07_train_ml_20m,58,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_als.py,Magic number 8 used in test07_train_ml_20m.
+kakao_buffalo.tests.algo,test_als,TestALS,Magic number,test08_serialization,64,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_als.py,Magic number 5 used in test08_serialization.
+kakao_buffalo.tests.algo,test_als,TestALS,Magic number,test09_compact_serialization,70,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_als.py,Magic number 5 used in test09_compact_serialization.
+kakao_buffalo.tests.algo,test_als,TestALS,Magic number,test10_fast_most_similar,76,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_als.py,Magic number 5 used in test10_fast_most_similar.
+kakao_buffalo.tests.algo,test_als,TestALS,Magic number,test11_train_ml_20m_on_gpu,82,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_als.py,Magic number 8 used in test11_train_ml_20m_on_gpu.
+kakao_buffalo.tests.algo,test_als,TestALS,Magic number,test11_train_ml_20m_on_gpu,83,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_als.py,Magic number 100 used in test11_train_ml_20m_on_gpu.
+kakao_buffalo.tests.algo,test_als,TestALS,Magic number,test11_train_ml_20m_on_gpu,89,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_als.py,Magic number 3 used in test11_train_ml_20m_on_gpu.
+kakao_buffalo.tests.algo,test_als,TestALS,Magic number,test12_train_using_ialspp,94,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_als.py,Magic number 4 used in test12_train_using_ialspp.
+kakao_buffalo.tests.algo,test_als,TestALS,Magic number,test12_train_using_ialspp,95,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_als.py,Magic number 100 used in test12_train_using_ialspp.
+kakao_buffalo.tests.algo,test_als,TestALS,Magic number,test12_train_using_ialspp,96,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_als.py,Magic number 7 used in test12_train_using_ialspp.
+kakao_buffalo.tests.algo,test_als,TestALS,Magic number,test13_train_using_ialspp_dim_256,105,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_als.py,Magic number 4 used in test13_train_using_ialspp_dim_256.
+kakao_buffalo.tests.algo,test_als,TestALS,Magic number,test13_train_using_ialspp_dim_256,106,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_als.py,Magic number 256 used in test13_train_using_ialspp_dim_256.
+kakao_buffalo.tests.algo,test_als,TestALS,Magic number,test13_train_using_ialspp_dim_256,107,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_als.py,Magic number 3 used in test13_train_using_ialspp_dim_256.
+kakao_buffalo.tests.algo,test_als,TestALS,Magic number,test13_train_using_ialspp_dim_256,108,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_als.py,Magic number 7 used in test13_train_using_ialspp_dim_256.
+kakao_buffalo.tests.algo,test_base,TestAlgoBase,Magic number,test01_early_stopping,14,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_base.py,Magic number 5 used in test01_early_stopping.
+kakao_buffalo.tests.algo,test_bpr,TestBPRMF,Long identifier,test05_1_validation_with_callback,49,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_bpr.py,Identifier'test05_1_validation_with_callback' exceeds the maximum length of 30 characters.
+kakao_buffalo.tests.algo,test_bpr,TestBPRMF,Magic number,test04_train,35,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_bpr.py,Magic number 5 used in test04_train.
+kakao_buffalo.tests.algo,test_bpr,TestBPRMF,Magic number,test05_validation,41,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_bpr.py,Magic number 5 used in test05_validation.
+kakao_buffalo.tests.algo,test_bpr,TestBPRMF,Magic number,test05_validation,42,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_bpr.py,Magic number 4 used in test05_validation.
+kakao_buffalo.tests.algo,test_bpr,TestBPRMF,Magic number,test05_validation,43,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_bpr.py,Magic number 500 used in test05_validation.
+kakao_buffalo.tests.algo,test_bpr,TestBPRMF,Magic number,test05_validation,44,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_bpr.py,Magic number 7 used in test05_validation.
+kakao_buffalo.tests.algo,test_bpr,TestBPRMF,Magic number,test05_1_validation_with_callback,51,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_bpr.py,Magic number 5 used in test05_1_validation_with_callback.
+kakao_buffalo.tests.algo,test_bpr,TestBPRMF,Magic number,test05_1_validation_with_callback,52,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_bpr.py,Magic number 15 used in test05_1_validation_with_callback.
+kakao_buffalo.tests.algo,test_bpr,TestBPRMF,Magic number,test05_1_validation_with_callback,53,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_bpr.py,Magic number 5 used in test05_1_validation_with_callback.
+kakao_buffalo.tests.algo,test_bpr,TestBPRMF,Magic number,test06_topk,59,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_bpr.py,Magic number 5 used in test06_topk.
+kakao_buffalo.tests.algo,test_bpr,TestBPRMF,Magic number,test06_topk,60,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_bpr.py,Magic number 200 used in test06_topk.
+kakao_buffalo.tests.algo,test_bpr,TestBPRMF,Magic number,test07_train_ml_20m,66,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_bpr.py,Magic number 8 used in test07_train_ml_20m.
+kakao_buffalo.tests.algo,test_bpr,TestBPRMF,Magic number,test08_serialization,72,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_bpr.py,Magic number 200 used in test08_serialization.
+kakao_buffalo.tests.algo,test_bpr,TestBPRMF,Magic number,test08_serialization,73,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_bpr.py,Magic number 5 used in test08_serialization.
+kakao_buffalo.tests.algo,test_bpr,TestBPRMF,Magic number,test09_compact_serialization,80,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_bpr.py,Magic number 200 used in test09_compact_serialization.
+kakao_buffalo.tests.algo,test_bpr,TestBPRMF,Magic number,test09_compact_serialization,81,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_bpr.py,Magic number 5 used in test09_compact_serialization.
+kakao_buffalo.tests.algo,test_bpr,TestBPRMF,Magic number,test10_fast_most_similar,87,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_bpr.py,Magic number 5 used in test10_fast_most_similar.
+kakao_buffalo.tests.algo,test_bpr,TestBPRMF,Magic number,test11_gpu_validation,96,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_bpr.py,Magic number 100 used in test11_gpu_validation.
+kakao_buffalo.tests.algo,test_bpr,TestBPRMF,Magic number,test11_gpu_validation,99,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_bpr.py,Magic number 0.01 used in test11_gpu_validation.
+kakao_buffalo.tests.algo,test_bpr,TestBPRMF,Magic number,test11_gpu_validation,100,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_bpr.py,Magic number 10.0 used in test11_gpu_validation.
+kakao_buffalo.tests.algo,test_bpr,TestBPRMF,Magic number,test11_gpu_validation,101,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_bpr.py,Magic number 500 used in test11_gpu_validation.
+kakao_buffalo.tests.algo,test_bpr,TestBPRMF,Magic number,test11_gpu_validation,102,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_bpr.py,Magic number 50 used in test11_gpu_validation.
+kakao_buffalo.tests.algo,test_bpr,TestBPRMF,Magic number,test11_gpu_validation,103,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_bpr.py,Magic number 777 used in test11_gpu_validation.
+kakao_buffalo.tests.algo,test_bpr,TestBPRMF,Magic number,test12_gpu_train_ml_20m,113,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_bpr.py,Magic number 100 used in test12_gpu_train_ml_20m.
+kakao_buffalo.tests.algo,test_bpr,TestBPRMF,Magic number,test12_gpu_train_ml_20m,115,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_bpr.py,Magic number 30 used in test12_gpu_train_ml_20m.
+kakao_buffalo.tests.algo,test_bpr,TestBPRMF,Magic number,test12_gpu_train_ml_20m,116,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_bpr.py,Magic number 5 used in test12_gpu_train_ml_20m.
+kakao_buffalo.tests.algo,test_cfr,TestCFR,Long message chain,test05_validation,68,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_cfr.py,"A long message chain has 4 attributes/calls chained together, more than the recommended 3 in the following statement: data_opt.data.validation.name = 'sample'."
+kakao_buffalo.tests.algo,test_cfr,TestCFR,Long message chain,test05_1_validation_with_callback,88,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_cfr.py,"A long message chain has 4 attributes/calls chained together, more than the recommended 3 in the following statement: data_opt.data.validation.name = 'sample'."
+kakao_buffalo.tests.algo,test_cfr,TestCFR,Long message chain,test06_topk,112,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_cfr.py,"A long message chain has 4 attributes/calls chained together, more than the recommended 3 in the following statement: data_opt.data.validation.name = 'sample'."
+kakao_buffalo.tests.algo,test_cfr,TestCFR,Long identifier,test05_1_validation_with_callback,83,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_cfr.py,Identifier'test05_1_validation_with_callback' exceeds the maximum length of 30 characters.
+kakao_buffalo.tests.algo,test_cfr,TestCFR,Magic number,test03_init,32,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_cfr.py,Magic number 20 used in test03_init.
+kakao_buffalo.tests.algo,test_cfr,TestCFR,Magic number,test03_init,34,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_cfr.py,Magic number 5 used in test03_init.
+kakao_buffalo.tests.algo,test_cfr,TestCFR,Magic number,test03_init,34,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_cfr.py,Magic number 10 used in test03_init.
+kakao_buffalo.tests.algo,test_cfr,TestCFR,Magic number,test04_train,51,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_cfr.py,Magic number 5 used in test04_train.
+kakao_buffalo.tests.algo,test_cfr,TestCFR,Magic number,test04_train,51,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_cfr.py,Magic number 10 used in test04_train.
+kakao_buffalo.tests.algo,test_cfr,TestCFR,Magic number,test05_validation,63,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_cfr.py,Magic number 0.06 used in test05_validation.
+kakao_buffalo.tests.algo,test_cfr,TestCFR,Magic number,test05_validation,63,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_cfr.py,Magic number 0.04 used in test05_validation.
+kakao_buffalo.tests.algo,test_cfr,TestCFR,Magic number,test05_validation,69,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_cfr.py,Magic number 5 used in test05_validation.
+kakao_buffalo.tests.algo,test_cfr,TestCFR,Magic number,test05_validation,69,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_cfr.py,Magic number 10 used in test05_validation.
+kakao_buffalo.tests.algo,test_cfr,TestCFR,Magic number,test05_1_validation_with_callback,89,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_cfr.py,Magic number 5 used in test05_1_validation_with_callback.
+kakao_buffalo.tests.algo,test_cfr,TestCFR,Magic number,test05_1_validation_with_callback,89,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_cfr.py,Magic number 10 used in test05_1_validation_with_callback.
+kakao_buffalo.tests.algo,test_cfr,TestCFR,Magic number,test06_topk,113,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_cfr.py,Magic number 5 used in test06_topk.
+kakao_buffalo.tests.algo,test_cfr,TestCFR,Magic number,test06_topk,113,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_cfr.py,Magic number 10 used in test06_topk.
+kakao_buffalo.tests.algo,test_cfr,TestCFR,Magic number,test07_train_ml_20m,135,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_cfr.py,Magic number 5 used in test07_train_ml_20m.
+kakao_buffalo.tests.algo,test_cfr,TestCFR,Magic number,test07_train_ml_20m,135,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_cfr.py,Magic number 10 used in test07_train_ml_20m.
+kakao_buffalo.tests.algo,test_cfr,TestCFR,Magic number,test08_serialization,153,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_cfr.py,Magic number 5 used in test08_serialization.
+kakao_buffalo.tests.algo,test_cfr,TestCFR,Magic number,test08_serialization,153,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_cfr.py,Magic number 10 used in test08_serialization.
+kakao_buffalo.tests.algo,test_cfr,TestCFR,Magic number,test09_compact_serialization,176,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_cfr.py,Magic number 5 used in test09_compact_serialization.
+kakao_buffalo.tests.algo,test_cfr,TestCFR,Magic number,test09_compact_serialization,176,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_cfr.py,Magic number 10 used in test09_compact_serialization.
+kakao_buffalo.tests.algo,test_cfr,TestCFR,Magic number,test10_fast_most_similar,203,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_cfr.py,Magic number 5 used in test10_fast_most_similar.
+kakao_buffalo.tests.algo,test_cfr,TestCFR,Magic number,test10_fast_most_similar,203,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_cfr.py,Magic number 10 used in test10_fast_most_similar.
+kakao_buffalo.tests.algo,test_eals,TestEALS,Long identifier,test05_1_validation_with_callback,43,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_eals.py,Identifier'test05_1_validation_with_callback' exceeds the maximum length of 30 characters.
+kakao_buffalo.tests.algo,test_eals,TestEALS,Magic number,test04_train,33,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_eals.py,Magic number 20 used in test04_train.
+kakao_buffalo.tests.algo,test_eals,TestEALS,Magic number,test05_validation,38,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_eals.py,Magic number 5 used in test05_validation.
+kakao_buffalo.tests.algo,test_eals,TestEALS,Magic number,test05_validation,39,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_eals.py,Magic number 20 used in test05_validation.
+kakao_buffalo.tests.algo,test_eals,TestEALS,Magic number,test05_1_validation_with_callback,45,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_eals.py,Magic number 5 used in test05_1_validation_with_callback.
+kakao_buffalo.tests.algo,test_eals,TestEALS,Magic number,test05_1_validation_with_callback,46,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_eals.py,Magic number 20 used in test05_1_validation_with_callback.
+kakao_buffalo.tests.algo,test_eals,TestEALS,Magic number,test06_topk,52,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_eals.py,Magic number 5 used in test06_topk.
+kakao_buffalo.tests.algo,test_eals,TestEALS,Magic number,test07_train_ml_20m,58,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_eals.py,Magic number 8 used in test07_train_ml_20m.
+kakao_buffalo.tests.algo,test_eals,TestEALS,Magic number,test08_serialization,64,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_eals.py,Magic number 5 used in test08_serialization.
+kakao_buffalo.tests.algo,test_eals,TestEALS,Magic number,test09_compact_serialization,70,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_eals.py,Magic number 5 used in test09_compact_serialization.
+kakao_buffalo.tests.algo,test_eals,TestEALS,Magic number,test10_fast_most_similar,76,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_eals.py,Magic number 5 used in test10_fast_most_similar.
+kakao_buffalo.tests.algo,test_plsi,TestPLSI,Long identifier,test05_1_validation_with_callback,44,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_plsi.py,Identifier'test05_1_validation_with_callback' exceeds the maximum length of 30 characters.
+kakao_buffalo.tests.algo,test_plsi,TestPLSI,Magic number,test06_topk,51,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_plsi.py,Magic number 10 used in test06_topk.
+kakao_buffalo.tests.algo,test_plsi,TestPLSI,Magic number,test07_train_ml_20m,57,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_plsi.py,Magic number 8 used in test07_train_ml_20m.
+kakao_buffalo.tests.algo,test_plsi,TestPLSI,Magic number,test08_serialization,62,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_plsi.py,Magic number 10 used in test08_serialization.
+kakao_buffalo.tests.algo,test_plsi,TestPLSI,Magic number,test09_compact_serialization,67,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_plsi.py,Magic number 10 used in test09_compact_serialization.
+kakao_buffalo.tests.algo,test_plsi,TestPLSI,Magic number,test10_inheritance,99,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_plsi.py,Magic number 20 used in test10_inheritance.
+kakao_buffalo.tests.algo,test_plsi,TestPLSI,Magic number,test10_inheritance,100,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_plsi.py,Magic number 20 used in test10_inheritance.
+kakao_buffalo.tests.algo,test_plsi,TestPLSI,Magic number,test10_inheritance,99,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_plsi.py,Magic number 20 used in test10_inheritance.
+kakao_buffalo.tests.algo,test_plsi,TestPLSI,Magic number,test10_inheritance,100,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_plsi.py,Magic number 20 used in test10_inheritance.
+kakao_buffalo.tests.algo,test_w2v,TestW2V,Complex method,test05_text8_accuracy,62 - 99,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_w2v.py,"Method 'test05_text8_accuracy' has a cyclomatic complexity of 11, exceeding the max of 6."
+kakao_buffalo.tests.algo,test_w2v,TestW2V,Magic number,load_text8_model,20,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_w2v.py,Magic number 12 used in load_text8_model.
+kakao_buffalo.tests.algo,test_w2v,TestW2V,Magic number,load_text8_model,21,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_w2v.py,Magic number 100 used in load_text8_model.
+kakao_buffalo.tests.algo,test_w2v,TestW2V,Magic number,load_text8_model,22,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_w2v.py,Magic number 4 used in load_text8_model.
+kakao_buffalo.tests.algo,test_w2v,TestW2V,Magic number,load_text8_model,23,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_w2v.py,Magic number 20 used in load_text8_model.
+kakao_buffalo.tests.algo,test_w2v,TestW2V,Magic number,test07_oov_by_mincut,108,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_w2v.py,Magic number 5 used in test07_oov_by_mincut.
+kakao_buffalo.tests.algo,test_w2v,TestW2V,Magic number,test07_oov_by_mincut,110,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_w2v.py,Magic number 10 used in test07_oov_by_mincut.
+kakao_buffalo.tests.algo,test_w2v,TestW2V,Magic number,test07_oov_by_mincut,111,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_w2v.py,Magic number 2 used in test07_oov_by_mincut.
+kakao_buffalo.tests.algo,test_warp,TestWARP,Long identifier,test05_1_validation_with_callback,50,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_warp.py,Identifier'test05_1_validation_with_callback' exceeds the maximum length of 30 characters.
+kakao_buffalo.tests.algo,test_warp,TestWARP,Magic number,test03_init,35,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_warp.py,Magic number 20 used in test03_init.
+kakao_buffalo.tests.algo,test_warp,TestWARP,Magic number,test04_train,40,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_warp.py,Magic number 32 used in test04_train.
+kakao_buffalo.tests.algo,test_warp,TestWARP,Magic number,test04_train,41,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_warp.py,Magic number 200 used in test04_train.
+kakao_buffalo.tests.algo,test_warp,TestWARP,Magic number,test05_1_validation_with_callback,52,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_warp.py,Magic number 5 used in test05_1_validation_with_callback.
+kakao_buffalo.tests.algo,test_warp,TestWARP,Magic number,test05_1_validation_with_callback,53,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_warp.py,Magic number 15 used in test05_1_validation_with_callback.
+kakao_buffalo.tests.algo,test_warp,TestWARP,Magic number,test05_1_validation_with_callback,54,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_warp.py,Magic number 5 used in test05_1_validation_with_callback.
+kakao_buffalo.tests.algo,test_warp,TestWARP,Magic number,test06_topk,60,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_warp.py,Magic number 10 used in test06_topk.
+kakao_buffalo.tests.algo,test_warp,TestWARP,Magic number,test07_train_ml_20m,66,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_warp.py,Magic number 8 used in test07_train_ml_20m.
+kakao_buffalo.tests.algo,test_warp,TestWARP,Magic number,test08_serialization,72,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_warp.py,Magic number 20 used in test08_serialization.
+kakao_buffalo.tests.algo,test_warp,TestWARP,Magic number,test08_serialization,73,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_warp.py,Magic number 500 used in test08_serialization.
+kakao_buffalo.tests.algo,test_warp,TestWARP,Magic number,test09_compact_serialization,79,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/algo/test_warp.py,Magic number 10 used in test09_compact_serialization.
+kakao_buffalo.tests.data,test_mm,TestMatrixMarketReader,Magic number,test3_list,126,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/data/test_mm.py,Magic number 10 used in test3_list.
+kakao_buffalo.tests.data,test_mm,TestMatrixMarketReader,Magic number,test3_list,126,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/data/test_mm.py,Magic number 123 used in test3_list.
+kakao_buffalo.tests.data,test_mm,TestMatrixMarketReader,Magic number,test3_list,126,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/data/test_mm.py,Magic number 2 used in test3_list.
+kakao_buffalo.tests.data,test_mm,TestMatrixMarketReader,Magic number,test3_id_list,136,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/data/test_mm.py,Magic number 2.0 used in test3_id_list.
+kakao_buffalo.tests.data,test_mm,TestMatrixMarketReader,Magic number,test3_id_list_except,146,/Volumes/BrokeExt/NICHE/kakao_buffalo/tests/data/test_mm.py,Magic number 2.0 used in test3_id_list_except.

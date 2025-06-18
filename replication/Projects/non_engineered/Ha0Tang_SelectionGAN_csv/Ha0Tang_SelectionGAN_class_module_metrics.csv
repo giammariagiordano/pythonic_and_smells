@@ -1,0 +1,5 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+Ha0Tang_SelectionGAN.gaugan_pix2pixhd_guided,test,,0,0,0,0,9,9,-1,0,2
+Ha0Tang_SelectionGAN.gaugan_pix2pixhd_guided,train,,0,0,0,0,7,7,-1,0,3
+Ha0Tang_SelectionGAN.gaugan_pix2pixhd_guided.data,__init__,,31,7,3,3,1,1,0,0,0
+Ha0Tang_SelectionGAN.gaugan_pix2pixhd_guided.data,aligned_dataset,,47,6,0,0,0,0,-1,0,0

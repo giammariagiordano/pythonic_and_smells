@@ -1,0 +1,5 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+IBM_AIX360,setup,,0,0,0,0,3,3,-1,0,0
+IBM_AIX360.aix360,__init__,,0,0,0,0,0,0,-1,0,0
+IBM_AIX360.aix360.algorithms,__init__,,0,0,0,0,0,0,-1,0,0
+IBM_AIX360.aix360.algorithms,die,,13,3,0,0,1,1,-1,0,0

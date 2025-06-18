@@ -1,0 +1,12 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+DigitalSlideArchive_HistomicsTK,setup,,0,0,0,0,1,1,-1,0,0
+DigitalSlideArchive_HistomicsTK,test_wheels,,0,0,0,0,2,2,-1,0,0
+DigitalSlideArchive_HistomicsTK.docs,conf,,0,0,0,0,25,25,-1,0,0
+DigitalSlideArchive_HistomicsTK.histomicstk,__init__,,0,0,0,0,2,0,-1,0,0
+DigitalSlideArchive_HistomicsTK.histomicstk.annotations_and_masks,__init__,,0,0,0,0,0,0,-1,0,0
+DigitalSlideArchive_HistomicsTK.histomicstk.annotations_and_masks,annotation_and_mask_utils,,434,76,20,11,63,63,0.3,0,1
+DigitalSlideArchive_HistomicsTK.histomicstk.annotations_and_masks,annotation_database_parser,,196,23,7,3,8,8,0.29,0,1
+DigitalSlideArchive_HistomicsTK.histomicstk.annotations_and_masks,annotations_to_masks_handler,,516,70,10,4,57,57,0,0,0
+DigitalSlideArchive_HistomicsTK.histomicstk.annotations_and_masks,annotations_to_object_mask_handler,,319,46,7,4,46,46,0,0,0
+DigitalSlideArchive_HistomicsTK.histomicstk.annotations_and_masks,masks_to_annotations_handler,,299,42,8,4,35,35,0.12,0,1
+DigitalSlideArchive_HistomicsTK.histomicstk.annotations_and_masks,polygon_merger,,511,60,0,0,0,0,-1,1,0

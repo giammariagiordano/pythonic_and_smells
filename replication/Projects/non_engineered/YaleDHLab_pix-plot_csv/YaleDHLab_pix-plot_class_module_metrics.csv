@@ -1,0 +1,4 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+YaleDHLab_pix-plot,setup,,0,0,0,0,2,2,-1,0,0
+YaleDHLab_pix-plot.pixplot,__init__,,0,0,0,0,1,0,-1,0,0
+YaleDHLab_pix-plot.pixplot,pixplot,,958,205,48,48,75,74,0,0,0

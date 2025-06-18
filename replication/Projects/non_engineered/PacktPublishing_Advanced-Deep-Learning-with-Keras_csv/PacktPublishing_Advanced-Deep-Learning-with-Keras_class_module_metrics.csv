@@ -1,0 +1,12 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+PacktPublishing_Advanced-Deep-Learning-with-Keras.chapter1-keras-quick-tour,cnn-mnist-1.4.1,,0,0,0,0,15,15,-1,0,0
+PacktPublishing_Advanced-Deep-Learning-with-Keras.chapter1-keras-quick-tour,cnn-model-1.3.2,,0,0,0,0,2,2,-1,0,0
+PacktPublishing_Advanced-Deep-Learning-with-Keras.chapter1-keras-quick-tour,linear-model-1.2.1,,0,0,0,0,11,11,-1,0,0
+PacktPublishing_Advanced-Deep-Learning-with-Keras.chapter1-keras-quick-tour,mlp-mnist-1.3.2,,0,0,0,0,13,13,-1,0,0
+PacktPublishing_Advanced-Deep-Learning-with-Keras.chapter1-keras-quick-tour,mnist-sampler-1.3.1,,0,0,0,0,7,7,-1,0,0
+PacktPublishing_Advanced-Deep-Learning-with-Keras.chapter1-keras-quick-tour,plot-linear-1.1.1,,0,0,0,0,5,5,-1,0,0
+PacktPublishing_Advanced-Deep-Learning-with-Keras.chapter1-keras-quick-tour,rnn-mnist-1.5.1,,0,0,0,0,13,13,-1,0,0
+PacktPublishing_Advanced-Deep-Learning-with-Keras.chapter1-keras-quick-tour,rnn-model-1.3.1,,0,0,0,0,5,5,-1,0,0
+PacktPublishing_Advanced-Deep-Learning-with-Keras.chapter1-keras-quick-tour,sgd-1.5.3,,0,0,0,0,5,5,-1,0,0
+PacktPublishing_Advanced-Deep-Learning-with-Keras.chapter1-keras-quick-tour,sgd-2-min-1.5.4,,0,0,0,0,5,5,-1,0,0
+PacktPublishing_Advanced-Deep-Learning-with-Keras.chapter10-policy,policygradient-car-10.1.1,,430,50,5,5,30,30,1,1,1

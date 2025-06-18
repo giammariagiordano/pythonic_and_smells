@@ -1,0 +1,5 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+asappresearch_sru,setup,Multifaceted abstraction,setup,1,/Volumes/BrokeExt/NICHE/asappresearch_sru/setup.py,"Class 'setup' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+asappresearch_sru.misc,test_impl,Multifaceted abstraction,test_impl,1,/Volumes/BrokeExt/NICHE/asappresearch_sru/misc/test_impl.py,"Class 'test_impl' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+asappresearch_sru.test,test_amp,Multifaceted abstraction,NullGradScalar,15,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/test_amp.py,"Class 'NullGradScalar' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+asappresearch_sru.test.sru,test_sru,Multifaceted abstraction,test_sru,1,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/sru/test_sru.py,"Class 'test_sru' has a high LCOM value of 1, indicating it may have multiple responsibilities."

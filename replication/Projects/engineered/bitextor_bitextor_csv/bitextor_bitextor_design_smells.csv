@@ -1,0 +1,4 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+bitextor_bitextor.bitextor,bitextor_cli,Multifaceted abstraction,ParseDict,51,/Volumes/BrokeExt/NICHE/bitextor_bitextor/bitextor/bitextor_cli.py,"Class 'ParseDict' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+bitextor_bitextor.bitextor,bitextor_warc2htmlwarc,Multifaceted abstraction,bitextor_warc2htmlwarc,1,/Volumes/BrokeExt/NICHE/bitextor_bitextor/bitextor/bitextor_warc2htmlwarc.py,"Class 'bitextor_warc2htmlwarc' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+bitextor_bitextor.bitextor.docalign,bitextor_idx2ridx,Multifaceted abstraction,bitextor_idx2ridx,1,/Volumes/BrokeExt/NICHE/bitextor_bitextor/bitextor/docalign/bitextor_idx2ridx.py,"Class 'bitextor_idx2ridx' has a high LCOM value of 1, indicating it may have multiple responsibilities."

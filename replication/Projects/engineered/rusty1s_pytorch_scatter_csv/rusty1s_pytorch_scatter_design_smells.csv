@@ -1,0 +1,6 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+rusty1s_pytorch_scatter.docs.source,conf,Broken modularization,conf,1,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/docs/source/conf.py,Module 'conf' contains only data members without any method implementations.
+rusty1s_pytorch_scatter.test,test_gather,Multifaceted abstraction,test_gather,1,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/test/test_gather.py,"Class 'test_gather' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+rusty1s_pytorch_scatter.test,test_scatter,Multifaceted abstraction,test_scatter,1,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/test/test_scatter.py,"Class 'test_scatter' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+rusty1s_pytorch_scatter.test,test_segment,Multifaceted abstraction,test_segment,1,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/test/test_segment.py,"Class 'test_segment' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+rusty1s_pytorch_scatter.torch_scatter,placeholder,Multifaceted abstraction,placeholder,1,/Volumes/BrokeExt/NICHE/rusty1s_pytorch_scatter/torch_scatter/placeholder.py,"Class 'placeholder' has a high LCOM value of 1, indicating it may have multiple responsibilities."

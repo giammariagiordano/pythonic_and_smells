@@ -1,0 +1,15 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+CorentinJ_Real-Time-Voice-Cloning,demo_cli,,0,0,0,0,23,23,-1,0,1
+CorentinJ_Real-Time-Voice-Cloning,demo_toolbox,,0,0,0,0,4,4,-1,0,0
+CorentinJ_Real-Time-Voice-Cloning,encoder_preprocess,,0,0,0,0,5,5,-1,0,0
+CorentinJ_Real-Time-Voice-Cloning,encoder_train,,0,0,0,0,2,2,-1,0,0
+CorentinJ_Real-Time-Voice-Cloning,synthesizer_preprocess_audio,,0,0,0,0,4,4,-1,0,0
+CorentinJ_Real-Time-Voice-Cloning,synthesizer_preprocess_embeds,,0,0,0,0,2,2,-1,0,0
+CorentinJ_Real-Time-Voice-Cloning,synthesizer_train,,0,0,0,0,3,3,-1,0,0
+CorentinJ_Real-Time-Voice-Cloning,vocoder_preprocess,,0,0,0,0,6,6,-1,0,0
+CorentinJ_Real-Time-Voice-Cloning,vocoder_train,,0,0,0,0,4,4,-1,0,0
+CorentinJ_Real-Time-Voice-Cloning.encoder,__init__,,0,0,0,0,0,0,-1,0,0
+CorentinJ_Real-Time-Voice-Cloning.encoder,audio,,55,16,4,4,7,7,0.25,0,0
+CorentinJ_Real-Time-Voice-Cloning.encoder,config,,0,0,0,0,5,5,-1,0,0
+CorentinJ_Real-Time-Voice-Cloning.encoder,inference,,82,16,7,7,12,10,0.57,0,1
+CorentinJ_Real-Time-Voice-Cloning.encoder,model,,77,6,0,0,0,0,-1,2,0

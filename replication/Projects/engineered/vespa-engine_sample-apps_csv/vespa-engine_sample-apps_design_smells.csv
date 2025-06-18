@@ -1,0 +1,5 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+vespa-engine_sample-apps.examples.fasthtml-demo,deploy_hf,Multifaceted abstraction,deploy_hf,1,/Volumes/BrokeExt/NICHE/vespa-engine_sample-apps/examples/fasthtml-demo/deploy_hf.py,"Class 'deploy_hf' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+vespa-engine_sample-apps.test,test,Insufficient modularization,test,1,/Volumes/BrokeExt/NICHE/vespa-engine_sample-apps/test/test.py,"Module 'test' is insufficiently modularized with NOPM: 22, WMC: 85, NOM: 22."
+vespa-engine_sample-apps.text-video-search.src.python,app,Multifaceted abstraction,app,1,/Volumes/BrokeExt/NICHE/vespa-engine_sample-apps/text-video-search/src/python/app.py,"Class 'app' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+vespa-engine_sample-apps.use-case-shopping,create_suggestions,Multifaceted abstraction,create_suggestions,1,/Volumes/BrokeExt/NICHE/vespa-engine_sample-apps/use-case-shopping/create_suggestions.py,"Class 'create_suggestions' has a high LCOM value of 1, indicating it may have multiple responsibilities."

@@ -1,0 +1,3 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+jakeret_tf_unet.tf_unet,image_util,Wide hierarchy,BaseDataProvider,0,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/image_util.py,Class 'BaseDataProvider' has a wide hierarchy with 6 direct subclasses.
+jakeret_tf_unet.tf_unet,layers,Multifaceted abstraction,layers,1,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/layers.py,"Class 'layers' has a high LCOM value of 1, indicating it may have multiple responsibilities."

@@ -1,0 +1,4 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+kakaobrain_torchgpipe,setup,,0,0,0,0,2,2,-1,0,0
+kakaobrain_torchgpipe,torchgpipe_balancing,,0,0,0,0,0,0,-1,0,0
+kakaobrain_torchgpipe.benchmarks.amoebanetd-memory,main,,101,14,3,3,9,9,0.33,0,1

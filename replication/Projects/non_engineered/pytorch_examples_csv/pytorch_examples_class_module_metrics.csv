@@ -1,0 +1,5 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+pytorch_examples.cpp.dcgan,display_samples,,0,0,0,0,7,7,-1,0,0
+pytorch_examples.cpp.tools,download_mnist,,53,15,4,4,6,6,0.25,0,0
+pytorch_examples.cpp.transfer-learning,convert,,0,0,0,0,5,5,-1,0,0
+pytorch_examples.dcgan,main,,75,11,1,1,36,36,0,0,0

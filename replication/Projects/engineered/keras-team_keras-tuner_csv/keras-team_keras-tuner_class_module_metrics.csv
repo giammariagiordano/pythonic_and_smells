@@ -1,0 +1,8 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+keras-team_keras-tuner,pip_build,,57,10,3,3,8,8,1,0,0
+keras-team_keras-tuner,setup,,10,4,2,2,4,4,0,0,0
+keras-team_keras-tuner.keras_tuner,__init__,,0,0,0,0,0,0,-1,0,0
+keras-team_keras-tuner.keras_tuner,api_export,,0,0,0,0,0,0,-1,0,0
+keras-team_keras-tuner.keras_tuner,config,,0,0,0,0,1,1,-1,0,0
+keras-team_keras-tuner.keras_tuner,conftest,,8,2,1,1,0,0,0,0,0
+keras-team_keras-tuner.keras_tuner,errors,,5,0,0,0,0,0,-1,0,0

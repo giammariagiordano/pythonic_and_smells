@@ -1,0 +1,4 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+amzn_xfer.finite_ntk,data,,45,3,3,3,0,0,0,0,0
+amzn_xfer.finite_ntk,setup,,0,0,0,0,0,0,-1,0,0
+amzn_xfer.finite_ntk.experiments.cifar,data,,50,2,1,1,5,5,0,0,0

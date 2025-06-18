@@ -1,0 +1,4 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+zhanghang1989_PyTorch-Encoding,setup,,47,3,2,2,7,7,1,0,0
+zhanghang1989_PyTorch-Encoding.docs.source,conf,,0,0,0,0,25,25,-1,0,0
+zhanghang1989_PyTorch-Encoding.docs.source,custom_directives,,135,10,0,0,1,1,-1,0,0

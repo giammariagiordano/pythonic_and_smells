@@ -1,0 +1,10 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+joeynmt_joeynmt.joeynmt,builders,Multifaceted abstraction,builders,1,/Volumes/BrokeExt/NICHE/joeynmt_joeynmt/joeynmt/builders.py,"Class 'builders' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+joeynmt_joeynmt.joeynmt,datasets,Insufficient modularization,datasets,1,/Volumes/BrokeExt/NICHE/joeynmt_joeynmt/joeynmt/datasets.py,"Module 'datasets' is insufficiently modularized with NOPM: 1, WMC: 125, NOM: 1."
+joeynmt_joeynmt.joeynmt,helpers,Insufficient modularization,helpers,1,/Volumes/BrokeExt/NICHE/joeynmt_joeynmt/joeynmt/helpers.py,"Module 'helpers' is insufficiently modularized with NOPM: 21, WMC: 46, NOM: 21."
+joeynmt_joeynmt.joeynmt,helpers,Multifaceted abstraction,helpers,1,/Volumes/BrokeExt/NICHE/joeynmt_joeynmt/joeynmt/helpers.py,"Class 'helpers' has a high LCOM value of 0.86, indicating it may have multiple responsibilities."
+joeynmt_joeynmt.joeynmt,metrics,Multifaceted abstraction,metrics,1,/Volumes/BrokeExt/NICHE/joeynmt_joeynmt/joeynmt/metrics.py,"Class 'metrics' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+joeynmt_joeynmt.scripts,discord_joey,Multifaceted abstraction,discord_joey,1,/Volumes/BrokeExt/NICHE/joeynmt_joeynmt/scripts/discord_joey.py,"Class 'discord_joey' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+joeynmt_joeynmt.test.unit,test_loss,Multifaceted abstraction,TestXentLoss,8,/Volumes/BrokeExt/NICHE/joeynmt_joeynmt/test/unit/test_loss.py,"Class 'TestXentLoss' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+joeynmt_joeynmt.test.unit,test_metric,Multifaceted abstraction,TestMetrics,6,/Volumes/BrokeExt/NICHE/joeynmt_joeynmt/test/unit/test_metric.py,"Class 'TestMetrics' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+joeynmt_joeynmt.test.unit,test_transformer_utils,Multifaceted abstraction,TestTransformerUtils,8,/Volumes/BrokeExt/NICHE/joeynmt_joeynmt/test/unit/test_transformer_utils.py,"Class 'TestTransformerUtils' has a high LCOM value of 1, indicating it may have multiple responsibilities."

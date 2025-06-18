@@ -1,0 +1,16 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+yahoo_TensorFlowOnSpark,setup,,5,1,1,1,0,0,0,0,0
+yahoo_TensorFlowOnSpark.doc.source,conf,,0,0,0,0,22,21,-1,0,0
+yahoo_TensorFlowOnSpark.examples.mnist,mnist_data_setup,,0,0,0,0,8,8,-1,0,0
+yahoo_TensorFlowOnSpark.examples.mnist.estimator,mnist_inference,,30,4,1,1,15,15,0,0,0
+yahoo_TensorFlowOnSpark.examples.mnist.estimator,mnist_pipeline,,93,1,1,1,24,24,0,0,0
+yahoo_TensorFlowOnSpark.examples.mnist.estimator,mnist_spark,,95,1,1,1,20,20,0,0,0
+yahoo_TensorFlowOnSpark.examples.mnist.estimator,mnist_spark_streaming,,83,1,1,1,22,22,0,0,0
+yahoo_TensorFlowOnSpark.examples.mnist.estimator,mnist_tf,,66,0,1,1,15,15,0,0,0
+yahoo_TensorFlowOnSpark.examples.mnist.keras,mnist_inference,,25,3,1,1,12,12,0,0,0
+yahoo_TensorFlowOnSpark.examples.mnist.keras,mnist_pipeline,,44,2,1,1,17,17,0,0,0
+yahoo_TensorFlowOnSpark.examples.mnist.keras,mnist_spark,,44,2,1,1,13,13,0,0,0
+yahoo_TensorFlowOnSpark.examples.mnist.keras,mnist_tf,,40,0,1,1,8,8,0,0,0
+yahoo_TensorFlowOnSpark.examples.mnist.keras,mnist_tf_ds,,53,0,1,1,14,14,0,0,0
+yahoo_TensorFlowOnSpark.examples.resnet,__init__,,0,0,0,0,0,0,-1,0,0
+yahoo_TensorFlowOnSpark.examples.resnet,resnet_cifar_dist,,181,29,4,4,19,19,0.25,1,1

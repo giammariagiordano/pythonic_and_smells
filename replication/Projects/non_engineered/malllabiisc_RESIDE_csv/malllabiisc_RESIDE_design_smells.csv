@@ -1,0 +1,4 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+malllabiisc_RESIDE.online,bgwa,Broken hierarchy,BGWA,3,/Volumes/BrokeExt/NICHE/malllabiisc_RESIDE/online/bgwa.py,Class 'BGWA' and its superclass 'Base' may not share a proper 'IS-A' relationship.
+malllabiisc_RESIDE.online,online_reside,Broken hierarchy,RESIDE,3,/Volumes/BrokeExt/NICHE/malllabiisc_RESIDE/online/online_reside.py,Class 'RESIDE' and its superclass 'Base' may not share a proper 'IS-A' relationship.
+malllabiisc_RESIDE.online,pcnn,Broken hierarchy,PCNN,3,/Volumes/BrokeExt/NICHE/malllabiisc_RESIDE/online/pcnn.py,Class 'PCNN' and its superclass 'Base' may not share a proper 'IS-A' relationship.

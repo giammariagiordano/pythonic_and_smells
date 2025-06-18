@@ -1,0 +1,2 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+yunjey_pytorch-tutorial.tutorials.01-basics.feedforward_neural_network,main,,14,2,0,0,22,22,-1,0,0

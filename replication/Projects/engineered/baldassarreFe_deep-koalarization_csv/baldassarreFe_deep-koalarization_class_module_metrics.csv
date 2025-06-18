@@ -1,0 +1,5 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+baldassarreFe_deep-koalarization,setup,,0,0,0,0,3,3,-1,0,0
+baldassarreFe_deep-koalarization.src.koalarization,__init__,,0,0,0,0,2,0,-1,0,0
+baldassarreFe_deep-koalarization.src.koalarization,evaluate,,0,0,0,0,14,14,-1,0,1
+baldassarreFe_deep-koalarization.src.koalarization,fusion_layer,,12,3,0,0,0,0,-1,1,0

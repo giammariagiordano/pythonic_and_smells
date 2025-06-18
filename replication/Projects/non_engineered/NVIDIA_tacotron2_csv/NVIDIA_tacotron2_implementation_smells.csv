@@ -1,0 +1,98 @@
+Package,Module,Class,Smell,Function/Method,Line no,File,Details
+NVIDIA_tacotron2,audio_processing,,Long parameter list,window_sumsquare,7 - 56,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/audio_processing.py,"window_sumsquare has 7 parameters, exceeding the max of 5."
+NVIDIA_tacotron2,audio_processing,,Long statement,window_sumsquare,9,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/audio_processing.py,A line with 923 chars in window_sumsquare exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,audio_processing,,Long statement,griffin_lim,60,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/audio_processing.py,A line with 147 chars in griffin_lim exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,audio_processing,,Magic number,window_sumsquare,7,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/audio_processing.py,Magic number 200 used in window_sumsquare.
+NVIDIA_tacotron2,audio_processing,,Magic number,window_sumsquare,7,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/audio_processing.py,Magic number 800 used in window_sumsquare.
+NVIDIA_tacotron2,audio_processing,,Magic number,window_sumsquare,8,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/audio_processing.py,Magic number 800 used in window_sumsquare.
+NVIDIA_tacotron2,audio_processing,,Magic number,window_sumsquare,49,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/audio_processing.py,Magic number 2 used in window_sumsquare.
+NVIDIA_tacotron2,audio_processing,,Magic number,griffin_lim,59,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/audio_processing.py,Magic number 30 used in griffin_lim.
+NVIDIA_tacotron2,audio_processing,,Magic number,dynamic_range_compression,78,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/audio_processing.py,Magic number 1e-05 used in dynamic_range_compression.
+NVIDIA_tacotron2,data_utils,TextMelLoader,Long statement,__init__,23,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/data_utils.py,A line with 177 chars in __init__ exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,data_utils,TextMelLoader,Long statement,get_mel,50,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/data_utils.py,A line with 151 chars in get_mel exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,data_utils,TextMelCollate,Long statement,__call__,74,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/data_utils.py,A line with 159 chars in __call__ exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,data_utils,TextMelCollate,Long statement,__call__,80,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/data_utils.py,A line with 121 chars in __call__ exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,distributed,,Complex method,apply_gradient_allreduce,126 - 173,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/distributed.py,"Method 'apply_gradient_allreduce' has a cyclomatic complexity of 15, exceeding the max of 6."
+NVIDIA_tacotron2,distributed,DistributedDataParallel,Complex method,__init__,53 - 98,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/distributed.py,"Method '__init__' has a cyclomatic complexity of 15, exceeding the max of 6."
+NVIDIA_tacotron2,distributed,,Long method,apply_gradient_allreduce,126 - 173,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/distributed.py,Method 'apply_gradient_allreduce' is too long (43 lines).
+NVIDIA_tacotron2,distributed,DistributedDataParallel,Long method,__init__,53 - 98,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/distributed.py,Method '__init__' is too long (41 lines).
+NVIDIA_tacotron2,distributed,,Long statement,_flatten_dense_tensors,7,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/distributed.py,A line with 431 chars in _flatten_dense_tensors exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,distributed,,Long statement,_unflatten_dense_tensors,23,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/distributed.py,A line with 444 chars in _unflatten_dense_tensors exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,distributed,,Long statement,apply_gradient_allreduce,149,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/distributed.py,A line with 210 chars in apply_gradient_allreduce exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,distributed,DistributedDataParallel,Long statement,__init__,80,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/distributed.py,A line with 210 chars in __init__ exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,distributed,,Long statement,,42,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/distributed.py,A line with 471 chars in distributed exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,hparams,,Long method,create_hparams,5 - 95,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/hparams.py,Method 'create_hparams' is too long (86 lines).
+NVIDIA_tacotron2,hparams,,Long statement,create_hparams,8,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/hparams.py,A line with 1213 chars in create_hparams exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,layers,ConvNorm,Long parameter list,__init__,22 - 35,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/layers.py,"__init__ has 8 parameters, exceeding the max of 5."
+NVIDIA_tacotron2,layers,TacotronSTFT,Long parameter list,__init__,43 - 53,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/layers.py,"__init__ has 7 parameters, exceeding the max of 5."
+NVIDIA_tacotron2,layers,ConvNorm,Long statement,__init__,29,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/layers.py,A line with 141 chars in __init__ exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,layers,TacotronSTFT,Long statement,mel_spectrogram,64,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/layers.py,A line with 273 chars in mel_spectrogram exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,layers,ConvNorm,Magic number,__init__,26,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/layers.py,Magic number 2 used in __init__.
+NVIDIA_tacotron2,layers,TacotronSTFT,Magic number,__init__,43,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/layers.py,Magic number 1024 used in __init__.
+NVIDIA_tacotron2,layers,TacotronSTFT,Magic number,__init__,43,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/layers.py,Magic number 256 used in __init__.
+NVIDIA_tacotron2,layers,TacotronSTFT,Magic number,__init__,43,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/layers.py,Magic number 1024 used in __init__.
+NVIDIA_tacotron2,layers,TacotronSTFT,Magic number,__init__,44,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/layers.py,Magic number 80 used in __init__.
+NVIDIA_tacotron2,layers,TacotronSTFT,Magic number,__init__,44,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/layers.py,Magic number 22050 used in __init__.
+NVIDIA_tacotron2,layers,TacotronSTFT,Magic number,__init__,45,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/layers.py,Magic number 8000.0 used in __init__.
+NVIDIA_tacotron2,logger,Tacotron2Logger,Long statement,log_validation,35,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/logger.py,A line with 122 chars in log_validation exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,logger,Tacotron2Logger,Long statement,log_validation,39,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/logger.py,A line with 125 chars in log_validation exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,logger,Tacotron2Logger,Long statement,log_validation,43,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/logger.py,A line with 171 chars in log_validation exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,loss_scaler,DynamicLossScaler,Magic number,__init__,35,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/loss_scaler.py,Magic number 2.0 used in __init__.
+NVIDIA_tacotron2,loss_scaler,DynamicLossScaler,Magic number,__init__,36,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/loss_scaler.py,Magic number 1000 used in __init__.
+NVIDIA_tacotron2,loss_scaler,DynamicLossScaler,Magic number,__init__,34,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/loss_scaler.py,Magic number 2 used in __init__.
+NVIDIA_tacotron2,loss_scaler,DynamicLossScaler,Magic number,__init__,34,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/loss_scaler.py,Magic number 32 used in __init__.
+NVIDIA_tacotron2,model,Decoder,Long identifier,decode,340,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/model.py,Identifier'decoder_hidden_attention_context' exceeds the maximum length of 30 characters.
+NVIDIA_tacotron2,model,LocationLayer,Long statement,__init__,15,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/model.py,A line with 139 chars in __init__ exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,model,Attention,Long statement,get_alignment_energies,45,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/model.py,A line with 352 chars in get_alignment_energies exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,model,Attention,Long statement,forward,67,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/model.py,A line with 307 chars in forward exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,model,Postnet,Long statement,__init__,112,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/model.py,A line with 288 chars in __init__ exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,model,Postnet,Long statement,__init__,122,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/model.py,A line with 295 chars in __init__ exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,model,Postnet,Long statement,__init__,132,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/model.py,A line with 283 chars in __init__ exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,model,Encoder,Long statement,__init__,159,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/model.py,A line with 282 chars in __init__ exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,model,Encoder,Long statement,__init__,169,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/model.py,A line with 133 chars in __init__ exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,model,Decoder,Long statement,__init__,226,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/model.py,A line with 191 chars in __init__ exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,model,Decoder,Long statement,__init__,235,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/model.py,A line with 148 chars in __init__ exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,model,Decoder,Long statement,__init__,239,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/model.py,A line with 124 chars in __init__ exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,model,Decoder,Long statement,get_go_frame,244,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/model.py,A line with 206 chars in get_go_frame exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,model,Decoder,Long statement,initialize_decoder_states,259,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/model.py,A line with 335 chars in initialize_decoder_states exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,model,Decoder,Long statement,parse_decoder_inputs,292,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/model.py,A line with 247 chars in parse_decoder_inputs exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,model,Decoder,Long statement,parse_decoder_inputs,304,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/model.py,A line with 123 chars in parse_decoder_inputs exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,model,Decoder,Long statement,parse_decoder_outputs,312,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/model.py,A line with 290 chars in parse_decoder_outputs exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,model,Decoder,Long statement,decode,341,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/model.py,A line with 271 chars in decode exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,model,Decoder,Long statement,decode,353,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/model.py,A line with 123 chars in decode exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,model,Decoder,Long statement,decode,361,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/model.py,A line with 164 chars in decode exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,model,Decoder,Long statement,forward,382,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/model.py,A line with 466 chars in forward exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,model,Decoder,Long statement,inference,419,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/model.py,A line with 303 chars in inference exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,stft,STFT,Long statement,transform,85,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/stft.py,A line with 129 chars in transform exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,stft,STFT,Long statement,transform,91,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/stft.py,A line with 126 chars in transform exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,stft,STFT,Long statement,inverse,111,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/stft.py,A line with 151 chars in inverse exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,stft,STFT,Long statement,inverse,118,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/stft.py,A line with 165 chars in inverse exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,stft,,Long statement,,1,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/stft.py,A line with 1553 chars in stft exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,stft,STFT,Magic number,__init__,44,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/stft.py,Magic number 800 used in __init__.
+NVIDIA_tacotron2,stft,STFT,Magic number,__init__,44,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/stft.py,Magic number 200 used in __init__.
+NVIDIA_tacotron2,stft,STFT,Magic number,__init__,44,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/stft.py,Magic number 800 used in __init__.
+NVIDIA_tacotron2,train,,Complex method,train,149 - 255,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/train.py,"Method 'train' has a cyclomatic complexity of 18, exceeding the max of 6."
+NVIDIA_tacotron2,train,,Long method,train,149 - 255,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/train.py,Method 'train' is too long (85 lines).
+NVIDIA_tacotron2,train,,Long parameter list,validate,121 - 146,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/train.py,"validate has 10 parameters, exceeding the max of 5."
+NVIDIA_tacotron2,train,,Long parameter list,train,149 - 255,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/train.py,"train has 8 parameters, exceeding the max of 5."
+NVIDIA_tacotron2,train,,Long statement,init_distributed,35,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/train.py,A line with 136 chars in init_distributed exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,train,,Long statement,prepare_dataloaders,55,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/train.py,A line with 178 chars in prepare_dataloaders exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,train,,Long statement,save_checkpoint,115,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/train.py,A line with 149 chars in save_checkpoint exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,train,,Long statement,validate,127,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/train.py,A line with 146 chars in validate exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,train,,Long statement,train,151,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/train.py,A line with 408 chars in train exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,train,,Long statement,train,246,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/train.py,A line with 124 chars in train exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2,train,,Long statement,,289,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/train.py,A line with 137 chars in train exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2.text,__init__,,Long statement,text_to_sequence,16,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/text/__init__.py,A line with 467 chars in text_to_sequence exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2.text,cleaners,,Long statement,,3,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/text/cleaners.py,A line with 633 chars in cleaners exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2.text,cleaners,,Long statement,,24,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/text/cleaners.py,A line with 433 chars in cleaners exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2.text,cmudict,,Complex conditional,_parse_cmudict,48,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/text/cmudict.py,"A conditional in _parse_cmudict has 4 conditions, more than the recommended maximum 3 conditions."
+NVIDIA_tacotron2.text,cmudict,,Complex method,_parse_cmudict,45 - 57,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/text/cmudict.py,"Method '_parse_cmudict' has a cyclomatic complexity of 8, exceeding the max of 6."
+NVIDIA_tacotron2.text,cmudict,,Long statement,,6,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/text/cmudict.py,A line with 549 chars in cmudict exceeds the maximum length of 120 characters.
+NVIDIA_tacotron2.text,numbers,,Magic number,_expand_dollars,27,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/text/numbers.py,Magic number 2 used in _expand_dollars.
+NVIDIA_tacotron2.text,numbers,,Magic number,_expand_number,51,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/text/numbers.py,Magic number 1000 used in _expand_number.
+NVIDIA_tacotron2.text,numbers,,Magic number,_expand_number,51,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/text/numbers.py,Magic number 3000 used in _expand_number.
+NVIDIA_tacotron2.text,numbers,,Magic number,_expand_number,52,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/text/numbers.py,Magic number 2000 used in _expand_number.
+NVIDIA_tacotron2.text,numbers,,Magic number,_expand_number,54,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/text/numbers.py,Magic number 2000 used in _expand_number.
+NVIDIA_tacotron2.text,numbers,,Magic number,_expand_number,54,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/text/numbers.py,Magic number 2010 used in _expand_number.
+NVIDIA_tacotron2.text,numbers,,Magic number,_expand_number,56,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/text/numbers.py,Magic number 100 used in _expand_number.
+NVIDIA_tacotron2.text,symbols,,Long statement,,3,/Volumes/BrokeExt/NICHE/NVIDIA_tacotron2/text/symbols.py,A line with 259 chars in symbols exceeds the maximum length of 120 characters.

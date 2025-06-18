@@ -1,0 +1,4 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+hse-aml_natural-language-processing.optional.telegram_bot,utils,Multifaceted abstraction,utils,1,/Volumes/BrokeExt/NICHE/hse-aml_natural-language-processing/optional/telegram_bot/utils.py,"Class 'utils' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+hse-aml_natural-language-processing.week3,util,Multifaceted abstraction,util,1,/Volumes/BrokeExt/NICHE/hse-aml_natural-language-processing/week3/util.py,"Class 'util' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+hse-aml_natural-language-processing.week5,utils,Multifaceted abstraction,utils,1,/Volumes/BrokeExt/NICHE/hse-aml_natural-language-processing/week5/utils.py,"Class 'utils' has a high LCOM value of 1, indicating it may have multiple responsibilities."

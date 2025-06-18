@@ -1,0 +1,48 @@
+Package,Module,Class,Smell,Function/Method,Line no,File,Details
+Kaixhin_Rainbow,agent,Agent,Long statement,learn,90,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/agent.py,A line with 142 chars in learn exceeds the maximum length of 120 characters.
+Kaixhin_Rainbow,agent,Agent,Magic number,act_e_greedy,58,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/agent.py,Magic number 0.001 used in act_e_greedy.
+Kaixhin_Rainbow,env,Env,Complex method,step,54 - 77,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/env.py,"Method 'step' has a cyclomatic complexity of 8, exceeding the max of 6."
+Kaixhin_Rainbow,env,Env,Magic number,step,60,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/env.py,Magic number 2 used in step.
+Kaixhin_Rainbow,env,Env,Magic number,step,62,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/env.py,Magic number 3 used in step.
+Kaixhin_Rainbow,main,,Long statement,,26,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/main.py,A line with 137 chars in main exceeds the maximum length of 120 characters.
+Kaixhin_Rainbow,main,,Long statement,,27,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/main.py,A line with 151 chars in main exceeds the maximum length of 120 characters.
+Kaixhin_Rainbow,main,,Long statement,,29,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/main.py,A line with 154 chars in main exceeds the maximum length of 120 characters.
+Kaixhin_Rainbow,main,,Long statement,,31,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/main.py,A line with 130 chars in main exceeds the maximum length of 120 characters.
+Kaixhin_Rainbow,main,,Long statement,,36,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/main.py,A line with 136 chars in main exceeds the maximum length of 120 characters.
+Kaixhin_Rainbow,main,,Long statement,,38,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/main.py,A line with 150 chars in main exceeds the maximum length of 120 characters.
+Kaixhin_Rainbow,main,,Long statement,,39,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/main.py,A line with 151 chars in main exceeds the maximum length of 120 characters.
+Kaixhin_Rainbow,main,,Long statement,,42,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/main.py,A line with 143 chars in main exceeds the maximum length of 120 characters.
+Kaixhin_Rainbow,main,,Long statement,,48,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/main.py,A line with 134 chars in main exceeds the maximum length of 120 characters.
+Kaixhin_Rainbow,main,,Long statement,,50,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/main.py,A line with 140 chars in main exceeds the maximum length of 120 characters.
+Kaixhin_Rainbow,main,,Long statement,,51,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/main.py,A line with 133 chars in main exceeds the maximum length of 120 characters.
+Kaixhin_Rainbow,main,,Long statement,,53,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/main.py,A line with 130 chars in main exceeds the maximum length of 120 characters.
+Kaixhin_Rainbow,main,,Long statement,,56,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/main.py,A line with 131 chars in main exceeds the maximum length of 120 characters.
+Kaixhin_Rainbow,main,,Long statement,,58,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/main.py,A line with 165 chars in main exceeds the maximum length of 120 characters.
+Kaixhin_Rainbow,main,,Long statement,,169,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/main.py,A line with 128 chars in main exceeds the maximum length of 120 characters.
+Kaixhin_Rainbow,memory,ReplayMemory,Long statement,__init__,101,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/memory.py,A line with 122 chars in __init__ exceeds the maximum length of 120 characters.
+Kaixhin_Rainbow,memory,ReplayMemory,Long statement,_get_samples_from_segments,138,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/memory.py,A line with 126 chars in _get_samples_from_segments exceeds the maximum length of 120 characters.
+Kaixhin_Rainbow,memory,ReplayMemory,Long statement,_get_samples_from_segments,142,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/memory.py,A line with 126 chars in _get_samples_from_segments exceeds the maximum length of 120 characters.
+Kaixhin_Rainbow,memory,ReplayMemory,Long statement,_get_samples_from_segments,145,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/memory.py,A line with 156 chars in _get_samples_from_segments exceeds the maximum length of 120 characters.
+Kaixhin_Rainbow,memory,ReplayMemory,Long statement,sample,150,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/memory.py,A line with 132 chars in sample exceeds the maximum length of 120 characters.
+Kaixhin_Rainbow,memory,,Long statement,,7,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/memory.py,A line with 157 chars in memory exceeds the maximum length of 120 characters.
+Kaixhin_Rainbow,memory,SegmentTree,Magic number,__init__,17,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/memory.py,Magic number 2 used in __init__.
+Kaixhin_Rainbow,memory,SegmentTree,Magic number,_update_nodes,24,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/memory.py,Magic number 2 used in _update_nodes.
+Kaixhin_Rainbow,memory,SegmentTree,Magic number,_propagate,29,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/memory.py,Magic number 2 used in _propagate.
+Kaixhin_Rainbow,memory,SegmentTree,Magic number,_propagate_index,37,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/memory.py,Magic number 2 used in _propagate_index.
+Kaixhin_Rainbow,memory,SegmentTree,Magic number,_propagate_index,38,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/memory.py,Magic number 2 used in _propagate_index.
+Kaixhin_Rainbow,memory,SegmentTree,Magic number,_propagate_index,38,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/memory.py,Magic number 2 used in _propagate_index.
+Kaixhin_Rainbow,memory,SegmentTree,Magic number,_propagate_index,38,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/memory.py,Magic number 2 used in _propagate_index.
+Kaixhin_Rainbow,memory,SegmentTree,Magic number,_retrieve,65,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/memory.py,Magic number 2 used in _retrieve.
+Kaixhin_Rainbow,model,NoisyLinear,Long statement,forward,44,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/model.py,A line with 140 chars in forward exceeds the maximum length of 120 characters.
+Kaixhin_Rainbow,model,DQN,Long statement,__init__,56,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/model.py,A line with 205 chars in __init__ exceeds the maximum length of 120 characters.
+Kaixhin_Rainbow,model,DQN,Long statement,__init__,61,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/model.py,A line with 151 chars in __init__ exceeds the maximum length of 120 characters.
+Kaixhin_Rainbow,model,NoisyLinear,Magic number,__init__,11,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/model.py,Magic number 0.5 used in __init__.
+Kaixhin_Rainbow,model,DQN,Magic number,__init__,59,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/model.py,Magic number 3136 used in __init__.
+Kaixhin_Rainbow,model,DQN,Magic number,__init__,63,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/model.py,Magic number 576 used in __init__.
+Kaixhin_Rainbow,test,,Complex method,test,13 - 58,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/test.py,"Method 'test' has a cyclomatic complexity of 9, exceeding the max of 6."
+Kaixhin_Rainbow,test,,Long parameter list,test,13 - 58,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/test.py,"test has 7 parameters, exceeding the max of 5."
+Kaixhin_Rainbow,test,,Long statement,_plot_line,63,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/test.py,A line with 140 chars in _plot_line exceeds the maximum length of 120 characters.
+Kaixhin_Rainbow,test,,Long statement,_plot_line,66,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/test.py,A line with 127 chars in _plot_line exceeds the maximum length of 120 characters.
+Kaixhin_Rainbow,test,,Long statement,_plot_line,71,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/test.py,A line with 126 chars in _plot_line exceeds the maximum length of 120 characters.
+Kaixhin_Rainbow,test,,Long statement,_plot_line,72,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/test.py,A line with 154 chars in _plot_line exceeds the maximum length of 120 characters.
+Kaixhin_Rainbow,test,,Long statement,_plot_line,75,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/test.py,A line with 234 chars in _plot_line exceeds the maximum length of 120 characters.

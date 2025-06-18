@@ -1,0 +1,5 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+tensorflow_tfjs.e2e.integration_tests,convert_predict,,368,18,13,1,13,12,0.77,0,0
+tensorflow_tfjs.e2e.integration_tests,create_save_predict,,49,4,2,1,12,11,0,0,0
+tensorflow_tfjs.e2e.integration_tests,metadata,,40,5,3,1,2,1,0,0,0
+tensorflow_tfjs.tfjs-backend-wasm.tools,cpplint,,3312,860,105,87,230,174,0,2,2

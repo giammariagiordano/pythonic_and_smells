@@ -1,0 +1,4 @@
+Package,Module,Class,Function,LOC,CC,PC
+guillaume-be_rust-bert.utils,convert_model,,zipfile_factory,7,2,1
+guillaume-be_rust-bert.utils,convert_model,,get_bf16_repr,15,1,1
+guillaume-be_rust-bert.utils,convert_model,,append_to_zipf,7,2,2

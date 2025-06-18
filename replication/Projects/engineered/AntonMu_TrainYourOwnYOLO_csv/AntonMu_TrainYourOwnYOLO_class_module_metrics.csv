@@ -1,0 +1,8 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+AntonMu_TrainYourOwnYOLO,Minimal_Example,,5,2,1,1,15,15,0,0,0
+AntonMu_TrainYourOwnYOLO.1_Image_Annotation,Convert_to_YOLO_format,,5,2,1,1,15,15,0,0,0
+AntonMu_TrainYourOwnYOLO.2_Training,Download_and_Convert_YOLO_weights,,0,0,0,0,13,13,-1,0,0
+AntonMu_TrainYourOwnYOLO.2_Training,Train_YOLO,,5,2,1,1,39,38,0,0,0
+AntonMu_TrainYourOwnYOLO.2_Training.src.keras_yolo3,coco_annotation,,0,0,0,0,14,14,-1,0,0
+AntonMu_TrainYourOwnYOLO.2_Training.src.keras_yolo3,convert,,217,27,2,1,29,28,0,0,0
+AntonMu_TrainYourOwnYOLO.2_Training.src.keras_yolo3,kmeans,,88,14,0,0,3,3,-1,1,1

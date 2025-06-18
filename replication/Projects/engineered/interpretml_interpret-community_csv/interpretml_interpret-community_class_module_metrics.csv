@@ -1,0 +1,5 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+interpretml_interpret-community.python,setup,,0,0,0,0,7,7,-1,0,0
+interpretml_interpret-community.python.docs,conf,,9,2,2,2,15,15,1,0,0
+interpretml_interpret-community.python.interpret_community,__init__,,0,0,0,0,6,3,-1,0,0
+interpretml_interpret-community.python.interpret_community,tabular_explainer,,134,12,1,0,1,1,0,3,0

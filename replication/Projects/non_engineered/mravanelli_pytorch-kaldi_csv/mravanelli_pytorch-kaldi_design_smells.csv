@@ -1,0 +1,5 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+mravanelli_pytorch-kaldi,data_io,Insufficient modularization,data_io,1,/Volumes/BrokeExt/NICHE/mravanelli_pytorch-kaldi/data_io.py,"Module 'data_io' is insufficiently modularized with NOPM: 30, WMC: 152, NOM: 35."
+mravanelli_pytorch-kaldi,neural_networks,Insufficient modularization,neural_networks,1,/Volumes/BrokeExt/NICHE/mravanelli_pytorch-kaldi/neural_networks.py,"Module 'neural_networks' is insufficiently modularized with NOPM: 2, WMC: 226, NOM: 2."
+mravanelli_pytorch-kaldi,run_exp,Multifaceted abstraction,run_exp,1,/Volumes/BrokeExt/NICHE/mravanelli_pytorch-kaldi/run_exp.py,"Class 'run_exp' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+mravanelli_pytorch-kaldi,utils,Insufficient modularization,utils,1,/Volumes/BrokeExt/NICHE/mravanelli_pytorch-kaldi/utils.py,"Module 'utils' is insufficiently modularized with NOPM: 46, WMC: 464, NOM: 47."

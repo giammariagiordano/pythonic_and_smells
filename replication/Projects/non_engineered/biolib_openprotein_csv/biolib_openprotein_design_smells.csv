@@ -1,0 +1,5 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+biolib_openprotein,dashboard,Multifaceted abstraction,dashboard,1,/Volumes/BrokeExt/NICHE/biolib_openprotein/dashboard.py,"Class 'dashboard' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+biolib_openprotein,util,Insufficient modularization,util,1,/Volumes/BrokeExt/NICHE/biolib_openprotein/util.py,"Module 'util' is insufficiently modularized with NOPM: 34, WMC: 58, NOM: 34."
+biolib_openprotein.experiments.tmhmm3,tm_models,Multifaceted abstraction,tm_models,1,/Volumes/BrokeExt/NICHE/biolib_openprotein/experiments/tmhmm3/tm_models.py,"Class 'tm_models' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+biolib_openprotein.experiments.tmhmm3,tm_util,Insufficient modularization,tm_util,1,/Volumes/BrokeExt/NICHE/biolib_openprotein/experiments/tmhmm3/tm_util.py,"Module 'tm_util' is insufficiently modularized with NOPM: 18, WMC: 130, NOM: 18."

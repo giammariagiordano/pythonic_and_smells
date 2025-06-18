@@ -1,0 +1,4 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+lukas_ml-class.examples.amazon-reviews,amazon-bow,,0,0,0,0,15,15,-1,0,0
+lukas_ml-class.examples.amazon-reviews,amazon,,33,8,1,1,4,4,0,0,0
+lukas_ml-class.examples.by-hand.utils,landmarks,,80,13,1,1,0,0,0,1,1

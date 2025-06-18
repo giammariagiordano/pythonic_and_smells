@@ -1,0 +1,4 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+bethgelab_foolbox,setup,,0,0,0,0,5,5,-1,0,0
+bethgelab_foolbox.docs,conf,,0,0,0,0,11,11,-1,0,0
+bethgelab_foolbox.examples,eot_attack_pytorch_resnet18,,76,6,1,1,3,3,0,0,2

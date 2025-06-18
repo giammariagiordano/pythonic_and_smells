@@ -1,0 +1,5 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+michaelhush_M-LOOP.docs,conf,Broken modularization,conf,1,/Volumes/BrokeExt/NICHE/michaelhush_M-LOOP/docs/conf.py,Module 'conf' contains only data members without any method implementations.
+michaelhush_M-LOOP.mloop,learners,Insufficient modularization,learners,1,/Volumes/BrokeExt/NICHE/michaelhush_M-LOOP/mloop/learners.py,"Module 'learners' is insufficiently modularized with NOPM: 0, WMC: 304, NOM: 0."
+michaelhush_M-LOOP.mloop,visualizations,Insufficient modularization,visualizations,1,/Volumes/BrokeExt/NICHE/michaelhush_M-LOOP/mloop/visualizations.py,"Module 'visualizations' is insufficiently modularized with NOPM: 10, WMC: 149, NOM: 12."
+michaelhush_M-LOOP.tests,test_units,Multifaceted abstraction,TestUnits,27,/Volumes/BrokeExt/NICHE/michaelhush_M-LOOP/tests/test_units.py,"Class 'TestUnits' has a high LCOM value of 1, indicating it may have multiple responsibilities."

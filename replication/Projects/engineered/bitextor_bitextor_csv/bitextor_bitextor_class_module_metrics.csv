@@ -1,0 +1,6 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+bitextor_bitextor,setup,,30,7,3,3,9,9,0.33,0,0
+bitextor_bitextor.bitextor,__init__,,0,0,0,0,0,0,-1,0,0
+bitextor_bitextor.bitextor,bitextor_align_segments,,149,30,2,2,52,50,0,0,0
+bitextor_bitextor.bitextor,bitextor_build_TMX,,89,36,2,2,25,25,0,0,0
+bitextor_bitextor.bitextor,bitextor_cli,,161,43,5,5,22,22,0.2,0,0

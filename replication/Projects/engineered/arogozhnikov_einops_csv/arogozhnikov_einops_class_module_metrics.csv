@@ -1,0 +1,3 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+arogozhnikov_einops.docs.utils,__init__,,20,4,2,2,1,0,1,0,0
+arogozhnikov_einops.einops,__init__,,0,0,0,0,3,0,-1,0,0

@@ -1,0 +1,2 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+yunjey_pytorch-tutorial.tutorials.01-basics.pytorch_basics,main,Multifaceted abstraction,CustomDataset,137,/Volumes/BrokeExt/NICHE/yunjey_pytorch-tutorial/tutorials/01-basics/pytorch_basics/main.py,"Class 'CustomDataset' has a high LCOM value of 1, indicating it may have multiple responsibilities."

@@ -1,0 +1,4 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+faustomorales_keras-ocr.docs.stubs.tensorflow,keras,Broken modularization,keras,1,/Volumes/BrokeExt/NICHE/faustomorales_keras-ocr/docs/stubs/tensorflow/keras.py,Module 'keras' contains only data members without any method implementations.
+faustomorales_keras-ocr.docs.stubs.tensorflow,keras,Multifaceted abstraction,Object,1,/Volumes/BrokeExt/NICHE/faustomorales_keras-ocr/docs/stubs/tensorflow/keras.py,"Class 'Object' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+faustomorales_keras-ocr.scripts,train_recognizer_synthtext90_multigpu,Multifaceted abstraction,train_recognizer_synthtext90_multigpu,1,/Volumes/BrokeExt/NICHE/faustomorales_keras-ocr/scripts/train_recognizer_synthtext90_multigpu.py,"Class 'train_recognizer_synthtext90_multigpu' has a high LCOM value of 1, indicating it may have multiple responsibilities."

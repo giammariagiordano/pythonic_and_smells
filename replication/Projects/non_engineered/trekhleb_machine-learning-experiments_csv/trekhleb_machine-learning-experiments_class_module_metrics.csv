@@ -1,0 +1,2 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+trekhleb_machine-learning-experiments.experiments.objects_detection_ssdlite_mobilenet_v2.protos,string_int_label_map_pb2,,0,0,0,0,9,6,-1,0,0

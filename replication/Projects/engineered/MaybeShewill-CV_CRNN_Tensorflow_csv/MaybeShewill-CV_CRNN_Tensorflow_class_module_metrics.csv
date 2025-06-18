@@ -1,0 +1,5 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+MaybeShewill-CV_CRNN_Tensorflow.config,__init__,,0,0,0,0,0,0,-1,0,0
+MaybeShewill-CV_CRNN_Tensorflow.config,global_config,,0,0,0,0,30,29,-1,0,0
+MaybeShewill-CV_CRNN_Tensorflow.crnn_model,__init__,,0,0,0,0,0,0,-1,0,0
+MaybeShewill-CV_CRNN_Tensorflow.crnn_model,cnn_basenet_bak,,438,52,0,0,0,0,-1,0,0

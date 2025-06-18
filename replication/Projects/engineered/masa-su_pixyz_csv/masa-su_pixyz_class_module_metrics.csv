@@ -1,0 +1,5 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+masa-su_pixyz,setup,,13,3,2,2,1,1,0,0,0
+masa-su_pixyz.docs.source,conf,,0,0,0,0,23,23,-1,0,0
+masa-su_pixyz.pixyz,__init__,,0,0,0,0,2,1,-1,0,0
+masa-su_pixyz.pixyz,utils,,125,26,14,14,3,1,0.86,0,0

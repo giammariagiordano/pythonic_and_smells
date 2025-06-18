@@ -1,0 +1,10 @@
+Package,Module,Class,Smell,Function/Method,Line no,File,Details
+guillaume-be_rust-bert.utils,convert_model,,Long statement,get_bf16_repr,69,/Volumes/BrokeExt/NICHE/guillaume-be_rust-bert/utils/convert_model.py,A line with 317 chars in get_bf16_repr exceeds the maximum length of 120 characters.
+guillaume-be_rust-bert.utils,convert_model,,Long statement,get_bf16_repr,79,/Volumes/BrokeExt/NICHE/guillaume-be_rust-bert/utils/convert_model.py,A line with 122 chars in get_bf16_repr exceeds the maximum length of 120 characters.
+guillaume-be_rust-bert.utils,convert_model,,Long statement,append_to_zipf,91,/Volumes/BrokeExt/NICHE/guillaume-be_rust-bert/utils/convert_model.py,A line with 196 chars in append_to_zipf exceeds the maximum length of 120 characters.
+guillaume-be_rust-bert.utils,convert_model,,Long statement,,105,/Volumes/BrokeExt/NICHE/guillaume-be_rust-bert/utils/convert_model.py,A line with 222 chars in convert_model exceeds the maximum length of 120 characters.
+guillaume-be_rust-bert.utils,convert_model,,Long statement,,129,/Volumes/BrokeExt/NICHE/guillaume-be_rust-bert/utils/convert_model.py,A line with 139 chars in convert_model exceeds the maximum length of 120 characters.
+guillaume-be_rust-bert.utils,convert_model,,Magic number,zipfile_factory,65,/Volumes/BrokeExt/NICHE/guillaume-be_rust-bert/utils/convert_model.py,Magic number 4 used in zipfile_factory.
+guillaume-be_rust-bert.utils,convert_model,,Magic number,get_bf16_repr,77,/Volumes/BrokeExt/NICHE/guillaume-be_rust-bert/utils/convert_model.py,Magic number 32768 used in get_bf16_repr.
+guillaume-be_rust-bert.utils,convert_model,,Magic number,get_bf16_repr,76,/Volumes/BrokeExt/NICHE/guillaume-be_rust-bert/utils/convert_model.py,Magic number 2139095040 used in get_bf16_repr.
+guillaume-be_rust-bert.utils,download-dependencies_distilbert,,Long statement,,29,/Volumes/BrokeExt/NICHE/guillaume-be_rust-bert/utils/download-dependencies_distilbert.py,A line with 154 chars in download-dependencies_distilbert exceeds the maximum length of 120 characters.

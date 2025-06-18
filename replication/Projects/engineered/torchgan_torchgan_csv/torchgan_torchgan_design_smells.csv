@@ -1,0 +1,8 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+torchgan_torchgan.tests.torchgan,test_trainer,Multifaceted abstraction,TestTrainer,43,/Volumes/BrokeExt/NICHE/torchgan_torchgan/tests/torchgan/test_trainer.py,"Class 'TestTrainer' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+torchgan_torchgan.torchgan.logging,visualize,Multifaceted abstraction,MetricVisualize,274,/Volumes/BrokeExt/NICHE/torchgan_torchgan/torchgan/logging/visualize.py,"Class 'MetricVisualize' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+torchgan_torchgan.torchgan.losses,functional,Multifaceted abstraction,functional,1,/Volumes/BrokeExt/NICHE/torchgan_torchgan/torchgan/losses/functional.py,"Class 'functional' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+torchgan_torchgan.torchgan.losses,loss,Wide hierarchy,GeneratorLoss,0,/Volumes/BrokeExt/NICHE/torchgan_torchgan/torchgan/losses/loss.py,Class 'GeneratorLoss' has a wide hierarchy with 10 direct subclasses.
+torchgan_torchgan.torchgan.losses,loss,Wide hierarchy,DiscriminatorLoss,0,/Volumes/BrokeExt/NICHE/torchgan_torchgan/torchgan/losses/loss.py,Class 'DiscriminatorLoss' has a wide hierarchy with 10 direct subclasses.
+torchgan_torchgan.torchgan.trainer,parallel_trainer,Broken modularization,ParallelTrainer,11,/Volumes/BrokeExt/NICHE/torchgan_torchgan/torchgan/trainer/parallel_trainer.py,Class 'ParallelTrainer' contains only data members without any method implementations.
+torchgan_torchgan.torchgan.trainer,trainer,Broken modularization,Trainer,11,/Volumes/BrokeExt/NICHE/torchgan_torchgan/torchgan/trainer/trainer.py,Class 'Trainer' contains only data members without any method implementations.

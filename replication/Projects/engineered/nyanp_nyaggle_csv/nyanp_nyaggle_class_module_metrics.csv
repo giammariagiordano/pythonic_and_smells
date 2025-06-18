@@ -1,0 +1,17 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+nyanp_nyaggle,setup,,11,4,2,2,1,1,1,0,0
+nyanp_nyaggle.docs,conf,,0,0,0,0,11,11,-1,0,0
+nyanp_nyaggle.examples.kaggle-bnp-paribas,kaggle_bnp_paribas,,0,0,0,0,7,7,-1,0,0
+nyanp_nyaggle.examples.kaggle-days-tokyo,kaggle_days_tokyo,,10,2,1,1,10,10,0,0,0
+nyanp_nyaggle.examples.kaggle-plasticc,kaggle_plasticc,,0,0,0,0,7,7,-1,0,0
+nyanp_nyaggle.examples.wine-quality,wine-quality,,0,0,0,0,7,7,-1,0,0
+nyanp_nyaggle.nyaggle,__init__,,0,0,0,0,0,0,-1,0,0
+nyanp_nyaggle.nyaggle,environment,,15,10,5,5,5,0,1,0,0
+nyanp_nyaggle.nyaggle,version,,0,0,0,0,1,0,-1,0,0
+nyanp_nyaggle.nyaggle.ensemble,__init__,,0,0,0,0,0,0,-1,0,0
+nyanp_nyaggle.nyaggle.ensemble,averaging,,52,12,3,2,10,10,0,0,0
+nyanp_nyaggle.nyaggle.ensemble,common,,0,0,0,0,1,1,-1,0,0
+nyanp_nyaggle.nyaggle.ensemble,stacking,,33,4,1,1,5,5,0,0,0
+nyanp_nyaggle.nyaggle.experiment,__init__,,0,0,0,0,0,0,-1,0,0
+nyanp_nyaggle.nyaggle.experiment,auto_prep,,32,10,2,1,10,10,0,0,0
+nyanp_nyaggle.nyaggle.experiment,experiment,,256,59,5,1,6,6,0.6,0,0

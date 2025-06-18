@@ -1,0 +1,6 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+as-ideas_TransformerTTS,train_tts,Multifaceted abstraction,train_tts,1,/Volumes/BrokeExt/NICHE/as-ideas_TransformerTTS/train_tts.py,"Class 'train_tts' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+as-ideas_TransformerTTS.data,metadata_readers,Multifaceted abstraction,metadata_readers,1,/Volumes/BrokeExt/NICHE/as-ideas_TransformerTTS/data/metadata_readers.py,"Class 'metadata_readers' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+as-ideas_TransformerTTS.data.text,symbols,Broken modularization,symbols,1,/Volumes/BrokeExt/NICHE/as-ideas_TransformerTTS/data/text/symbols.py,Module 'symbols' contains only data members without any method implementations.
+as-ideas_TransformerTTS.model,factory,Multifaceted abstraction,factory,1,/Volumes/BrokeExt/NICHE/as-ideas_TransformerTTS/model/factory.py,"Class 'factory' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+as-ideas_TransformerTTS.utils,losses,Multifaceted abstraction,losses,1,/Volumes/BrokeExt/NICHE/as-ideas_TransformerTTS/utils/losses.py,"Class 'losses' has a high LCOM value of 1, indicating it may have multiple responsibilities."

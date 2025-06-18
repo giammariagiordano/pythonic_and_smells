@@ -1,0 +1,7 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+albumentations-team_albumentations,setup,,15,5,2,2,5,5,0,0,0
+albumentations-team_albumentations.albumentations,__init__,,0,0,0,0,4,0,-1,0,0
+albumentations-team_albumentations.albumentations,check_version,,78,17,6,6,10,9,0,0,0
+albumentations-team_albumentations.albumentations.augmentations,__init__,,0,0,0,0,0,0,-1,0,0
+albumentations-team_albumentations.albumentations.augmentations,functional,,1144,183,87,81,98,96,0.61,0,1
+albumentations-team_albumentations.albumentations.augmentations,transforms,,2180,263,0,0,5,4,-1,1,0

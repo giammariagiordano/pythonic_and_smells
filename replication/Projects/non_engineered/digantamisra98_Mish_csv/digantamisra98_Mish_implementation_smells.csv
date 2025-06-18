@@ -1,0 +1,56 @@
+Package,Module,Class,Smell,Function/Method,Line no,File,Details
+digantamisra98_Mish.Mish.Torch,functional,,Long statement,mish,12,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/Mish/Torch/functional.py,A line with 167 chars in mish exceeds the maximum length of 120 characters.
+digantamisra98_Mish.PyTorch Benchmarks,resnet,ResNet,Complex method,__init__,90 - 128,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/PyTorch Benchmarks/resnet.py,"Method '__init__' has a cyclomatic complexity of 8, exceeding the max of 6."
+digantamisra98_Mish.PyTorch Benchmarks,resnet,ResNet,Long statement,_make_layer,133,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/PyTorch Benchmarks/resnet.py,A line with 166 chars in _make_layer exceeds the maximum length of 120 characters.
+digantamisra98_Mish.PyTorch Benchmarks,resnet,,Magic number,ResidualNet,177,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/PyTorch Benchmarks/resnet.py,Magic number 18 used in ResidualNet.
+digantamisra98_Mish.PyTorch Benchmarks,resnet,,Magic number,ResidualNet,180,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/PyTorch Benchmarks/resnet.py,Magic number 50 used in ResidualNet.
+digantamisra98_Mish.PyTorch Benchmarks,resnet,,Magic number,ResidualNet,175,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/PyTorch Benchmarks/resnet.py,Magic number 18 used in ResidualNet.
+digantamisra98_Mish.PyTorch Benchmarks,resnet,,Magic number,ResidualNet,175,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/PyTorch Benchmarks/resnet.py,Magic number 34 used in ResidualNet.
+digantamisra98_Mish.PyTorch Benchmarks,resnet,,Magic number,ResidualNet,175,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/PyTorch Benchmarks/resnet.py,Magic number 50 used in ResidualNet.
+digantamisra98_Mish.PyTorch Benchmarks,resnet,,Magic number,ResidualNet,175,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/PyTorch Benchmarks/resnet.py,Magic number 101 used in ResidualNet.
+digantamisra98_Mish.PyTorch Benchmarks,resnet,ResNet,Magic number,__init__,91,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/PyTorch Benchmarks/resnet.py,Magic number 64 used in __init__.
+digantamisra98_Mish.PyTorch Benchmarks,train_imagenet,,Long method,parse_args,30 - 151,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/PyTorch Benchmarks/train_imagenet.py,Method 'parse_args' is too long (122 lines).
+digantamisra98_Mish.PyTorch Benchmarks,train_imagenet,,Long method,main,247 - 319,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/PyTorch Benchmarks/train_imagenet.py,Method 'main' is too long (63 lines).
+digantamisra98_Mish.PyTorch Benchmarks,train_imagenet,,Long method,train,322 - 386,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/PyTorch Benchmarks/train_imagenet.py,Method 'train' is too long (64 lines).
+digantamisra98_Mish.PyTorch Benchmarks,train_imagenet,,Long method,validate,391 - 449,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/PyTorch Benchmarks/train_imagenet.py,Method 'validate' is too long (52 lines).
+digantamisra98_Mish.PyTorch Benchmarks,train_imagenet,,Long statement,parse_args,33,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/PyTorch Benchmarks/train_imagenet.py,A line with 153 chars in parse_args exceeds the maximum length of 120 characters.
+digantamisra98_Mish.PyTorch Benchmarks,train_imagenet,,Long statement,parse_args,46,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/PyTorch Benchmarks/train_imagenet.py,A line with 124 chars in parse_args exceeds the maximum length of 120 characters.
+digantamisra98_Mish.PyTorch Benchmarks,train_imagenet,,Long statement,parse_args,87,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/PyTorch Benchmarks/train_imagenet.py,A line with 123 chars in parse_args exceeds the maximum length of 120 characters.
+digantamisra98_Mish.PyTorch Benchmarks,train_imagenet,,Long statement,get_dataloader,215,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/PyTorch Benchmarks/train_imagenet.py,A line with 228 chars in get_dataloader exceeds the maximum length of 120 characters.
+digantamisra98_Mish.PyTorch Benchmarks,train_imagenet,,Long statement,get_dataloader,232,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/PyTorch Benchmarks/train_imagenet.py,A line with 123 chars in get_dataloader exceeds the maximum length of 120 characters.
+digantamisra98_Mish.PyTorch Benchmarks,train_imagenet,,Long statement,main,304,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/PyTorch Benchmarks/train_imagenet.py,A line with 177 chars in main exceeds the maximum length of 120 characters.
+digantamisra98_Mish.PyTorch Benchmarks,train_imagenet,,Long statement,train,361,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/PyTorch Benchmarks/train_imagenet.py,A line with 361 chars in train exceeds the maximum length of 120 characters.
+digantamisra98_Mish.PyTorch Benchmarks,train_imagenet,,Long statement,train,379,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/PyTorch Benchmarks/train_imagenet.py,A line with 273 chars in train exceeds the maximum length of 120 characters.
+digantamisra98_Mish.PyTorch Benchmarks,train_imagenet,,Long statement,validate,422,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/PyTorch Benchmarks/train_imagenet.py,A line with 277 chars in validate exceeds the maximum length of 120 characters.
+digantamisra98_Mish.PyTorch Benchmarks,train_imagenet,,Long statement,,23,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/PyTorch Benchmarks/train_imagenet.py,A line with 144 chars in train_imagenet exceeds the maximum length of 120 characters.
+digantamisra98_Mish.PyTorch Benchmarks,train_imagenet,,Magic number,main,317,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/PyTorch Benchmarks/train_imagenet.py,Magic number 60.0 used in main.
+digantamisra98_Mish.PyTorch Benchmarks,train_imagenet,,Magic number,adjust_learning_rate,484,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/PyTorch Benchmarks/train_imagenet.py,Magic number 0.98 used in adjust_learning_rate.
+digantamisra98_Mish.PyTorch Benchmarks,train_imagenet,,Magic number,adjust_learning_rate,486,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/PyTorch Benchmarks/train_imagenet.py,Magic number 0.1 used in adjust_learning_rate.
+digantamisra98_Mish.PyTorch Benchmarks,train_imagenet,,Magic number,adjust_learning_rate,486,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/PyTorch Benchmarks/train_imagenet.py,Magic number 30 used in adjust_learning_rate.
+digantamisra98_Mish.exps,op_landscape,,Long statement,build_model,29,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/exps/op_landscape.py,A line with 297 chars in build_model exceeds the maximum length of 120 characters.
+digantamisra98_Mish.exps,op_landscape,,Long statement,main,88,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/exps/op_landscape.py,A line with 162 chars in main exceeds the maximum length of 120 characters.
+digantamisra98_Mish.exps,resnet,BasicBlock,Long Lambda Function,__init__,69,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/exps/resnet.py,A Lambda with 97 chars in __init__ exceeds the maximum length of 80 characters.
+digantamisra98_Mish.exps,resnet,BasicBlock,Complex method,__init__,45 - 85,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/exps/resnet.py,"Method '__init__' has a cyclomatic complexity of 7, exceeding the max of 6."
+digantamisra98_Mish.exps,resnet,BasicBlock,Long method,__init__,45 - 85,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/exps/resnet.py,Method '__init__' is too long (41 lines).
+digantamisra98_Mish.exps,resnet,BasicBlock,Long statement,__init__,68,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/exps/resnet.py,A line with 126 chars in __init__ exceeds the maximum length of 120 characters.
+digantamisra98_Mish.exps,resnet,BasicBlock,Long statement,__init__,77,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/exps/resnet.py,A line with 163 chars in __init__ exceeds the maximum length of 120 characters.
+digantamisra98_Mish.exps,resnet,ResNet,Magic number,__init__,97,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/exps/resnet.py,Magic number 10 used in __init__.
+digantamisra98_Mish.exps,resnet,ResNet,Magic number,__init__,99,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/exps/resnet.py,Magic number 16 used in __init__.
+digantamisra98_Mish.exps,train_cifar,,Complex method,main,27 - 141,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/exps/train_cifar.py,"Method 'main' has a cyclomatic complexity of 10, exceeding the max of 6."
+digantamisra98_Mish.exps,train_cifar,,Long method,main,27 - 141,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/exps/train_cifar.py,Method 'main' is too long (105 lines).
+digantamisra98_Mish.exps,train_cifar,,Long method,train,144 - 197,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/exps/train_cifar.py,Method 'train' is too long (52 lines).
+digantamisra98_Mish.exps,train_cifar,,Long method,validate,202 - 255,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/exps/train_cifar.py,Method 'validate' is too long (47 lines).
+digantamisra98_Mish.exps,train_cifar,,Long statement,main,52,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/exps/train_cifar.py,A line with 315 chars in main exceeds the maximum length of 120 characters.
+digantamisra98_Mish.exps,train_cifar,,Long statement,main,72,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/exps/train_cifar.py,A line with 235 chars in main exceeds the maximum length of 120 characters.
+digantamisra98_Mish.exps,train_cifar,,Long statement,main,122,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/exps/train_cifar.py,A line with 162 chars in main exceeds the maximum length of 120 characters.
+digantamisra98_Mish.exps,train_cifar,,Long statement,main,132,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/exps/train_cifar.py,A line with 135 chars in main exceeds the maximum length of 120 characters.
+digantamisra98_Mish.exps,train_cifar,,Long statement,train,185,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/exps/train_cifar.py,A line with 310 chars in train exceeds the maximum length of 120 characters.
+digantamisra98_Mish.exps,train_cifar,,Long statement,validate,236,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/exps/train_cifar.py,A line with 226 chars in validate exceeds the maximum length of 120 characters.
+digantamisra98_Mish.exps,train_cifar,,Magic number,main,104,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/exps/train_cifar.py,Magic number 200 used in main.
+digantamisra98_Mish.exps,train_cifar,,Magic number,main,31,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/exps/train_cifar.py,Magic number 20 used in main.
+digantamisra98_Mish.exps,train_cifar,,Magic number,main,33,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/exps/train_cifar.py,Magic number 32 used in main.
+digantamisra98_Mish.exps,train_cifar,,Magic number,main,35,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/exps/train_cifar.py,Magic number 44 used in main.
+digantamisra98_Mish.exps,train_cifar,,Magic number,main,37,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/exps/train_cifar.py,Magic number 56 used in main.
+digantamisra98_Mish.exps,train_cifar,,Magic number,main,121,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/exps/train_cifar.py,Magic number 20 used in main.
+digantamisra98_Mish.exps,train_cifar,,Magic number,train,184,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/exps/train_cifar.py,Magic number 20 used in train.
+digantamisra98_Mish.exps,train_cifar,,Magic number,validate,235,/Volumes/BrokeExt/NICHE/digantamisra98_Mish/exps/train_cifar.py,Magic number 20 used in validate.

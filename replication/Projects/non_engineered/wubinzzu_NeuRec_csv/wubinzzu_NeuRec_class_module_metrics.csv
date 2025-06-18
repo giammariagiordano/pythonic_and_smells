@@ -1,0 +1,5 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+wubinzzu_NeuRec,main,,0,0,0,0,12,12,-1,0,2
+wubinzzu_NeuRec,setup,,0,0,0,0,8,8,-1,0,0
+wubinzzu_NeuRec.data,__init__,,0,0,0,0,0,0,-1,0,0
+wubinzzu_NeuRec.data,dataset,,264,39,0,0,0,0,-1,1,1

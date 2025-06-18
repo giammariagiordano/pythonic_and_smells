@@ -1,0 +1,5 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+mdeff_fma,utils,Broken hierarchy,LibrosaLoader,260,/Volumes/BrokeExt/NICHE/mdeff_fma/utils.py,Class 'LibrosaLoader' and its superclass 'RawAudioLoader' may not share a proper 'IS-A' relationship.
+mdeff_fma,utils,Broken hierarchy,AudioreadLoader,270,/Volumes/BrokeExt/NICHE/mdeff_fma/utils.py,Class 'AudioreadLoader' and its superclass 'RawAudioLoader' may not share a proper 'IS-A' relationship.
+mdeff_fma,utils,Broken hierarchy,PydubLoader,277,/Volumes/BrokeExt/NICHE/mdeff_fma/utils.py,Class 'PydubLoader' and its superclass 'RawAudioLoader' may not share a proper 'IS-A' relationship.
+mdeff_fma,utils,Broken hierarchy,FfmpegLoader,287,/Volumes/BrokeExt/NICHE/mdeff_fma/utils.py,Class 'FfmpegLoader' and its superclass 'RawAudioLoader' may not share a proper 'IS-A' relationship.

@@ -1,0 +1,4 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+LoSealL_VideoSuperResolution,prepare_data,,135,31,6,6,18,15,0,0,0
+LoSealL_VideoSuperResolution,setup,,0,0,0,0,3,3,-1,0,0
+LoSealL_VideoSuperResolution.Tests,correlation_test,,24,2,0,0,0,0,-1,0,0

@@ -1,0 +1,5 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+QData_TextAttack,setup,,0,0,0,0,7,7,-1,0,0
+QData_TextAttack.docs,__init__,,0,0,0,0,0,0,-1,0,0
+QData_TextAttack.docs,conf,,0,0,0,0,21,21,-1,0,0
+QData_TextAttack.examples.attack,attack_camembert,,15,4,0,0,10,10,-1,1,3

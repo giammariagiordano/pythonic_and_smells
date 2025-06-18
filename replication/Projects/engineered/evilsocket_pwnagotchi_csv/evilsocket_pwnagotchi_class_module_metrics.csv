@@ -1,0 +1,5 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+evilsocket_pwnagotchi,setup,,31,10,4,4,6,6,0.25,0,0
+evilsocket_pwnagotchi.pwnagotchi,__init__,,116,25,10,9,12,11,0.7,0,0
+evilsocket_pwnagotchi.pwnagotchi,_version,,0,0,0,0,1,0,-1,0,0
+evilsocket_pwnagotchi.pwnagotchi,agent,,412,106,0,0,1,1,-1,0,2

@@ -1,0 +1,8 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+vita-epfl_monoloco,versioneer,Insufficient modularization,versioneer,1,/Volumes/BrokeExt/NICHE/vita-epfl_monoloco/versioneer.py,"Module 'versioneer' is insufficiently modularized with NOPM: 24, WMC: 145, NOM: 24."
+vita-epfl_monoloco.monoloco.eval,eval_kitti,Multifaceted abstraction,eval_kitti,1,/Volumes/BrokeExt/NICHE/vita-epfl_monoloco/monoloco/eval/eval_kitti.py,"Class 'eval_kitti' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+vita-epfl_monoloco.monoloco.utils,camera,Multifaceted abstraction,camera,1,/Volumes/BrokeExt/NICHE/vita-epfl_monoloco/monoloco/utils/camera.py,"Class 'camera' has a high LCOM value of 0.82, indicating it may have multiple responsibilities."
+vita-epfl_monoloco.monoloco.utils,misc,Multifaceted abstraction,misc,1,/Volumes/BrokeExt/NICHE/vita-epfl_monoloco/monoloco/utils/misc.py,"Class 'misc' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+vita-epfl_monoloco.monoloco.utils,nuscenes,Multifaceted abstraction,nuscenes,1,/Volumes/BrokeExt/NICHE/vita-epfl_monoloco/monoloco/utils/nuscenes.py,"Class 'nuscenes' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+vita-epfl_monoloco.monoloco.visuals,pifpaf_show,Multifaceted abstraction,pifpaf_show,1,/Volumes/BrokeExt/NICHE/vita-epfl_monoloco/monoloco/visuals/pifpaf_show.py,"Class 'pifpaf_show' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+vita-epfl_monoloco.monoloco.visuals,printer,Multifaceted abstraction,printer,1,/Volumes/BrokeExt/NICHE/vita-epfl_monoloco/monoloco/visuals/printer.py,"Class 'printer' has a high LCOM value of 1, indicating it may have multiple responsibilities."

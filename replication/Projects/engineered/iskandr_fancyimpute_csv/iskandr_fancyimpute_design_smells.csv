@@ -1,0 +1,4 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+iskandr_fancyimpute.fancyimpute,common,Multifaceted abstraction,common,1,/Volumes/BrokeExt/NICHE/iskandr_fancyimpute/fancyimpute/common.py,"Class 'common' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+iskandr_fancyimpute.fancyimpute,solver,Wide hierarchy,Solver,0,/Volumes/BrokeExt/NICHE/iskandr_fancyimpute/fancyimpute/solver.py,Class 'Solver' has a wide hierarchy with 6 direct subclasses.
+iskandr_fancyimpute.test,test_dictionary_helpers,Multifaceted abstraction,test_dictionary_helpers,1,/Volumes/BrokeExt/NICHE/iskandr_fancyimpute/test/test_dictionary_helpers.py,"Class 'test_dictionary_helpers' has a high LCOM value of 1, indicating it may have multiple responsibilities."

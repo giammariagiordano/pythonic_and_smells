@@ -1,0 +1,13 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+kubeflow_katib.cmd.earlystopping.medianstop.v1beta1,main,,12,3,1,1,3,2,0,0,1
+kubeflow_katib.cmd.metricscollector.v1beta1.tfevent-metricscollector,main,,16,1,1,1,10,10,0,0,1
+kubeflow_katib.cmd.suggestion.hyperband.v1beta1,main,,13,3,1,1,2,1,0,0,1
+kubeflow_katib.cmd.suggestion.hyperopt.v1beta1,main,,13,3,1,1,2,1,0,0,1
+kubeflow_katib.cmd.suggestion.nas.darts.v1beta1,main,,14,3,1,1,2,1,0,0,1
+kubeflow_katib.cmd.suggestion.nas.enas.v1beta1,main,,14,3,1,1,2,1,0,0,1
+kubeflow_katib.cmd.suggestion.optuna.v1beta1,main,,13,3,1,1,2,1,0,0,1
+kubeflow_katib.cmd.suggestion.pbt.v1beta1,main,,13,3,1,1,2,1,0,0,1
+kubeflow_katib.cmd.suggestion.skopt.v1beta1,main,,13,3,1,1,2,1,0,0,1
+kubeflow_katib.docs.release,changelog,,0,0,0,0,16,16,-1,0,0
+kubeflow_katib.examples.v1beta1.kubeflow-pipelines,mpi-job-horovod,,143,1,1,1,0,0,0,0,4
+kubeflow_katib.examples.v1beta1.trial-images.darts-cnn-cifar10,architect,,77,14,0,0,0,0,-1,1,0

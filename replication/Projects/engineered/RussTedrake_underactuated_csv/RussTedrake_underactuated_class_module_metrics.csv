@@ -1,0 +1,9 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+RussTedrake_underactuated.book.figures,autapse_dash,,19,2,2,2,4,4,1,0,0
+RussTedrake_underactuated.book.figures,autapse_streamlit,,3,1,1,1,8,8,0,0,0
+RussTedrake_underactuated.book.figures,cart_pole_swingup_lyapunov,,0,0,0,0,10,10,-1,0,0
+RussTedrake_underactuated.book.figures,double_integrator_mintime_cost_to_go,,0,0,0,0,6,6,-1,0,0
+RussTedrake_underactuated.book.figures,logistic_map,,0,0,0,0,16,16,-1,0,0
+RussTedrake_underactuated.book.figures,pl_inequality,,0,0,0,0,6,6,-1,0,0
+RussTedrake_underactuated.book.figures,stereographic,,0,0,0,0,4,4,-1,0,0
+RussTedrake_underactuated.book.figures,vanderpol_staircase,,58,9,2,2,9,9,0,1,1

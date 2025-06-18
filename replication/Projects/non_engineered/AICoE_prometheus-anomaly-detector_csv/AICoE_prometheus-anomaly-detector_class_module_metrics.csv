@@ -1,0 +1,2 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+AICoE_prometheus-anomaly-detector,app,,94,11,3,3,14,13,1,0,0

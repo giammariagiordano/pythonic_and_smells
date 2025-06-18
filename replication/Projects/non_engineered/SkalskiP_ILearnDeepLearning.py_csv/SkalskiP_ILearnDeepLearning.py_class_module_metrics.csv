@@ -1,0 +1,4 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+SkalskiP_ILearnDeepLearning.py.01_mysteries_of_neural_networks.04_optimizers,fully_connected_nn,,124,26,14,14,25,25,0.21,0,0
+SkalskiP_ILearnDeepLearning.py.01_mysteries_of_neural_networks.06_numpy_convolutional_neural_net.src,__init__,,0,0,0,0,0,0,-1,0,0
+SkalskiP_ILearnDeepLearning.py.01_mysteries_of_neural_networks.06_numpy_convolutional_neural_net.src,base,,24,6,0,0,0,0,-1,0,0

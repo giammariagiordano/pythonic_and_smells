@@ -1,0 +1,7 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+alvinwan_neural-backed-decision-trees,main,,270,27,1,1,19,19,0,0,0
+alvinwan_neural-backed-decision-trees,setup,,0,0,0,0,3,3,-1,0,0
+alvinwan_neural-backed-decision-trees.examples.app,api,,68,6,3,3,7,7,0,0,1
+alvinwan_neural-backed-decision-trees.examples.imagenet,classy_train,,56,10,2,2,7,7,0,0,0
+alvinwan_neural-backed-decision-trees.examples.imagenet.losses,__init__,,0,0,0,0,1,1,-1,0,0
+alvinwan_neural-backed-decision-trees.examples.imagenet.losses,nbdt_losses,,12,2,0,0,0,0,-1,0,0

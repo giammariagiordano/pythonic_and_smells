@@ -1,0 +1,11 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+microsoft_tf2-gnn,setup,,0,0,0,0,2,2,-1,0,0
+microsoft_tf2-gnn.tf2_gnn,__init__,,0,0,0,0,0,0,-1,0,0
+microsoft_tf2-gnn.tf2_gnn.cli,__init__,,0,0,0,0,0,0,-1,0,0
+microsoft_tf2-gnn.tf2_gnn.cli,test,,56,3,3,3,0,0,0,0,0
+microsoft_tf2-gnn.tf2_gnn.cli,train,,18,4,1,1,2,2,0,0,0
+microsoft_tf2-gnn.tf2_gnn.cli_utils,__init__,,0,0,0,0,0,0,-1,0,0
+microsoft_tf2-gnn.tf2_gnn.cli_utils,dataset_utils,,46,9,3,3,3,3,0.33,0,0
+microsoft_tf2-gnn.tf2_gnn.cli_utils,model_utils,,211,45,9,7,21,21,0.22,0,0
+microsoft_tf2-gnn.tf2_gnn.cli_utils,param_helpers,,31,11,3,3,5,5,0,0,0
+microsoft_tf2-gnn.tf2_gnn.cli_utils,task_utils,,27,8,5,5,1,1,1,0,0

@@ -1,0 +1,5 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+facebookresearch_EGG,setup,,0,0,0,0,1,1,-1,0,0
+facebookresearch_EGG.egg,__init__,,0,0,0,0,0,0,-1,0,0
+facebookresearch_EGG.egg.core,__init__,,0,0,0,0,1,0,-1,0,0
+facebookresearch_EGG.egg.core,baselines,,44,14,0,0,0,0,-1,0,0

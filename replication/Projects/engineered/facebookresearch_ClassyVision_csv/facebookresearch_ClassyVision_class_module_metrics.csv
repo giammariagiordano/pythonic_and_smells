@@ -1,0 +1,7 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+facebookresearch_ClassyVision,classy_train,,57,10,2,2,7,7,0,0,0
+facebookresearch_ClassyVision,hubconf,,3,1,1,0,3,3,0,0,0
+facebookresearch_ClassyVision,setup,,0,0,0,0,3,3,-1,0,0
+facebookresearch_ClassyVision.classy_vision,__init__,,0,0,0,0,1,0,-1,0,0
+facebookresearch_ClassyVision.classy_vision.dataset,__init__,,33,6,2,2,11,10,1,0,0
+facebookresearch_ClassyVision.classy_vision.dataset,classy_cifar,,40,4,0,0,0,0,-1,0,0

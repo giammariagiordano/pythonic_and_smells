@@ -1,0 +1,7 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+greentfrapp_lucent,demo,,18,2,1,1,3,3,0,0,0
+greentfrapp_lucent,setup,,0,0,0,0,2,2,-1,0,0
+greentfrapp_lucent.lucent,__init__,,0,0,0,0,1,0,-1,0,0
+greentfrapp_lucent.lucent,util,,6,1,1,1,1,1,0,0,0
+greentfrapp_lucent.lucent.misc,__init__,,0,0,0,0,0,0,-1,0,0
+greentfrapp_lucent.lucent.misc,channel_reducer,,68,17,0,0,0,0,-1,1,0

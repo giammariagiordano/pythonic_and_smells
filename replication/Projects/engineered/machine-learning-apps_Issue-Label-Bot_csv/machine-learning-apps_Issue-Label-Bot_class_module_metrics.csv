@@ -1,0 +1,4 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+machine-learning-apps_Issue-Label-Bot.argo.src,preprocess,,39,6,6,6,24,24,0.67,0,0
+machine-learning-apps_Issue-Label-Bot.argo.src,train,,0,0,0,0,21,21,-1,0,0
+machine-learning-apps_Issue-Label-Bot.fairing,LabelPrediction,,23,5,0,0,0,0,-1,0,0

@@ -1,0 +1,3 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+yehengchen_Object-Detection-and-Tracking.OneStage.yolo.deep_sort_yolov4.yolo4,model,Multifaceted abstraction,Mish,17,/Volumes/BrokeExt/NICHE/yehengchen_Object-Detection-and-Tracking/OneStage/yolo/deep_sort_yolov4/yolo4/model.py,"Class 'Mish' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+yehengchen_Object-Detection-and-Tracking.OneStage.yolo.yolo4,model,Multifaceted abstraction,Mish,17,/Volumes/BrokeExt/NICHE/yehengchen_Object-Detection-and-Tracking/OneStage/yolo/yolo4/model.py,"Class 'Mish' has a high LCOM value of 1, indicating it may have multiple responsibilities."

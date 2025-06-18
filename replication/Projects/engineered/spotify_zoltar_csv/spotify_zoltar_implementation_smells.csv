@@ -1,0 +1,4 @@
+Package,Module,Class,Smell,Function/Method,Line no,File,Details
+spotify_zoltar.data.iris-model.training.iris,setup,,Long statement,,3,/Volumes/BrokeExt/NICHE/spotify_zoltar/data/iris-model/training/iris/setup.py,A line with 291 chars in setup exceeds the maximum length of 120 characters.
+spotify_zoltar.data.iris-model.training.iris.iris,xgboost,,Magic number,train,67,/Volumes/BrokeExt/NICHE/spotify_zoltar/data/iris-model/training/iris/iris/xgboost.py,Magic number 6 used in train.
+spotify_zoltar.data.iris-model.training.iris.iris,xgboost,,Magic number,train,68,/Volumes/BrokeExt/NICHE/spotify_zoltar/data/iris-model/training/iris/iris/xgboost.py,Magic number 4 used in train.

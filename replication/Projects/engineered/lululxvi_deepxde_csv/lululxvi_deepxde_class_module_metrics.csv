@@ -1,0 +1,3 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+lululxvi_deepxde.deepxde,__init__,,0,0,0,0,2,1,-1,0,0
+lululxvi_deepxde.deepxde,callbacks,,428,109,0,0,0,0,-1,1,0

@@ -1,0 +1,275 @@
+Package,Module,Class,Smell,Function/Method,Line no,File,Details
+asappresearch_sru,setup,,Long statement,,34,/Volumes/BrokeExt/NICHE/asappresearch_sru/setup.py,A line with 589 chars in setup exceeds the maximum length of 120 characters.
+asappresearch_sru.DrQA,prepro,,Empty catch block,get_answer_index,158,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/prepro.py,Empty catch block found in get_answer_index.
+asappresearch_sru.DrQA,prepro,,Long statement,load_wv_vocab,51,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/prepro.py,A line with 289 chars in load_wv_vocab exceeds the maximum length of 120 characters.
+asappresearch_sru.DrQA,prepro,,Long statement,get_answer_index,129,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/prepro.py,A line with 490 chars in get_answer_index exceeds the maximum length of 120 characters.
+asappresearch_sru.DrQA,prepro,,Long statement,build_vocab,203,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/prepro.py,A line with 152 chars in build_vocab exceeds the maximum length of 120 characters.
+asappresearch_sru.DrQA,prepro,,Long statement,build_vocab,219,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/prepro.py,A line with 166 chars in build_vocab exceeds the maximum length of 120 characters.
+asappresearch_sru.DrQA,prepro,,Long statement,,23,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/prepro.py,A line with 152 chars in prepro exceeds the maximum length of 120 characters.
+asappresearch_sru.DrQA,prepro,,Long statement,,28,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/prepro.py,A line with 124 chars in prepro exceeds the maximum length of 120 characters.
+asappresearch_sru.DrQA,prepro,,Long statement,,123,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/prepro.py,A line with 126 chars in prepro exceeds the maximum length of 120 characters.
+asappresearch_sru.DrQA,prepro,,Long statement,,162,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/prepro.py,A line with 188 chars in prepro exceeds the maximum length of 120 characters.
+asappresearch_sru.DrQA,train,,Complex method,main,120 - 183,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/train.py,"Method 'main' has a cyclomatic complexity of 16, exceeding the max of 6."
+asappresearch_sru.DrQA,train,BatchGen,Complex method,__iter__,254 - 306,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/train.py,"Method '__iter__' has a cyclomatic complexity of 12, exceeding the max of 6."
+asappresearch_sru.DrQA,train,,Long method,main,120 - 183,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/train.py,Method 'main' is too long (60 lines).
+asappresearch_sru.DrQA,train,BatchGen,Long method,__iter__,254 - 306,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/train.py,Method '__iter__' is too long (53 lines).
+asappresearch_sru.DrQA,train,,Long statement,main,163,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/train.py,A line with 191 chars in main exceeds the maximum length of 120 characters.
+asappresearch_sru.DrQA,train,,Long statement,load_data,206,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/train.py,A line with 287 chars in load_data exceeds the maximum length of 120 characters.
+asappresearch_sru.DrQA,train,,Long statement,load_data,217,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/train.py,A line with 201 chars in load_data exceeds the maximum length of 120 characters.
+asappresearch_sru.DrQA,train,BatchGen,Long statement,__iter__,305,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/train.py,A line with 127 chars in __iter__ exceeds the maximum length of 120 characters.
+asappresearch_sru.DrQA,train,,Long statement,,35,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/train.py,A line with 143 chars in train exceeds the maximum length of 120 characters.
+asappresearch_sru.DrQA,train,,Long statement,,41,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/train.py,A line with 131 chars in train exceeds the maximum length of 120 characters.
+asappresearch_sru.DrQA,train,,Long statement,,44,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/train.py,A line with 132 chars in train exceeds the maximum length of 120 characters.
+asappresearch_sru.DrQA,train,,Long statement,,46,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/train.py,A line with 130 chars in train exceeds the maximum length of 120 characters.
+asappresearch_sru.DrQA,train,,Long statement,,74,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/train.py,A line with 124 chars in train exceeds the maximum length of 120 characters.
+asappresearch_sru.DrQA,train,,Magic number,_f1_score,344,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/train.py,Magic number 2 used in _f1_score.
+asappresearch_sru.DrQA,train,,Magic number,score,361,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/train.py,Magic number 100.0 used in score.
+asappresearch_sru.DrQA,train,,Magic number,score,362,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/train.py,Magic number 100.0 used in score.
+asappresearch_sru.DrQA,train,BatchGen,Magic number,__iter__,259,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/train.py,Magic number 7 used in __iter__.
+asappresearch_sru.DrQA,train,BatchGen,Magic number,__iter__,261,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/train.py,Magic number 9 used in __iter__.
+asappresearch_sru.DrQA.drqa,layers,StackedBRNN,Complex method,_forward_padded,89 - 143,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/drqa/layers.py,"Method '_forward_padded' has a cyclomatic complexity of 7, exceeding the max of 6."
+asappresearch_sru.DrQA.drqa,layers,StackedBRNN,Long parameter list,__init__,20 - 39,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/drqa/layers.py,"__init__ has 8 parameters, exceeding the max of 5."
+asappresearch_sru.DrQA.drqa,layers,StackedBRNN,Long statement,__init__,35,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/drqa/layers.py,A line with 134 chars in __init__ exceeds the maximum length of 120 characters.
+asappresearch_sru.DrQA.drqa,layers,SeqAttnMatch,Long statement,forward,159,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/drqa/layers.py,A line with 196 chars in forward exceeds the maximum length of 120 characters.
+asappresearch_sru.DrQA.drqa,layers,StackedBRNN,Magic number,__init__,31,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/drqa/layers.py,Magic number 2 used in __init__.
+asappresearch_sru.DrQA.drqa,rnn_reader,RnnDocReader,Complex method,__init__,25 - 115,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/drqa/rnn_reader.py,"Method '__init__' has a cyclomatic complexity of 17, exceeding the max of 6."
+asappresearch_sru.DrQA.drqa,rnn_reader,RnnDocReader,Complex method,forward,118 - 171,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/drqa/rnn_reader.py,"Method 'forward' has a cyclomatic complexity of 9, exceeding the max of 6."
+asappresearch_sru.DrQA.drqa,rnn_reader,RnnDocReader,Long method,__init__,25 - 115,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/drqa/rnn_reader.py,Method '__init__' is too long (76 lines).
+asappresearch_sru.DrQA.drqa,rnn_reader,RnnDocReader,Long parameter list,forward,118 - 171,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/drqa/rnn_reader.py,"forward has 7 parameters, exceeding the max of 5."
+asappresearch_sru.DrQA.drqa,rnn_reader,RnnDocReader,Long statement,__init__,72,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/drqa/rnn_reader.py,A line with 307 chars in __init__ exceeds the maximum length of 120 characters.
+asappresearch_sru.DrQA.drqa,rnn_reader,RnnDocReader,Long statement,__init__,84,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/drqa/rnn_reader.py,A line with 323 chars in __init__ exceeds the maximum length of 120 characters.
+asappresearch_sru.DrQA.drqa,rnn_reader,RnnDocReader,Long statement,forward,119,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/drqa/rnn_reader.py,A line with 475 chars in forward exceeds the maximum length of 120 characters.
+asappresearch_sru.DrQA.drqa,rnn_reader,,Magic number,normalize_emb_,15,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/drqa/rnn_reader.py,Magic number 1e-08 used in normalize_emb_.
+asappresearch_sru.DrQA.drqa,rnn_reader,RnnDocReader,Magic number,__init__,96,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/drqa/rnn_reader.py,Magic number 2 used in __init__.
+asappresearch_sru.DrQA.drqa,rnn_reader,RnnDocReader,Magic number,__init__,97,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/drqa/rnn_reader.py,Magic number 2 used in __init__.
+asappresearch_sru.DrQA.drqa,rnn_reader,RnnDocReader,Magic number,__init__,44,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/drqa/rnn_reader.py,Magic number 2 used in __init__.
+asappresearch_sru.DrQA.drqa,rnn_reader,RnnDocReader,Magic number,__init__,45,/Volumes/BrokeExt/NICHE/asappresearch_sru/DrQA/drqa/rnn_reader.py,Magic number 2 used in __init__.
+asappresearch_sru.classification,dataloader,,Long parameter list,create_batches,153 - 185,/Volumes/BrokeExt/NICHE/asappresearch_sru/classification/dataloader.py,"create_batches has 6 parameters, exceeding the max of 5."
+asappresearch_sru.classification,dataloader,,Long statement,clean_str,11,/Volumes/BrokeExt/NICHE/asappresearch_sru/classification/dataloader.py,A line with 125 chars in clean_str exceeds the maximum length of 120 characters.
+asappresearch_sru.classification,dataloader,,Magic number,read_MR,42,/Volumes/BrokeExt/NICHE/asappresearch_sru/classification/dataloader.py,Magic number 1234 used in read_MR.
+asappresearch_sru.classification,dataloader,,Magic number,read_SUBJ,52,/Volumes/BrokeExt/NICHE/asappresearch_sru/classification/dataloader.py,Magic number 1234 used in read_SUBJ.
+asappresearch_sru.classification,dataloader,,Magic number,read_CR,62,/Volumes/BrokeExt/NICHE/asappresearch_sru/classification/dataloader.py,Magic number 1234 used in read_CR.
+asappresearch_sru.classification,dataloader,,Magic number,read_MPQA,72,/Volumes/BrokeExt/NICHE/asappresearch_sru/classification/dataloader.py,Magic number 1234 used in read_MPQA.
+asappresearch_sru.classification,dataloader,,Magic number,read_TREC,82,/Volumes/BrokeExt/NICHE/asappresearch_sru/classification/dataloader.py,Magic number 1234 used in read_TREC.
+asappresearch_sru.classification,dataloader,,Magic number,read_SST,94,/Volumes/BrokeExt/NICHE/asappresearch_sru/classification/dataloader.py,Magic number 1234 used in read_SST.
+asappresearch_sru.classification,modules,EmbeddingLayer,Complex method,__init__,34 - 80,/Volumes/BrokeExt/NICHE/asappresearch_sru/classification/modules.py,"Method '__init__' has a cyclomatic complexity of 12, exceeding the max of 6."
+asappresearch_sru.classification,modules,EmbeddingLayer,Long parameter list,__init__,34 - 80,/Volumes/BrokeExt/NICHE/asappresearch_sru/classification/modules.py,"__init__ has 7 parameters, exceeding the max of 5."
+asappresearch_sru.classification,modules,EmbeddingLayer,Long statement,__init__,45,/Volumes/BrokeExt/NICHE/asappresearch_sru/classification/modules.py,A line with 135 chars in __init__ exceeds the maximum length of 120 characters.
+asappresearch_sru.classification,modules,CNN_Text,Magic number,__init__,17,/Volumes/BrokeExt/NICHE/asappresearch_sru/classification/modules.py,Magic number 100 used in __init__.
+asappresearch_sru.classification,modules,CNN_Text,Magic number,__init__,17,/Volumes/BrokeExt/NICHE/asappresearch_sru/classification/modules.py,Magic number 3 used in __init__.
+asappresearch_sru.classification,modules,CNN_Text,Magic number,__init__,17,/Volumes/BrokeExt/NICHE/asappresearch_sru/classification/modules.py,Magic number 4 used in __init__.
+asappresearch_sru.classification,modules,CNN_Text,Magic number,__init__,17,/Volumes/BrokeExt/NICHE/asappresearch_sru/classification/modules.py,Magic number 5 used in __init__.
+asappresearch_sru.classification,train_classifier,,Complex method,main,118 - 198,/Volumes/BrokeExt/NICHE/asappresearch_sru/classification/train_classifier.py,"Method 'main' has a cyclomatic complexity of 11, exceeding the max of 6."
+asappresearch_sru.classification,train_classifier,,Long method,main,118 - 198,/Volumes/BrokeExt/NICHE/asappresearch_sru/classification/train_classifier.py,Method 'main' is too long (75 lines).
+asappresearch_sru.classification,train_classifier,,Long parameter list,train_model,82 - 116,/Volumes/BrokeExt/NICHE/asappresearch_sru/classification/train_classifier.py,"train_model has 11 parameters, exceeding the max of 5."
+asappresearch_sru.classification,train_classifier,,Long statement,train_model,105,/Volumes/BrokeExt/NICHE/asappresearch_sru/classification/train_classifier.py,A line with 161 chars in train_model exceeds the maximum length of 120 characters.
+asappresearch_sru.classification,train_classifier,,Long statement,main,185,/Volumes/BrokeExt/NICHE/asappresearch_sru/classification/train_classifier.py,A line with 135 chars in main exceeds the maximum length of 120 characters.
+asappresearch_sru.classification,train_classifier,,Magic number,main,182,/Volumes/BrokeExt/NICHE/asappresearch_sru/classification/train_classifier.py,Magic number 100000000.0 used in main.
+asappresearch_sru.classification,train_classifier,,Magic number,main,183,/Volumes/BrokeExt/NICHE/asappresearch_sru/classification/train_classifier.py,Magic number 100000000.0 used in main.
+asappresearch_sru.classification,train_classifier,Model,Magic number,__init__,20,/Volumes/BrokeExt/NICHE/asappresearch_sru/classification/train_classifier.py,Magic number 2 used in __init__.
+asappresearch_sru.classification,train_classifier,Model,Magic number,__init__,30,/Volumes/BrokeExt/NICHE/asappresearch_sru/classification/train_classifier.py,Magic number 300 used in __init__.
+asappresearch_sru.language_model,train_enwik8,,Complex method,main,142 - 259,/Volumes/BrokeExt/NICHE/asappresearch_sru/language_model/train_enwik8.py,"Method 'main' has a cyclomatic complexity of 11, exceeding the max of 6."
+asappresearch_sru.language_model,train_enwik8,,Long method,main,142 - 259,/Volumes/BrokeExt/NICHE/asappresearch_sru/language_model/train_enwik8.py,Method 'main' is too long (113 lines).
+asappresearch_sru.language_model,train_enwik8,,Long statement,main,224,/Volumes/BrokeExt/NICHE/asappresearch_sru/language_model/train_enwik8.py,A line with 252 chars in main exceeds the maximum length of 120 characters.
+asappresearch_sru.language_model,train_enwik8,Model,Long statement,__init__,56,/Volumes/BrokeExt/NICHE/asappresearch_sru/language_model/train_enwik8.py,A line with 144 chars in __init__ exceeds the maximum length of 120 characters.
+asappresearch_sru.language_model,train_enwik8,Model,Long statement,init_weights,68,/Volumes/BrokeExt/NICHE/asappresearch_sru/language_model/train_enwik8.py,A line with 149 chars in init_weights exceeds the maximum length of 120 characters.
+asappresearch_sru.language_model,train_enwik8,,Magic number,read_corpus,18,/Volumes/BrokeExt/NICHE/asappresearch_sru/language_model/train_enwik8.py,Magic number 5000000 used in read_corpus.
+asappresearch_sru.language_model,train_enwik8,,Magic number,read_corpus,22,/Volumes/BrokeExt/NICHE/asappresearch_sru/language_model/train_enwik8.py,Magic number 2 used in read_corpus.
+asappresearch_sru.language_model,train_enwik8,,Magic number,read_corpus,23,/Volumes/BrokeExt/NICHE/asappresearch_sru/language_model/train_enwik8.py,Magic number 2 used in read_corpus.
+asappresearch_sru.language_model,train_enwik8,,Magic number,calc_norm,95,/Volumes/BrokeExt/NICHE/asappresearch_sru/language_model/train_enwik8.py,Magic number 0.5 used in calc_norm.
+asappresearch_sru.language_model,train_enwik8,,Magic number,reset_hidden,97,/Volumes/BrokeExt/NICHE/asappresearch_sru/language_model/train_enwik8.py,Magic number 0.01 used in reset_hidden.
+asappresearch_sru.language_model,train_enwik8,,Magic number,main,173,/Volumes/BrokeExt/NICHE/asappresearch_sru/language_model/train_enwik8.py,Magic number 100000000.0 used in main.
+asappresearch_sru.language_model,train_enwik8,,Magic number,main,163,/Volumes/BrokeExt/NICHE/asappresearch_sru/language_model/train_enwik8.py,Magic number 1.5 used in main.
+asappresearch_sru.language_model,train_enwik8,,Magic number,main,163,/Volumes/BrokeExt/NICHE/asappresearch_sru/language_model/train_enwik8.py,Magic number 0.5 used in main.
+asappresearch_sru.language_model,train_enwik8,,Magic number,main,207,/Volumes/BrokeExt/NICHE/asappresearch_sru/language_model/train_enwik8.py,Magic number 100 used in main.
+asappresearch_sru.language_model,train_enwik8,,Magic number,main,222,/Volumes/BrokeExt/NICHE/asappresearch_sru/language_model/train_enwik8.py,Magic number 60.0 used in main.
+asappresearch_sru.language_model,train_enwik8,,Magic number,main,245,/Volumes/BrokeExt/NICHE/asappresearch_sru/language_model/train_enwik8.py,Magic number 0.5 used in main.
+asappresearch_sru.language_model,train_enwik8,,Magic number,main,245,/Volumes/BrokeExt/NICHE/asappresearch_sru/language_model/train_enwik8.py,Magic number 0.5 used in main.
+asappresearch_sru.language_model,train_enwik8,,Magic number,main,247,/Volumes/BrokeExt/NICHE/asappresearch_sru/language_model/train_enwik8.py,Magic number 1.5 used in main.
+asappresearch_sru.language_model,train_enwik8,,Magic number,main,247,/Volumes/BrokeExt/NICHE/asappresearch_sru/language_model/train_enwik8.py,Magic number 0.5 used in main.
+asappresearch_sru.language_model,train_enwik8,Model,Magic number,init_weights,72,/Volumes/BrokeExt/NICHE/asappresearch_sru/language_model/train_enwik8.py,Magic number 0.5 used in init_weights.
+asappresearch_sru.language_model,train_enwik8,Model,Magic number,init_weights,72,/Volumes/BrokeExt/NICHE/asappresearch_sru/language_model/train_enwik8.py,Magic number 3.0 used in init_weights.
+asappresearch_sru.language_model,train_lm,,Complex method,train_model,120 - 161,/Volumes/BrokeExt/NICHE/asappresearch_sru/language_model/train_lm.py,"Method 'train_model' has a cyclomatic complexity of 7, exceeding the max of 6."
+asappresearch_sru.language_model,train_lm,,Long method,main,184 - 237,/Volumes/BrokeExt/NICHE/asappresearch_sru/language_model/train_lm.py,Method 'main' is too long (51 lines).
+asappresearch_sru.language_model,train_lm,,Long statement,main,213,/Volumes/BrokeExt/NICHE/asappresearch_sru/language_model/train_lm.py,A line with 168 chars in main exceeds the maximum length of 120 characters.
+asappresearch_sru.language_model,train_lm,Model,Long statement,__init__,72,/Volumes/BrokeExt/NICHE/asappresearch_sru/language_model/train_lm.py,A line with 166 chars in __init__ exceeds the maximum length of 120 characters.
+asappresearch_sru.language_model,train_lm,Model,Long statement,init_weights,90,/Volumes/BrokeExt/NICHE/asappresearch_sru/language_model/train_lm.py,A line with 149 chars in init_weights exceeds the maximum length of 120 characters.
+asappresearch_sru.language_model,train_lm,,Magic number,train_model,157,/Volumes/BrokeExt/NICHE/asappresearch_sru/language_model/train_lm.py,Magic number 10 used in train_model.
+asappresearch_sru.language_model,train_lm,,Magic number,main,206,/Volumes/BrokeExt/NICHE/asappresearch_sru/language_model/train_lm.py,Magic number 100000000.0 used in main.
+asappresearch_sru.language_model,train_lm,,Magic number,main,236,/Volumes/BrokeExt/NICHE/asappresearch_sru/language_model/train_lm.py,Magic number 30 used in main.
+asappresearch_sru.language_model,train_lm,Model,Magic number,init_weights,89,/Volumes/BrokeExt/NICHE/asappresearch_sru/language_model/train_lm.py,Magic number 0.5 used in init_weights.
+asappresearch_sru.language_model,train_lm,Model,Magic number,init_weights,89,/Volumes/BrokeExt/NICHE/asappresearch_sru/language_model/train_lm.py,Magic number 3.0 used in init_weights.
+asappresearch_sru.misc,compare_cpu_speed_sru_gru,,Long statement,benchmark_gru_cpu,24,/Volumes/BrokeExt/NICHE/asappresearch_sru/misc/compare_cpu_speed_sru_gru.py,A line with 128 chars in benchmark_gru_cpu exceeds the maximum length of 120 characters.
+asappresearch_sru.misc,compare_cpu_speed_sru_gru,,Magic number,benchmark_gru_cpu,38,/Volumes/BrokeExt/NICHE/asappresearch_sru/misc/compare_cpu_speed_sru_gru.py,Magic number 1000 used in benchmark_gru_cpu.
+asappresearch_sru.misc,compare_cpu_speed_sru_gru,,Magic number,benchmark_sru_cpu,66,/Volumes/BrokeExt/NICHE/asappresearch_sru/misc/compare_cpu_speed_sru_gru.py,Magic number 1000 used in benchmark_sru_cpu.
+asappresearch_sru.misc,compare_gpu_speed_sru_gru,,Long statement,benchmark_gru_gpu,26,/Volumes/BrokeExt/NICHE/asappresearch_sru/misc/compare_gpu_speed_sru_gru.py,A line with 135 chars in benchmark_gru_gpu exceeds the maximum length of 120 characters.
+asappresearch_sru.misc,compare_gpu_speed_sru_gru,,Magic number,benchmark_gru_gpu,41,/Volumes/BrokeExt/NICHE/asappresearch_sru/misc/compare_gpu_speed_sru_gru.py,Magic number 10000 used in benchmark_gru_gpu.
+asappresearch_sru.misc,compare_gpu_speed_sru_gru,,Magic number,benchmark_sru_gpu,69,/Volumes/BrokeExt/NICHE/asappresearch_sru/misc/compare_gpu_speed_sru_gru.py,Magic number 10000 used in benchmark_sru_gpu.
+asappresearch_sru.misc,test_backward_with_transpose,,Long statement,,18,/Volumes/BrokeExt/NICHE/asappresearch_sru/misc/test_backward_with_transpose.py,A line with 137 chars in test_backward_with_transpose exceeds the maximum length of 120 characters.
+asappresearch_sru.misc,test_impl,,Long method,test_custom_v,64 - 109,/Volumes/BrokeExt/NICHE/asappresearch_sru/misc/test_impl.py,Method 'test_custom_v' is too long (42 lines).
+asappresearch_sru.misc,test_impl,,Magic number,test_fwd_cpu,9,/Volumes/BrokeExt/NICHE/asappresearch_sru/misc/test_impl.py,Magic number 6 used in test_fwd_cpu.
+asappresearch_sru.misc,test_impl,,Magic number,test_bi_fwd_cpu,25,/Volumes/BrokeExt/NICHE/asappresearch_sru/misc/test_impl.py,Magic number 6 used in test_bi_fwd_cpu.
+asappresearch_sru.misc,test_mm,,Magic number,run_mm,11,/Volumes/BrokeExt/NICHE/asappresearch_sru/misc/test_mm.py,Magic number 10 used in run_mm.
+asappresearch_sru.misc,test_mm,,Magic number,run_matmul,23,/Volumes/BrokeExt/NICHE/asappresearch_sru/misc/test_mm.py,Magic number 10 used in run_matmul.
+asappresearch_sru.misc,test_mm,,Magic number,run_addmm,34,/Volumes/BrokeExt/NICHE/asappresearch_sru/misc/test_mm.py,Magic number 10 used in run_addmm.
+asappresearch_sru.misc,test_mm,,Magic number,run_small,68,/Volumes/BrokeExt/NICHE/asappresearch_sru/misc/test_mm.py,Magic number 32 used in run_small.
+asappresearch_sru.misc,test_mm,,Magic number,run_small,69,/Volumes/BrokeExt/NICHE/asappresearch_sru/misc/test_mm.py,Magic number 32 used in run_small.
+asappresearch_sru.misc,test_mm,,Magic number,run_small,70,/Volumes/BrokeExt/NICHE/asappresearch_sru/misc/test_mm.py,Magic number 300 used in run_small.
+asappresearch_sru.misc,test_mm,,Magic number,run_large,74,/Volumes/BrokeExt/NICHE/asappresearch_sru/misc/test_mm.py,Magic number 64 used in run_large.
+asappresearch_sru.misc,test_mm,,Magic number,run_large,75,/Volumes/BrokeExt/NICHE/asappresearch_sru/misc/test_mm.py,Magic number 64 used in run_large.
+asappresearch_sru.misc,test_mm,,Magic number,run_large,76,/Volumes/BrokeExt/NICHE/asappresearch_sru/misc/test_mm.py,Magic number 512 used in run_large.
+asappresearch_sru.misc,test_mm,,Magic number,run_large,77,/Volumes/BrokeExt/NICHE/asappresearch_sru/misc/test_mm.py,Magic number 2048 used in run_large.
+asappresearch_sru.misc,test_sru,,Long identifier,test_gru_compatible_state_return,54,/Volumes/BrokeExt/NICHE/asappresearch_sru/misc/test_sru.py,Identifier'test_gru_compatible_state_return' exceeds the maximum length of 30 characters.
+asappresearch_sru.misc,test_sru,,Magic number,test_packed,7,/Volumes/BrokeExt/NICHE/asappresearch_sru/misc/test_sru.py,Magic number 5 used in test_packed.
+asappresearch_sru.misc,test_sru,,Magic number,test_packed,8,/Volumes/BrokeExt/NICHE/asappresearch_sru/misc/test_sru.py,Magic number 7 used in test_packed.
+asappresearch_sru.misc,test_sru,,Magic number,test_packed,9,/Volumes/BrokeExt/NICHE/asappresearch_sru/misc/test_sru.py,Magic number 32 used in test_packed.
+asappresearch_sru.misc,test_sru,,Magic number,test_packed,10,/Volumes/BrokeExt/NICHE/asappresearch_sru/misc/test_sru.py,Magic number 8 used in test_packed.
+asappresearch_sru.misc,test_sru,,Magic number,test_packed,11,/Volumes/BrokeExt/NICHE/asappresearch_sru/misc/test_sru.py,Magic number 11 used in test_packed.
+asappresearch_sru.misc,test_sru,,Magic number,test_packed,35,/Volumes/BrokeExt/NICHE/asappresearch_sru/misc/test_sru.py,Magic number 3 used in test_packed.
+asappresearch_sru.misc,test_sru,,Magic number,test_packed,45,/Volumes/BrokeExt/NICHE/asappresearch_sru/misc/test_sru.py,Magic number 3 used in test_packed.
+asappresearch_sru.misc,test_sru,,Magic number,test_packed,35,/Volumes/BrokeExt/NICHE/asappresearch_sru/misc/test_sru.py,Magic number 6 used in test_packed.
+asappresearch_sru.misc,test_sru,,Magic number,test_gru_compatible_state_return,55,/Volumes/BrokeExt/NICHE/asappresearch_sru/misc/test_sru.py,Magic number 5 used in test_gru_compatible_state_return.
+asappresearch_sru.misc,test_sru,,Magic number,test_gru_compatible_state_return,56,/Volumes/BrokeExt/NICHE/asappresearch_sru/misc/test_sru.py,Magic number 7 used in test_gru_compatible_state_return.
+asappresearch_sru.misc,test_sru,,Magic number,test_gru_compatible_state_return,57,/Volumes/BrokeExt/NICHE/asappresearch_sru/misc/test_sru.py,Magic number 32 used in test_gru_compatible_state_return.
+asappresearch_sru.misc,test_sru,,Magic number,test_gru_compatible_state_return,58,/Volumes/BrokeExt/NICHE/asappresearch_sru/misc/test_sru.py,Magic number 8 used in test_gru_compatible_state_return.
+asappresearch_sru.misc,test_sru,,Magic number,test_gru_compatible_state_return,59,/Volumes/BrokeExt/NICHE/asappresearch_sru/misc/test_sru.py,Magic number 11 used in test_gru_compatible_state_return.
+asappresearch_sru.misc,test_sru,,Magic number,test_gru_compatible_state_return,60,/Volumes/BrokeExt/NICHE/asappresearch_sru/misc/test_sru.py,Magic number 3 used in test_gru_compatible_state_return.
+asappresearch_sru.sru,__init__,,Long statement,,1,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/__init__.py,A line with 195 chars in __init__ exceeds the maximum length of 120 characters.
+asappresearch_sru.sru,cuda_functional,,Complex method,elementwise_recurrence_forward,38 - 153,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/cuda_functional.py,"Method 'elementwise_recurrence_forward' has a cyclomatic complexity of 13, exceeding the max of 6."
+asappresearch_sru.sru,cuda_functional,ElementwiseRecurrence,Complex method,backward,194 - 261,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/cuda_functional.py,"Method 'backward' has a cyclomatic complexity of 9, exceeding the max of 6."
+asappresearch_sru.sru,cuda_functional,,Long method,elementwise_recurrence_forward,38 - 153,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/cuda_functional.py,Method 'elementwise_recurrence_forward' is too long (97 lines).
+asappresearch_sru.sru,cuda_functional,ElementwiseRecurrence,Long method,backward,194 - 261,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/cuda_functional.py,Method 'backward' is too long (64 lines).
+asappresearch_sru.sru,cuda_functional,,Long parameter list,elementwise_recurrence_forward,38 - 153,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/cuda_functional.py,"elementwise_recurrence_forward has 12 parameters, exceeding the max of 5."
+asappresearch_sru.sru,cuda_functional,ElementwiseRecurrence,Long parameter list,forward,159 - 191,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/cuda_functional.py,"forward has 13 parameters, exceeding the max of 5."
+asappresearch_sru.sru,cuda_functional,,Long statement,elementwise_recurrence_forward,85,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/cuda_functional.py,A line with 154 chars in elementwise_recurrence_forward exceeds the maximum length of 120 characters.
+asappresearch_sru.sru,cuda_functional,,Long statement,elementwise_recurrence_forward,98,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/cuda_functional.py,A line with 151 chars in elementwise_recurrence_forward exceeds the maximum length of 120 characters.
+asappresearch_sru.sru,cuda_functional,,Long statement,elementwise_recurrence_forward,112,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/cuda_functional.py,A line with 190 chars in elementwise_recurrence_forward exceeds the maximum length of 120 characters.
+asappresearch_sru.sru,cuda_functional,,Long statement,elementwise_recurrence_forward,129,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/cuda_functional.py,A line with 187 chars in elementwise_recurrence_forward exceeds the maximum length of 120 characters.
+asappresearch_sru.sru,cuda_functional,ElementwiseRecurrence,Long statement,forward,176,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/cuda_functional.py,A line with 161 chars in forward exceeds the maximum length of 120 characters.
+asappresearch_sru.sru,cuda_functional,ElementwiseRecurrence,Long statement,backward,213,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/cuda_functional.py,A line with 124 chars in backward exceeds the maximum length of 120 characters.
+asappresearch_sru.sru,cuda_functional,ElementwiseRecurrence,Long statement,backward,215,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/cuda_functional.py,A line with 266 chars in backward exceeds the maximum length of 120 characters.
+asappresearch_sru.sru,cuda_functional,ElementwiseRecurrence,Long statement,backward,233,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/cuda_functional.py,A line with 313 chars in backward exceeds the maximum length of 120 characters.
+asappresearch_sru.sru,cuda_functional,,Long statement,,11,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/cuda_functional.py,A line with 151 chars in cuda_functional exceeds the maximum length of 120 characters.
+asappresearch_sru.sru,cuda_functional,,Magic number,elementwise_recurrence_forward,146,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/cuda_functional.py,Magic number 2 used in elementwise_recurrence_forward.
+asappresearch_sru.sru,cuda_functional,,Magic number,elementwise_recurrence_forward,56,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/cuda_functional.py,Magic number 3 used in elementwise_recurrence_forward.
+asappresearch_sru.sru,cuda_functional,,Magic number,elementwise_recurrence_forward,58,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/cuda_functional.py,Magic number 2 used in elementwise_recurrence_forward.
+asappresearch_sru.sru,cuda_functional,,Magic number,elementwise_recurrence_forward,62,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/cuda_functional.py,Magic number 3 used in elementwise_recurrence_forward.
+asappresearch_sru.sru,cuda_functional,,Magic number,elementwise_recurrence_forward,65,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/cuda_functional.py,Magic number 2 used in elementwise_recurrence_forward.
+asappresearch_sru.sru,cuda_functional,,Magic number,elementwise_recurrence_forward,74,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/cuda_functional.py,Magic number 3 used in elementwise_recurrence_forward.
+asappresearch_sru.sru,cuda_functional,,Magic number,elementwise_recurrence_forward,81,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/cuda_functional.py,Magic number 3 used in elementwise_recurrence_forward.
+asappresearch_sru.sru,cuda_functional,ElementwiseRecurrence,Magic number,backward,196,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/cuda_functional.py,Magic number 3 used in backward.
+asappresearch_sru.sru,cuda_functional,ElementwiseRecurrence,Magic number,backward,200,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/cuda_functional.py,Magic number 2 used in backward.
+asappresearch_sru.sru,cuda_functional,ElementwiseRecurrence,Magic number,backward,201,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/cuda_functional.py,Magic number 2 used in backward.
+asappresearch_sru.sru,cuda_functional,ElementwiseRecurrence,Magic number,backward,204,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/cuda_functional.py,Magic number 3 used in backward.
+asappresearch_sru.sru,cuda_functional,ElementwiseRecurrence,Magic number,backward,210,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/cuda_functional.py,Magic number 3 used in backward.
+asappresearch_sru.sru,cuda_functional,ElementwiseRecurrence,Magic number,backward,253,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/cuda_functional.py,Magic number 3 used in backward.
+asappresearch_sru.sru,cuda_functional,ElementwiseRecurrence,Magic number,backward,201,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/cuda_functional.py,Magic number 3 used in backward.
+asappresearch_sru.sru,modules,SRUCell,Complex method,__init__,30 - 162,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,"Method '__init__' has a cyclomatic complexity of 10, exceeding the max of 6."
+asappresearch_sru.sru,modules,SRUCell,Complex method,reset_parameters,164 - 233,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,"Method 'reset_parameters' has a cyclomatic complexity of 14, exceeding the max of 6."
+asappresearch_sru.sru,modules,SRUCell,Complex method,forward,235 - 281,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,"Method 'forward' has a cyclomatic complexity of 12, exceeding the max of 6."
+asappresearch_sru.sru,modules,SRUCell,Complex method,compute_UV,321 - 361,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,"Method 'compute_UV' has a cyclomatic complexity of 7, exceeding the max of 6."
+asappresearch_sru.sru,modules,SRUCell,Complex method,extra_repr,389 - 412,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,"Method 'extra_repr' has a cyclomatic complexity of 11, exceeding the max of 6."
+asappresearch_sru.sru,modules,SRU,Complex method,__init__,432 - 570,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,"Method '__init__' has a cyclomatic complexity of 7, exceeding the max of 6."
+asappresearch_sru.sru,modules,SRU,Complex method,forward,572 - 652,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,"Method 'forward' has a cyclomatic complexity of 8, exceeding the max of 6."
+asappresearch_sru.sru,modules,SRU,Complex method,make_backward_compatible,660 - 689,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,"Method 'make_backward_compatible' has a cyclomatic complexity of 8, exceeding the max of 6."
+asappresearch_sru.sru,modules,SRUCell,Long method,__init__,30 - 162,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,Method '__init__' is too long (51 lines).
+asappresearch_sru.sru,modules,SRUCell,Long method,reset_parameters,164 - 233,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,Method 'reset_parameters' is too long (61 lines).
+asappresearch_sru.sru,modules,SRU,Long method,__init__,432 - 570,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,Method '__init__' is too long (55 lines).
+asappresearch_sru.sru,modules,SRU,Long method,forward,572 - 652,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,Method 'forward' is too long (45 lines).
+asappresearch_sru.sru,modules,SRUCell,Long parameter list,__init__,30 - 162,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,"__init__ has 16 parameters, exceeding the max of 5."
+asappresearch_sru.sru,modules,SRUCell,Long parameter list,apply_recurrence,283 - 318,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,"apply_recurrence has 7 parameters, exceeding the max of 5."
+asappresearch_sru.sru,modules,SRU,Long parameter list,__init__,432 - 570,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,"__init__ has 19 parameters, exceeding the max of 5."
+asappresearch_sru.sru,modules,SRUCell,Long statement,__init__,47,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,A line with 2737 chars in __init__ exceeds the maximum length of 120 characters.
+asappresearch_sru.sru,modules,SRUCell,Long statement,reset_parameters,165,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,A line with 252 chars in reset_parameters exceeds the maximum length of 120 characters.
+asappresearch_sru.sru,modules,SRUCell,Long statement,reset_parameters,215,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,A line with 155 chars in reset_parameters exceeds the maximum length of 120 characters.
+asappresearch_sru.sru,modules,SRUCell,Long statement,apply_recurrence,298,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,A line with 199 chars in apply_recurrence exceeds the maximum length of 120 characters.
+asappresearch_sru.sru,modules,SRUCell,Long statement,apply_recurrence,306,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,A line with 175 chars in apply_recurrence exceeds the maximum length of 120 characters.
+asappresearch_sru.sru,modules,SRUCell,Long statement,apply_recurrence,313,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,A line with 179 chars in apply_recurrence exceeds the maximum length of 120 characters.
+asappresearch_sru.sru,modules,SRUCell,Long statement,compute_UV,325,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,A line with 562 chars in compute_UV exceeds the maximum length of 120 characters.
+asappresearch_sru.sru,modules,SRUCell,Long statement,compute_UV,352,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,A line with 128 chars in compute_UV exceeds the maximum length of 120 characters.
+asappresearch_sru.sru,modules,SRUCell,Long statement,compute_U,365,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,A line with 212 chars in compute_U exceeds the maximum length of 120 characters.
+asappresearch_sru.sru,modules,SRU,Long statement,__init__,452,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,A line with 3158 chars in __init__ exceeds the maximum length of 120 characters.
+asappresearch_sru.sru,modules,SRU,Long statement,__init__,538,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,A line with 123 chars in __init__ exceeds the maximum length of 120 characters.
+asappresearch_sru.sru,modules,SRU,Long statement,__init__,551,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,A line with 472 chars in __init__ exceeds the maximum length of 120 characters.
+asappresearch_sru.sru,modules,SRU,Long statement,forward,575,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,A line with 1078 chars in forward exceeds the maximum length of 120 characters.
+asappresearch_sru.sru,modules,SRUCell,Magic number,__init__,131,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,Magic number 3 used in __init__.
+asappresearch_sru.sru,modules,SRUCell,Magic number,__init__,133,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,Magic number 4 used in __init__.
+asappresearch_sru.sru,modules,SRUCell,Magic number,__init__,107,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,Magic number 2 used in __init__.
+asappresearch_sru.sru,modules,SRUCell,Magic number,reset_parameters,180,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,Magic number 0.5 used in reset_parameters.
+asappresearch_sru.sru,modules,SRUCell,Magic number,reset_parameters,186,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,Magic number 0.5 used in reset_parameters.
+asappresearch_sru.sru,modules,SRUCell,Magic number,reset_parameters,186,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,Magic number 3.0 used in reset_parameters.
+asappresearch_sru.sru,modules,SRUCell,Magic number,reset_parameters,189,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,Magic number 0.5 used in reset_parameters.
+asappresearch_sru.sru,modules,SRUCell,Magic number,reset_parameters,208,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,Magic number 4 used in reset_parameters.
+asappresearch_sru.sru,modules,SRUCell,Magic number,reset_parameters,209,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,Magic number 0.5 used in reset_parameters.
+asappresearch_sru.sru,modules,SRUCell,Magic number,reset_parameters,180,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,Magic number 2 used in reset_parameters.
+asappresearch_sru.sru,modules,SRUCell,Magic number,reset_parameters,189,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,Magic number 3.0 used in reset_parameters.
+asappresearch_sru.sru,modules,SRUCell,Magic number,reset_parameters,209,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,Magic number 2 used in reset_parameters.
+asappresearch_sru.sru,modules,SRUCell,Magic number,forward,242,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,Magic number 2 used in forward.
+asappresearch_sru.sru,modules,SRUCell,Magic number,forward,242,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,Magic number 3 used in forward.
+asappresearch_sru.sru,modules,SRUCell,Magic number,compute_UV,343,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,Magic number 2 used in compute_UV.
+asappresearch_sru.sru,modules,SRUCell,Magic number,compute_UV,356,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,Magic number 2 used in compute_UV.
+asappresearch_sru.sru,modules,SRUCell,Magic number,compute_U,371,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,Magic number 2 used in compute_U.
+asappresearch_sru.sru,modules,SRU,Magic number,__init__,435,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,Magic number 2 used in __init__.
+asappresearch_sru.sru,modules,SRU,Magic number,__init__,527,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,Magic number 2 used in __init__.
+asappresearch_sru.sru,modules,SRU,Magic number,__init__,519,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,Magic number 2 used in __init__.
+asappresearch_sru.sru,modules,SRU,Magic number,forward,614,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,Magic number 3 used in forward.
+asappresearch_sru.sru,modules,SRU,Magic number,forward,623,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,Magic number 3 used in forward.
+asappresearch_sru.sru,modules,SRU,Magic number,make_backward_compatible,678,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/modules.py,Magic number 2 used in make_backward_compatible.
+asappresearch_sru.sru,ops,,Complex method,elementwise_recurrence_naive,146 - 250,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/ops.py,"Method 'elementwise_recurrence_naive' has a cyclomatic complexity of 15, exceeding the max of 6."
+asappresearch_sru.sru,ops,,Long identifier,elementwise_recurrence_inference,23,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/ops.py,Identifier'elementwise_recurrence_inference' exceeds the maximum length of 30 characters.
+asappresearch_sru.sru,ops,,Long method,elementwise_recurrence_inference,23 - 93,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/ops.py,Method 'elementwise_recurrence_inference' is too long (58 lines).
+asappresearch_sru.sru,ops,,Long method,elementwise_recurrence_naive,146 - 250,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/ops.py,Method 'elementwise_recurrence_naive' is too long (82 lines).
+asappresearch_sru.sru,ops,,Long parameter list,elementwise_recurrence_inference,23 - 93,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/ops.py,"elementwise_recurrence_inference has 12 parameters, exceeding the max of 5."
+asappresearch_sru.sru,ops,,Long parameter list,elementwise_recurrence_gpu,98 - 141,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/ops.py,"elementwise_recurrence_gpu has 13 parameters, exceeding the max of 5."
+asappresearch_sru.sru,ops,,Long parameter list,elementwise_recurrence_naive,146 - 250,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/ops.py,"elementwise_recurrence_naive has 12 parameters, exceeding the max of 5."
+asappresearch_sru.sru,ops,,Long statement,elementwise_recurrence_inference,46,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/ops.py,A line with 177 chars in elementwise_recurrence_inference exceeds the maximum length of 120 characters.
+asappresearch_sru.sru,ops,,Long statement,elementwise_recurrence_inference,62,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/ops.py,A line with 267 chars in elementwise_recurrence_inference exceeds the maximum length of 120 characters.
+asappresearch_sru.sru,ops,,Long statement,elementwise_recurrence_inference,79,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/ops.py,A line with 270 chars in elementwise_recurrence_inference exceeds the maximum length of 120 characters.
+asappresearch_sru.sru,ops,,Long statement,elementwise_recurrence_gpu,129,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/ops.py,A line with 159 chars in elementwise_recurrence_gpu exceeds the maximum length of 120 characters.
+asappresearch_sru.sru,ops,,Long statement,elementwise_recurrence_naive,164,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/ops.py,A line with 164 chars in elementwise_recurrence_naive exceeds the maximum length of 120 characters.
+asappresearch_sru.sru,ops,,Magic number,elementwise_recurrence_inference,39,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/ops.py,Magic number 2 used in elementwise_recurrence_inference.
+asappresearch_sru.sru,ops,,Magic number,elementwise_recurrence_inference,40,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/ops.py,Magic number 3 used in elementwise_recurrence_inference.
+asappresearch_sru.sru,ops,,Magic number,elementwise_recurrence_naive,169,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/ops.py,Magic number 2 used in elementwise_recurrence_naive.
+asappresearch_sru.sru,ops,,Magic number,elementwise_recurrence_naive,170,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/ops.py,Magic number 3 used in elementwise_recurrence_naive.
+asappresearch_sru.sru,ops,,Magic number,elementwise_recurrence_naive,189,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/ops.py,Magic number 3 used in elementwise_recurrence_naive.
+asappresearch_sru.sru,ops,,Magic number,elementwise_recurrence_naive,193,/Volumes/BrokeExt/NICHE/asappresearch_sru/sru/ops.py,Magic number 3 used in elementwise_recurrence_naive.
+asappresearch_sru.test,test_amp,,Magic number,test_amp,47,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/test_amp.py,Magic number 20 used in test_amp.
+asappresearch_sru.test,test_amp,,Magic number,test_amp,48,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/test_amp.py,Magic number 3 used in test_amp.
+asappresearch_sru.test,test_amp,,Magic number,test_amp,49,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/test_amp.py,Magic number 200 used in test_amp.
+asappresearch_sru.test,test_amp,,Magic number,test_amp,50,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/test_amp.py,Magic number 304 used in test_amp.
+asappresearch_sru.test,test_amp,,Magic number,test_amp,51,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/test_amp.py,Magic number 304 used in test_amp.
+asappresearch_sru.test,test_ts_cpp,,Magic number,run,7,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/test_ts_cpp.py,Magic number 4 used in run.
+asappresearch_sru.test.regression,build_artifact,,Long statement,,1,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/regression/build_artifact.py,A line with 228 chars in build_artifact exceeds the maximum length of 120 characters.
+asappresearch_sru.test.regression,build_artifact,,Magic number,run,20,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/regression/build_artifact.py,Magic number 3 used in run.
+asappresearch_sru.test.regression,build_artifact,,Magic number,run,21,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/regression/build_artifact.py,Magic number 5 used in run.
+asappresearch_sru.test.regression,build_artifact,,Magic number,run,22,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/regression/build_artifact.py,Magic number 7 used in run.
+asappresearch_sru.test.regression,build_artifact,,Magic number,run,23,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/regression/build_artifact.py,Magic number 4 used in run.
+asappresearch_sru.test.regression,build_artifact,,Magic number,run,24,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/regression/build_artifact.py,Magic number 2 used in run.
+asappresearch_sru.test.regression,build_artifact,,Magic number,run,31,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/regression/build_artifact.py,Magic number 0.1 used in run.
+asappresearch_sru.test.regression,test_regression,,Long statement,test_regression,24,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/regression/test_regression.py,A line with 235 chars in test_regression exceeds the maximum length of 120 characters.
+asappresearch_sru.test.regression,test_regression,,Long statement,,1,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/regression/test_regression.py,A line with 154 chars in test_regression exceeds the maximum length of 120 characters.
+asappresearch_sru.test.regression,test_regression,,Magic number,test_regression,47,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/regression/test_regression.py,Magic number 2 used in test_regression.
+asappresearch_sru.test.sru,test_sru,,Long method,test_sru,22 - 78,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/sru/test_sru.py,Method 'test_sru' is too long (55 lines).
+asappresearch_sru.test.sru,test_sru,,Long parameter list,test_sru_backward_simple,98 - 125,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/sru/test_sru.py,"test_sru_backward_simple has 6 parameters, exceeding the max of 5."
+asappresearch_sru.test.sru,test_sru,,Long statement,test_sru,35,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/sru/test_sru.py,A line with 138 chars in test_sru exceeds the maximum length of 120 characters.
+asappresearch_sru.test.sru,test_sru,,Long statement,test_sru_backward_simple,108,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/sru/test_sru.py,A line with 173 chars in test_sru_backward_simple exceeds the maximum length of 120 characters.
+asappresearch_sru.test.sru,test_sru,,Long statement,test_sru_backward,142,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/sru/test_sru.py,A line with 127 chars in test_sru_backward exceeds the maximum length of 120 characters.
+asappresearch_sru.test.sru,test_sru,,Magic number,test_sru,29,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/sru/test_sru.py,Magic number 0.0001 used in test_sru.
+asappresearch_sru.test.sru,test_sru,,Magic number,test_sru,30,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/sru/test_sru.py,Magic number 3 used in test_sru.
+asappresearch_sru.test.sru,test_sru,,Magic number,test_sru,31,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/sru/test_sru.py,Magic number 7 used in test_sru.
+asappresearch_sru.test.sru,test_sru,,Magic number,test_sru,32,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/sru/test_sru.py,Magic number 4 used in test_sru.
+asappresearch_sru.test.sru,test_sru,,Magic number,test_sru,33,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/sru/test_sru.py,Magic number 4 used in test_sru.
+asappresearch_sru.test.sru,test_sru,,Magic number,test_sru,34,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/sru/test_sru.py,Magic number 5 used in test_sru.
+asappresearch_sru.test.sru,test_sru,,Magic number,test_sru_backward_simple,104,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/sru/test_sru.py,Magic number 3 used in test_sru_backward_simple.
+asappresearch_sru.test.sru,test_sru,,Magic number,test_sru_backward_simple,105,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/sru/test_sru.py,Magic number 5 used in test_sru_backward_simple.
+asappresearch_sru.test.sru,test_sru,,Magic number,test_sru_backward_simple,106,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/sru/test_sru.py,Magic number 4 used in test_sru_backward_simple.
+asappresearch_sru.test.sru,test_sru,,Magic number,test_sru_backward_simple,107,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/sru/test_sru.py,Magic number 2 used in test_sru_backward_simple.
+asappresearch_sru.test.sru,test_sru,,Magic number,test_sru_backward,133,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/sru/test_sru.py,Magic number 0.0001 used in test_sru_backward.
+asappresearch_sru.test.sru,test_sru,,Magic number,test_sru_backward,138,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/sru/test_sru.py,Magic number 3 used in test_sru_backward.
+asappresearch_sru.test.sru,test_sru,,Magic number,test_sru_backward,139,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/sru/test_sru.py,Magic number 5 used in test_sru_backward.
+asappresearch_sru.test.sru,test_sru,,Magic number,test_sru_backward,140,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/sru/test_sru.py,Magic number 4 used in test_sru_backward.
+asappresearch_sru.test.sru,test_sru,,Magic number,test_sru_backward,141,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/sru/test_sru.py,Magic number 2 used in test_sru_backward.
+asappresearch_sru.test.sru,test_torchscript,,Magic number,test_all,23,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/sru/test_torchscript.py,Magic number 0.0001 used in test_all.
+asappresearch_sru.test.sru,test_torchscript,,Magic number,test_all,29,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/sru/test_torchscript.py,Magic number 16 used in test_all.
+asappresearch_sru.test.sru,test_torchscript,,Magic number,test_all,30,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/sru/test_torchscript.py,Magic number 8 used in test_all.
+asappresearch_sru.test.sru,test_torchscript,,Magic number,test_all,31,/Volumes/BrokeExt/NICHE/asappresearch_sru/test/sru/test_torchscript.py,Magic number 32 used in test_all.

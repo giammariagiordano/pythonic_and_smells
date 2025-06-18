@@ -1,0 +1,2 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+MrGiovanni_ModelsGenesis.keras.downstream_tasks.BraTS,modalities,Broken modularization,Modality,25,/Volumes/BrokeExt/NICHE/MrGiovanni_ModelsGenesis/keras/downstream_tasks/BraTS/modalities.py,Class 'Modality' contains only data members without any method implementations.

@@ -1,0 +1,3 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+ARM-software_CMSIS_5.CMSIS.CoreValidation.Project,build,Broken modularization,OptimizationAxis,88,/Volumes/BrokeExt/NICHE/ARM-software_CMSIS_5/CMSIS/CoreValidation/Project/build.py,Class 'OptimizationAxis' contains only data members without any method implementations.
+ARM-software_CMSIS_5.CMSIS.RTOS2.RTX.Library,build,Broken modularization,Device,10,/Volumes/BrokeExt/NICHE/ARM-software_CMSIS_5/CMSIS/RTOS2/RTX/Library/build.py,Class 'Device' contains only data members without any method implementations.

@@ -1,0 +1,161 @@
+Package,Module,Class,Smell,Function/Method,Line no,File,Details
+kk7nc_RMDL,setup,,Long statement,,23,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/setup.py,A line with 1075 chars in setup exceeds the maximum length of 120 characters.
+kk7nc_RMDL.Examples,CIFAR,,Long statement,,1,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/Examples/CIFAR.py,A line with 521 chars in CIFAR exceeds the maximum length of 120 characters.
+kk7nc_RMDL.Examples,CIFAR,,Long statement,,32,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/Examples/CIFAR.py,A line with 137 chars in CIFAR exceeds the maximum length of 120 characters.
+kk7nc_RMDL.Examples,IMDB,,Long statement,,1,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/Examples/IMDB.py,A line with 650 chars in IMDB exceeds the maximum length of 120 characters.
+kk7nc_RMDL.Examples,IMDB,,Long statement,,43,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/Examples/IMDB.py,A line with 162 chars in IMDB exceeds the maximum length of 120 characters.
+kk7nc_RMDL.Examples,LFW,,Long statement,,1,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/Examples/LFW.py,A line with 650 chars in LFW exceeds the maximum length of 120 characters.
+kk7nc_RMDL.Examples,LFW,,Long statement,,55,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/Examples/LFW.py,A line with 131 chars in LFW exceeds the maximum length of 120 characters.
+kk7nc_RMDL.Examples,MNIST,,Long statement,,1,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/Examples/MNIST.py,A line with 650 chars in MNIST exceeds the maximum length of 120 characters.
+kk7nc_RMDL.Examples,MNIST,,Long statement,,35,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/Examples/MNIST.py,A line with 156 chars in MNIST exceeds the maximum length of 120 characters.
+kk7nc_RMDL.Examples,ORL,,Long statement,,1,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/Examples/ORL.py,A line with 650 chars in ORL exceeds the maximum length of 120 characters.
+kk7nc_RMDL.Examples,ORL,,Long statement,,32,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/Examples/ORL.py,A line with 155 chars in ORL exceeds the maximum length of 120 characters.
+kk7nc_RMDL.Examples,Reuters21578,,Long statement,,1,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/Examples/Reuters21578.py,A line with 650 chars in Reuters21578 exceeds the maximum length of 120 characters.
+kk7nc_RMDL.Examples,Reuters21578,,Long statement,,43,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/Examples/Reuters21578.py,A line with 148 chars in Reuters21578 exceeds the maximum length of 120 characters.
+kk7nc_RMDL.Examples,Text_classification_demo,,Long statement,,1,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/Examples/Text_classification_demo.py,A line with 650 chars in Text_classification_demo exceeds the maximum length of 120 characters.
+kk7nc_RMDL.Examples,Text_classification_demo,,Long statement,,32,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/Examples/Text_classification_demo.py,A line with 1097 chars in Text_classification_demo exceeds the maximum length of 120 characters.
+kk7nc_RMDL.Examples,Text_classification_demo,,Long statement,,65,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/Examples/Text_classification_demo.py,A line with 245 chars in Text_classification_demo exceeds the maximum length of 120 characters.
+kk7nc_RMDL.Examples,Text_pandas,,Long statement,,1,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/Examples/Text_pandas.py,A line with 650 chars in Text_pandas exceeds the maximum length of 120 characters.
+kk7nc_RMDL.Examples,Text_pandas,,Long statement,,46,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/Examples/Text_pandas.py,A line with 148 chars in Text_pandas exceeds the maximum length of 120 characters.
+kk7nc_RMDL.Examples,WOS11967,,Long statement,,1,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/Examples/WOS11967.py,A line with 650 chars in WOS11967 exceeds the maximum length of 120 characters.
+kk7nc_RMDL.Examples,WOS11967,,Long statement,,44,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/Examples/WOS11967.py,A line with 148 chars in WOS11967 exceeds the maximum length of 120 characters.
+kk7nc_RMDL.Examples,WOS46985,,Long statement,,1,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/Examples/WOS46985.py,A line with 650 chars in WOS46985 exceeds the maximum length of 120 characters.
+kk7nc_RMDL.Examples,WOS46985,,Long statement,,44,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/Examples/WOS46985.py,A line with 148 chars in WOS46985 exceeds the maximum length of 120 characters.
+kk7nc_RMDL.Examples,WOS5736,,Long statement,,1,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/Examples/WOS5736.py,A line with 650 chars in WOS5736 exceeds the maximum length of 120 characters.
+kk7nc_RMDL.Examples,WOS5736,,Long statement,,47,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/Examples/WOS5736.py,A line with 166 chars in WOS5736 exceeds the maximum length of 120 characters.
+kk7nc_RMDL.Examples,_20NewsGroup,,Long statement,,1,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/Examples/_20NewsGroup.py,A line with 521 chars in _20NewsGroup exceeds the maximum length of 120 characters.
+kk7nc_RMDL.Examples,_20NewsGroup,,Long statement,,31,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/Examples/_20NewsGroup.py,A line with 148 chars in _20NewsGroup exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,BuildModel,,Complex method,optimizors,33 - 49,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/BuildModel.py,"Method 'optimizors' has a cyclomatic complexity of 7, exceeding the max of 6."
+kk7nc_RMDL.RMDL,BuildModel,,Complex method,Build_Model_CNN_Text,307 - 435,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/BuildModel.py,"Method 'Build_Model_CNN_Text' has a cyclomatic complexity of 13, exceeding the max of 6."
+kk7nc_RMDL.RMDL,BuildModel,,Long method,Build_Model_RNN_Text,249 - 304,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/BuildModel.py,Method 'Build_Model_RNN_Text' is too long (43 lines).
+kk7nc_RMDL.RMDL,BuildModel,,Long method,Build_Model_CNN_Text,307 - 435,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/BuildModel.py,Method 'Build_Model_CNN_Text' is too long (114 lines).
+kk7nc_RMDL.RMDL,BuildModel,,Long parameter list,Build_Model_DNN_Image,92 - 124,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/BuildModel.py,"Build_Model_DNN_Image has 9 parameters, exceeding the max of 5."
+kk7nc_RMDL.RMDL,BuildModel,,Long parameter list,Build_Model_DNN_Text,127 - 162,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/BuildModel.py,"Build_Model_DNN_Text has 9 parameters, exceeding the max of 5."
+kk7nc_RMDL.RMDL,BuildModel,,Long parameter list,Build_Model_CNN_Image,165 - 205,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/BuildModel.py,"Build_Model_CNN_Image has 9 parameters, exceeding the max of 5."
+kk7nc_RMDL.RMDL,BuildModel,,Long parameter list,Build_Model_RNN_Image,210 - 246,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/BuildModel.py,"Build_Model_RNN_Image has 7 parameters, exceeding the max of 5."
+kk7nc_RMDL.RMDL,BuildModel,,Long parameter list,Build_Model_RNN_Text,249 - 304,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/BuildModel.py,"Build_Model_RNN_Text has 12 parameters, exceeding the max of 5."
+kk7nc_RMDL.RMDL,BuildModel,,Long parameter list,Build_Model_CNN_Text,307 - 435,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/BuildModel.py,"Build_Model_CNN_Text has 13 parameters, exceeding the max of 5."
+kk7nc_RMDL.RMDL,BuildModel,,Long statement,slice_batch,54,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/BuildModel.py,A line with 159 chars in slice_batch exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,BuildModel,,Long statement,to_multi_gpu,66,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/BuildModel.py,A line with 354 chars in to_multi_gpu exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,BuildModel,,Long statement,Build_Model_DNN_Image,94,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/BuildModel.py,A line with 201 chars in Build_Model_DNN_Image exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,BuildModel,,Long statement,Build_Model_DNN_Text,130,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/BuildModel.py,A line with 199 chars in Build_Model_DNN_Text exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,BuildModel,,Long statement,Build_Model_RNN_Image,217,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/BuildModel.py,A line with 126 chars in Build_Model_RNN_Image exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,BuildModel,,Long statement,Build_Model_RNN_Text,251,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/BuildModel.py,A line with 324 chars in Build_Model_RNN_Text exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,BuildModel,,Long statement,Build_Model_RNN_Text,271,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/BuildModel.py,A line with 206 chars in Build_Model_RNN_Text exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,BuildModel,,Long statement,Build_Model_RNN_Text,276,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/BuildModel.py,A line with 136 chars in Build_Model_RNN_Text exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,BuildModel,,Long statement,Build_Model_CNN_Text,311,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/BuildModel.py,A line with 628 chars in Build_Model_CNN_Text exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,BuildModel,,Long statement,Build_Model_CNN_Text,330,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/BuildModel.py,A line with 206 chars in Build_Model_CNN_Text exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,BuildModel,,Long statement,Build_Model_CNN_Text,336,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/BuildModel.py,A line with 136 chars in Build_Model_CNN_Text exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,BuildModel,,Long statement,Build_Model_CNN_Text,376,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/BuildModel.py,A line with 206 chars in Build_Model_CNN_Text exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,BuildModel,,Long statement,Build_Model_CNN_Text,383,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/BuildModel.py,A line with 143 chars in Build_Model_CNN_Text exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,BuildModel,,Long statement,,1,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/BuildModel.py,A line with 650 chars in BuildModel exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,BuildModel,,Magic number,optimizors,40,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/BuildModel.py,Magic number 2 used in optimizors.
+kk7nc_RMDL.RMDL,BuildModel,,Magic number,optimizors,42,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/BuildModel.py,Magic number 3 used in optimizors.
+kk7nc_RMDL.RMDL,BuildModel,,Magic number,optimizors,44,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/BuildModel.py,Magic number 4 used in optimizors.
+kk7nc_RMDL.RMDL,BuildModel,,Magic number,to_multi_gpu,65,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/BuildModel.py,Magic number 2 used in to_multi_gpu.
+kk7nc_RMDL.RMDL,Global,,Long statement,,1,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/Global.py,A line with 650 chars in Global exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,Plot,,Long statement,plot_confusion_matrix,72,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/Plot.py,A line with 129 chars in plot_confusion_matrix exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,Plot,,Long statement,plot_confusion_matrix,94,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/Plot.py,A line with 124 chars in plot_confusion_matrix exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,Plot,,Long statement,,1,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/Plot.py,A line with 650 chars in Plot exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,Plot,,Magic number,plot_confusion_matrix,92,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/Plot.py,Magic number 2.0 used in plot_confusion_matrix.
+kk7nc_RMDL.RMDL,RMDL_Image,,Complex method,Image_Classification,30 - 316,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,"Method 'Image_Classification' has a cyclomatic complexity of 20, exceeding the max of 6."
+kk7nc_RMDL.RMDL,RMDL_Image,,Long method,Image_Classification,30 - 316,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,Method 'Image_Classification' is too long (198 lines).
+kk7nc_RMDL.RMDL,RMDL_Image,,Long parameter list,Image_Classification,30 - 316,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,"Image_Classification has 24 parameters, exceeding the max of 5."
+kk7nc_RMDL.RMDL,RMDL_Image,,Long statement,Image_Classification,36,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,A line with 5106 chars in Image_Classification exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,RMDL_Image,,Long statement,Image_Classification,108,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,A line with 144 chars in Image_Classification exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,RMDL_Image,,Long statement,Image_Classification,114,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,A line with 141 chars in Image_Classification exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,RMDL_Image,,Long statement,Image_Classification,134,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,A line with 204 chars in Image_Classification exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,RMDL_Image,,Long statement,Image_Classification,153,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,A line with 153 chars in Image_Classification exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,RMDL_Image,,Long statement,Image_Classification,190,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,A line with 160 chars in Image_Classification exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,RMDL_Image,,Long statement,Image_Classification,206,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,A line with 153 chars in Image_Classification exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,RMDL_Image,,Long statement,Image_Classification,239,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,A line with 204 chars in Image_Classification exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,RMDL_Image,,Long statement,Image_Classification,257,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,A line with 153 chars in Image_Classification exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,RMDL_Image,,Long statement,,1,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,A line with 650 chars in RMDL_Image exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,RMDL_Image,,Magic number,Image_Classification,30,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,Magic number 128 used in Image_Classification.
+kk7nc_RMDL.RMDL,RMDL_Image,,Magic number,Image_Classification,32,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,Magic number 8 used in Image_Classification.
+kk7nc_RMDL.RMDL,RMDL_Image,,Magic number,Image_Classification,32,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,Magic number 128 used in Image_Classification.
+kk7nc_RMDL.RMDL,RMDL_Image,,Magic number,Image_Classification,32,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,Magic number 1024 used in Image_Classification.
+kk7nc_RMDL.RMDL,RMDL_Image,,Magic number,Image_Classification,33,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,Magic number 5 used in Image_Classification.
+kk7nc_RMDL.RMDL,RMDL_Image,,Magic number,Image_Classification,33,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,Magic number 32 used in Image_Classification.
+kk7nc_RMDL.RMDL,RMDL_Image,,Magic number,Image_Classification,33,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,Magic number 128 used in Image_Classification.
+kk7nc_RMDL.RMDL,RMDL_Image,,Magic number,Image_Classification,34,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,Magic number 3 used in Image_Classification.
+kk7nc_RMDL.RMDL,RMDL_Image,,Magic number,Image_Classification,34,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,Magic number 10 used in Image_Classification.
+kk7nc_RMDL.RMDL,RMDL_Image,,Magic number,Image_Classification,34,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,Magic number 128 used in Image_Classification.
+kk7nc_RMDL.RMDL,RMDL_Image,,Magic number,Image_Classification,34,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,Magic number 512 used in Image_Classification.
+kk7nc_RMDL.RMDL,RMDL_Image,,Magic number,Image_Classification,35,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,Magic number 42 used in Image_Classification.
+kk7nc_RMDL.RMDL,RMDL_Image,,Magic number,Image_Classification,35,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,Magic number 0.05 used in Image_Classification.
+kk7nc_RMDL.RMDL,RMDL_Image,,Magic number,Image_Classification,31,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,Magic number 3 used in Image_Classification.
+kk7nc_RMDL.RMDL,RMDL_Image,,Magic number,Image_Classification,31,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,Magic number 3 used in Image_Classification.
+kk7nc_RMDL.RMDL,RMDL_Image,,Magic number,Image_Classification,31,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,Magic number 3 used in Image_Classification.
+kk7nc_RMDL.RMDL,RMDL_Image,,Magic number,Image_Classification,31,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,Magic number 500 used in Image_Classification.
+kk7nc_RMDL.RMDL,RMDL_Image,,Magic number,Image_Classification,31,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,Magic number 500 used in Image_Classification.
+kk7nc_RMDL.RMDL,RMDL_Image,,Magic number,Image_Classification,31,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,Magic number 500 used in Image_Classification.
+kk7nc_RMDL.RMDL,RMDL_Image,,Magic number,Image_Classification,236,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,Magic number 2 used in Image_Classification.
+kk7nc_RMDL.RMDL,RMDL_Image,,Magic number,Image_Classification,180,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,Magic number 3 used in Image_Classification.
+kk7nc_RMDL.RMDL,RMDL_Image,,Magic number,Image_Classification,182,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,Magic number 256 used in Image_Classification.
+kk7nc_RMDL.RMDL,RMDL_Image,,Magic number,Image_Classification,183,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,Magic number 8 used in Image_Classification.
+kk7nc_RMDL.RMDL,RMDL_Image,,Magic number,Image_Classification,229,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,Magic number 3 used in Image_Classification.
+kk7nc_RMDL.RMDL,RMDL_Image,,Magic number,Image_Classification,231,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,Magic number 64 used in Image_Classification.
+kk7nc_RMDL.RMDL,RMDL_Image,,Magic number,Image_Classification,232,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,Magic number 2 used in Image_Classification.
+kk7nc_RMDL.RMDL,RMDL_Image,,Magic number,Image_Classification,278,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,Magic number 5 used in Image_Classification.
+kk7nc_RMDL.RMDL,RMDL_Image,,Magic number,Image_Classification,280,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,Magic number 128 used in Image_Classification.
+kk7nc_RMDL.RMDL,RMDL_Image,,Magic number,Image_Classification,281,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Image.py,Magic number 2 used in Image_Classification.
+kk7nc_RMDL.RMDL,RMDL_Text,,Complex method,Text_Classification,33 - 433,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,"Method 'Text_Classification' has a cyclomatic complexity of 33, exceeding the max of 6."
+kk7nc_RMDL.RMDL,RMDL_Text,,Empty catch block,Text_Classification,258,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,Empty catch block found in Text_Classification.
+kk7nc_RMDL.RMDL,RMDL_Text,,Long method,Text_Classification,33 - 433,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,Method 'Text_Classification' is too long (299 lines).
+kk7nc_RMDL.RMDL,RMDL_Text,,Long parameter list,Text_Classification,33 - 433,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,"Text_Classification has 30 parameters, exceeding the max of 5."
+kk7nc_RMDL.RMDL,RMDL_Text,,Long statement,Text_Classification,43,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,A line with 4584 chars in Text_Classification exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,RMDL_Text,,Long statement,Text_Classification,165,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,A line with 168 chars in Text_Classification exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,RMDL_Text,,Long statement,Text_Classification,200,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,A line with 220 chars in Text_Classification exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,RMDL_Text,,Long statement,Text_Classification,209,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,A line with 171 chars in Text_Classification exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,RMDL_Text,,Long statement,Text_Classification,273,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,A line with 262 chars in Text_Classification exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,RMDL_Text,,Long statement,Text_Classification,286,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,A line with 177 chars in Text_Classification exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,RMDL_Text,,Long statement,Text_Classification,331,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,A line with 262 chars in Text_Classification exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,RMDL_Text,,Long statement,Text_Classification,351,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,A line with 177 chars in Text_Classification exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,RMDL_Text,,Long statement,,1,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,A line with 650 chars in RMDL_Text exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,RMDL_Text,,Magic number,Text_Classification,33,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,Magic number 128 used in Text_Classification.
+kk7nc_RMDL.RMDL,RMDL_Text,,Magic number,Text_Classification,34,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,Magic number 50 used in Text_Classification.
+kk7nc_RMDL.RMDL,RMDL_Text,,Magic number,Text_Classification,34,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,Magic number 500 used in Text_Classification.
+kk7nc_RMDL.RMDL,RMDL_Text,,Magic number,Text_Classification,34,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,Magic number 75000 used in Text_Classification.
+kk7nc_RMDL.RMDL,RMDL_Text,,Magic number,Text_Classification,37,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,Magic number 8 used in Text_Classification.
+kk7nc_RMDL.RMDL,RMDL_Text,,Magic number,Text_Classification,37,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,Magic number 128 used in Text_Classification.
+kk7nc_RMDL.RMDL,RMDL_Text,,Magic number,Text_Classification,37,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,Magic number 1024 used in Text_Classification.
+kk7nc_RMDL.RMDL,RMDL_Text,,Magic number,Text_Classification,38,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,Magic number 5 used in Text_Classification.
+kk7nc_RMDL.RMDL,RMDL_Text,,Magic number,Text_Classification,38,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,Magic number 32 used in Text_Classification.
+kk7nc_RMDL.RMDL,RMDL_Text,,Magic number,Text_Classification,38,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,Magic number 128 used in Text_Classification.
+kk7nc_RMDL.RMDL,RMDL_Text,,Magic number,Text_Classification,39,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,Magic number 3 used in Text_Classification.
+kk7nc_RMDL.RMDL,RMDL_Text,,Magic number,Text_Classification,39,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,Magic number 10 used in Text_Classification.
+kk7nc_RMDL.RMDL,RMDL_Text,,Magic number,Text_Classification,39,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,Magic number 128 used in Text_Classification.
+kk7nc_RMDL.RMDL,RMDL_Text,,Magic number,Text_Classification,39,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,Magic number 512 used in Text_Classification.
+kk7nc_RMDL.RMDL,RMDL_Text,,Magic number,Text_Classification,40,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,Magic number 42 used in Text_Classification.
+kk7nc_RMDL.RMDL,RMDL_Text,,Magic number,Text_Classification,40,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,Magic number 0.5 used in Text_Classification.
+kk7nc_RMDL.RMDL,RMDL_Text,,Magic number,Text_Classification,36,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,Magic number 3 used in Text_Classification.
+kk7nc_RMDL.RMDL,RMDL_Text,,Magic number,Text_Classification,36,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,Magic number 3 used in Text_Classification.
+kk7nc_RMDL.RMDL,RMDL_Text,,Magic number,Text_Classification,36,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,Magic number 3 used in Text_Classification.
+kk7nc_RMDL.RMDL,RMDL_Text,,Magic number,Text_Classification,36,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,Magic number 500 used in Text_Classification.
+kk7nc_RMDL.RMDL,RMDL_Text,,Magic number,Text_Classification,36,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,Magic number 500 used in Text_Classification.
+kk7nc_RMDL.RMDL,RMDL_Text,,Magic number,Text_Classification,36,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,Magic number 500 used in Text_Classification.
+kk7nc_RMDL.RMDL,RMDL_Text,,Magic number,Text_Classification,327,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,Magic number 2 used in Text_Classification.
+kk7nc_RMDL.RMDL,RMDL_Text,,Magic number,Text_Classification,113,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,Magic number 2 used in Text_Classification.
+kk7nc_RMDL.RMDL,RMDL_Text,,Magic number,Text_Classification,163,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,Magic number 2 used in Text_Classification.
+kk7nc_RMDL.RMDL,RMDL_Text,,Magic number,Text_Classification,249,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,Magic number 3 used in Text_Classification.
+kk7nc_RMDL.RMDL,RMDL_Text,,Magic number,Text_Classification,251,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,Magic number 256 used in Text_Classification.
+kk7nc_RMDL.RMDL,RMDL_Text,,Magic number,Text_Classification,252,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,Magic number 8 used in Text_Classification.
+kk7nc_RMDL.RMDL,RMDL_Text,,Magic number,Text_Classification,319,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,Magic number 3 used in Text_Classification.
+kk7nc_RMDL.RMDL,RMDL_Text,,Magic number,Text_Classification,321,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,Magic number 64 used in Text_Classification.
+kk7nc_RMDL.RMDL,RMDL_Text,,Magic number,Text_Classification,322,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,Magic number 2 used in Text_Classification.
+kk7nc_RMDL.RMDL,RMDL_Text,,Magic number,Text_Classification,385,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,Magic number 5 used in Text_Classification.
+kk7nc_RMDL.RMDL,RMDL_Text,,Magic number,Text_Classification,387,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,Magic number 128 used in Text_Classification.
+kk7nc_RMDL.RMDL,RMDL_Text,,Magic number,Text_Classification,388,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/RMDL_Text.py,Magic number 2 used in Text_Classification.
+kk7nc_RMDL.RMDL,__init__,,Long statement,,1,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/__init__.py,A line with 650 chars in __init__ exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,text_feature_extraction,,Complex method,text_cleaner,46 - 102,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/text_feature_extraction.py,"Method 'text_cleaner' has a cyclomatic complexity of 9, exceeding the max of 6."
+kk7nc_RMDL.RMDL,text_feature_extraction,,Empty catch block,loadData_Tokenizer,128,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/text_feature_extraction.py,Empty catch block found in loadData_Tokenizer.
+kk7nc_RMDL.RMDL,text_feature_extraction,,Long method,text_cleaner,46 - 102,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/text_feature_extraction.py,Method 'text_cleaner' is too long (52 lines).
+kk7nc_RMDL.RMDL,text_feature_extraction,,Long parameter list,loadData_Tokenizer,104 - 133,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/text_feature_extraction.py,"loadData_Tokenizer has 6 parameters, exceeding the max of 5."
+kk7nc_RMDL.RMDL,text_feature_extraction,,Long statement,text_cleaner,51,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/text_feature_extraction.py,A line with 266 chars in text_cleaner exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,text_feature_extraction,,Long statement,,1,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/text_feature_extraction.py,A line with 650 chars in text_feature_extraction exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL,text_feature_extraction,,Magic number,loadData,135,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/text_feature_extraction.py,Magic number 75000 used in loadData.
+kk7nc_RMDL.RMDL.Download,Download_Glove,,Complex method,download_and_extract,43 - 82,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/Download/Download_Glove.py,"Method 'download_and_extract' has a cyclomatic complexity of 7, exceeding the max of 6."
+kk7nc_RMDL.RMDL.Download,Download_Glove,,Long statement,,1,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/Download/Download_Glove.py,A line with 650 chars in Download_Glove exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL.Download,Download_WOS,,Long statement,,1,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/Download/Download_WOS.py,A line with 650 chars in Download_WOS exceeds the maximum length of 120 characters.
+kk7nc_RMDL.RMDL.Download,__init__,,Long statement,,1,/Volumes/BrokeExt/NICHE/kk7nc_RMDL/RMDL/Download/__init__.py,A line with 650 chars in __init__ exceeds the maximum length of 120 characters.

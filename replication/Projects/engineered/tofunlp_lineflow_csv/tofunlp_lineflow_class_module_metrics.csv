@@ -1,0 +1,3 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+tofunlp_lineflow,setup,,0,0,0,0,0,0,-1,0,0
+tofunlp_lineflow.examples,frameworks,,11,3,0,0,6,6,-1,1,1

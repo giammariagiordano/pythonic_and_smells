@@ -1,0 +1,5 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+snipsco_tract.api.py,setup,,0,0,0,0,2,2,-1,0,0
+snipsco_tract.api.py.tests,mobilenet_onnx_test,,176,23,18,18,4,4,0.78,0,0
+snipsco_tract.api.py.tract,__init__,,6,3,3,3,0,0,1,0,0
+snipsco_tract.api.py.tract,bindings,,4,2,1,1,3,3,0,0,0

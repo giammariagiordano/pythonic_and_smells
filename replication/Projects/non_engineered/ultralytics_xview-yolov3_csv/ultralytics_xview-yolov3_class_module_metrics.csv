@@ -1,0 +1,2 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+ultralytics_xview-yolov3,detect,,212,20,1,1,28,28,0,1,3

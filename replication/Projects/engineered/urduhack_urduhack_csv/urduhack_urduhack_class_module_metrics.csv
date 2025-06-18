@@ -1,0 +1,10 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+urduhack_urduhack,setup,,79,2,1,1,3,3,0,0,0
+urduhack_urduhack.docs,conf,,0,0,0,0,27,27,-1,0,0
+urduhack_urduhack.urduhack,__init__,,0,0,0,0,1,0,-1,0,0
+urduhack_urduhack.urduhack,about,,9,1,1,1,6,0,0,0,0
+urduhack_urduhack.urduhack,config,,0,0,0,0,12,12,-1,0,0
+urduhack_urduhack.urduhack,stop_words,,4,1,1,1,1,1,0,0,0
+urduhack_urduhack.urduhack,urdu_characters,,0,0,0,0,7,7,-1,0,0
+urduhack_urduhack.urduhack.command,__init__,,0,0,0,0,0,0,-1,0,0
+urduhack_urduhack.urduhack.command,cli,,20,6,1,1,2,2,0,0,0

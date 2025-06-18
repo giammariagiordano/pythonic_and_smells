@@ -1,0 +1,4 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+michaelhush_M-LOOP,setup,,58,2,1,1,1,1,0,0,0
+michaelhush_M-LOOP.docs,conf,,0,0,0,0,31,31,-1,0,0
+michaelhush_M-LOOP.examples,python_controlled_experiment,,25,3,1,1,1,0,0,1,1

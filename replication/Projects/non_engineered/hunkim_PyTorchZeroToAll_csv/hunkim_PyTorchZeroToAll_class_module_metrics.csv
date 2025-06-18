@@ -1,0 +1,5 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+hunkim_PyTorchZeroToAll,01_basics,,5,2,2,2,7,7,0,0,0
+hunkim_PyTorchZeroToAll,02_manual_gradient,,7,3,3,3,5,5,0.33,0,0
+hunkim_PyTorchZeroToAll,03_auto_gradient,,4,2,2,2,6,6,1,0,0
+hunkim_PyTorchZeroToAll,05_linear_regression,,12,2,0,0,8,8,-1,1,1

@@ -1,0 +1,5 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+pytorch_elastic,__init__,,0,0,0,0,0,0,-1,0,0
+pytorch_elastic,setup,,2,1,1,1,3,3,0,0,0
+pytorch_elastic.aws,__init__,,0,0,0,0,0,0,-1,0,0
+pytorch_elastic.aws,autoscaling,,177,28,0,0,1,1,-1,1,0

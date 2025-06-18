@@ -1,0 +1,2 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+pytorch_builder.tools.linter.adapters,grep_linter,,211,17,5,5,7,7,0.2,0,0

@@ -1,0 +1,3 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+xiaomiwujiecao_DataAnalysisInAction.37,weibo,Multifaceted abstraction,weibo,1,/Volumes/BrokeExt/NICHE/xiaomiwujiecao_DataAnalysisInAction/37/weibo.py,"Class 'weibo' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+xiaomiwujiecao_DataAnalysisInAction.40,credit_fraud_analysis,Multifaceted abstraction,credit_fraud_analysis,1,/Volumes/BrokeExt/NICHE/xiaomiwujiecao_DataAnalysisInAction/40/credit_fraud_analysis.py,"Class 'credit_fraud_analysis' has a high LCOM value of 1, indicating it may have multiple responsibilities."

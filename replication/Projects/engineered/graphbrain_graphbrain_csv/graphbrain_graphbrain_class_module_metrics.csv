@@ -1,0 +1,11 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+graphbrain_graphbrain,setup,,0,0,0,0,9,9,-1,0,0
+graphbrain_graphbrain,setup_utils,,21,3,3,3,0,0,0,0,0
+graphbrain_graphbrain.docs.source,conf,,0,0,0,0,21,21,-1,0,0
+graphbrain_graphbrain.examples,parse-text,,0,0,0,0,3,3,-1,0,0
+graphbrain_graphbrain.graphbrain,__init__,,20,4,2,2,3,2,0,0,0
+graphbrain_graphbrain.graphbrain,__main__,,0,0,0,0,0,0,-1,0,0
+graphbrain_graphbrain.graphbrain,cli,,168,43,3,2,11,11,0,0,1
+graphbrain_graphbrain.graphbrain,colored,,67,14,7,7,8,8,0.14,0,0
+graphbrain_graphbrain.graphbrain,constants,,0,0,0,0,20,20,-1,0,0
+graphbrain_graphbrain.graphbrain,hypergraph,,223,78,1,0,1,1,0,0,0

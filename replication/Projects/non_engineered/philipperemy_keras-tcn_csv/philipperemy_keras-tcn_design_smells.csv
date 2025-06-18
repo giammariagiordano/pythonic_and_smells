@@ -1,0 +1,2 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+philipperemy_keras-tcn.tasks,tcn_call_test,Multifaceted abstraction,TCNCallTest,35,/Volumes/BrokeExt/NICHE/philipperemy_keras-tcn/tasks/tcn_call_test.py,"Class 'TCNCallTest' has a high LCOM value of 1, indicating it may have multiple responsibilities."

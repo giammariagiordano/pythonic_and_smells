@@ -1,0 +1,5 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+explosion_prodigy-recipes,tests,Insufficient modularization,tests,1,/Volumes/BrokeExt/NICHE/explosion_prodigy-recipes/tests.py,"Module 'tests' is insufficiently modularized with NOPM: 24, WMC: 26, NOM: 24."
+explosion_prodigy-recipes,tests,Multifaceted abstraction,tests,1,/Volumes/BrokeExt/NICHE/explosion_prodigy-recipes/tests.py,"Class 'tests' has a high LCOM value of 0.88, indicating it may have multiple responsibilities."
+explosion_prodigy-recipes.image.image_caption,image_caption,Multifaceted abstraction,image_caption,1,/Volumes/BrokeExt/NICHE/explosion_prodigy-recipes/image/image_caption/image_caption.py,"Class 'image_caption' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+explosion_prodigy-recipes.tutorials.kb-guided-llm-ner,ner_llm_kb_correct,Multifaceted abstraction,ner_llm_kb_correct,1,/Volumes/BrokeExt/NICHE/explosion_prodigy-recipes/tutorials/kb-guided-llm-ner/ner_llm_kb_correct.py,"Class 'ner_llm_kb_correct' has a high LCOM value of 1, indicating it may have multiple responsibilities."

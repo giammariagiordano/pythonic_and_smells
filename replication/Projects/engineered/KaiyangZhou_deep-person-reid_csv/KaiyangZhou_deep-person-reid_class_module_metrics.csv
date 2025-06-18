@@ -1,0 +1,5 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+KaiyangZhou_deep-person-reid,setup,,20,5,4,4,4,4,1,0,0
+KaiyangZhou_deep-person-reid.docs,conf,,0,0,0,0,24,23,-1,0,0
+KaiyangZhou_deep-person-reid.projects.DML,default_config,,175,6,6,6,0,0,1,0,0
+KaiyangZhou_deep-person-reid.projects.DML,dml,,111,9,0,0,0,0,-1,1,2

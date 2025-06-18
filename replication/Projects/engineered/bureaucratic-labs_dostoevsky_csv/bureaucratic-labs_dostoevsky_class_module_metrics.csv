@@ -1,0 +1,5 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+bureaucratic-labs_dostoevsky,setup,,6,2,2,2,0,0,1,0,0
+bureaucratic-labs_dostoevsky.dostoevsky,__init__,,0,0,0,0,0,0,-1,0,0
+bureaucratic-labs_dostoevsky.dostoevsky,__main__,,0,0,0,0,5,5,-1,0,1
+bureaucratic-labs_dostoevsky.dostoevsky,corpora,,27,6,0,0,0,0,-1,0,0

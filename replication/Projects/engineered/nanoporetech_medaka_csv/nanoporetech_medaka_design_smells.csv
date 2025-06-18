@@ -1,0 +1,5 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+nanoporetech_medaka.medaka,__init__,Multifaceted abstraction,__init__,1,/Volumes/BrokeExt/NICHE/nanoporetech_medaka/medaka/__init__.py,"Class '__init__' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+nanoporetech_medaka.medaka,common,Broken modularization,Relationship,32,/Volumes/BrokeExt/NICHE/nanoporetech_medaka/medaka/common.py,Class 'Relationship' contains only data members without any method implementations.
+nanoporetech_medaka.medaka,common,Insufficient modularization,common,1,/Volumes/BrokeExt/NICHE/nanoporetech_medaka/medaka/common.py,"Module 'common' is insufficiently modularized with NOPM: 19, WMC: 148, NOM: 19."
+nanoporetech_medaka.medaka,common,Multifaceted abstraction,common,1,/Volumes/BrokeExt/NICHE/nanoporetech_medaka/medaka/common.py,"Class 'common' has a high LCOM value of 0.84, indicating it may have multiple responsibilities."

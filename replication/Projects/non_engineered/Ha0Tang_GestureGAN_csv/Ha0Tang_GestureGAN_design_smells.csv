@@ -1,0 +1,3 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+Ha0Tang_GestureGAN.data,base_data_loader,Multifaceted abstraction,BaseDataLoader,1,/Volumes/BrokeExt/NICHE/Ha0Tang_GestureGAN/data/base_data_loader.py,"Class 'BaseDataLoader' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+Ha0Tang_GestureGAN.data,base_dataset,Multifaceted abstraction,BaseDataset,6,/Volumes/BrokeExt/NICHE/Ha0Tang_GestureGAN/data/base_dataset.py,"Class 'BaseDataset' has a high LCOM value of 1, indicating it may have multiple responsibilities."

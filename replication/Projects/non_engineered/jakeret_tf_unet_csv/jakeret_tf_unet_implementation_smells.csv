@@ -1,0 +1,115 @@
+Package,Module,Class,Smell,Function/Method,Line no,File,Details
+jakeret_tf_unet,setup,,Long statement,,20,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/setup.py,A line with 732 chars in setup exceeds the maximum length of 120 characters.
+jakeret_tf_unet.docs,conf,,Long statement,,245,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/docs/conf.py,A line with 156 chars in conf exceeds the maximum length of 120 characters.
+jakeret_tf_unet.scripts,rfi_launcher,,Long parameter list,launch,43 - 66,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/scripts/rfi_launcher.py,"launch has 7 parameters, exceeding the max of 5."
+jakeret_tf_unet.scripts,rfi_launcher,,Long statement,launch,47,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/scripts/rfi_launcher.py,A line with 160 chars in launch exceeds the maximum length of 120 characters.
+jakeret_tf_unet.scripts,rfi_launcher,,Long statement,launch,56,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/scripts/rfi_launcher.py,A line with 133 chars in launch exceeds the maximum length of 120 characters.
+jakeret_tf_unet.scripts,rfi_launcher,,Long statement,,15,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/scripts/rfi_launcher.py,A line with 195 chars in rfi_launcher exceeds the maximum length of 120 characters.
+jakeret_tf_unet.scripts,rfi_launcher,DataProvider,Magic number,__init__,78,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/scripts/rfi_launcher.py,Magic number 30 used in __init__.
+jakeret_tf_unet.scripts,rfi_launcher,DataProvider,Magic number,__init__,78,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/scripts/rfi_launcher.py,Magic number 210 used in __init__.
+jakeret_tf_unet.scripts,ufig_launcher,,Long parameter list,launch,44 - 70,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/scripts/ufig_launcher.py,"launch has 7 parameters, exceeding the max of 5."
+jakeret_tf_unet.scripts,ufig_launcher,,Long statement,launch,50,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/scripts/ufig_launcher.py,A line with 183 chars in launch exceeds the maximum length of 120 characters.
+jakeret_tf_unet.scripts,ufig_launcher,,Long statement,launch,61,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/scripts/ufig_launcher.py,A line with 133 chars in launch exceeds the maximum length of 120 characters.
+jakeret_tf_unet.scripts,ufig_launcher,,Long statement,,15,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/scripts/ufig_launcher.py,A line with 168 chars in ufig_launcher exceeds the maximum length of 120 characters.
+jakeret_tf_unet.scripts,ufig_launcher,DataProvider,Magic number,__init__,82,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/scripts/ufig_launcher.py,Magic number 20 used in __init__.
+jakeret_tf_unet.scripts,ufig_launcher,DataProvider,Magic number,_next_data,123,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/scripts/ufig_launcher.py,Magic number 2 used in _next_data.
+jakeret_tf_unet.scripts,ufig_launcher,DataProvider,Magic number,_next_data,122,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/scripts/ufig_launcher.py,Magic number 2 used in _next_data.
+jakeret_tf_unet.scripts,ultrasound_launcher,,Long parameter list,launch,46 - 76,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/scripts/ultrasound_launcher.py,"launch has 7 parameters, exceeding the max of 5."
+jakeret_tf_unet.scripts,ultrasound_launcher,,Long statement,launch,56,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/scripts/ultrasound_launcher.py,A line with 123 chars in launch exceeds the maximum length of 120 characters.
+jakeret_tf_unet.scripts,ultrasound_launcher,,Long statement,launch,66,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/scripts/ultrasound_launcher.py,A line with 133 chars in launch exceeds the maximum length of 120 characters.
+jakeret_tf_unet.scripts,ultrasound_launcher,,Long statement,,15,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/scripts/ultrasound_launcher.py,A line with 158 chars in ultrasound_launcher exceeds the maximum length of 120 characters.
+jakeret_tf_unet.tf_unet,image_gen,,Long parameter list,create_image_and_label,61 - 105,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/image_gen.py,"create_image_and_label has 8 parameters, exceeding the max of 5."
+jakeret_tf_unet.tf_unet,image_gen,,Long statement,,15,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/image_gen.py,A line with 121 chars in image_gen exceeds the maximum length of 120 characters.
+jakeret_tf_unet.tf_unet,image_gen,,Magic number,create_image_and_label,61,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/image_gen.py,Magic number 10 used in create_image_and_label.
+jakeret_tf_unet.tf_unet,image_gen,,Magic number,create_image_and_label,61,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/image_gen.py,Magic number 5 used in create_image_and_label.
+jakeret_tf_unet.tf_unet,image_gen,,Magic number,create_image_and_label,61,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/image_gen.py,Magic number 50 used in create_image_and_label.
+jakeret_tf_unet.tf_unet,image_gen,,Magic number,create_image_and_label,61,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/image_gen.py,Magic number 92 used in create_image_and_label.
+jakeret_tf_unet.tf_unet,image_gen,,Magic number,create_image_and_label,61,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/image_gen.py,Magic number 20 used in create_image_and_label.
+jakeret_tf_unet.tf_unet,image_gen,,Magic number,create_image_and_label,94,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/image_gen.py,Magic number 2 used in create_image_and_label.
+jakeret_tf_unet.tf_unet,image_gen,GrayScaleDataProvider,Magic number,__init__,38,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/image_gen.py,Magic number 3 used in __init__.
+jakeret_tf_unet.tf_unet,image_gen,RgbDataProvider,Magic number,__init__,54,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/image_gen.py,Magic number 3 used in __init__.
+jakeret_tf_unet.tf_unet,image_util,ImageDataProvider,Long parameter list,__init__,159 - 182,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/image_util.py,"__init__ has 6 parameters, exceeding the max of 5."
+jakeret_tf_unet.tf_unet,image_util,BaseDataProvider,Long statement,_post_process,86,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/image_util.py,A line with 160 chars in _post_process exceeds the maximum length of 120 characters.
+jakeret_tf_unet.tf_unet,image_util,BaseDataProvider,Magic number,_process_labels,59,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/image_util.py,Magic number 2 used in _process_labels.
+jakeret_tf_unet.tf_unet,image_util,BaseDataProvider,Magic number,__call__,97,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/image_util.py,Magic number 2 used in __call__.
+jakeret_tf_unet.tf_unet,image_util,ImageDataProvider,Magic number,__init__,179,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/image_util.py,Magic number 2 used in __init__.
+jakeret_tf_unet.tf_unet,image_util,ImageDataProvider,Magic number,__init__,178,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/image_util.py,Magic number 2 used in __init__.
+jakeret_tf_unet.tf_unet,image_util,ImageDataProvider,Magic number,__init__,179,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/image_util.py,Magic number 2 used in __init__.
+jakeret_tf_unet.tf_unet,layers,,Long statement,deconv2d,45,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/layers.py,A line with 123 chars in deconv2d exceeds the maximum length of 120 characters.
+jakeret_tf_unet.tf_unet,layers,,Magic number,weight_variable,24,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/layers.py,Magic number 0.1 used in weight_variable.
+jakeret_tf_unet.tf_unet,layers,,Magic number,weight_variable_devonc,28,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/layers.py,Magic number 0.1 used in weight_variable_devonc.
+jakeret_tf_unet.tf_unet,layers,,Magic number,crop_and_concat,55,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/layers.py,Magic number 2 used in crop_and_concat.
+jakeret_tf_unet.tf_unet,layers,,Magic number,crop_and_concat,55,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/layers.py,Magic number 2 used in crop_and_concat.
+jakeret_tf_unet.tf_unet,layers,,Magic number,crop_and_concat,56,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/layers.py,Magic number 2 used in crop_and_concat.
+jakeret_tf_unet.tf_unet,layers,,Magic number,crop_and_concat,55,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/layers.py,Magic number 2 used in crop_and_concat.
+jakeret_tf_unet.tf_unet,layers,,Magic number,crop_and_concat,55,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/layers.py,Magic number 2 used in crop_and_concat.
+jakeret_tf_unet.tf_unet,unet,,Complex method,create_conv_net,38 - 175,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,"Method 'create_conv_net' has a cyclomatic complexity of 13, exceeding the max of 6."
+jakeret_tf_unet.tf_unet,unet,Trainer,Complex method,train,390 - 458,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,"Method 'train' has a cyclomatic complexity of 10, exceeding the max of 6."
+jakeret_tf_unet.tf_unet,unet,,Long method,create_conv_net,38 - 175,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,Method 'create_conv_net' is too long (111 lines).
+jakeret_tf_unet.tf_unet,unet,Trainer,Long method,train,390 - 458,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,Method 'train' is too long (55 lines).
+jakeret_tf_unet.tf_unet,unet,,Long parameter list,create_conv_net,38 - 175,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,"create_conv_net has 9 parameters, exceeding the max of 5."
+jakeret_tf_unet.tf_unet,unet,Trainer,Long parameter list,__init__,319 - 325,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,"__init__ has 6 parameters, exceeding the max of 5."
+jakeret_tf_unet.tf_unet,unet,Trainer,Long parameter list,train,390 - 458,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,"train has 9 parameters, exceeding the max of 5."
+jakeret_tf_unet.tf_unet,unet,,Long statement,create_conv_net,40,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,A line with 573 chars in create_conv_net exceeds the maximum length of 120 characters.
+jakeret_tf_unet.tf_unet,unet,,Long statement,create_conv_net,54,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,A line with 221 chars in create_conv_net exceeds the maximum length of 120 characters.
+jakeret_tf_unet.tf_unet,unet,,Long statement,error_rate,518,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,A line with 161 chars in error_rate exceeds the maximum length of 120 characters.
+jakeret_tf_unet.tf_unet,unet,Unet,Long statement,__init__,205,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,A line with 130 chars in __init__ exceeds the maximum length of 120 characters.
+jakeret_tf_unet.tf_unet,unet,Unet,Long statement,_get_cost,214,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,A line with 319 chars in _get_cost exceeds the maximum length of 120 characters.
+jakeret_tf_unet.tf_unet,unet,Unet,Long statement,predict,260,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,A line with 318 chars in predict exceeds the maximum length of 120 characters.
+jakeret_tf_unet.tf_unet,unet,Unet,Long statement,save,282,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,A line with 160 chars in save exceeds the maximum length of 120 characters.
+jakeret_tf_unet.tf_unet,unet,Unet,Long statement,restore,294,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,A line with 175 chars in restore exceeds the maximum length of 120 characters.
+jakeret_tf_unet.tf_unet,unet,Trainer,Long statement,_get_optimizer,333,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,A line with 173 chars in _get_optimizer exceeds the maximum length of 120 characters.
+jakeret_tf_unet.tf_unet,unet,Trainer,Long statement,_get_optimizer,339,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,A line with 164 chars in _get_optimizer exceeds the maximum length of 120 characters.
+jakeret_tf_unet.tf_unet,unet,Trainer,Long statement,_get_optimizer,346,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,A line with 141 chars in _get_optimizer exceeds the maximum length of 120 characters.
+jakeret_tf_unet.tf_unet,unet,Trainer,Long statement,train,392,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,A line with 678 chars in train exceeds the maximum length of 120 characters.
+jakeret_tf_unet.tf_unet,unet,Trainer,Long statement,train,435,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,A line with 233 chars in train exceeds the maximum length of 120 characters.
+jakeret_tf_unet.tf_unet,unet,Trainer,Long statement,store_prediction,466,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,A line with 141 chars in store_prediction exceeds the maximum length of 120 characters.
+jakeret_tf_unet.tf_unet,unet,Trainer,Long statement,store_prediction,470,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,A line with 141 chars in store_prediction exceeds the maximum length of 120 characters.
+jakeret_tf_unet.tf_unet,unet,Trainer,Long statement,output_minibatch_stats,486,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,A line with 200 chars in output_minibatch_stats exceeds the maximum length of 120 characters.
+jakeret_tf_unet.tf_unet,unet,Trainer,Long statement,output_minibatch_stats,495,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,A line with 159 chars in output_minibatch_stats exceeds the maximum length of 120 characters.
+jakeret_tf_unet.tf_unet,unet,,Magic number,create_conv_net,38,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,Magic number 3 used in create_conv_net.
+jakeret_tf_unet.tf_unet,unet,,Magic number,create_conv_net,38,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,Magic number 16 used in create_conv_net.
+jakeret_tf_unet.tf_unet,unet,,Magic number,create_conv_net,38,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,Magic number 3 used in create_conv_net.
+jakeret_tf_unet.tf_unet,unet,,Magic number,create_conv_net,38,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,Magic number 2 used in create_conv_net.
+jakeret_tf_unet.tf_unet,unet,,Magic number,create_conv_net,77,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,Magic number 1000 used in create_conv_net.
+jakeret_tf_unet.tf_unet,unet,,Magic number,create_conv_net,64,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,Magic number 2 used in create_conv_net.
+jakeret_tf_unet.tf_unet,unet,,Magic number,create_conv_net,82,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,Magic number 2 used in create_conv_net.
+jakeret_tf_unet.tf_unet,unet,,Magic number,create_conv_net,102,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,Magic number 2 used in create_conv_net.
+jakeret_tf_unet.tf_unet,unet,,Magic number,create_conv_net,102,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,Magic number 2 used in create_conv_net.
+jakeret_tf_unet.tf_unet,unet,,Magic number,create_conv_net,102,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,Magic number 2 used in create_conv_net.
+jakeret_tf_unet.tf_unet,unet,,Magic number,create_conv_net,113,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,Magic number 2 used in create_conv_net.
+jakeret_tf_unet.tf_unet,unet,,Magic number,create_conv_net,138,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,Magic number 2 used in create_conv_net.
+jakeret_tf_unet.tf_unet,unet,,Magic number,create_conv_net,138,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,Magic number 2 used in create_conv_net.
+jakeret_tf_unet.tf_unet,unet,,Magic number,create_conv_net,138,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,Magic number 2 used in create_conv_net.
+jakeret_tf_unet.tf_unet,unet,,Magic number,error_rate,518,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,Magic number 100.0 used in error_rate.
+jakeret_tf_unet.tf_unet,unet,,Magic number,error_rate,519,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,Magic number 100.0 used in error_rate.
+jakeret_tf_unet.tf_unet,unet,,Magic number,error_rate,521,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,Magic number 2 used in error_rate.
+jakeret_tf_unet.tf_unet,unet,,Magic number,get_image_summary,532,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,Magic number 255 used in get_image_summary.
+jakeret_tf_unet.tf_unet,unet,,Magic number,get_image_summary,535,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,Magic number 2 used in get_image_summary.
+jakeret_tf_unet.tf_unet,unet,Unet,Magic number,_get_cost,243,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,Magic number 1e-05 used in _get_cost.
+jakeret_tf_unet.tf_unet,unet,Unet,Magic number,_get_cost,247,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,Magic number 2 used in _get_cost.
+jakeret_tf_unet.tf_unet,unet,Trainer,Magic number,__init__,319,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,Magic number 4 used in __init__.
+jakeret_tf_unet.tf_unet,unet,Trainer,Magic number,train,390,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,Magic number 10 used in train.
+jakeret_tf_unet.tf_unet,unet,Trainer,Magic number,train,390,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,Magic number 100 used in train.
+jakeret_tf_unet.tf_unet,unet,Trainer,Magic number,train,390,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/unet.py,Magic number 0.75 used in train.
+jakeret_tf_unet.tf_unet,util,,Long statement,to_rgb,61,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/util.py,A line with 299 chars in to_rgb exceeds the maximum length of 120 characters.
+jakeret_tf_unet.tf_unet,util,,Long statement,crop_to_shape,84,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/util.py,A line with 207 chars in crop_to_shape exceeds the maximum length of 120 characters.
+jakeret_tf_unet.tf_unet,util,,Long statement,expand_to_shape,105,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/util.py,A line with 216 chars in expand_to_shape exceeds the maximum length of 120 characters.
+jakeret_tf_unet.tf_unet,util,,Long statement,combine_img_prediction,125,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/util.py,A line with 249 chars in combine_img_prediction exceeds the maximum length of 120 characters.
+jakeret_tf_unet.tf_unet,util,,Long statement,combine_img_prediction,136,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/util.py,A line with 211 chars in combine_img_prediction exceeds the maximum length of 120 characters.
+jakeret_tf_unet.tf_unet,util,,Long statement,create_training_path,152,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/util.py,A line with 257 chars in create_training_path exceeds the maximum length of 120 characters.
+jakeret_tf_unet.tf_unet,util,,Magic number,to_rgb,80,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/util.py,Magic number 255 used in to_rgb.
+jakeret_tf_unet.tf_unet,util,,Magic number,to_rgb,71,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/util.py,Magic number 2 used in to_rgb.
+jakeret_tf_unet.tf_unet,util,,Magic number,to_rgb,72,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/util.py,Magic number 3 used in to_rgb.
+jakeret_tf_unet.tf_unet,util,,Magic number,crop_to_shape,93,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/util.py,Magic number 2 used in crop_to_shape.
+jakeret_tf_unet.tf_unet,util,,Magic number,crop_to_shape,95,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/util.py,Magic number 2 used in crop_to_shape.
+jakeret_tf_unet.tf_unet,util,,Magic number,crop_to_shape,91,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/util.py,Magic number 2 used in crop_to_shape.
+jakeret_tf_unet.tf_unet,util,,Magic number,crop_to_shape,91,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/util.py,Magic number 2 used in crop_to_shape.
+jakeret_tf_unet.tf_unet,util,,Magic number,crop_to_shape,101,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/util.py,Magic number 2 used in crop_to_shape.
+jakeret_tf_unet.tf_unet,util,,Magic number,crop_to_shape,101,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/util.py,Magic number 2 used in crop_to_shape.
+jakeret_tf_unet.tf_unet,util,,Magic number,expand_to_shape,114,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/util.py,Magic number 2 used in expand_to_shape.
+jakeret_tf_unet.tf_unet,util,,Magic number,expand_to_shape,116,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/util.py,Magic number 2 used in expand_to_shape.
+jakeret_tf_unet.tf_unet,util,,Magic number,expand_to_shape,112,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/util.py,Magic number 2 used in expand_to_shape.
+jakeret_tf_unet.tf_unet,util,,Magic number,expand_to_shape,112,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/util.py,Magic number 2 used in expand_to_shape.
+jakeret_tf_unet.tf_unet,util,,Magic number,combine_img_prediction,134,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/util.py,Magic number 2 used in combine_img_prediction.
+jakeret_tf_unet.tf_unet,util,,Magic number,combine_img_prediction,135,/Volumes/BrokeExt/NICHE/jakeret_tf_unet/tf_unet/util.py,Magic number 3 used in combine_img_prediction.

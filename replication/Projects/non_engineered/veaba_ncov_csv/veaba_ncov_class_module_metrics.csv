@@ -1,0 +1,17 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+veaba_ncov.ai.learn-nlp,app,,0,0,0,0,0,0,-1,0,0
+veaba_ncov.ai.split-chinese,base-word2vec,,0,0,0,0,3,3,-1,0,0
+veaba_ncov.ai.split-chinese,jieba-base,,0,0,0,0,2,2,-1,0,0
+veaba_ncov.ai.split-chinese,python-parser-covid-19-china-report,,0,0,0,0,0,0,-1,0,0
+veaba_ncov.servers.docker-python,mongo,,35,9,9,9,0,0,0.33,0,0
+veaba_ncov.servers.docker-python,producer,,11,2,1,1,0,0,0,0,0
+veaba_ncov.servers.docker-python,spider_app,,98,22,5,5,10,10,0.4,0,0
+veaba_ncov.servers.docker-python,topic_kafka,,11,2,2,2,0,0,1,0,0
+veaba_ncov.servers.docker-python,utils,,49,2,1,1,13,13,0,0,0
+veaba_ncov.servers.docker-python.nohandler,app,,10,2,1,1,0,0,0,0,0
+veaba_ncov.servers.docker-python.nohandler,cunsumer,,25,5,1,1,3,3,0,0,0
+veaba_ncov.servers.docker-python.nohandler,server_app,,36,12,9,9,5,5,1,0,0
+veaba_ncov.servers.docker-python.nohandler,socket_app,,37,7,3,3,3,3,0.33,0,0
+veaba_ncov.servers.docker-python.test,spider_test,,26,6,3,3,4,4,0.33,0,0
+veaba_ncov.servers.docker-python.test,test,,10,4,3,3,1,1,0,0,0
+veaba_ncov.servers.docker-python.test,thread_test,,0,0,0,0,0,0,-1,0,0

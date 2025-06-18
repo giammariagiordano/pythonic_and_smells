@@ -1,0 +1,3 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+hunglc007_tensorflow-yolov4-tflite.core,backbone,Multifaceted abstraction,backbone,1,/Volumes/BrokeExt/NICHE/hunglc007_tensorflow-yolov4-tflite/core/backbone.py,"Class 'backbone' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+hunglc007_tensorflow-yolov4-tflite.core,config,Broken modularization,config,1,/Volumes/BrokeExt/NICHE/hunglc007_tensorflow-yolov4-tflite/core/config.py,Module 'config' contains only data members without any method implementations.

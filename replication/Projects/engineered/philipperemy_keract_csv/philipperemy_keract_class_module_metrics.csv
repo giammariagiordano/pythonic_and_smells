@@ -1,0 +1,3 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+philipperemy_keract,setup,,0,0,0,0,0,0,-1,0,0
+philipperemy_keract.examples,data,,18,1,0,0,0,0,-1,0,0

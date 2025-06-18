@@ -1,0 +1,4 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+videoflow_videoflow,setup,,0,0,0,0,3,2,-1,0,0
+videoflow_videoflow.docs.source,conf,,0,0,0,0,12,12,-1,0,0
+videoflow_videoflow.examples,object_detector,,19,3,1,1,3,3,0,0,0

@@ -1,0 +1,2 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+tensorflow_compression.models,bls2017,,317,37,11,11,14,14,0.09,2,3

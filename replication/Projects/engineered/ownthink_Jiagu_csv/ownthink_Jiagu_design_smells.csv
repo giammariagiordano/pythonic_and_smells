@@ -1,0 +1,7 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+ownthink_Jiagu.jiagu,__init__,Broken modularization,__init__,1,/Volumes/BrokeExt/NICHE/ownthink_Jiagu/jiagu/__init__.py,Module '__init__' contains only data members without any method implementations.
+ownthink_Jiagu.jiagu,perceptron,Multifaceted abstraction,perceptron,1,/Volumes/BrokeExt/NICHE/ownthink_Jiagu/jiagu/perceptron.py,"Class 'perceptron' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+ownthink_Jiagu.jiagu.cluster,base,Multifaceted abstraction,base,1,/Volumes/BrokeExt/NICHE/ownthink_Jiagu/jiagu/cluster/base.py,"Class 'base' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+ownthink_Jiagu.test,test_cluster,Multifaceted abstraction,TestCluster,75,/Volumes/BrokeExt/NICHE/ownthink_Jiagu/test/test_cluster.py,"Class 'TestCluster' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+ownthink_Jiagu.test,test_textrank,Multifaceted abstraction,TestTextRank,16,/Volumes/BrokeExt/NICHE/ownthink_Jiagu/test/test_textrank.py,"Class 'TestTextRank' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+ownthink_Jiagu.train,perceptron,Multifaceted abstraction,perceptron,1,/Volumes/BrokeExt/NICHE/ownthink_Jiagu/train/perceptron.py,"Class 'perceptron' has a high LCOM value of 1, indicating it may have multiple responsibilities."

@@ -1,0 +1,4 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+firmai_datagene.datagene,dist_utilities,Insufficient modularization,dist_utilities,1,/Volumes/BrokeExt/NICHE/firmai_datagene/datagene/dist_utilities.py,"Module 'dist_utilities' is insufficiently modularized with NOPM: 97, WMC: 163, NOM: 103."
+firmai_datagene.datagene,distance,Insufficient modularization,distance,1,/Volumes/BrokeExt/NICHE/firmai_datagene/datagene/distance.py,"Module 'distance' is insufficiently modularized with NOPM: 26, WMC: 43, NOM: 28."
+firmai_datagene.datagene,transform,Insufficient modularization,transform,1,/Volumes/BrokeExt/NICHE/firmai_datagene/datagene/transform.py,"Module 'transform' is insufficiently modularized with NOPM: 52, WMC: 65, NOM: 52."

@@ -1,0 +1,5 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+kubeflow_fairing,setup,,0,0,0,0,1,1,-1,0,0
+kubeflow_fairing.containerregistry,__init__,,0,0,0,0,1,1,-1,0,0
+kubeflow_fairing.containerregistry.client,__init__,,0,0,0,0,1,1,-1,0,0
+kubeflow_fairing.containerregistry.client,docker_creds_,,115,24,2,0,4,1,0,1,1

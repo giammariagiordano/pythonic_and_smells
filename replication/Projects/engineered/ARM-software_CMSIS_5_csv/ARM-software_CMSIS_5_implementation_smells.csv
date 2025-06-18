@@ -1,0 +1,12 @@
+Package,Module,Class,Smell,Function/Method,Line no,File,Details
+ARM-software_CMSIS_5,linter,CmsisPackVersionParser,Complex method,_cmtable_,31 - 48,/Volumes/BrokeExt/NICHE/ARM-software_CMSIS_5/linter.py,"Method '_cmtable_' has a cyclomatic complexity of 7, exceeding the max of 6."
+ARM-software_CMSIS_5,linter,CmsisPackLinter,Complex method,check_files,254 - 277,/Volumes/BrokeExt/NICHE/ARM-software_CMSIS_5/linter.py,"Method 'check_files' has a cyclomatic complexity of 9, exceeding the max of 6."
+ARM-software_CMSIS_5,linter,CmsisPackLinter,Complex method,check_doc,279 - 319,/Volumes/BrokeExt/NICHE/ARM-software_CMSIS_5/linter.py,"Method 'check_doc' has a cyclomatic complexity of 14, exceeding the max of 6."
+ARM-software_CMSIS_5,linter,CmsisPackLinter,Long statement,cmsis_corem_component,147,/Volumes/BrokeExt/NICHE/ARM-software_CMSIS_5/linter.py,A line with 126 chars in cmsis_corem_component exceeds the maximum length of 120 characters.
+ARM-software_CMSIS_5,linter,CmsisPackLinter,Long statement,cmsis_corea_component,155,/Volumes/BrokeExt/NICHE/ARM-software_CMSIS_5/linter.py,A line with 126 chars in cmsis_corea_component exceeds the maximum length of 120 characters.
+ARM-software_CMSIS_5,linter,CmsisPackLinter,Long statement,cmsis_rtx5_component,171,/Volumes/BrokeExt/NICHE/ARM-software_CMSIS_5/linter.py,A line with 133 chars in cmsis_rtx5_component exceeds the maximum length of 120 characters.
+ARM-software_CMSIS_5,linter,CmsisPackLinter,Magic number,check_doc,298,/Volumes/BrokeExt/NICHE/ARM-software_CMSIS_5/linter.py,Magic number 400 used in check_doc.
+ARM-software_CMSIS_5.CMSIS.CoreValidation.Project,build,,Long Lambda Function,model_exec,245,/Volumes/BrokeExt/NICHE/ARM-software_CMSIS_5/CMSIS/CoreValidation/Project/build.py,A Lambda with 131 chars in model_exec exceeds the maximum length of 80 characters.
+ARM-software_CMSIS_5.CMSIS.CoreValidation.Project,build,,Complex method,build,168 - 194,/Volumes/BrokeExt/NICHE/ARM-software_CMSIS_5/CMSIS/CoreValidation/Project/build.py,"Method 'build' has a cyclomatic complexity of 7, exceeding the max of 6."
+ARM-software_CMSIS_5.CMSIS.CoreValidation.Project,build,,Long statement,model_exec,254,/Volumes/BrokeExt/NICHE/ARM-software_CMSIS_5/CMSIS/CoreValidation/Project/build.py,A line with 123 chars in model_exec exceeds the maximum length of 120 characters.
+ARM-software_CMSIS_5.CMSIS.CoreValidation.Project,build,,Magic number,model_exec,250,/Volumes/BrokeExt/NICHE/ARM-software_CMSIS_5/CMSIS/CoreValidation/Project/build.py,Magic number 100 used in model_exec.

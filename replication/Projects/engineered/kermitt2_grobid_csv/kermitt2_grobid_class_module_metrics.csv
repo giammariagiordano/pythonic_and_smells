@@ -1,0 +1,4 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+kermitt2_grobid.grobid-home.scripts,preload_embeddings,,43,13,1,1,10,10,0,0,0
+kermitt2_grobid.grobid-home.scripts,select_error_cases,,160,41,1,1,59,59,0,0,0
+kermitt2_grobid.grobid-trainer.scripts,check_training_data,,0,0,0,0,5,5,-1,0,0

@@ -1,0 +1,5 @@
+Package,Module,Smell,Class/Module,Line no,File,Details
+tlatkowski_multihead-siamese-nets.data,dataset,Multifaceted abstraction,DatasetExperiment,4,/Volumes/BrokeExt/NICHE/tlatkowski_multihead-siamese-nets/data/dataset.py,"Class 'DatasetExperiment' has a high LCOM value of 0.82, indicating it may have multiple responsibilities."
+tlatkowski_multihead-siamese-nets.layers,basics,Multifaceted abstraction,basics,1,/Volumes/BrokeExt/NICHE/tlatkowski_multihead-siamese-nets/layers/basics.py,"Class 'basics' has a high LCOM value of 1, indicating it may have multiple responsibilities."
+tlatkowski_multihead-siamese-nets.utils,config_helpers,Broken modularization,MainConfig,5,/Volumes/BrokeExt/NICHE/tlatkowski_multihead-siamese-nets/utils/config_helpers.py,Class 'MainConfig' contains only data members without any method implementations.
+tlatkowski_multihead-siamese-nets.utils,other_utils,Multifaceted abstraction,other_utils,1,/Volumes/BrokeExt/NICHE/tlatkowski_multihead-siamese-nets/utils/other_utils.py,"Class 'other_utils' has a high LCOM value of 1, indicating it may have multiple responsibilities."

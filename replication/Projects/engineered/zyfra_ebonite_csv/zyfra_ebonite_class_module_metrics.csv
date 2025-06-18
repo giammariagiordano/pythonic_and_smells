@@ -1,0 +1,6 @@
+Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
+zyfra_ebonite,setup,,8,3,2,2,2,2,0,0,0
+zyfra_ebonite.docs,conf,,0,0,0,0,33,33,-1,0,0
+zyfra_ebonite.examples.binary_payload,client,,12,2,1,1,1,1,0,0,0
+zyfra_ebonite.examples.binary_payload,serve,,32,6,4,4,4,4,1,0,0
+zyfra_ebonite.examples.custom_code,_custom_code,,10,3,1,1,1,1,0,1,1
