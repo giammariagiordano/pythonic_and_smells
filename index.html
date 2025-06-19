@@ -155,12 +155,108 @@
             font-weight: 500;
             border: 2px solid transparent;
             transition: all 0.3s ease;
+            cursor: pointer;
+            position: relative;
         }
 
         .author:hover {
             border-color: #973327;
             transform: translateY(-2px);
             box-shadow: 0 8px 25px rgba(151, 51, 39, 0.15);
+        }
+
+        /* Author Popup Styles */
+        .author-popup {
+            position: absolute;
+            bottom: calc(100% + 15px);
+            left: 50%;
+            transform: translateX(-50%) scale(0);
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 15px 50px rgba(0, 0, 0, 0.2);
+            padding: 20px;
+            width: 280px;
+            z-index: 1000;
+            opacity: 0;
+            transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+            pointer-events: none;
+        }
+
+        .author-popup.show {
+            transform: translateX(-50%) scale(1);
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        /* Invisible bridge to help with hover transition */
+        .author-popup.show::before {
+            content: '';
+            position: absolute;
+            top: 100%;
+            left: 0;
+            right: 0;
+            height: 20px;
+            background: transparent;
+        }
+
+        .author-popup::after {
+            content: '';
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 0;
+            height: 0;
+            border-left: 10px solid transparent;
+            border-right: 10px solid transparent;
+            border-top: 10px solid white;
+        }
+
+        .popup-header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 15px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #f0f0f0;
+        }
+
+        .author-photo {
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin-right: 15px;
+            border: 3px solid #973327;
+        }
+
+        .author-name-popup {
+            font-size: 1.2em;
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 5px;
+        }
+
+        .author-university {
+            font-size: 0.9em;
+            color: #666;
+            margin-bottom: 10px;
+        }
+
+        .author-email {
+            display: flex;
+            align-items: center;
+            font-size: 0.85em;
+            color: #973327;
+            text-decoration: none;
+            transition: opacity 0.3s ease;
+        }
+
+        .author-email:hover {
+            opacity: 0.8;
+        }
+
+        .email-icon {
+            margin-right: 5px;
         }
 
         .abstract {
@@ -287,6 +383,11 @@
             .links {
                 grid-template-columns: 1fr;
             }
+
+            .author-popup {
+                width: 250px;
+                padding: 15px;
+            }
         }
     </style>
 </head>
@@ -307,9 +408,107 @@
             <section class="authors">
                 <h2>Authors</h2>
                 <div class="author-list">
-                    <span class="author">To define</span>
-                    <span class="author">To define</span>
-                    <span class="author">To define</span>
+                    <span class="author" data-author="gerardo">
+                        Gerardo Festa
+                        <div class="author-popup">
+                            <div class="popup-header">
+                                <img src="images/gerardo.jpg" alt="Gerardo Festa" class="author-photo">
+                                <div>
+                                    <div class="author-name-popup">Gerardo Festa</div>
+                                </div>
+                            </div>
+                            <div class="author-university">University of Salerno, Salerno, Italy</div>
+                            <a href="mailto:g.festa22@studenti.unisa.it" class="author-email">
+                                <span class="email-icon">📧</span>
+                                g.festa22@studenti.unisa.it
+                            </a>
+                        </div>
+                    </span>
+                    
+                    <span class="author" data-author="giammaria">
+                        Giammaria Giordano
+                        <div class="author-popup">
+                            <div class="popup-header">
+                                <img src="images/giammaria.jpg" alt="Giammaria Giordano" class="author-photo">
+                                <div>
+                                    <div class="author-name-popup">Giammaria Giordano</div>
+                                </div>
+                            </div>
+                            <div class="author-university">University of Salerno, Salerno, Italy</div>
+                            <a href="mailto:ggiordano@unisa.it" class="author-email">
+                                <span class="email-icon">📧</span>
+                                ggiordano@unisa.it
+                            </a>
+                        </div>
+                    </span>
+                    
+                    <span class="author" data-author="valeria">
+                        Valeria Pontillo
+                        <div class="author-popup">
+                            <div class="popup-header">
+                                <img src="images/valeria.jpg" alt="Valeria Pontillo" class="author-photo">
+                                <div>
+                                    <div class="author-name-popup">Valeria Pontillo</div>
+                                </div>
+                            </div>
+                            <div class="author-university">Gran Sasso Science Institute (GSSI), L’Aquila, Italy</div>
+                            <a href="mailto:valeria.pontillo@gssi.it" class="author-email">
+                                <span class="email-icon">📧</span>
+                                valeria.pontillo@gssi.it
+                            </a>
+                        </div>
+                    </span>
+                    
+                    <span class="author" data-author="max">
+                        Max Di Penta
+                        <div class="author-popup">
+                            <div class="popup-header">
+                                <img src="images/max.jpg" alt="Max Di Penta" class="author-photo">
+                                <div>
+                                    <div class="author-name-popup">Max Di Penta</div>
+                                </div>
+                            </div>
+                            <div class="author-university">University of Sannio</div>
+                            <a href="mailto:dipenta@unisannio.it" class="author-email">
+                                <span class="email-icon">📧</span>
+                                dipenta@unisannio.it
+                            </a>
+                        </div>
+                    </span>
+                    
+                    <span class="author" data-author="fabio">
+                        Fabio Palomba
+                        <div class="author-popup">
+                            <div class="popup-header">
+                                <img src="images/fabio.jpg" alt="Fabio Palomba" class="author-photo">
+                                <div>
+                                    <div class="author-name-popup">Fabio Palomba</div>
+                                </div>
+                            </div>
+                            <div class="author-university">University of Salerno, Salerno, Italy</div>
+                            <a href="mailto:fpalomba@unisa.it" class="author-email">
+                                <span class="email-icon">📧</span>
+                                fpalomba@unisa.it
+                            </a>
+                        </div>
+                    </span>
+                    
+                    <span class="author" data-author="damian">
+                        Damian A. Tamburri
+                        <div class="author-popup">
+                            <div class="popup-header">
+                                <img src="images/damian.png" alt="Damian A. Tamburri" class="author-photo">
+                                <div>
+                                    <div class="author-name-popup">Damian A. Tamburri</div>
+                                </div>
+                            </div>
+                            <div class="author-university">Univerity of Sannio, Benevento, Italy</div>
+                            <a href="mailto:datamburri@unisannio.it" class="author-email">
+                                <span class="email-icon">📧</span>
+                                datamburri@unisannio.it
+                            </a>
+                        </div>
+                    </span>
                 </div>
             </section>
 
@@ -322,11 +521,11 @@
                     code constructs that, while syntactically correct, can be refactored into more idiomatic and maintainable Python code. Despite this
                     common assumption, empirical evidence linking these idiomatic patterns to software quality in ML projects remains scarce.
                     This paper aims to fill this gap by empirically investigating the impact of both Pythonic and non-Pythonic idioms on code quality.
-                    To this end, we analyze 303 open-source Python projects, categorized as “well-engineered” and “not-engineered”, using DPy to
+                    To this end, we analyze 303 open-source Python projects, categorized as "well-engineered" and "not-engineered", using DPy to
                     detect Pythonic code smells, CodeSmile for ML-specific code smells, and SonarQube to extract bug-related data.
-                    Our results show that the “Truth Value Test” is the most commonly used Pythonic idiom, while “Assign Multi Targets” is the most
-                    prevalent non-Pythonic idiom. In “well-engineered” projects, we find statistically significant correlations between both Pythonic
-                    and non-Pythonic idioms and the presence of code smells. In contrast, “not-engineered” projects show significant relationships
+                    Our results show that the "Truth Value Test" is the most commonly used Pythonic idiom, while "Assign Multi Targets" is the most
+                    prevalent non-Pythonic idiom. In "well-engineered" projects, we find statistically significant correlations between both Pythonic
+                    and non-Pythonic idioms and the presence of code smells. In contrast, "not-engineered" projects show significant relationships
                     primarily with structural metrics such as lines of code, number of commits, and file complexity. Additionally, our analysis reveals
                     statistically significant correlations between idioms and bugs in both project categories, suggesting that the adoption of Pythonic
                     idioms does not always guarantee better code quality in ML systems.
@@ -337,7 +536,7 @@
                 <a href="resources/paper.pdf" class="link-card" download>
                     <span class="link-icon">📄</span>
                     <div class="link-title">Research Paper</div>
-                    <div class="link-description">Scarica il paper (ZIP)</div>
+                    <div class="link-description">Download Research Paper</div>
                 </a>
                 
                 <a href="replication/replication.zip" class="link-card">
@@ -352,5 +551,56 @@
             <p> Replication materials available under Creative Commons License</p>
         </footer>
     </div>
+
+    <script>
+        // Author popup functionality
+        const authors = document.querySelectorAll('.author');
+        
+        authors.forEach(author => {
+            const popup = author.querySelector('.author-popup');
+            let showTimeout;
+            let hideTimeout;
+            let isOverAuthor = false;
+            let isOverPopup = false;
+            
+            const showPopup = () => {
+                clearTimeout(hideTimeout);
+                showTimeout = setTimeout(() => {
+                    popup.classList.add('show');
+                }, 200);
+            };
+            
+            const hidePopup = () => {
+                clearTimeout(showTimeout);
+                hideTimeout = setTimeout(() => {
+                    if (!isOverAuthor && !isOverPopup) {
+                        popup.classList.remove('show');
+                    }
+                }, 100);
+            };
+            
+            // Author hover events
+            author.addEventListener('mouseenter', () => {
+                isOverAuthor = true;
+                showPopup();
+            });
+            
+            author.addEventListener('mouseleave', () => {
+                isOverAuthor = false;
+                hidePopup();
+            });
+            
+            // Popup hover events
+            popup.addEventListener('mouseenter', () => {
+                isOverPopup = true;
+                clearTimeout(hideTimeout);
+            });
+            
+            popup.addEventListener('mouseleave', () => {
+                isOverPopup = false;
+                hidePopup();
+            });
+        });
+    </script>
 </body>
 </html>
