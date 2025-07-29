@@ -515,20 +515,17 @@
             <section class="abstract">
                 <h2>Abstract</h2>
                 <div class="abstract-text">
-                    Python is increasingly becoming the lingua franca for developing Machine Learning (ML) systems, thanks to its rich ecosystem of
-                    libraries and its emphasis on readability and simplicity. In this context, so-called Pythonic idioms are commonly viewed as stylistic
-                    conventions that may support maintainable and efficient code when used appropriately. Conversely, non-Pythonic idioms refer to
-                    code constructs that, while syntactically correct, can be refactored into more idiomatic and maintainable Python code. Despite this
-                    common assumption, empirical evidence linking these idiomatic patterns to software quality in ML projects remains scarce.
-                    This paper aims to fill this gap by empirically investigating the impact of both Pythonic and non-Pythonic idioms on code quality.
-                    To this end, we analyze 303 open-source Python projects, categorized as "well-engineered" and "not-engineered", using DPy to
-                    detect Pythonic code smells, CodeSmile for ML-specific code smells, and SonarQube to extract bug-related data.
-                    Our results show that the "Truth Value Test" is the most commonly used Pythonic idiom, while "Assign Multi Targets" is the most
-                    prevalent non-Pythonic idiom. In "well-engineered" projects, we find statistically significant correlations between both Pythonic
-                    and non-Pythonic idioms and the presence of code smells. In contrast, "not-engineered" projects show significant relationships
-                    primarily with structural metrics such as lines of code, number of commits, and file complexity. Additionally, our analysis reveals
-                    statistically significant correlations between idioms and bugs in both project categories, suggesting that the adoption of Pythonic
-                    idioms does not always guarantee better code quality in ML systems.
+                    Context: Python is increasingly becoming the lingua franca for developing Machine Learning (ML) systems,thanks to a rich ecosystem of libraries and an emphasis on readability. 
+                    In this context, Pythonic idioms are seen as stylistic conventions that support maintainable and efficient code. Conversely, Refactorable-Pythonicidioms refer to patterns that can be refactored into more idiomatic Python, improving code quality in terms of maintainability, performance, and clarity.
+Objective: While the assumptions about idiomaticity are widely accepted in practice, the extent to which Pythonic or Refactorable-Pythonic idioms relate to software quality in ML projects has not been systematically validated.
+To address this lack of empirical evidence, this paper conducts a large-scale study to assess how Pythonic and Refactorable-Pythonic idioms are related to code quality in ML systems.
+Method: We analyze 303 open-source Python projects from the NICHE dataset, distinguishing between “well-engineered” (i.e., projects that adopt structured development practices such as testing, CI, documentation, and packaging) and “non-engineered” (i.e., projects that lack such characteristics).
+                    Our analysis proceeds in two main phases: (i) idiom detection, where we extract Pythonic and Refactorable-Pythonic code patterns using a combination of existing and custom detectors; and (ii) quality assessment, where we detect Python-specific smells and relate them to code metrics and other quality indicators.
+Result: Truth Value Test and Assign Multiple Targets are the most common Pythonic and Refactorable-Pythonic idioms, respectively. In “well-engineered” projects, both idiom types positively correlate with
+Python-specific code smells, suggesting that idiomatic usage does not always align with higher code quality.
+In contrast, in “non-engineered” projects, the presence of smells is more strongly influenced by structural factors such as the number of lines of code, complexity, and commit activity.
+Conclusion: We conclude by distilling lessons learned, implications, and future research directions.
+
                 </div>
             </section>
 
