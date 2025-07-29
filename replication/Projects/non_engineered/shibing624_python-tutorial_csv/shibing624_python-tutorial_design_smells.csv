@@ -1,5 +1,0 @@
-Package,Module,Smell,Class/Module,Line no,File,Details
-shibing624_python-tutorial.02_advanced.练习.TheStrayLibrary.utils,database,Multifaceted abstraction,database,5,/Volumes/BrokeExt/NICHE/shibing624_python-tutorial/02_advanced/练习/TheStrayLibrary/utils/database.py,"Class 'database' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-shibing624_python-tutorial.04_flask.watchlist,commands,Multifaceted abstraction,commands,1,/Volumes/BrokeExt/NICHE/shibing624_python-tutorial/04_flask/watchlist/commands.py,"Class 'commands' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-shibing624_python-tutorial.04_flask.watchlist,errors,Multifaceted abstraction,errors,1,/Volumes/BrokeExt/NICHE/shibing624_python-tutorial/04_flask/watchlist/errors.py,"Class 'errors' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-shibing624_python-tutorial.04_flask.watchlist,views,Multifaceted abstraction,views,1,/Volumes/BrokeExt/NICHE/shibing624_python-tutorial/04_flask/watchlist/views.py,"Class 'views' has a high LCOM value of 1, indicating it may have multiple responsibilities."

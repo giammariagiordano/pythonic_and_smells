@@ -1,4 +1,0 @@
-Package,Module,Smell,Class/Module,Line no,File,Details
-dsgiitr_d2l-pytorch.d2l,model,Multifaceted abstraction,Decoder,79,/Volumes/BrokeExt/NICHE/dsgiitr_d2l-pytorch/d2l/model.py,"Class 'Decoder' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-dsgiitr_d2l-pytorch.d2l,ssd_utils,Insufficient modularization,ssd_utils,1,/Volumes/BrokeExt/NICHE/dsgiitr_d2l-pytorch/d2l/ssd_utils.py,"Module 'ssd_utils' is insufficiently modularized with NOPM: 31, WMC: 86, NOM: 31."
-dsgiitr_d2l-pytorch.d2l.data,fashion_mnist,Multifaceted abstraction,fashion_mnist,1,/Volumes/BrokeExt/NICHE/dsgiitr_d2l-pytorch/d2l/data/fashion_mnist.py,"Class 'fashion_mnist' has a high LCOM value of 1, indicating it may have multiple responsibilities."

@@ -1,7 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-Lyken17_pytorch-OpCounter,setup,,0,0,0,0,4,4,-1,0,0
-Lyken17_pytorch-OpCounter..github.workflows,date_extraction,,9,2,1,1,2,2,0,0,0
-Lyken17_pytorch-OpCounter.benchmark,evaluate_famous_models,,0,0,0,0,6,6,-1,0,0
-Lyken17_pytorch-OpCounter.benchmark,evaluate_rnn_models,,0,0,0,0,8,8,-1,0,0
-Lyken17_pytorch-OpCounter.tests,__init__,,0,0,0,0,0,0,-1,0,0
-Lyken17_pytorch-OpCounter.tests,test_conv2d,,46,4,0,0,0,0,-1,0,0

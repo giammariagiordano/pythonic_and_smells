@@ -1,6 +1,0 @@
-Package,Module,Smell,Class/Module,Line no,File,Details
-kdexd_virtex.virtex,factories,Multifaceted abstraction,Factory,40,/Volumes/BrokeExt/NICHE/kdexd_virtex/virtex/factories.py,"Class 'Factory' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-kdexd_virtex.virtex,factories,Wide hierarchy,Factory,0,/Volumes/BrokeExt/NICHE/kdexd_virtex/virtex/factories.py,Class 'Factory' has a wide hierarchy with 10 direct subclasses.
-kdexd_virtex.virtex.data,transforms,Multifaceted abstraction,HorizontalFlip,5,/Volumes/BrokeExt/NICHE/kdexd_virtex/virtex/data/transforms.py,"Class 'HorizontalFlip' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-kdexd_virtex.virtex.utils,common,Multifaceted abstraction,common,1,/Volumes/BrokeExt/NICHE/kdexd_virtex/virtex/utils/common.py,"Class 'common' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-kdexd_virtex.virtex.utils,metrics,Multifaceted abstraction,metrics,1,/Volumes/BrokeExt/NICHE/kdexd_virtex/virtex/utils/metrics.py,"Class 'metrics' has a high LCOM value of 1, indicating it may have multiple responsibilities."

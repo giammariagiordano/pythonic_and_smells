@@ -1,3 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-OpenNMT_OpenNMT-tf,setup,,9,2,2,2,5,5,1,0,0
-OpenNMT_OpenNMT-tf.config.models,multi_features_transformer,,20,1,0,0,1,1,-1,0,0

@@ -1,2 +1,0 @@
-Package,Module,Smell,Class/Module,Line no,File,Details
-pytorch_elastic.azure,petctl,Multifaceted abstraction,petctl,1,/Volumes/BrokeExt/NICHE/pytorch_elastic/azure/petctl.py,"Class 'petctl' has a high LCOM value of 1, indicating it may have multiple responsibilities."

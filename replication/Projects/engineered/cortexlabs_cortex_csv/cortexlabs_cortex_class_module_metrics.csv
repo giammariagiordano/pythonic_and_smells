@@ -1,8 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-cortexlabs_cortex.dev,create_user,,0,0,0,0,18,18,-1,0,0
-cortexlabs_cortex.dev,delete_ecr_repos,,0,0,0,0,2,2,-1,0,0
-cortexlabs_cortex.dev,find_missing_docs_links,,120,40,10,10,11,11,0,0,0
-cortexlabs_cortex.dev,get_operator_url,,27,11,2,2,5,5,0,0,0
-cortexlabs_cortex.dev,update_cli_config,,30,6,1,1,4,4,0,0,0
-cortexlabs_cortex.manager,cluster_config_env,,37,9,2,2,6,6,0,0,0
-cortexlabs_cortex.manager,generate_eks,,323,51,18,18,20,20,0,0,0

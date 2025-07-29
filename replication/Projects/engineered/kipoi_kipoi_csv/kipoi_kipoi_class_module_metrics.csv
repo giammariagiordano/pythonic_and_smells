@@ -1,5 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-kipoi_kipoi,setup,,0,0,0,0,3,3,-1,0,0
-kipoi_kipoi.example.code.hail,get_schemas,,68,11,3,3,7,7,0,0,0
-kipoi_kipoi.example.models.extended_coda,dataloader,,13,4,1,1,1,1,0,0,0
-kipoi_kipoi.example.models.iris_model_template,dataloader,,37,6,1,1,2,2,0,1,0

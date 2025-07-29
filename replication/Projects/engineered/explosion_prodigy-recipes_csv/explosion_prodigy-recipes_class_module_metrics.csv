@@ -1,6 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-explosion_prodigy-recipes,tests,,195,26,24,24,3,3,0.88,0,0
-explosion_prodigy-recipes.contrib.dedupe,link_records,,210,33,7,7,37,37,0,0,0
-explosion_prodigy-recipes.image,image_manual,,15,1,1,1,0,0,0,0,0
-explosion_prodigy-recipes.image.image_caption,image_caption,,91,14,3,3,6,6,1,0,0
-explosion_prodigy-recipes.image.image_caption,image_captioning_model,,119,20,3,3,6,6,0.33,1,1

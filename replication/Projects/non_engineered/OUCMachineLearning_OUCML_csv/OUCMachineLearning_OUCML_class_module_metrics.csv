@@ -1,3 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-OUCMachineLearning_OUCML,md2zh,,3,1,1,1,2,2,0,0,0
-OUCMachineLearning_OUCML.AutoML.darts-master.cnn,architect,,76,17,1,0,0,0,0,2,0

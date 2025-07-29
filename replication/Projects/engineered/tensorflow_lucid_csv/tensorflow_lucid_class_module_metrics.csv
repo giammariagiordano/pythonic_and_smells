@@ -1,5 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-tensorflow_lucid,setup,,0,0,0,0,3,3,-1,0,0
-tensorflow_lucid.lucid,__init__,,0,0,0,0,2,1,-1,0,0
-tensorflow_lucid.lucid.misc,__init__,,0,0,0,0,0,0,-1,0,0
-tensorflow_lucid.lucid.misc,channel_reducer,,57,16,0,0,0,0,-1,1,0

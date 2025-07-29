@@ -1,7 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-DongjunLee_kino-bot,main,,0,0,0,0,1,1,-1,0,1
-DongjunLee_kino-bot.dashboard,app,,59,23,20,20,8,8,1,0,1
-DongjunLee_kino-bot.dashboard,card,,97,11,6,6,5,5,0,0,0
-DongjunLee_kino-bot.dashboard,chart,,627,60,13,0,45,45,1,0,1
-DongjunLee_kino-bot.dashboard,dashboard,,111,28,4,1,20,20,0,0,1
-DongjunLee_kino-bot.dashboard,data_handler,,389,81,0,0,0,0,-1,29,0

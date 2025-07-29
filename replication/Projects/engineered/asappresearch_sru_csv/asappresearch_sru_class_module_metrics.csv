@@ -1,4 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-asappresearch_sru,setup,,16,5,3,3,2,2,1,0,0
-asappresearch_sru.DrQA,prepro,,99,21,10,10,66,66,0.7,0,0
-asappresearch_sru.DrQA,train,,238,38,7,4,29,29,0,1,1

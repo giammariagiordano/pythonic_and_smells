@@ -1,7 +1,0 @@
-Package,Module,Smell,Class/Module,Line no,File,Details
-leela-zero_leela-zero.scripts,cpplint,Insufficient modularization,cpplint,1,/Volumes/BrokeExt/NICHE/leela-zero_leela-zero/scripts/cpplint.py,"Module 'cpplint' is insufficiently modularized with NOPM: 90, WMC: 833, NOM: 105."
-leela-zero_leela-zero.scripts,cpplint,Multifaceted abstraction,_BlockInfo,1997,/Volumes/BrokeExt/NICHE/leela-zero_leela-zero/scripts/cpplint.py,"Class '_BlockInfo' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-leela-zero_leela-zero.scripts.resign_analysis,resign_analysis,Broken modularization,GameStats,24,/Volumes/BrokeExt/NICHE/leela-zero_leela-zero/scripts/resign_analysis/resign_analysis.py,Class 'GameStats' contains only data members without any method implementations.
-leela-zero_leela-zero.training.elf,elf_convert,Multifaceted abstraction,elf_convert,1,/Volumes/BrokeExt/NICHE/leela-zero_leela-zero/training/elf/elf_convert.py,"Class 'elf_convert' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-leela-zero_leela-zero.training.tf,shufflebuffer,Multifaceted abstraction,ShuffleBufferTest,82,/Volumes/BrokeExt/NICHE/leela-zero_leela-zero/training/tf/shufflebuffer.py,"Class 'ShuffleBufferTest' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-leela-zero_leela-zero.training.tf,tfprocess,Multifaceted abstraction,tfprocess,1,/Volumes/BrokeExt/NICHE/leela-zero_leela-zero/training/tf/tfprocess.py,"Class 'tfprocess' has a high LCOM value of 1, indicating it may have multiple responsibilities."

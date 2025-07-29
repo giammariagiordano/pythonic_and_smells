@@ -1,7 +1,0 @@
-Package,Module,Class,Smell,Function/Method,Line no,File,Details
-Mini-Conf_Mini-Conf,main,,Complex method,main,17 - 37,/Volumes/BrokeExt/NICHE/Mini-Conf_Mini-Conf/main.py,"Method 'main' has a cyclomatic complexity of 7, exceeding the max of 6."
-Mini-Conf_Mini-Conf,main,,Long statement,format_paper,133,/Volumes/BrokeExt/NICHE/Mini-Conf_Mini-Conf/main.py,A line with 367 chars in format_paper exceeds the maximum length of 120 characters.
-Mini-Conf_Mini-Conf.gather,posterList,,Long method,csvToGsheetRequest,150 - 196,/Volumes/BrokeExt/NICHE/Mini-Conf_Mini-Conf/gather/posterList.py,Method 'csvToGsheetRequest' is too long (47 lines).
-Mini-Conf_Mini-Conf.gather,posterList,,Long statement,credentials,86,/Volumes/BrokeExt/NICHE/Mini-Conf_Mini-Conf/gather/posterList.py,A line with 715 chars in credentials exceeds the maximum length of 120 characters.
-Mini-Conf_Mini-Conf.gather,posterList,,Magic number,csvToGsheetRequest,174,/Volumes/BrokeExt/NICHE/Mini-Conf_Mini-Conf/gather/posterList.py,Magic number 15 used in csvToGsheetRequest.
-Mini-Conf_Mini-Conf.scripts,parse_calendar,,Long method,convert,28 - 75,/Volumes/BrokeExt/NICHE/Mini-Conf_Mini-Conf/scripts/parse_calendar.py,Method 'convert' is too long (43 lines).

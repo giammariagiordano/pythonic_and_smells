@@ -1,3 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-nutonomy_nuscenes-devkit.python-sdk.nuimages,__init__,,0,0,0,0,0,0,-1,0,0
-nutonomy_nuscenes-devkit.python-sdk.nuimages,nuimages,,534,107,0,0,1,1,-1,6,0

@@ -1,4 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-MAIF_melusine.docs.docs_src,__init__,,0,0,0,0,0,0,-1,0,0
-MAIF_melusine.docs.docs_src.BasicClassification,__init__,,0,0,0,0,0,0,-1,0,0
-MAIF_melusine.docs.docs_src.BasicClassification,tutorial001,,84,11,3,3,0,0,0.33,1,1

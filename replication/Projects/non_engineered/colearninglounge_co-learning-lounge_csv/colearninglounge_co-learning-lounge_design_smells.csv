@@ -1,2 +1,0 @@
-Package,Module,Smell,Class/Module,Line no,File,Details
-colearninglounge_co-learning-lounge.Technology.Artificial Intelligence.Natural Language Processing.Concepts.Chatbot.RASA.restaurant_bot_1_x,actions,Multifaceted abstraction,RestaurantForm,18,/Volumes/BrokeExt/NICHE/colearninglounge_co-learning-lounge/Technology/Artificial Intelligence/Natural Language Processing/Concepts/Chatbot/RASA/restaurant_bot_1_x/actions.py,"Class 'RestaurantForm' has a high LCOM value of 1, indicating it may have multiple responsibilities."

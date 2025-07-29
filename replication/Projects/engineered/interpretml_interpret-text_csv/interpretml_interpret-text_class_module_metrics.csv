@@ -1,9 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-interpretml_interpret-text.notebooks.test_utils,utils_data_shared,,55,15,4,4,8,8,0,0,0
-interpretml_interpret-text.notebooks.test_utils,utils_mnli,,15,4,2,2,2,2,0,0,0
-interpretml_interpret-text.notebooks.test_utils,utils_sst2,,23,4,2,2,9,9,0,0,0
-interpretml_interpret-text.python,__init__,,0,0,0,0,0,0,-1,0,0
-interpretml_interpret-text.python,setup,,0,0,0,0,2,2,-1,0,0
-interpretml_interpret-text.python.interpret_text,__init__,,0,0,0,0,8,3,-1,0,0
-interpretml_interpret-text.python.interpret_text.experimental,__init__,,0,0,0,0,0,0,-1,0,0
-interpretml_interpret-text.python.interpret_text.experimental,classical,,109,19,0,0,0,0,-1,1,0

@@ -1,3 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-MITK_MITK.Wrapping.Python.Packaging,__init__,,0,0,0,0,0,0,-1,0,0
-MITK_MITK.Wrapping.Python.Packaging,setupegg,,0,0,0,0,1,1,-1,0,0

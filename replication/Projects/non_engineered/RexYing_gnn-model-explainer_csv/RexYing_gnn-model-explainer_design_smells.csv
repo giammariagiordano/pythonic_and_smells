@@ -1,4 +1,0 @@
-Package,Module,Smell,Class/Module,Line no,File,Details
-RexYing_gnn-model-explainer,train,Insufficient modularization,train,1,/Volumes/BrokeExt/NICHE/RexYing_gnn-model-explainer/train.py,"Module 'train' is insufficiently modularized with NOPM: 19, WMC: 104, NOM: 19."
-RexYing_gnn-model-explainer.utils,io_utils,Insufficient modularization,io_utils,1,/Volumes/BrokeExt/NICHE/RexYing_gnn-model-explainer/utils/io_utils.py,"Module 'io_utils' is insufficiently modularized with NOPM: 22, WMC: 107, NOM: 22."
-RexYing_gnn-model-explainer.utils,synthetic_structsim,Multifaceted abstraction,synthetic_structsim,1,/Volumes/BrokeExt/NICHE/RexYing_gnn-model-explainer/utils/synthetic_structsim.py,"Class 'synthetic_structsim' has a high LCOM value of 0.82, indicating it may have multiple responsibilities."

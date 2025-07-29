@@ -1,6 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-apachecn_Interview.docs.Algorithm.DataStructure.Summarization,Python刷题技巧笔记,,0,0,0,0,11,11,-1,0,0
-apachecn_Interview.docs.Algorithm.DataStructure.Summarization,python_base,,0,0,0,0,0,0,-1,0,0
-apachecn_Interview.src,do_dir_structure,,0,0,0,0,5,5,-1,0,0
-apachecn_Interview.src,script,,9,2,1,1,6,6,0,0,0
-apachecn_Interview.src,test,,20,4,0,0,3,3,-1,1,1

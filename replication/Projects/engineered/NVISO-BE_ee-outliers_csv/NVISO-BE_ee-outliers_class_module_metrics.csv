@@ -1,4 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-NVISO-BE_ee-outliers.app,outliers,,263,53,8,8,14,14,0,0,2
-NVISO-BE_ee-outliers.app.analyzers,__init__,,0,0,0,0,0,0,-1,0,0
-NVISO-BE_ee-outliers.app.analyzers,metrics,,401,51,0,0,2,2,-1,0,0

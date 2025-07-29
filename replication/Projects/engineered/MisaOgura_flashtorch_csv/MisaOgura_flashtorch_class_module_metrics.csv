@@ -1,5 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-MisaOgura_flashtorch,setup,,0,0,0,0,3,3,-1,0,0
-MisaOgura_flashtorch.flashtorch,__init__,,0,0,0,0,1,0,-1,0,0
-MisaOgura_flashtorch.flashtorch.activmax,__init__,,0,0,0,0,0,0,-1,0,0
-MisaOgura_flashtorch.flashtorch.activmax,gradient_ascent,,161,34,0,0,0,0,-1,1,0

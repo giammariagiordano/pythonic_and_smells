@@ -1,4 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-amansrivastava17_embedding-as-service.client,__init__,,0,0,0,0,0,0,-1,0,0
-amansrivastava17_embedding-as-service.client,setup,,0,0,0,0,2,2,-1,0,0
-amansrivastava17_embedding-as-service.client.embedding_as_service_client,__init__,,55,10,0,0,0,0,-1,0,0

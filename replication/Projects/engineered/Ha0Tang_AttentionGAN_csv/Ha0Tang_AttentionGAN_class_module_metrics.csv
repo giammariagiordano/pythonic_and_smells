@@ -1,4 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-Ha0Tang_AttentionGAN,test,,0,0,0,0,12,12,-1,0,0
-Ha0Tang_AttentionGAN,train,,0,0,0,0,15,15,-1,0,1
-Ha0Tang_AttentionGAN.AttentionGAN-geo,attention_gan_model,,151,18,0,0,0,0,-1,0,1

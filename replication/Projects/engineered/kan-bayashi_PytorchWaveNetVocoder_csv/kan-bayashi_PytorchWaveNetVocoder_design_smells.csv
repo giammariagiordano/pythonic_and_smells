@@ -1,2 +1,0 @@
-Package,Module,Smell,Class/Module,Line no,File,Details
-kan-bayashi_PytorchWaveNetVocoder.wavenet_vocoder.nets,wavenet,Multifaceted abstraction,wavenet,1,/Volumes/BrokeExt/NICHE/kan-bayashi_PytorchWaveNetVocoder/wavenet_vocoder/nets/wavenet.py,"Class 'wavenet' has a high LCOM value of 1, indicating it may have multiple responsibilities."

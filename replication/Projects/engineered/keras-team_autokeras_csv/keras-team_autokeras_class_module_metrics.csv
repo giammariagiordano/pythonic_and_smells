@@ -1,3 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-keras-team_autokeras.autokeras,__init__,,0,0,0,0,2,1,-1,0,0
-keras-team_autokeras.autokeras,auto_model,,275,54,1,1,1,1,0,0,0

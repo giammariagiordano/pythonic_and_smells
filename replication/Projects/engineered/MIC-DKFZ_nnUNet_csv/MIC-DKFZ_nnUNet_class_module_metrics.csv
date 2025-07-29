@@ -1,6 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-MIC-DKFZ_nnUNet,setup,,0,0,0,0,0,0,-1,0,0
-MIC-DKFZ_nnUNet.documentation,__init__,,0,0,0,0,0,0,-1,0,0
-MIC-DKFZ_nnUNet.documentation.competitions,__init__,,0,0,0,0,0,0,-1,0,0
-MIC-DKFZ_nnUNet.documentation.competitions.Toothfairy2,__init__,,0,0,0,0,0,0,-1,0,0
-MIC-DKFZ_nnUNet.documentation.competitions.Toothfairy2,inference_script_semseg_only_customInf2,,252,28,3,3,15,15,1,1,3

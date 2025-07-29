@@ -1,7 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-ShangtongZhang_DeepRL,examples,,0,0,0,0,0,0,-1,0,0
-ShangtongZhang_DeepRL,setup,,0,0,0,0,0,0,-1,0,0
-ShangtongZhang_DeepRL,template_jobs,,86,9,2,2,1,1,1,0,1
-ShangtongZhang_DeepRL,template_plot,,100,3,3,3,0,0,1,0,1
-ShangtongZhang_DeepRL.deep_rl,__init__,,0,0,0,0,0,0,-1,0,0
-ShangtongZhang_DeepRL.deep_rl.agent,A2C_agent,,62,5,0,0,0,0,-1,0,0

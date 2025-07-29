@@ -1,5 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-onnx_onnx-tensorflow,setup,,0,0,0,0,6,6,-1,0,0
-onnx_onnx-tensorflow.example,onnx_to_tf,,0,0,0,0,2,2,-1,0,0
-onnx_onnx-tensorflow.example,relu,,0,0,0,0,2,2,-1,0,0
-onnx_onnx-tensorflow.example,test_mnist_onnxruntime_stepping,,66,11,1,1,2,2,0,0,0

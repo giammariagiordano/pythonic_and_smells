@@ -1,6 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-ddbourgin_numpy-ml,setup,,0,0,0,0,3,3,-1,0,0
-ddbourgin_numpy-ml.docs,conf,,25,4,1,1,55,55,0,0,0
-ddbourgin_numpy-ml.numpy_ml,__init__,,0,0,0,0,0,0,-1,0,0
-ddbourgin_numpy-ml.numpy_ml.bandits,__init__,,0,0,0,0,0,0,-1,0,0
-ddbourgin_numpy-ml.numpy_ml.bandits,bandits,,257,44,0,0,0,0,-1,1,0

@@ -1,4 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-fastai_fastai,download_checks,,0,0,0,0,0,0,-1,0,0
-fastai_fastai,setup,,0,0,0,0,13,13,-1,0,0
-fastai_fastai.dev_nbs.course,crappify,,21,3,1,1,0,0,0,0,0

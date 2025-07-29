@@ -1,4 +1,0 @@
-Package,Module,Smell,Class/Module,Line no,File,Details
-MaybeShewill-CV_CRNN_Tensorflow.local_utils,evaluation_tools,Multifaceted abstraction,evaluation_tools,1,/Volumes/BrokeExt/NICHE/MaybeShewill-CV_CRNN_Tensorflow/local_utils/evaluation_tools.py,"Class 'evaluation_tools' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-MaybeShewill-CV_CRNN_Tensorflow.tools,evaluate_shadownet,Multifaceted abstraction,evaluate_shadownet,1,/Volumes/BrokeExt/NICHE/MaybeShewill-CV_CRNN_Tensorflow/tools/evaluate_shadownet.py,"Class 'evaluate_shadownet' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-MaybeShewill-CV_CRNN_Tensorflow.tools,test_shadownet,Multifaceted abstraction,test_shadownet,1,/Volumes/BrokeExt/NICHE/MaybeShewill-CV_CRNN_Tensorflow/tools/test_shadownet.py,"Class 'test_shadownet' has a high LCOM value of 1, indicating it may have multiple responsibilities."

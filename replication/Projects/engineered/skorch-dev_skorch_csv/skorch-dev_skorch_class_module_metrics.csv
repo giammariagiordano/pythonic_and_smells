@@ -1,4 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-skorch-dev_skorch,setup,,0,0,0,0,7,7,-1,0,0
-skorch-dev_skorch.docs,conf,,50,10,4,2,31,30,0.5,0,0
-skorch-dev_skorch.examples.accelerate-multigpu,run-no-skorch,,64,10,1,1,0,0,0,2,1

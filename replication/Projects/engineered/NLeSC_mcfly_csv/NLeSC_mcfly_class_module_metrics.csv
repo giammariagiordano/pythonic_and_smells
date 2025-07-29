@@ -1,8 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-NLeSC_mcfly,setup,,2,1,1,1,0,0,0,0,0
-NLeSC_mcfly.docs,conf,,0,0,0,0,24,24,-1,0,0
-NLeSC_mcfly.mcfly,__init__,,0,0,0,0,2,0,-1,0,0
-NLeSC_mcfly.mcfly,_version,,0,0,0,0,1,0,-1,0,0
-NLeSC_mcfly.mcfly,find_architecture,,225,55,15,4,17,17,0.07,0,0
-NLeSC_mcfly.mcfly,modelgen,,50,16,5,1,6,6,0,0,0
-NLeSC_mcfly.mcfly,task,,3,0,0,0,0,0,-1,0,0

@@ -1,4 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-vespa-engine_sample-apps,feed-split,,154,32,11,11,30,30,0.09,0,0
-vespa-engine_sample-apps,feed_to_vespa,,147,36,16,16,14,14,0.06,0,0
-vespa-engine_sample-apps.billion-scale-image-search.src.main.python,clip_export,,16,3,0,0,4,4,-1,1,1

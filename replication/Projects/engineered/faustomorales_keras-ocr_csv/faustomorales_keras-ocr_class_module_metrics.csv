@@ -1,4 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-faustomorales_keras-ocr.docs,conf,,0,0,0,0,20,20,-1,0,0
-faustomorales_keras-ocr.docs.stubs.tensorflow,__init__,,0,0,0,0,0,0,-1,0,0
-faustomorales_keras-ocr.docs.stubs.tensorflow,keras,,11,5,0,0,5,5,-1,1,1

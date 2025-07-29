@@ -1,2 +1,0 @@
-Package,Module,Smell,Class/Module,Line no,File,Details
-Kaixhin_Rainbow,main,Multifaceted abstraction,main,1,/Volumes/BrokeExt/NICHE/Kaixhin_Rainbow/main.py,"Class 'main' has a high LCOM value of 1, indicating it may have multiple responsibilities."

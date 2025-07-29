@@ -1,5 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-AFAgarap_cnn-svm,main,,34,1,1,1,8,6,0,0,1
-AFAgarap_cnn-svm.cnn_svm,__init__,,0,0,0,0,0,0,-1,0,0
-AFAgarap_cnn-svm.cnn_svm.models,__init__,,0,0,0,0,0,0,-1,0,0
-AFAgarap_cnn-svm.cnn_svm.models,cnn,,69,8,0,0,0,0,-1,1,0

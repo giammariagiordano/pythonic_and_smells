@@ -1,5 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-JayYip_bert-multitask-learning,setup,,0,0,0,0,4,4,-1,0,0
-JayYip_bert-multitask-learning.m3tl,__init__,,0,0,0,0,2,1,-1,0,0
-JayYip_bert-multitask-learning.m3tl,_nbdev,,2,1,1,1,5,4,0,0,0
-JayYip_bert-multitask-learning.m3tl,base_params,,711,107,0,0,1,0,-1,0,0

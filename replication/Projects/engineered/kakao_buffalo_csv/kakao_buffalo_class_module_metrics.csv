@@ -1,5 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-kakao_buffalo,setup,,0,0,0,0,14,14,-1,0,0
-kakao_buffalo.benchmark,base,,30,6,2,0,5,5,1,0,0
-kakao_buffalo.benchmark,evaluate,,64,7,1,1,12,10,0,0,0
-kakao_buffalo.benchmark,models,,470,67,4,4,5,5,0.5,1,4

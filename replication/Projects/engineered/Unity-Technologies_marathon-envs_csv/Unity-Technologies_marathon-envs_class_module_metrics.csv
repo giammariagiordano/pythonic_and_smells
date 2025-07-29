@@ -1,6 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-Unity-Technologies_marathon-envs,stable_baselines_sac_run,,0,0,0,0,9,9,-1,0,1
-Unity-Technologies_marathon-envs,stable_baselines_sac_train,,0,0,0,0,11,11,-1,0,1
-Unity-Technologies_marathon-envs.marathon-envs,setup,,0,0,0,0,1,1,-1,0,0
-Unity-Technologies_marathon-envs.marathon-envs.marathon_envs,__init__,,0,0,0,0,1,0,-1,0,0
-Unity-Technologies_marathon-envs.marathon-envs.marathon_envs.envs,__init__,,468,104,0,0,5,5,-1,3,1

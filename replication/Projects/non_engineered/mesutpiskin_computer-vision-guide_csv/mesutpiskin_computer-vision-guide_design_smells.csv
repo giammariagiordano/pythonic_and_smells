@@ -1,2 +1,0 @@
-Package,Module,Smell,Class/Module,Line no,File,Details
-mesutpiskin_computer-vision-guide.code.yuz-tanima.python.facenet,face,Broken modularization,Face,17,/Volumes/BrokeExt/NICHE/mesutpiskin_computer-vision-guide/code/yuz-tanima/python/facenet/face.py,Class 'Face' contains only data members without any method implementations.

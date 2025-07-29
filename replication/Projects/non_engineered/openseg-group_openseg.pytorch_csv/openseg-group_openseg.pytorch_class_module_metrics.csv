@@ -1,5 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-openseg-group_openseg.pytorch,main,,8,2,1,1,11,11,0,0,1
-openseg-group_openseg.pytorch.lib,__init__,,0,0,0,0,0,0,-1,0,0
-openseg-group_openseg.pytorch.lib.datasets,__init__,,0,0,0,0,0,0,-1,0,0
-openseg-group_openseg.pytorch.lib.datasets,data_loader,,173,27,0,0,0,0,-1,3,0

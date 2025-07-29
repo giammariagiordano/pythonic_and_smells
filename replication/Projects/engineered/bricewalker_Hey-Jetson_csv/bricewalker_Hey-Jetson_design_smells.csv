@@ -1,3 +1,0 @@
-Package,Module,Smell,Class/Module,Line no,File,Details
-bricewalker_Hey-Jetson,make_predictions,Insufficient modularization,make_predictions,1,/Volumes/BrokeExt/NICHE/bricewalker_Hey-Jetson/make_predictions.py,"Module 'make_predictions' is insufficiently modularized with NOPM: 25, WMC: 122, NOM: 25."
-bricewalker_Hey-Jetson.app,routes,Multifaceted abstraction,routes,1,/Volumes/BrokeExt/NICHE/bricewalker_Hey-Jetson/app/routes.py,"Class 'routes' has a high LCOM value of 1, indicating it may have multiple responsibilities."

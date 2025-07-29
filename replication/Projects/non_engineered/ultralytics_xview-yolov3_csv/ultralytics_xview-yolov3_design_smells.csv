@@ -1,2 +1,0 @@
-Package,Module,Smell,Class/Module,Line no,File,Details
-ultralytics_xview-yolov3.utils,datasets,Multifaceted abstraction,datasets,1,/Volumes/BrokeExt/NICHE/ultralytics_xview-yolov3/utils/datasets.py,"Class 'datasets' has a high LCOM value of 1, indicating it may have multiple responsibilities."

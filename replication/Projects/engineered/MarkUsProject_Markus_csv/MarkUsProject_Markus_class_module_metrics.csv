@@ -1,4 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-MarkUsProject_Markus.db.data.autotest_files.custom.student_files,submission,,0,0,0,0,0,0,-1,0,0
-MarkUsProject_Markus.db.data.autotest_files.jupyter.script_files,test,,6,3,3,3,0,0,1,0,0
-MarkUsProject_Markus.db.data.autotest_files.py.script_files,test,,8,3,0,0,0,0,-1,0,0

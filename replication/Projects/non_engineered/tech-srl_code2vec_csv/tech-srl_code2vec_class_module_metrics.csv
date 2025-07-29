@@ -1,4 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-tech-srl_code2vec,__init__,,0,0,0,0,0,0,-1,0,0
-tech-srl_code2vec,code2vec,,7,3,1,1,4,4,0,0,2
-tech-srl_code2vec,common,,183,50,0,0,0,0,-1,1,1

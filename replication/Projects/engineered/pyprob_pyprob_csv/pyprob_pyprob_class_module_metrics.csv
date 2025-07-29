@@ -1,5 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-pyprob_pyprob,setup,,11,6,2,2,3,3,1,0,0
-pyprob_pyprob.docs.source,conf,,0,0,0,0,14,14,-1,0,0
-pyprob_pyprob.pyprob,__init__,,0,0,0,0,1,0,-1,0,0
-pyprob_pyprob.pyprob,address_dictionary,,36,4,0,0,0,0,-1,0,0

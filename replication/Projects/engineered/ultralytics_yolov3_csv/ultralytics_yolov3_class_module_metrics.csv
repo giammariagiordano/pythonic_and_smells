@@ -1,4 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-ultralytics_yolov3,benchmarks,,96,18,4,4,9,9,0,0,0
-ultralytics_yolov3,detect,,169,33,3,3,32,32,0.33,0,2
-ultralytics_yolov3,export,,665,83,18,18,79,78,0.11,1,3

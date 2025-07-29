@@ -1,2 +1,0 @@
-Package,Module,Smell,Class/Module,Line no,File,Details
-veaba_ncov.servers.docker-python.nohandler,server_app,Multifaceted abstraction,server_app,1,/Volumes/BrokeExt/NICHE/veaba_ncov/servers/docker-python/nohandler/server_app.py,"Class 'server_app' has a high LCOM value of 1, indicating it may have multiple responsibilities."

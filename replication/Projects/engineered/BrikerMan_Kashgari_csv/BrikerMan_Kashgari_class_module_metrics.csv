@@ -1,4 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-BrikerMan_Kashgari,setup,,10,3,2,2,13,3,0,0,0
-BrikerMan_Kashgari.docs,conf,,48,7,3,3,25,25,0.33,0,0
-BrikerMan_Kashgari.examples,custom_generator,,61,14,3,3,0,0,0,1,2

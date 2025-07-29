@@ -1,3 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-kubeflow-kale_kale.backend,setup,,0,0,0,0,0,0,-1,0,0
-kubeflow-kale_kale.backend.kale,__init__,,0,0,0,0,0,0,-1,4,0

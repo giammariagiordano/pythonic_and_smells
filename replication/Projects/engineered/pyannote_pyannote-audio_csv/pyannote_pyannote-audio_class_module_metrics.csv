@@ -1,7 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-pyannote_pyannote-audio,setup,,0,0,0,0,6,6,-1,0,0
-pyannote_pyannote-audio.doc,gen_docs,,28,6,2,2,6,6,0,0,0
-pyannote_pyannote-audio.pyannote,__init__,,0,0,0,0,0,0,-1,0,0
-pyannote_pyannote-audio.pyannote.audio,__init__,,0,0,0,0,1,0,-1,0,0
-pyannote_pyannote-audio.pyannote.audio.augmentation,__init__,,0,0,0,0,1,0,-1,0,0
-pyannote_pyannote-audio.pyannote.audio.augmentation,mix,,74,6,0,0,0,0,-1,0,0

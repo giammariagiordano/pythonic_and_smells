@@ -1,4 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-milvus-io_bootcamp.applications.image.biological_multifactor_authentication.server.src,app,,27,5,3,3,9,9,1,0,0
-milvus-io_bootcamp.applications.image.biological_multifactor_authentication.server.src,authentication_milvus,,128,12,6,6,12,12,0.33,0,0
-milvus-io_bootcamp.applications.image.biological_multifactor_authentication.server.src,voice_embedding,,49,6,1,1,4,4,0,1,2

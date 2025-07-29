@@ -1,9 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-asappresearch_flambe,setup,,6,2,2,2,5,5,1,0,0
-asappresearch_flambe.docs,conf,,0,0,0,0,32,32,-1,0,0
-asappresearch_flambe.flambe,__init__,,0,0,0,0,2,0,-1,0,0
-asappresearch_flambe.flambe,const,,0,0,0,0,1,1,-1,0,0
-asappresearch_flambe.flambe,logo,,0,0,0,0,2,2,-1,0,0
-asappresearch_flambe.flambe,version,,0,0,0,0,4,4,-1,0,0
-asappresearch_flambe.flambe.cluster,__init__,,0,0,0,0,1,0,-1,0,0
-asappresearch_flambe.flambe.cluster,aws,,515,104,0,0,2,2,-1,0,0

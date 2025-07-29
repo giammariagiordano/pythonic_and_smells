@@ -1,3 +1,0 @@
-Package,Module,Class,Smell,Function/Method,Line no,File,Details
-kleinee_jns.scripts,dnld_julia-1.1.0-arm32bit,,Long identifier,download_file_from_google_drive,16,/Volumes/BrokeExt/NICHE/kleinee_jns/scripts/dnld_julia-1.1.0-arm32bit.py,Identifier'download_file_from_google_drive' exceeds the maximum length of 30 characters.
-kleinee_jns.scripts,dnld_julia-1.1.0-arm32bit,,Magic number,save_response_content,38,/Volumes/BrokeExt/NICHE/kleinee_jns/scripts/dnld_julia-1.1.0-arm32bit.py,Magic number 32768 used in save_response_content.

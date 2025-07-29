@@ -1,8 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-microsoft_EdgeML.applications.GesturePod.training,csvFromSerial,,73,17,2,2,11,11,1,0,0
-microsoft_EdgeML.applications.GesturePod.training,dataFileTemplate,,80,1,1,1,0,0,0,0,0
-microsoft_EdgeML.applications.GesturePod.training,genDataHeader,,58,9,3,3,0,0,0,0,0
-microsoft_EdgeML.applications.GesturePod.training,generateFeatures,,337,63,12,12,66,64,0.17,0,0
-microsoft_EdgeML.applications.GesturePod.training,labelData,,161,19,7,7,17,17,0.71,0,2
-microsoft_EdgeML.applications.GesturePod.training.timestep,__init__,,0,0,0,0,0,0,-1,0,0
-microsoft_EdgeML.applications.GesturePod.training.timestep,eventhandler,,69,19,1,1,1,1,0,2,2

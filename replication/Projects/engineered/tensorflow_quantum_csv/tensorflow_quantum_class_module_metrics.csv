@@ -1,4 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-tensorflow_quantum.benchmarks,__init__,,0,0,0,0,0,0,-1,0,0
-tensorflow_quantum.benchmarks.scripts,__init__,,0,0,0,0,0,0,-1,0,0
-tensorflow_quantum.benchmarks.scripts,benchmark_clifford_circuit,,68,7,0,0,6,6,-1,1,1

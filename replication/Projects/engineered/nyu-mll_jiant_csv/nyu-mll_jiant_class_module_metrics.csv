@@ -1,6 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-nyu-mll_jiant,conftest,,26,12,3,3,3,3,1,0,0
-nyu-mll_jiant,setup,,0,0,0,0,5,5,-1,0,0
-nyu-mll_jiant.jiant,__init__,,0,0,0,0,0,0,-1,0,0
-nyu-mll_jiant.jiant.ext,__init__,,0,0,0,0,0,0,-1,0,0
-nyu-mll_jiant.jiant.ext,allennlp,,123,22,6,6,6,6,0.33,2,1

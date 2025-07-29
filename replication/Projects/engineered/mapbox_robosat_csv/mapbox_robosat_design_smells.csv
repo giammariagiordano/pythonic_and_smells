@@ -1,4 +1,0 @@
-Package,Module,Smell,Class/Module,Line no,File,Details
-mapbox_robosat.robosat,colors,Broken modularization,Mapbox,19,/Volumes/BrokeExt/NICHE/mapbox_robosat/robosat/colors.py,Class 'Mapbox' contains only data members without any method implementations.
-mapbox_robosat.robosat,colors,Multifaceted abstraction,colors,1,/Volumes/BrokeExt/NICHE/mapbox_robosat/robosat/colors.py,"Class 'colors' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-mapbox_robosat.robosat.features,core,Multifaceted abstraction,core,1,/Volumes/BrokeExt/NICHE/mapbox_robosat/robosat/features/core.py,"Class 'core' has a high LCOM value of 1, indicating it may have multiple responsibilities."

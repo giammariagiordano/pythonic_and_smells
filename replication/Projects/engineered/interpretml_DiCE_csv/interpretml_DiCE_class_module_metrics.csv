@@ -1,4 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-interpretml_DiCE,setup,,0,0,0,0,7,7,-1,0,0
-interpretml_DiCE.dice_ml,__init__,,0,0,0,0,1,0,-1,0,0
-interpretml_DiCE.dice_ml,constants,,24,0,0,0,0,0,-1,0,0

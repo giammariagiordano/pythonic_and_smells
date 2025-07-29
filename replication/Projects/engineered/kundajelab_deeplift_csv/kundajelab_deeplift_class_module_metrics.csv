@@ -1,5 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-kundajelab_deeplift,setup,,0,0,0,0,0,0,-1,0,0
-kundajelab_deeplift.deeplift,__init__,,0,0,0,0,1,0,-1,0,0
-kundajelab_deeplift.deeplift,dinuc_shuffle,,69,15,5,5,16,16,0,0,0
-kundajelab_deeplift.deeplift,models,,199,35,0,0,1,1,-1,0,0

@@ -1,2 +1,0 @@
-Package,Module,Smell,Class/Module,Line no,File,Details
-hunkim_DeepLearningZeroToAll.tests,test_square,Multifaceted abstraction,SquareTest,7,/Volumes/BrokeExt/NICHE/hunkim_DeepLearningZeroToAll/tests/test_square.py,"Class 'SquareTest' has a high LCOM value of 1, indicating it may have multiple responsibilities."

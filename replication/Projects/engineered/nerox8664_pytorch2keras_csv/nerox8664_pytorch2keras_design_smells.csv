@@ -1,3 +1,0 @@
-Package,Module,Smell,Class/Module,Line no,File,Details
-nerox8664_pytorch2keras.tests.models,preresnet18,Insufficient modularization,preresnet18,1,/Volumes/BrokeExt/NICHE/nerox8664_pytorch2keras/tests/models/preresnet18.py,"Module 'preresnet18' is insufficiently modularized with NOPM: 21, WMC: 61, NOM: 21."
-nerox8664_pytorch2keras.tests.models,senet,Multifaceted abstraction,senet,1,/Volumes/BrokeExt/NICHE/nerox8664_pytorch2keras/tests/models/senet.py,"Class 'senet' has a high LCOM value of 1, indicating it may have multiple responsibilities."

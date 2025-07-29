@@ -1,7 +1,0 @@
-Package,Module,Smell,Class/Module,Line no,File,Details
-keunwoochoi_kapre.kapre,backend,Multifaceted abstraction,backend,1,/Volumes/BrokeExt/NICHE/keunwoochoi_kapre/kapre/backend.py,"Class 'backend' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-keunwoochoi_kapre.kapre,composed,Multifaceted abstraction,composed,1,/Volumes/BrokeExt/NICHE/keunwoochoi_kapre/kapre/composed.py,"Class 'composed' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-keunwoochoi_kapre.tests,test_augmentation,Multifaceted abstraction,test_augmentation,1,/Volumes/BrokeExt/NICHE/keunwoochoi_kapre/tests/test_augmentation.py,"Class 'test_augmentation' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-keunwoochoi_kapre.tests,test_backend,Multifaceted abstraction,test_backend,1,/Volumes/BrokeExt/NICHE/keunwoochoi_kapre/tests/test_backend.py,"Class 'test_backend' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-keunwoochoi_kapre.tests,test_signal,Multifaceted abstraction,test_signal,1,/Volumes/BrokeExt/NICHE/keunwoochoi_kapre/tests/test_signal.py,"Class 'test_signal' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-keunwoochoi_kapre.tests,utils,Multifaceted abstraction,utils,1,/Volumes/BrokeExt/NICHE/keunwoochoi_kapre/tests/utils.py,"Class 'utils' has a high LCOM value of 1, indicating it may have multiple responsibilities."

@@ -1,8 +1,0 @@
-Package,Module,Smell,Class/Module,Line no,File,Details
-EdinburghNLP_nematus.nematus,config,Broken modularization,ParameterSpecification,17,/Volumes/BrokeExt/NICHE/EdinburghNLP_nematus/nematus/config.py,Class 'ParameterSpecification' contains only data members without any method implementations.
-EdinburghNLP_nematus.nematus,config,Insufficient modularization,config,1,/Volumes/BrokeExt/NICHE/EdinburghNLP_nematus/nematus/config.py,"Module 'config' is insufficiently modularized with NOPM: 3, WMC: 110, NOM: 16."
-EdinburghNLP_nematus.nematus,model_inputs,Broken modularization,ModelInputs,4,/Volumes/BrokeExt/NICHE/EdinburghNLP_nematus/nematus/model_inputs.py,Class 'ModelInputs' contains only data members without any method implementations.
-EdinburghNLP_nematus.nematus,mrt_utils,Multifaceted abstraction,mrt_utils,1,/Volumes/BrokeExt/NICHE/EdinburghNLP_nematus/nematus/mrt_utils.py,"Class 'mrt_utils' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-EdinburghNLP_nematus.nematus,server_translator,Broken modularization,Translation,25,/Volumes/BrokeExt/NICHE/EdinburghNLP_nematus/nematus/server_translator.py,Class 'Translation' contains only data members without any method implementations.
-EdinburghNLP_nematus.nematus,tf_utils,Multifaceted abstraction,tf_utils,1,/Volumes/BrokeExt/NICHE/EdinburghNLP_nematus/nematus/tf_utils.py,"Class 'tf_utils' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-EdinburghNLP_nematus.nematus,transformer_layers,Multifaceted abstraction,transformer_layers,1,/Volumes/BrokeExt/NICHE/EdinburghNLP_nematus/nematus/transformer_layers.py,"Class 'transformer_layers' has a high LCOM value of 1, indicating it may have multiple responsibilities."

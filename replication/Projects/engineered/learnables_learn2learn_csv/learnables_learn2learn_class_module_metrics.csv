@@ -1,3 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-learnables_learn2learn,setup,,0,0,0,0,10,10,-1,0,0
-learnables_learn2learn.examples,maml_sine,,52,7,1,1,10,10,0,1,1

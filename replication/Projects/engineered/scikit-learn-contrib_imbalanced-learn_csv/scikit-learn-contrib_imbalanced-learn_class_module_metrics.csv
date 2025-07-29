@@ -1,5 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-scikit-learn-contrib_imbalanced-learn,conftest,,11,4,1,1,0,0,0,0,0
-scikit-learn-contrib_imbalanced-learn.doc,conf,,52,5,3,3,41,41,1,0,0
-scikit-learn-contrib_imbalanced-learn.doc.sphinxext,github_link,,42,8,3,1,4,4,0.33,0,0
-scikit-learn-contrib_imbalanced-learn.doc.sphinxext,sphinx_issues,,122,24,4,4,8,5,1,1,1

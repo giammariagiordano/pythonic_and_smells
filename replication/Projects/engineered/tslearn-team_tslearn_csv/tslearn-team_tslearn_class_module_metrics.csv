@@ -1,4 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-tslearn-team_tslearn,conftest,,31,9,1,1,1,1,0,0,0
-tslearn-team_tslearn,setup,,0,0,0,0,4,4,-1,0,0
-tslearn-team_tslearn.docs,conf,,38,8,3,2,34,34,0.33,0,0

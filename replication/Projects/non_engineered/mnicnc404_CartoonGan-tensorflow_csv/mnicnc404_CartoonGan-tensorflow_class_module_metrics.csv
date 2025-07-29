@@ -1,3 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-mnicnc404_CartoonGan-tensorflow,cartoonize,,230,53,10,10,49,49,0,0,0
-mnicnc404_CartoonGan-tensorflow,discriminator,,48,7,0,0,6,6,-1,2,5

@@ -1,5 +1,0 @@
-Package,Module,Smell,Class/Module,Line no,File,Details
-Cadene_bootstrap.pytorch.bootstrap.lib,utils,Multifaceted abstraction,utils,1,/Volumes/BrokeExt/NICHE/Cadene_bootstrap.pytorch/bootstrap/lib/utils.py,"Class 'utils' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-Cadene_bootstrap.pytorch.bootstrap.models.networks,data_parallel,Multifaceted abstraction,DataParallel,32,/Volumes/BrokeExt/NICHE/Cadene_bootstrap.pytorch/bootstrap/models/networks/data_parallel.py,"Class 'DataParallel' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-Cadene_bootstrap.pytorch.bootstrap.models.networks,data_parallel,Multifaceted abstraction,DistributedDataParallel,50,/Volumes/BrokeExt/NICHE/Cadene_bootstrap.pytorch/bootstrap/models/networks/data_parallel.py,"Class 'DistributedDataParallel' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-Cadene_bootstrap.pytorch.tests,test_options,Insufficient modularization,test_options,1,/Volumes/BrokeExt/NICHE/Cadene_bootstrap.pytorch/tests/test_options.py,"Module 'test_options' is insufficiently modularized with NOPM: 48, WMC: 49, NOM: 48."

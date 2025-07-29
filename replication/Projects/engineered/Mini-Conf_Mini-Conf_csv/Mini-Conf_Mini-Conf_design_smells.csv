@@ -1,3 +1,0 @@
-Package,Module,Smell,Class/Module,Line no,File,Details
-Mini-Conf_Mini-Conf,main,Insufficient modularization,main,1,/Volumes/BrokeExt/NICHE/Mini-Conf_Mini-Conf/main.py,"Module 'main' is insufficiently modularized with NOPM: 21, WMC: 35, NOM: 22."
-Mini-Conf_Mini-Conf.gather,posterList,Multifaceted abstraction,posterList,1,/Volumes/BrokeExt/NICHE/Mini-Conf_Mini-Conf/gather/posterList.py,"Class 'posterList' has a high LCOM value of 1, indicating it may have multiple responsibilities."

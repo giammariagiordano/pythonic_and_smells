@@ -1,3 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-pytorch_tutorials,conf,,13,2,2,2,39,39,1,0,0
-pytorch_tutorials,custom_directives,,229,21,0,0,3,3,-1,0,0

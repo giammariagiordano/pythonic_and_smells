@@ -1,4 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-openvinotoolkit_openvino..github.actions.common,action_utils,,9,2,2,2,0,0,1,0,0
-openvinotoolkit_openvino..github.actions.common,artifact_utils,,30,6,5,5,0,0,0.2,0,0
-openvinotoolkit_openvino..github.actions.common,constants,,3,0,0,0,5,5,-1,0,0

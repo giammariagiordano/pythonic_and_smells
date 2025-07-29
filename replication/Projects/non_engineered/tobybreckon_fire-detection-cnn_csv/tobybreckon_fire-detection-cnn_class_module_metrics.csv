@@ -1,9 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-tobybreckon_fire-detection-cnn,firenet,,25,4,1,1,17,17,0,0,0
-tobybreckon_fire-detection-cnn,inceptionVxOnFire,,203,17,8,8,23,23,0.5,0,0
-tobybreckon_fire-detection-cnn,superpixel-inceptionVxOnFire,,13,2,2,2,25,25,1,0,0
-tobybreckon_fire-detection-cnn.converter,converter,,32,5,2,2,2,2,1,0,0
-tobybreckon_fire-detection-cnn.converter,firenet-conversion,,0,0,0,0,5,5,-1,0,0
-tobybreckon_fire-detection-cnn.converter,firenet-validation,,0,0,0,0,17,17,-1,0,0
-tobybreckon_fire-detection-cnn.converter,inceptionVxOnFire-conversion,,0,0,0,0,10,10,-1,0,0
-tobybreckon_fire-detection-cnn.converter,inceptionVxOnFire-validation,,0,0,0,0,21,21,-1,0,0

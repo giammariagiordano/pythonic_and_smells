@@ -1,7 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-RexYing_gnn-model-explainer,configs,,94,1,1,1,0,0,0,0,0
-RexYing_gnn-model-explainer,explain_pyg,,67,7,2,2,8,8,0,0,1
-RexYing_gnn-model-explainer,explainer_main,,266,22,2,2,9,9,0,0,0
-RexYing_gnn-model-explainer,gengraph,,126,20,8,8,10,10,0.12,0,0
-RexYing_gnn-model-explainer,main,,0,0,0,0,25,25,-1,0,0
-RexYing_gnn-model-explainer,models,,535,73,0,0,0,0,-1,1,1

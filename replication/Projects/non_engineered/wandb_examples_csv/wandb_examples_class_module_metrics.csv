@@ -1,4 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-wandb_examples..github.scripts,pr_reply1,,0,0,0,0,1,1,-1,0,0
-wandb_examples..github.scripts,pr_reply2,,0,0,0,0,0,0,-1,0,0
-wandb_examples.colabs.pyg.pointnet-classification,train,,189,11,2,2,12,12,0,1,2

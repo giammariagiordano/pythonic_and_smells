@@ -1,4 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-piEsposito_blitz-bayesian-deep-learning,setup,,0,0,0,0,3,3,-1,0,0
-piEsposito_blitz-bayesian-deep-learning.blitz,__init__,,0,0,0,0,0,0,-1,0,0
-piEsposito_blitz-bayesian-deep-learning.blitz.examples,bayesian_LeNet_mnist,,23,2,0,0,15,15,-1,0,2

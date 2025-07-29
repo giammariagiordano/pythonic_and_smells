@@ -1,7 +1,0 @@
-Package,Module,Smell,Class/Module,Line no,File,Details
-natethegreate_hent-AI,detector,Broken modularization,HentaiConfig,38,/Volumes/BrokeExt/NICHE/natethegreate_hent-AI/detector.py,Class 'HentaiConfig' contains only data members without any method implementations.
-natethegreate_hent-AI,test_combined_generator,Multifaceted abstraction,test_combined_generator,1,/Volumes/BrokeExt/NICHE/natethegreate_hent-AI/test_combined_generator.py,"Class 'test_combined_generator' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-natethegreate_hent-AI.mrcnn,model,Insufficient modularization,model,1,/Volumes/BrokeExt/NICHE/natethegreate_hent-AI/mrcnn/model.py,"Module 'model' is insufficiently modularized with NOPM: 35, WMC: 185, NOM: 35."
-natethegreate_hent-AI.mrcnn,utils,Insufficient modularization,utils,1,/Volumes/BrokeExt/NICHE/natethegreate_hent-AI/mrcnn/utils.py,"Module 'utils' is insufficiently modularized with NOPM: 26, WMC: 87, NOM: 26."
-natethegreate_hent-AI.samples.hentai,hentai,Broken modularization,HentaiConfig,47,/Volumes/BrokeExt/NICHE/natethegreate_hent-AI/samples/hentai/hentai.py,Class 'HentaiConfig' contains only data members without any method implementations.
-natethegreate_hent-AI.samples.hentai,hentai,Multifaceted abstraction,HentaiDataset,72,/Volumes/BrokeExt/NICHE/natethegreate_hent-AI/samples/hentai/hentai.py,"Class 'HentaiDataset' has a high LCOM value of 1, indicating it may have multiple responsibilities."

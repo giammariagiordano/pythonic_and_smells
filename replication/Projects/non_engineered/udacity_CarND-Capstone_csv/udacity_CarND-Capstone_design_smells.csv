@@ -1,2 +1,0 @@
-Package,Module,Smell,Class/Module,Line no,File,Details
-udacity_CarND-Capstone.ros.src.waypoint_updater,waypoint_updater,Multifaceted abstraction,WaypointUpdater,27,/Volumes/BrokeExt/NICHE/udacity_CarND-Capstone/ros/src/waypoint_updater/waypoint_updater.py,"Class 'WaypointUpdater' has a high LCOM value of 1, indicating it may have multiple responsibilities."

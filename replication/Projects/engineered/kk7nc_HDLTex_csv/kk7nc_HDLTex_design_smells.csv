@@ -1,2 +1,0 @@
-Package,Module,Smell,Class/Module,Line no,File,Details
-kk7nc_HDLTex.HDLTex,BuildModel,Multifaceted abstraction,BuildModel,1,/Volumes/BrokeExt/NICHE/kk7nc_HDLTex/HDLTex/BuildModel.py,"Class 'BuildModel' has a high LCOM value of 1, indicating it may have multiple responsibilities."

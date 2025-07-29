@@ -1,5 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-deepmind_sonnet,setup,,11,4,2,0,3,2,1,0,0
-deepmind_sonnet.docs,conf,,26,2,1,1,22,22,0,0,0
-deepmind_sonnet.docs.ext,link_tf_api,,42,7,3,3,9,8,0.33,0,0
-deepmind_sonnet.docs.ext,link_tf_api_test,,18,5,0,0,1,1,-1,0,0

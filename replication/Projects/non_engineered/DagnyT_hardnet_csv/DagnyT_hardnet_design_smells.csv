@@ -1,3 +1,0 @@
-Package,Module,Smell,Class/Module,Line no,File,Details
-DagnyT_hardnet.benchmarks,hpatches_extract_HardNet,Broken modularization,hpatches_sequence,30,/Volumes/BrokeExt/NICHE/DagnyT_hardnet/benchmarks/hpatches_extract_HardNet.py,Class 'hpatches_sequence' contains only data members without any method implementations.
-DagnyT_hardnet.code.dataloaders,TotalDataLoader,Broken modularization,TotalDatasetsLoader,9,/Volumes/BrokeExt/NICHE/DagnyT_hardnet/code/dataloaders/TotalDataLoader.py,Class 'TotalDatasetsLoader' contains only data members without any method implementations.

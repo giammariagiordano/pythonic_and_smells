@@ -1,6 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-mozilla_fathom.cli,setup,,0,0,0,0,0,0,-1,0,0
-mozilla_fathom.cli.fathom_web,__init__,,0,0,0,0,0,0,-1,0,0
-mozilla_fathom.cli.fathom_web,accuracy,,145,25,7,7,26,26,0.43,0,0
-mozilla_fathom.cli.fathom_web,utils,,74,22,9,9,2,2,0.67,0,0
-mozilla_fathom.cli.fathom_web,vectorizer,,413,63,23,23,33,33,0,1,1

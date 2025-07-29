@@ -1,8 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-SurrealAI_surreal,setup,,3,1,1,1,0,0,0,0,0
-SurrealAI_surreal.docker,build_image,,0,0,0,0,5,5,-1,0,0
-SurrealAI_surreal.docker.build_files,entrypoint-nvidia,,11,4,2,1,0,0,1,0,0
-SurrealAI_surreal.docker.build_files,entrypoint-ubuntu,,11,4,2,1,0,0,1,0,0
-SurrealAI_surreal.surreal,__init__,,0,0,0,0,0,0,-1,0,0
-SurrealAI_surreal.surreal.agent,__init__,,0,0,0,0,0,0,-1,0,0
-SurrealAI_surreal.surreal.agent,action_noise,,35,8,0,0,0,0,-1,1,0

@@ -1,4 +1,0 @@
-Package,Module,Smell,Class/Module,Line no,File,Details
-tensorflow_tcav.tcav,activation_generator,Rebellious hierarchy,ActivationGeneratorBase,41,/Volumes/BrokeExt/NICHE/tensorflow_tcav/tcav/activation_generator.py,Class 'ActivationGeneratorBase' potentially exhibits a rebellious hierarchy; following method(s) rejects the superclass methods: get_model.
-tensorflow_tcav.tcav,tcav_test,Multifaceted abstraction,TcavTest_model,25,/Volumes/BrokeExt/NICHE/tensorflow_tcav/tcav/tcav_test.py,"Class 'TcavTest_model' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-tensorflow_tcav.tcav,tcav_test,Rebellious hierarchy,TcavTest_ActGen,46,/Volumes/BrokeExt/NICHE/tensorflow_tcav/tcav/tcav_test.py,Class 'TcavTest_ActGen' potentially exhibits a rebellious hierarchy; following method(s) rejects the superclass methods: get_examples_for_concept.

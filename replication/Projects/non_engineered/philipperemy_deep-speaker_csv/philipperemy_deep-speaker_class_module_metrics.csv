@@ -1,7 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-philipperemy_deep-speaker,cli,,19,7,6,6,3,3,1,0,1
-philipperemy_deep-speaker,example,,0,0,0,0,9,9,-1,0,1
-philipperemy_deep-speaker,example_pcm,,0,0,0,0,8,8,-1,0,1
-philipperemy_deep-speaker,setup,,0,0,0,0,4,4,-1,0,0
-philipperemy_deep-speaker.deep_speaker,__init__,,0,0,0,0,0,0,-1,0,0
-philipperemy_deep-speaker.deep_speaker,audio,,83,18,5,5,2,2,0.4,3,0

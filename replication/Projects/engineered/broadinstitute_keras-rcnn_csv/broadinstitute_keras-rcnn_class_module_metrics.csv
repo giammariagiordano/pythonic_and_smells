@@ -1,9 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-broadinstitute_keras-rcnn,setup,,0,0,0,0,0,0,-1,0,0
-broadinstitute_keras-rcnn.docs.source,conf,,0,0,0,0,29,29,-1,0,0
-broadinstitute_keras-rcnn.examples.training,nan_and_inf,,2,1,1,1,0,0,0,0,0
-broadinstitute_keras-rcnn.examples.training,object_detection,,20,1,1,1,0,0,0,0,0
-broadinstitute_keras-rcnn.examples.visualization,bounding_boxes,,19,1,1,1,0,0,0,0,0
-broadinstitute_keras-rcnn.keras_rcnn,__init__,,0,0,0,0,0,0,-1,0,0
-broadinstitute_keras-rcnn.keras_rcnn.applications,__init__,,0,0,0,0,0,0,-1,0,0
-broadinstitute_keras-rcnn.keras_rcnn.applications,_hollandi2019,,12,2,0,0,0,0,-1,0,0

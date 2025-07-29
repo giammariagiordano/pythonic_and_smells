@@ -1,3 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-ria-com_nomeroff-net,setup,,8,2,1,1,7,6,0,0,0
-ria-com_nomeroff-net.data.dataset.Dataset,make_dataset_from_image_name,,555,97,12,12,76,75,0.58,2,3

@@ -1,7 +1,0 @@
-Package,Module,Smell,Class/Module,Line no,File,Details
-TAMU-VITA_DeblurGANv2,adversarial_trainer,Multifaceted abstraction,GANTrainer,27,/Volumes/BrokeExt/NICHE/TAMU-VITA_DeblurGANv2/adversarial_trainer.py,"Class 'GANTrainer' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-TAMU-VITA_DeblurGANv2,adversarial_trainer,Multifaceted abstraction,NoGAN,42,/Volumes/BrokeExt/NICHE/TAMU-VITA_DeblurGANv2/adversarial_trainer.py,"Class 'NoGAN' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-TAMU-VITA_DeblurGANv2.models,losses,Multifaceted abstraction,DiscLossLS,218,/Volumes/BrokeExt/NICHE/TAMU-VITA_DeblurGANv2/models/losses.py,"Class 'DiscLossLS' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-TAMU-VITA_DeblurGANv2.models,senet,Broken modularization,SEBottleneck,130,/Volumes/BrokeExt/NICHE/TAMU-VITA_DeblurGANv2/models/senet.py,Class 'SEBottleneck' contains only data members without any method implementations.
-TAMU-VITA_DeblurGANv2.models,senet,Broken modularization,SEResNetBottleneck,152,/Volumes/BrokeExt/NICHE/TAMU-VITA_DeblurGANv2/models/senet.py,Class 'SEResNetBottleneck' contains only data members without any method implementations.
-TAMU-VITA_DeblurGANv2.models,senet,Broken modularization,SEResNeXtBottleneck,177,/Volumes/BrokeExt/NICHE/TAMU-VITA_DeblurGANv2/models/senet.py,Class 'SEResNeXtBottleneck' contains only data members without any method implementations.

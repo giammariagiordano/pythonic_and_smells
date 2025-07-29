@@ -1,8 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-jessevig_bertviz,setup,,0,0,0,0,2,2,-1,0,0
-jessevig_bertviz.bertviz,__init__,,0,0,0,0,0,0,-1,0,0
-jessevig_bertviz.bertviz,head_view,,180,28,1,1,20,19,0,0,0
-jessevig_bertviz.bertviz,model_view,,191,30,1,1,22,21,0,0,0
-jessevig_bertviz.bertviz,neuron_view,,198,35,4,4,17,17,0,0,0
-jessevig_bertviz.bertviz,util,,20,8,4,4,2,2,1,0,0
-jessevig_bertviz.bertviz.tests,test_attention,,199,16,0,0,0,0,-1,0,1

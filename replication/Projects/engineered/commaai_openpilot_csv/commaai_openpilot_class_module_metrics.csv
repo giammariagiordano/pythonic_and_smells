@@ -1,4 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-commaai_openpilot,conftest,,61,16,8,8,7,7,0.62,0,0
-commaai_openpilot.cereal,__init__,,0,0,0,0,4,4,-1,0,0
-commaai_openpilot.cereal,services,,25,3,1,1,4,3,0,0,0

@@ -1,4 +1,0 @@
-Package,Module,Class,Function,LOC,CC,PC
-kleinee_jns.scripts,dnld_julia-1.1.0-arm32bit,,download_file_from_google_drive,9,2,2
-kleinee_jns.scripts,dnld_julia-1.1.0-arm32bit,,get_confirm_token,5,2,1
-kleinee_jns.scripts,dnld_julia-1.1.0-arm32bit,,save_response_content,6,3,2

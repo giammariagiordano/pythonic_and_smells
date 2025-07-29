@@ -1,4 +1,0 @@
-Package,Module,Smell,Class/Module,Line no,File,Details
-zeusees_HyperLPR.Prj-Python.hyperlpr3.command,serve,Multifaceted abstraction,serve,1,/Volumes/BrokeExt/NICHE/zeusees_HyperLPR/Prj-Python/hyperlpr3/command/serve.py,"Class 'serve' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-zeusees_HyperLPR.Prj-Python.hyperlpr3.inference,classification,Rebellious hierarchy,ClassificationORT,18,/Volumes/BrokeExt/NICHE/zeusees_HyperLPR/Prj-Python/hyperlpr3/inference/classification.py,Class 'ClassificationORT' potentially exhibits a rebellious hierarchy; following method(s) rejects the superclass methods: _postprocess.
-zeusees_HyperLPR.Prj-Python.hyperlpr3.inference.base,base,Wide hierarchy,HamburgerABC,0,/Volumes/BrokeExt/NICHE/zeusees_HyperLPR/Prj-Python/hyperlpr3/inference/base/base.py,Class 'HamburgerABC' has a wide hierarchy with 11 direct subclasses.

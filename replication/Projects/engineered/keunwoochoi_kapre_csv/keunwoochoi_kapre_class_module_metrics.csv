@@ -1,5 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-keunwoochoi_kapre,setup,,0,0,0,0,0,0,-1,0,0
-keunwoochoi_kapre.docs,conf,,2,1,1,1,16,16,0,0,0
-keunwoochoi_kapre.kapre,__init__,,0,0,0,0,2,1,-1,0,0
-keunwoochoi_kapre.kapre,augmentation,,146,23,0,0,1,0,-1,1,0

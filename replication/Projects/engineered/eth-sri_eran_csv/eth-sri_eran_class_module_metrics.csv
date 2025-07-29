@@ -1,5 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-eth-sri_eran.data,create_zonotope,,8,2,1,1,9,9,0,0,0
-eth-sri_eran.testing,check_models,,6,3,2,2,58,58,1,0,1
-eth-sri_eran.tf_verify,__main__,,235,71,15,15,281,281,0.8,0,4
-eth-sri_eran.tf_verify,ai_milp,,817,187,18,17,83,83,0.17,0,0

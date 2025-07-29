@@ -1,5 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-cpnota_autonomous-learning-library,setup,,0,0,0,0,5,5,-1,0,0
-cpnota_autonomous-learning-library.all,__init__,,0,0,0,0,1,0,-1,0,0
-cpnota_autonomous-learning-library.all.agents,__init__,,0,0,0,0,1,0,-1,0,0
-cpnota_autonomous-learning-library.all.agents,_agent,,5,1,0,0,0,0,-1,0,0

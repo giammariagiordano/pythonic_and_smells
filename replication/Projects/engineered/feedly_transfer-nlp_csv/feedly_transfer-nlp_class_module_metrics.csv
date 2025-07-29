@@ -1,4 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-feedly_transfer-nlp,setup,,0,0,0,0,0,0,-1,0,0
-feedly_transfer-nlp.data,download,,29,6,2,2,5,5,0,0,0
-feedly_transfer-nlp.data,feedly_data,,120,24,2,2,2,2,0,1,1

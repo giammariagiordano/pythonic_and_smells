@@ -1,3 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-Belval_TextRecognitionDataGenerator,setup,,0,0,0,0,2,2,-1,0,0
-Belval_TextRecognitionDataGenerator,tests,,1363,76,1,1,0,0,0,0,4

@@ -1,5 +1,0 @@
-Package,Module,Smell,Class/Module,Line no,File,Details
-lufficc_SSD.ssd.config,defaults,Broken modularization,defaults,1,/Volumes/BrokeExt/NICHE/lufficc_SSD/ssd/config/defaults.py,Module 'defaults' contains only data members without any method implementations.
-lufficc_SSD.ssd.modeling.backbone,mobilenetv3,Multifaceted abstraction,mobilenetv3,1,/Volumes/BrokeExt/NICHE/lufficc_SSD/ssd/modeling/backbone/mobilenetv3.py,"Class 'mobilenetv3' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-lufficc_SSD.ssd.modeling.backbone,vgg,Multifaceted abstraction,vgg,1,/Volumes/BrokeExt/NICHE/lufficc_SSD/ssd/modeling/backbone/vgg.py,"Class 'vgg' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-lufficc_SSD.ssd.modeling.backbone.efficient_net,utils,Multifaceted abstraction,BlockDecoder,116,/Volumes/BrokeExt/NICHE/lufficc_SSD/ssd/modeling/backbone/efficient_net/utils.py,"Class 'BlockDecoder' has a high LCOM value of 1, indicating it may have multiple responsibilities."

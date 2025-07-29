@@ -1,6 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-arogozhnikov_hep_ml,setup,,0,0,0,0,1,1,-1,0,0
-arogozhnikov_hep_ml.docsrc,conf,,0,0,0,0,22,22,-1,0,0
-arogozhnikov_hep_ml.hep_ml,__init__,,0,0,0,0,1,0,-1,0,0
-arogozhnikov_hep_ml.hep_ml,commonutils,,179,37,18,17,13,12,0.67,0,0
-arogozhnikov_hep_ml.hep_ml,gradientboosting,,144,21,0,0,2,0,-1,1,1

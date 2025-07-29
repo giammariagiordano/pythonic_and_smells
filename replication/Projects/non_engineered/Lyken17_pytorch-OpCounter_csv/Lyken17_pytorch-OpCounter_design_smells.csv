@@ -1,6 +1,0 @@
-Package,Module,Smell,Class/Module,Line no,File,Details
-Lyken17_pytorch-OpCounter.tests,test_conv2d,Multifaceted abstraction,TestUtils,8,/Volumes/BrokeExt/NICHE/Lyken17_pytorch-OpCounter/tests/test_conv2d.py,"Class 'TestUtils' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-Lyken17_pytorch-OpCounter.thop.vision,basic_hooks,Multifaceted abstraction,basic_hooks,1,/Volumes/BrokeExt/NICHE/Lyken17_pytorch-OpCounter/thop/vision/basic_hooks.py,"Class 'basic_hooks' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-Lyken17_pytorch-OpCounter.thop.vision,calc_func,Multifaceted abstraction,calc_func,1,/Volumes/BrokeExt/NICHE/Lyken17_pytorch-OpCounter/thop/vision/calc_func.py,"Class 'calc_func' has a high LCOM value of 0.89, indicating it may have multiple responsibilities."
-Lyken17_pytorch-OpCounter.thop.vision,onnx_counter,Insufficient modularization,onnx_counter,1,/Volumes/BrokeExt/NICHE/Lyken17_pytorch-OpCounter/thop/vision/onnx_counter.py,"Module 'onnx_counter' is insufficiently modularized with NOPM: 22, WMC: 56, NOM: 22."
-Lyken17_pytorch-OpCounter.thop.vision,onnx_counter,Multifaceted abstraction,onnx_counter,1,/Volumes/BrokeExt/NICHE/Lyken17_pytorch-OpCounter/thop/vision/onnx_counter.py,"Class 'onnx_counter' has a high LCOM value of 1, indicating it may have multiple responsibilities."

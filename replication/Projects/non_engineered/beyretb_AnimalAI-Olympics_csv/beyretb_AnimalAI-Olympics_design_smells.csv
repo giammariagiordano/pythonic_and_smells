@@ -1,3 +1,0 @@
-Package,Module,Smell,Class/Module,Line no,File,Details
-beyretb_AnimalAI-Olympics.animalai.animalai.envs.tests,test_arena_config,Multifaceted abstraction,test_arena_config,1,/Volumes/BrokeExt/NICHE/beyretb_AnimalAI-Olympics/animalai/animalai/envs/tests/test_arena_config.py,"Class 'test_arena_config' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-beyretb_AnimalAI-Olympics.animalai.animalai.envs.tests,test_envs_aai,Multifaceted abstraction,test_envs_aai,1,/Volumes/BrokeExt/NICHE/beyretb_AnimalAI-Olympics/animalai/animalai/envs/tests/test_envs_aai.py,"Class 'test_envs_aai' has a high LCOM value of 1, indicating it may have multiple responsibilities."

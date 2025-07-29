@@ -1,2 +1,0 @@
-Package,Module,Smell,Class/Module,Line no,File,Details
-AaronWard_covidify.src.covidify,config,Broken modularization,config,1,/Volumes/BrokeExt/NICHE/AaronWard_covidify/src/covidify/config.py,Module 'config' contains only data members without any method implementations.

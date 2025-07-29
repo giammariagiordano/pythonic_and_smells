@@ -1,7 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-BloodAxe_pytorch-toolbelt,setup,,58,11,7,7,11,11,0.43,0,0
-BloodAxe_pytorch-toolbelt.demo,demo_losses,,39,3,1,1,4,4,0,0,0
-BloodAxe_pytorch-toolbelt.pytorch_toolbelt,__init__,,0,0,0,0,1,0,-1,0,0
-BloodAxe_pytorch-toolbelt.pytorch_toolbelt.datasets,__init__,,0,0,0,0,0,0,-1,0,0
-BloodAxe_pytorch-toolbelt.pytorch_toolbelt.datasets,common,,9,3,2,2,23,22,1,0,0
-BloodAxe_pytorch-toolbelt.pytorch_toolbelt.datasets,mean_std,,57,8,0,0,1,0,-1,0,0

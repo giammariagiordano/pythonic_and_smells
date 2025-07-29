@@ -1,4 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-chuyangliu_snake,run,,31,1,1,1,0,0,0,0,1
-chuyangliu_snake.snake,__init__,,0,0,0,0,0,0,-1,0,0
-chuyangliu_snake.snake,game,,247,53,0,0,0,0,-1,2,4

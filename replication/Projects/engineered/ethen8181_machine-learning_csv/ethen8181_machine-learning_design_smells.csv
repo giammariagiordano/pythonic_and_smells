@@ -1,4 +1,0 @@
-Package,Module,Smell,Class/Module,Line no,File,Details
-ethen8181_machine-learning.deep_learning.seq2seq.translation_mt5,seq2seq_eval,Multifaceted abstraction,seq2seq_eval,1,/Volumes/BrokeExt/NICHE/ethen8181_machine-learning/deep_learning/seq2seq/translation_mt5/seq2seq_eval.py,"Class 'seq2seq_eval' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-ethen8181_machine-learning.model_deployment.fastapi_kubernetes.app,main,Multifaceted abstraction,main,1,/Volumes/BrokeExt/NICHE/ethen8181_machine-learning/model_deployment/fastapi_kubernetes/app/main.py,"Class 'main' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-ethen8181_machine-learning.python,test,Multifaceted abstraction,test,1,/Volumes/BrokeExt/NICHE/ethen8181_machine-learning/python/test.py,"Class 'test' has a high LCOM value of 1, indicating it may have multiple responsibilities."

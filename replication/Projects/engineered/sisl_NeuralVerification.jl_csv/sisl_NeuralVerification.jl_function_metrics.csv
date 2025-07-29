@@ -1,6 +1,0 @@
-Package,Module,Class,Function,LOC,CC,PC
-sisl_NeuralVerification.jl.test.networks,cartpole_out,,train_cartpole_nnet,25,1,0
-sisl_NeuralVerification.jl.test.networks,cartpole_out,,weights_to_txt,9,3,2
-sisl_NeuralVerification.jl.test.networks,cartpole_out,,bias_to_txt,3,2,2
-sisl_NeuralVerification.jl.test.networks,cartpole_out,,cartpole_nnet_to_txt,12,4,0
-sisl_NeuralVerification.jl.test.networks,cartpole_out,,main,2,1,0

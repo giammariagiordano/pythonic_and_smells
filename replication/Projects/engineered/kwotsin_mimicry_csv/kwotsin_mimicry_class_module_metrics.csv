@@ -1,4 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-kwotsin_mimicry,setup,,0,0,0,0,6,5,-1,0,0
-kwotsin_mimicry.docs.source,conf,,11,1,1,1,18,18,0,0,0
-kwotsin_mimicry.examples,eval_pretrained,,9,3,0,0,7,7,-1,1,1

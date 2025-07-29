@@ -1,2 +1,0 @@
-Package,Module,Smell,Class/Module,Line no,File,Details
-snipsco_tract.api.py.tract,__init__,Multifaceted abstraction,__init__,1,/Volumes/BrokeExt/NICHE/snipsco_tract/api/py/tract/__init__.py,"Class '__init__' has a high LCOM value of 1, indicating it may have multiple responsibilities."

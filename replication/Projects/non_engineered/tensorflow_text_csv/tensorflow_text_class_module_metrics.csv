@@ -1,3 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-tensorflow_text.oss_scripts,build_docs,,31,8,3,2,4,4,0,0,0
-tensorflow_text.oss_scripts.pip_package,setup.nightly,,11,3,0,0,3,3,-1,0,0

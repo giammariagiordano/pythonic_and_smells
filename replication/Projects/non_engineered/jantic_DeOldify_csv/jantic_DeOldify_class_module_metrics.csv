@@ -1,4 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-jantic_DeOldify,setup,,5,2,2,2,0,0,1,0,0
-jantic_DeOldify.deoldify,__init__,,0,0,0,0,1,1,-1,0,1
-jantic_DeOldify.deoldify,_device,,21,5,0,0,0,0,-1,1,0

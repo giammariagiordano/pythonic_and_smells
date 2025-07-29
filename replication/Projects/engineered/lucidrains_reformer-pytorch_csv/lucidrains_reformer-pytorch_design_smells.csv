@@ -1,3 +1,0 @@
-Package,Module,Smell,Class/Module,Line no,File,Details
-lucidrains_reformer-pytorch.examples.enwik8_deepspeed,train,Multifaceted abstraction,train,1,/Volumes/BrokeExt/NICHE/lucidrains_reformer-pytorch/examples/enwik8_deepspeed/train.py,"Class 'train' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-lucidrains_reformer-pytorch.examples.enwik8_simple,train,Multifaceted abstraction,train,1,/Volumes/BrokeExt/NICHE/lucidrains_reformer-pytorch/examples/enwik8_simple/train.py,"Class 'train' has a high LCOM value of 1, indicating it may have multiple responsibilities."

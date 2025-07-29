@@ -1,4 +1,0 @@
-Package,Module,Smell,Class/Module,Line no,File,Details
-Tianxiaomo_pytorch-YOLOv4,demo,Multifaceted abstraction,demo,1,/Volumes/BrokeExt/NICHE/Tianxiaomo_pytorch-YOLOv4/demo.py,"Class 'demo' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-Tianxiaomo_pytorch-YOLOv4.tool,config,Multifaceted abstraction,config,1,/Volumes/BrokeExt/NICHE/Tianxiaomo_pytorch-YOLOv4/tool/config.py,"Class 'config' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-Tianxiaomo_pytorch-YOLOv4.tool,torch_utils,Multifaceted abstraction,torch_utils,1,/Volumes/BrokeExt/NICHE/Tianxiaomo_pytorch-YOLOv4/tool/torch_utils.py,"Class 'torch_utils' has a high LCOM value of 1, indicating it may have multiple responsibilities."

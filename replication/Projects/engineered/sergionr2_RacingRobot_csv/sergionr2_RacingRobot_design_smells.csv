@@ -1,6 +1,0 @@
-Package,Module,Smell,Class/Module,Line no,File,Details
-sergionr2_RacingRobot.ros_nodes,serial_adapter,Multifaceted abstraction,serial_adapter,1,/Volumes/BrokeExt/NICHE/sergionr2_RacingRobot/ros_nodes/serial_adapter.py,"Class 'serial_adapter' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-sergionr2_RacingRobot.tests,test_image_processing,Multifaceted abstraction,test_image_processing,1,/Volumes/BrokeExt/NICHE/sergionr2_RacingRobot/tests/test_image_processing.py,"Class 'test_image_processing' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-sergionr2_RacingRobot.tests,test_path_planning,Multifaceted abstraction,test_path_planning,1,/Volumes/BrokeExt/NICHE/sergionr2_RacingRobot/tests/test_path_planning.py,"Class 'test_path_planning' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-sergionr2_RacingRobot.tests,test_training,Multifaceted abstraction,test_training,1,/Volumes/BrokeExt/NICHE/sergionr2_RacingRobot/tests/test_training.py,"Class 'test_training' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-sergionr2_RacingRobot.tests,test_utils,Multifaceted abstraction,test_utils,1,/Volumes/BrokeExt/NICHE/sergionr2_RacingRobot/tests/test_utils.py,"Class 'test_utils' has a high LCOM value of 1, indicating it may have multiple responsibilities."

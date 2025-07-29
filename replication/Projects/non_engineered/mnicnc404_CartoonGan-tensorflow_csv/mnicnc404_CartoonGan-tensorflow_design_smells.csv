@@ -1,2 +1,0 @@
-Package,Module,Smell,Class/Module,Line no,File,Details
-mnicnc404_CartoonGan-tensorflow,layers,Multifaceted abstraction,layers,1,/Volumes/BrokeExt/NICHE/mnicnc404_CartoonGan-tensorflow/layers.py,"Class 'layers' has a high LCOM value of 1, indicating it may have multiple responsibilities."

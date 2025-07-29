@@ -1,3 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-Tianxiaomo_pytorch-YOLOv4,cfg,,0,0,0,0,42,41,-1,0,0
-Tianxiaomo_pytorch-YOLOv4,dataset,,385,63,10,10,38,38,0.6,2,1

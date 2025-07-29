@@ -1,7 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-Ciphey_Ciphey,noxfile,,27,6,5,5,3,3,0.4,0,0
-Ciphey_Ciphey.ciphey,__init__,,0,0,0,0,0,0,-1,0,0
-Ciphey_Ciphey.ciphey,__main__,,0,0,0,0,3,3,-1,0,0
-Ciphey_Ciphey.ciphey,ciphey,,110,25,4,4,12,12,0.25,0,0
-Ciphey_Ciphey.ciphey,common,,17,2,2,2,0,0,1,0,0
-Ciphey_Ciphey.ciphey,mathsHelper,,105,16,0,0,0,0,-1,0,0

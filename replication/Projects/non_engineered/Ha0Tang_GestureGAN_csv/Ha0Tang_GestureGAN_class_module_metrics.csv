@@ -1,4 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-Ha0Tang_GestureGAN,test,,0,0,0,0,13,13,-1,0,0
-Ha0Tang_GestureGAN,train,,0,0,0,0,15,15,-1,0,1
-Ha0Tang_GestureGAN.data,__init__,,48,15,4,4,1,1,0.25,1,1

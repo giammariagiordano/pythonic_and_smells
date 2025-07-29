@@ -1,4 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-hanxiao_bert-as-service.client,setup,,0,0,0,0,5,4,-1,0,0
-hanxiao_bert-as-service.client.clip_client,__init__,,0,0,0,0,1,0,-1,0,0
-hanxiao_bert-as-service.client.clip_client,client,,530,95,0,0,0,0,-1,9,1

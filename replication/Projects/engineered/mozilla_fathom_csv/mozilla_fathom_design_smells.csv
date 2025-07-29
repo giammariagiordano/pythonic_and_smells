@@ -1,4 +1,0 @@
-Package,Module,Smell,Class/Module,Line no,File,Details
-mozilla_fathom.cli.fathom_web,vectorizer,Insufficient modularization,vectorizer,1,/Volumes/BrokeExt/NICHE/mozilla_fathom/cli/fathom_web/vectorizer.py,"Module 'vectorizer' is insufficiently modularized with NOPM: 23, WMC: 63, NOM: 23."
-mozilla_fathom.cli.fathom_web.test,test_label,Multifaceted abstraction,test_label,1,/Volumes/BrokeExt/NICHE/mozilla_fathom/cli/fathom_web/test/test_label.py,"Class 'test_label' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-mozilla_fathom.docs,conf,Broken modularization,conf,1,/Volumes/BrokeExt/NICHE/mozilla_fathom/docs/conf.py,Module 'conf' contains only data members without any method implementations.

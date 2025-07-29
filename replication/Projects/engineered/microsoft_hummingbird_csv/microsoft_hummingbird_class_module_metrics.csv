@@ -1,4 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-microsoft_hummingbird,setup,,0,0,0,0,10,10,-1,0,0
-microsoft_hummingbird.benchmarks,__init__,,0,0,0,0,0,0,-1,0,0
-microsoft_hummingbird.benchmarks,datasets,,253,35,10,8,27,27,0.7,1,1

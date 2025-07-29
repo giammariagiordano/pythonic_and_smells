@@ -1,5 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-eleurent_rl-agents,__init__,,0,0,0,0,0,0,-1,0,0
-eleurent_rl-agents,setup,,0,0,0,0,0,0,-1,0,0
-eleurent_rl-agents.rl_agents,__init__,,0,0,0,0,0,0,-1,0,0
-eleurent_rl-agents.rl_agents,configuration,,63,19,1,1,4,3,0,0,0

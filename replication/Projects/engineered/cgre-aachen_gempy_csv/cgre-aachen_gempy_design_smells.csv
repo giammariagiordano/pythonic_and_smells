@@ -1,4 +1,0 @@
-Package,Module,Smell,Class/Module,Line no,File,Details
-cgre-aachen_gempy.gempy.core.data,grid,Insufficient modularization,Grid,16,/Volumes/BrokeExt/NICHE/cgre-aachen_gempy/gempy/core/data/grid.py,"Class 'Grid' is insufficiently modularized with NOPM: 28, WMC: 53, NOM: 31."
-cgre-aachen_gempy.test.test_modules,test_transformed_space,Multifaceted abstraction,test_transformed_space,1,/Volumes/BrokeExt/NICHE/cgre-aachen_gempy/test/test_modules/test_transformed_space.py,"Class 'test_transformed_space' has a high LCOM value of 1, indicating it may have multiple responsibilities."
-cgre-aachen_gempy.test.test_modules.test_grids,test_diamond_square,Multifaceted abstraction,test_diamond_square,1,/Volumes/BrokeExt/NICHE/cgre-aachen_gempy/test/test_modules/test_grids/test_diamond_square.py,"Class 'test_diamond_square' has a high LCOM value of 1, indicating it may have multiple responsibilities."

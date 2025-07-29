@@ -1,7 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-batra-mlp-lab_visdial-challenge-starter-pytorch,evaluate,,0,0,0,0,21,21,-1,0,2
-batra-mlp-lab_visdial-challenge-starter-pytorch,setup,,0,0,0,0,0,0,-1,0,0
-batra-mlp-lab_visdial-challenge-starter-pytorch,train,,9,1,1,1,35,35,0,0,3
-batra-mlp-lab_visdial-challenge-starter-pytorch.data,extract_features_detectron,,89,7,3,3,17,17,0,0,0
-batra-mlp-lab_visdial-challenge-starter-pytorch.visdialch,__init__,,0,0,0,0,0,0,-1,0,0
-batra-mlp-lab_visdial-challenge-starter-pytorch.visdialch,metrics,,103,17,1,1,1,1,0,2,0

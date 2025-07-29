@@ -1,3 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-google_automl.efficientdet,__init__,,0,0,0,0,0,0,-1,0,0
-google_automl.efficientdet,coco_metric,,209,27,2,2,1,1,1,0,0

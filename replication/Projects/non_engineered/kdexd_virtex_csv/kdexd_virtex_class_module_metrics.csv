@@ -1,9 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-kdexd_virtex,hubconf,,11,2,1,1,2,2,0,0,0
-kdexd_virtex,setup,,22,6,1,1,0,0,0,0,0
-kdexd_virtex.docs,conf,,32,5,1,1,22,22,0,0,0
-kdexd_virtex.scripts,build_vocabulary,,8,2,1,0,6,5,0,0,0
-kdexd_virtex.scripts,clf_linear,,166,17,1,1,15,13,0,0,4
-kdexd_virtex.scripts,clf_voc07,,121,12,2,2,11,10,1,0,1
-kdexd_virtex.scripts,eval_captioning,,51,8,1,1,8,7,0,0,1
-kdexd_virtex.scripts,eval_detectron2,,96,19,2,2,4,3,0,1,2

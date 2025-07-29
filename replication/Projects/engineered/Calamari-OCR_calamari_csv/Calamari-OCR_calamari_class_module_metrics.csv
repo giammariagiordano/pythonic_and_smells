@@ -1,4 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-Calamari-OCR_calamari.calamari_ocr,__init__,,0,0,0,0,0,0,-1,0,0
-Calamari-OCR_calamari.calamari_ocr.ocr,__init__,,0,0,0,0,0,0,-1,0,0
-Calamari-OCR_calamari.calamari_ocr.ocr,evaluator,,166,24,0,0,2,2,-1,2,0

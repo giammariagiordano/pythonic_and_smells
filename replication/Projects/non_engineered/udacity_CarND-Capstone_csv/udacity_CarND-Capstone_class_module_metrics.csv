@@ -1,3 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-udacity_CarND-Capstone.ros.src.camera_info_publisher,yaml_to_camera_info_publisher,,13,1,1,1,4,4,0,0,0
-udacity_CarND-Capstone.ros.src.styx,bridge,,156,24,0,0,2,2,-1,1,0

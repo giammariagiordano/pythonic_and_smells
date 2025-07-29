@@ -1,5 +1,0 @@
-Package,Module,Class,LOC,WMC,NOM,NOPM,NOF,NOPF,LCOM,Fan-in,Fan-out
-mdeff_fma,creation,,157,29,7,6,13,13,0.43,0,0
-mdeff_fma,features,,105,12,5,5,17,17,0,0,0
-mdeff_fma,setup,,0,0,0,0,0,0,-1,0,0
-mdeff_fma,utils,,296,47,3,3,9,9,0,0,0
